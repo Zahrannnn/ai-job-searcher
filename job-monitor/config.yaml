@@ -1,0 +1,118 @@
+# Job Monitor Configuration
+# Customise filters, scoring, and storage. No code changes needed.
+
+# Pre-filter rules (fast, before scoring)
+filters:
+  # Must contain at least ONE of these (case-insensitive)
+  required_keywords:
+    - react
+    - next.js
+    - nextjs
+    - typescript
+    - frontend
+    - front-end
+    - "front end"
+    - javascript
+
+  # Hard reject if item matches any of these
+  blocked_keywords:
+    - ios native
+    - swift
+    - kotlin
+    - "android developer"
+    - "android native"
+    - "angular developer"   # pure Angular only
+    - ".net developer"
+    - "c# developer"
+    - "php developer"
+    - "laravel developer"
+    - "ruby on rails"
+    - wordpress
+    - shopify
+    - "machine learning"
+    - "data scientist"
+    - "data engineer"
+    - "devops engineer"
+    - "qa engineer"
+    - "test automation"
+    - "sdet"
+    - "backend engineer"
+    - "backend developer"
+
+  # Must be in or accept one of these locations
+  # "worldwide" / "anywhere" treated as remote OK
+  location_keywords:
+    - cairo
+    - egypt
+    - mena
+    - riyadh
+    - saudi
+    - "united arab"
+    - dubai
+    - qatar
+    - doha
+    - jordan
+    - amman
+    - remote
+    - "anywhere in the world"
+    - "worldwide"
+
+  # Max age in days
+  max_age_days: 7
+
+  # Min score to keep an item (0-100)
+  min_score: 30
+
+  # Min score to trigger a GitHub Issue alert
+  alert_threshold: 70
+
+# Source enable/disable
+sources:
+  wuzzuf: true          # Egypt/MENA (HTML) — primary
+  bayt: false           # Egypt/MENA (HTML) — Cloudflare 403s from CI, disabled
+  remotive: true        # Remote global (JSON API) — best signal
+  jobicy: false         # Remote global (JSON API) — only UK/EU sales roles, low value
+  arbeitnow: true       # Europe/Remote (JSON API) — mostly German on-site, low hit rate
+  vuejobs: true         # Vue.js heavy, some React cross-over
+
+# Storage
+storage:
+  type: "json"
+  data_path: "data/jobs.json"
+  history_path: "data/jobs_history.json"   # append-only archive
+
+# Scoring weights (tune to taste; all values are 0-100)
+scoring:
+  # Positive signals
+  stack_match_react: 25
+  stack_match_nextjs: 15
+  stack_match_typescript: 10
+  location_cairo_remote: 20
+  posted_within_3_days: 15
+  posted_4_to_7_days: 10
+  ai_or_ml_mentioned: 10
+  experience_3_to_5yr: 10
+  founding_or_early_role: 10
+  english_friendly_company: 5
+  senior_ic_level: 5
+  salary_disclosed_competitive: 5
+
+  # Negative signals
+  blocked_in_title: -50
+  vuejs_only: -20
+  angular_only: -30
+  php_only: -25
+  net_only: -25
+  ios_or_android_only: -40
+  internship_role: -30
+  five_plus_years_required: -10
+  us_only: -15
+  eu_only: -10
+  senior_management_level: -15
+
+# Cron
+schedule:
+  # Cron expression in UTC
+  # "0 6 * * *" = 6am UTC daily = 8am Cairo
+  cron: "0 6 * * *"
+  timezone: "UTC"

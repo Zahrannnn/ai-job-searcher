@@ -1,0 +1,102 @@
+{
+  "last_updated": "2026-06-10T13:26:57.272657+00:00",
+  "total_unique": 3,
+  "items": [
+    {
+      "id": "wuzzuf-141178",
+      "name": "Technical Lead – Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Ayvo-Saudi-Arabia-141178",
+      "source": "Wuzzuf",
+      "location": "Makkah, Saudi Arabia",
+      "workplace": "Remote",
+      "experience_years": "3-5 yrs",
+      "skills": [
+        "· Computer Science",
+        "React",
+        "· Next.js",
+        "· Node.js",
+        "· Express.js",
+        "· AWS Cloud",
+        "· RESTful APIs",
+        "· Docker",
+        "· HTML"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 5,
+      "date_found": "2026-06-10",
+      "raw_date_text": "5 days ago",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 10,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-144523",
+      "name": "Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/actumcx-turkey-144523",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Part Time",
+      "experience_years": "0-10 yrs",
+      "skills": [
+        "· Software Development",
+        "· JavaScript",
+        "· Computer Science",
+        "· Information Technology (IT)"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 6,
+      "date_found": "2026-06-10",
+      "raw_date_text": "6 days ago",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-144707",
+      "name": "Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/thobify-saudi-arabia-144707",
+      "source": "Wuzzuf",
+      "location": "Riyadh, Saudi Arabia",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "· Computer Science",
+        "· Information Technology (IT)",
+        "· Software Development",
+        "· JavaScript",
+        "· UI/UX",
+        "· SW Development",
+        "· Program Development",
+        "· Graphic Design"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 3,
+      "date_found": "2026-06-10",
+      "raw_date_text": "3 days ago",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+# Ignore local run artifacts
+__pycache__/
+*.pyc
+data/new_count.txt
+.venv/
+.env
+*.log

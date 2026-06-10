@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Mohamed Zahran
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. I act as a career advisor and application assistant for Mohamed, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,65 +13,80 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Mohamed Osama Zahran
+- **Location:** Cairo, Egypt
+- **Languages:** Arabic (native), English (fluent)
+- **Status:** Employed (Frontend Engineer at RICOH Europe)
+- **LinkedIn headline:** "Frontend Engineer | React, Next.js, TypeScript"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Bachelor of Science in Computer Science** (2022-2026) - Shorouk Academy, Shorouk City
+  - GPA: 3.8
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Front-End Developer** (Nov 2025 - Present) - **RICOH Europe** (Maadi, Cairo)
+  - Develop and maintain web application features for cross-regional operations, contributing to process efficiency and European compliance standards
+  - Deliver multiple production frontend projects (tailgating detection, 3D building viewer, invoice management, NLP tooling) under the CORELIA umbrella
+  - Collaborate daily with multicultural, cross-functional teams in a corporate European environment
+
+- **Front-End Developer** (Feb 2025 - Nov 2025) - **NedSwiss** (Remote, Switzerland)
+  - Develop and maintain web application features for cross-regional operations
+  - Collaborate daily with multicultural, cross-functional teams in a corporate European environment
+
+- **Frontend Leader** (Aug 2023 - Jun 2025) - **GDSC – Shorouk Academy** (Shorouk City)
+  - Led the frontend track for Google Developer Student Club, running workshops and hands-on project sessions for 50+ students
+  - Mentored developers in React, Next.js, TypeScript, and modern UI architecture patterns
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** React, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, Zustand, TanStack Query
+- **Secondary:** Python, FastAPI, Three.js / React Three Fiber, Prisma ORM, PostgreSQL, Docker
+- **Domain:** Enterprise web applications, CRM systems, real-time dashboards, 3D visualization, NLP tooling, e-learning platforms
+- **Software:** Git, Vite, Turbopack, Supabase, Stripe, Paymob, SignalR, HuggingFace, Label Studio, Figma
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- Currently building practical experience through real-world projects, freelance work, and leadership roles.
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- Contributor and maintainer of Turjuman, an open-source AI-powered document translation platform.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- **Finalist / Winner** - WE Innovative Hackathon (2026) - CyrusLearn Interactive Learning Platform
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Proactive and self-driven learner** - Strong problem-solving mindset
+- **Detail-oriented** - Maintaining focus on the bigger picture
+- **Collaborative team player** - Leadership experience in team settings
+- **Adaptable** - Thrives with new technologies and fast-changing environments
+- **Strengths:** Frontend development with React/Next.js, UI/UX awareness, performance optimization & SEO, team leadership & mentoring, rapid prototyping, AI integration into web apps
+- **Growth areas:** Advanced software architecture & system design, security best practices, backend scalability & distributed systems, engineering management & stakeholder communication
+- **Thrives in:** Collaborative/innovative team culture, product-focused environments where UX matters, teams encouraging ownership and initiative, fast-paced startups or tech-driven companies
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building products that solve real business problems
+- Creating intuitive and high-performance user experiences
+- Integrating AI capabilities into applications
+- Working on SaaS platforms and scalable systems
+- Leading projects from idea to production
+- Learning emerging technologies and applying them practically
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- **Software Development & SaaS:** Modern web applications, CRM platforms
+- **Artificial Intelligence & Automation:** AI-integrated tools and dashboards
+- **CRM and Business Management Platforms:** Enterprise workflow solutions
+- **E-commerce:** Online retail and payment systems
+- **EdTech:** Interactive learning platforms
+- **FinTech:** Payment gateways and financial tools
+- **Technology Startups:** Early-stage product development
+- **Digital Transformation Solutions:** Enterprise modernization
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles with little or no learning opportunities
+- Toxic or non-collaborative work environments
+- Positions with no growth or career progression path
+- Teams resistant to modern development practices
+- Roles focused solely on maintenance with minimal product impact
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
