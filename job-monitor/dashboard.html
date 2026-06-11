@@ -314,7 +314,7 @@
 
     .job {
       display: grid;
-      grid-template-columns: minmax(0, 1fr) 110px 130px;
+      grid-template-columns: minmax(0, 1fr) 90px 170px;
       grid-template-areas:
         "title    score   apply"
         "meta     score   apply"
@@ -538,6 +538,138 @@
       to   { opacity: 1; transform: translateY(0); }
     }
     .job { animation: fadeIn 0.18s ease-out both; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%      { opacity: 0.55; }
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Action layer (Scrape + Tailor)                                    */
+    /* ------------------------------------------------------------------ */
+    .scrape-bar {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 16px 20px;
+      background: var(--paper-soft);
+      border: 1px solid var(--rule);
+      margin-bottom: 24px;
+    }
+    .scrape-bar .scrape-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--ink-mute);
+    }
+    .scrape-bar .scrape-status {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--ink-2);
+      flex: 1;
+    }
+    .scrape-bar .scrape-status .running { color: var(--accent); animation: pulse 1.4s ease-in-out infinite; }
+    .scrape-bar .scrape-status .done    { color: var(--positive); }
+    .scrape-bar .scrape-status .error   { color: var(--accent-deep); }
+    .scrape-bar button.primary {
+      padding: 9px 18px;
+      background: var(--ink);
+      color: var(--paper);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    .scrape-bar button.primary:hover  { background: var(--accent); }
+    .scrape-bar button.primary:disabled {
+      background: var(--ink-mute);
+      cursor: not-allowed;
+    }
+
+    /* job action stack (replaces the simple "apply" cell) */
+    .job .actions {
+      grid-area: apply;
+      align-self: start;
+      padding-top: 4px;
+      text-align: right;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 6px;
+      min-width: 160px;
+    }
+    .job .actions .tailor-state {
+      font-family: var(--mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--ink-mute);
+      padding: 3px 6px;
+      border: 1px solid var(--rule);
+      background: var(--paper);
+      text-align: center;
+    }
+    .job .actions .tailor-state.ready   { color: var(--positive); border-color: var(--positive); background: var(--positive-soft); }
+    .job .actions .tailor-state.running { color: var(--accent); border-color: var(--accent); animation: pulse 1.4s ease-in-out infinite; }
+    .job .actions .tailor-state.error   { color: var(--accent-deep); border-color: var(--accent-deep); }
+    .job .actions .tailor-state.applied { color: var(--ink-mute); border-color: var(--ink-mute); }
+
+    .job .actions button.tailor {
+      padding: 7px 10px;
+      background: var(--ink);
+      color: var(--paper);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .job .actions button.tailor:hover { background: var(--accent); }
+    .job .actions button.tailor:disabled {
+      background: var(--ink-mute);
+      cursor: not-allowed;
+    }
+
+    .job .actions .downloads {
+      display: flex;
+      gap: 4px;
+      font-size: 10px;
+      font-family: var(--mono);
+    }
+    .job .actions .downloads a {
+      flex: 1;
+      padding: 4px 4px;
+      background: var(--paper-soft);
+      color: var(--ink-2);
+      text-decoration: none;
+      border: 1px solid var(--rule);
+      text-align: center;
+    }
+    .job .actions .downloads a:hover { background: var(--accent-soft); color: var(--accent-deep); border-color: var(--accent); }
+
+    .job .actions .apply-link {
+      display: block;
+      padding: 9px 12px;
+      background: var(--accent);
+      color: var(--paper);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      text-align: center;
+    }
+    .job .actions .apply-link:hover { background: var(--accent-deep); text-decoration: none; }
+    .job .actions .apply-link::after { content: " ↗"; }
+
+    .job .actions .mark {
+      font-size: 10px;
+      color: var(--ink-mute);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0;
+      text-align: center;
+    }
+    .job .actions .mark:hover { color: var(--accent); }
+
+    .job[data-tailor="ready"] { background: var(--positive-soft); }
   </style>
 </head>
 <body>
@@ -550,6 +682,12 @@
         <div id="m-run">Last run: —</div>
       </div>
     </header>
+
+    <div class="scrape-bar" id="scrape-bar">
+      <span class="scrape-label">Pipeline</span>
+      <span class="scrape-status" id="scrape-status">Ready</span>
+      <button class="primary" id="btn-scrape">Scrape now</button>
+    </div>
 
     <p class="lede" id="lede">
       A filtered reading of every frontend role the monitor caught in the
@@ -646,6 +784,8 @@
       data: null,
       history: null,
       applied: loadApplied(),
+      tailorStatus: {},   // job_id -> { status, message, cv_pdf, cover_pdf, ... }
+      scrapeStatus: { status: "idle" },
       filters: {
         q: "",
         sources: new Set(),  // empty = all
@@ -669,22 +809,163 @@
     /* ---------------------------------------------------------------- */
     async function load() {
       try {
-        const [jobs, hist] = await Promise.all([
+        const [jobs, hist, api] = await Promise.all([
           fetch("data/jobs.json").then((r) => r.json()),
           fetch("data/jobs_history.json").then((r) => r.json()),
+          fetch("/api/status").then((r) => r.json()).catch(() => ({ scrape: { status: "idle" }, tailor: {} })),
         ]);
         state.data = jobs;
         state.history = hist;
+        state.scrapeStatus = api.scrape || { status: "idle" };
+        state.tailorStatus = api.tailor || {};
         render();
+        startStatusPolling();
+        wireActions();
       } catch (e) {
         document.getElementById("jobs").innerHTML = `
           <div class="empty-state">
             <h2>No data yet</h2>
             <p>The monitor hasn't produced a run file, or this page isn't being served from the right folder. From the <code>job-monitor/</code> directory, run:</p>
-            <code>python -m scraper.main</code>
-            <p style="margin-top: 24px;">Or serve this file with <code>python -m http.server</code> so the data fetch works.</p>
+            <code>python server.py</code>
+            <p style="margin-top: 24px;">The server provides the dashboard, the <code>/api/scrape</code> action, and the <code>/api/apply/&lt;job_id&gt;</code> tailor action.</p>
           </div>
         `;
+      }
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Status polling + action wiring                                  */
+    /* ---------------------------------------------------------------- */
+    let pollTimer = null;
+
+    function startStatusPolling() {
+      if (pollTimer) clearInterval(pollTimer);
+      pollTimer = setInterval(refreshStatus, 2000);
+      // Stop polling once nothing is running
+    }
+
+    function anyJobRunning() {
+      if (state.scrapeStatus && state.scrapeStatus.status === "running") return true;
+      for (const id in state.tailorStatus) {
+        if (state.tailorStatus[id] && state.tailorStatus[id].status === "running") return true;
+      }
+      return false;
+    }
+
+    async function refreshStatus() {
+      try {
+        const api = await fetch("/api/status").then((r) => r.json());
+        const newScrape = api.scrape || { status: "idle" };
+        const newTailor = api.tailor || {};
+        // Detect transitions to "done" so we can reload jobs.json
+        const scrapeJustDone = state.scrapeStatus.status === "running" && newScrape.status === "done";
+        state.scrapeStatus = newScrape;
+        state.tailorStatus = newTailor;
+        renderScrapeBar();
+        // Re-render job rows that had tailor state changes
+        if (scrapeJustDone) {
+          // Reload jobs.json to pick up new entries
+          const fresh = await fetch("data/jobs.json").then((r) => r.json());
+          state.data = fresh;
+          render();
+        } else {
+          // Just update tailor-state cells + buttons
+          renderActionsForAllJobs();
+        }
+        if (!anyJobRunning()) {
+          clearInterval(pollTimer);
+          pollTimer = null;
+        }
+      } catch (e) {
+        // server may be down; keep last known state
+      }
+    }
+
+    function renderActionsForAllJobs() {
+      for (const j of items()) {
+        const cell = document.querySelector(`[data-job-actions="${cssEscape(j.id)}"]`);
+        if (!cell) continue;
+        const isApplied = state.applied.has(j.id);
+        cell.innerHTML = actionsHTML(j, isApplied);
+      }
+      attachActionHandlers();
+    }
+
+    function cssEscape(s) {
+      if (window.CSS && CSS.escape) return CSS.escape(s);
+      return String(s).replace(/[^\w-]/g, (c) => `\\${c}`);
+    }
+
+    function renderScrapeBar() {
+      const s = state.scrapeStatus || { status: "idle" };
+      const status = document.getElementById("scrape-status");
+      const btn = document.getElementById("btn-scrape");
+      const klass = s.status === "running" ? "running"
+                  : s.status === "done" ? "done"
+                  : s.status === "error" ? "error" : "";
+      const label = s.status === "running" ? "Scraping sources, this takes ~30 seconds…"
+                  : s.status === "done" ? "Scrape complete. Pipeline refreshed."
+                  : s.status === "error" ? "Scrape failed: " + (s.message || "unknown error")
+                  : "Idle. " + (s.message || "Click Scrape now to refresh.");
+      status.innerHTML = `<span class="${klass}">${escapeHTML(label)}</span>`;
+      btn.disabled = (s.status === "running");
+      btn.textContent = s.status === "running" ? "Scraping…" : "Scrape now";
+    }
+
+    function wireActions() {
+      const btn = document.getElementById("btn-scrape");
+      if (btn && !btn.dataset.wired) {
+        btn.addEventListener("click", triggerScrape);
+        btn.dataset.wired = "1";
+      }
+      attachActionHandlers();
+    }
+
+    async function triggerScrape() {
+      const btn = document.getElementById("btn-scrape");
+      btn.disabled = true;
+      btn.textContent = "Starting…";
+      try {
+        await fetch("/api/scrape", { method: "POST" });
+        state.scrapeStatus = { status: "running", message: "Starting scraper..." };
+        renderScrapeBar();
+        if (!pollTimer) startStatusPolling();
+      } catch (e) {
+        btn.disabled = false;
+        btn.textContent = "Scrape now";
+        document.getElementById("scrape-status").innerHTML =
+          `<span class="error">Network error: ${escapeHTML(String(e))}. Is the server running?</span>`;
+      }
+    }
+
+    function attachActionHandlers() {
+      document.querySelectorAll("[data-tailor]").forEach((btn) => {
+        if (btn.dataset.wired) return;
+        btn.addEventListener("click", () => triggerTailor(btn.getAttribute("data-tailor")));
+        btn.dataset.wired = "1";
+      });
+      document.querySelectorAll("[data-mark]").forEach((btn) => {
+        if (btn.dataset.wired) return;
+        btn.addEventListener("click", () => {
+          const id = btn.getAttribute("data-mark");
+          if (state.applied.has(id)) state.applied.delete(id);
+          else state.applied.add(id);
+          saveApplied();
+          render();
+        });
+        btn.dataset.wired = "1";
+      });
+    }
+
+    async function triggerTailor(jobId) {
+      try {
+        await fetch(`/api/apply/${encodeURIComponent(jobId)}`, { method: "POST" });
+        state.tailorStatus[jobId] = { status: "running", message: "Generating CV and cover letter..." };
+        renderActionsForAllJobs();
+        if (!pollTimer) startStatusPolling();
+      } catch (e) {
+        state.tailorStatus[jobId] = { status: "error", message: "Network error: " + e };
+        renderActionsForAllJobs();
       }
     }
 
@@ -852,11 +1133,49 @@
             <div class="n num">${j.score}</div>
             <div class="band-label">${scoreBand(j.score)}</div>
           </div>
-          <div class="apply">
-            <a href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">Apply ↗</a>
-            <button class="mark" data-mark="${escapeAttr(j.id)}">${isApplied ? "Mark unapplied" : "Mark applied"}</button>
-          </div>
+          <div class="actions" data-job-actions="${escapeAttr(j.id)}">${actionsHTML(j, isApplied)}</div>
         </article>
+      `;
+    }
+
+    function actionsHTML(j, isApplied) {
+      const t = state.tailorStatus[j.id];
+      const status = isApplied ? "applied" : (t ? t.status : "idle");
+      const tailorStateLabel = {
+        idle:    "Not tailored",
+        running: "Tailoring…",
+        done:    "Ready to apply",
+        error:   "Tailor failed",
+        applied: "Applied",
+      }[status] || "Not tailored";
+
+      const tailorClass = {
+        idle: "", running: "running", done: "ready", error: "error", applied: "applied",
+      }[status] || "";
+
+      // Disable tailor button while running or already done
+      const disabled = (status === "running") ? "disabled" : "";
+
+      let downloads = "";
+      if (t && t.status === "done" && t.cv_pdf && t.cover_pdf) {
+        downloads = `<div class="downloads">
+          <a href="/${t.cv_pdf}" target="_blank" rel="noopener">CV PDF</a>
+          <a href="/${t.cover_pdf}" target="_blank" rel="noopener">Cover letter</a>
+        </div>`;
+      }
+
+      // Always show the apply link, but style it strongly once tailored
+      const applyClass = t && t.status === "done" ? "apply-link" : "apply-link";
+      const apply = `<a class="${applyClass}" href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">Apply now</a>`;
+
+      const mark = `<button class="mark" data-mark="${escapeAttr(j.id)}">${isApplied ? "Mark unapplied" : "Mark applied"}</button>`;
+
+      return `
+        <div class="tailor-state ${tailorClass}">${escapeHTML(tailorStateLabel)}</div>
+        <button class="tailor" data-tailor="${escapeAttr(j.id)}" ${disabled}>${t && t.status === "done" ? "Re-tailor" : "Tailor & apply"}</button>
+        ${downloads}
+        ${apply}
+        ${mark}
       `;
     }
 
@@ -1005,6 +1324,7 @@
       buildSourceFilters();
       wireFilters();
     }
+    renderScrapeBar();
   </script>
 </body>
 </html>

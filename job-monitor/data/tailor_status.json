@@ -1,0 +1,24 @@
+{
+  "wuzzuf-141178": {
+    "status": "done",
+    "updated_at": 1781182444.367364,
+    "message": "Tailored successfully",
+    "cv_pdf": "job-monitor/cv/main_Wuzzuf_141178.pdf",
+    "cover_pdf": "cover_letters/cover_Wuzzuf_141178_technical_lead_full_stack_deve.pdf",
+    "company": "your team",
+    "role": "Technical Lead \u2013 Full Stack Developer",
+    "job_url": "https://wuzzuf.net/jobs/careers/Ayvo-Saudi-Arabia-141178",
+    "is_confidential": true
+  },
+  "wuzzuf-144959": {
+    "status": "done",
+    "updated_at": 1781182446.4139998,
+    "message": "Tailored successfully",
+    "cv_pdf": "job-monitor/cv/main_Wuzzuf_144959.pdf",
+    "cover_pdf": "cover_letters/cover_Wuzzuf_144959_full_stack_developer.pdf",
+    "company": "your team",
+    "role": "Full Stack Developer",
+    "job_url": "https://wuzzuf.net/jobs/careers/halo-united-kingdom-144959",
+    "is_confidential": true
+  }
+}

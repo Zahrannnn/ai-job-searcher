@@ -94,24 +94,37 @@ scoring:
 
 Full breakdown stored in `score_breakdown` per item.
 
-## Dashboard
+## Dashboard with actions
 
-Open `dashboard.html` in a browser to see today's matches with filters,
-trends, and one-click apply links. The file is fully static and reads
-`data/jobs.json` + `data/jobs_history.json` at load.
-
-To serve it locally (so the data fetch works under `file://` is blocked
-by most browsers):
+The dashboard is a single static HTML file. It expects to be served by
+`server.py`, which also exposes the `/api/scrape` and `/api/apply/<job_id>`
+actions.
 
 ```bash
 cd job-monitor
-python -m http.server 8765
+python server.py           # default port 8765
 # open http://localhost:8765/dashboard.html
 ```
 
+In the browser you can:
+
+- click **Scrape now** to trigger a fresh `python -m scraper.main` run in
+  the background. The status bar updates every 2 seconds and the
+  dashboard auto-refreshes when the new `jobs.json` is written.
+- click **Tailor & apply** on any job to run `tailor.py` for that job
+  in the background. The tailor generates `main_<company>.tex` and
+  `cover_<company>_<role>.tex` from a templated LaTeX skeleton, compiles
+  them with `lualatex` and `xelatex` respectively, and surfaces download
+  links plus the job's external **apply URL** when done.
+
+The server is a stdlib `ThreadingHTTPServer` — no Flask or extra deps.
+
 For a hosted view: enable GitHub Pages on the repo, set the source to
 the `master` branch and `/` (root) — the dashboard is at
-`/job-monitor/dashboard.html`.
+`/job-monitor/dashboard.html`. (The action buttons will not work on
+GitHub Pages because the API routes require the local Python server;
+use the daily cron for the scrape, and run `python server.py` locally
+for tailor actions.)
 
 ## Adding a new source
 

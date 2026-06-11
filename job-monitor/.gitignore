@@ -2,6 +2,12 @@
 __pycache__/
 *.pyc
 data/new_count.txt
+data/.scrape.lock
+data/.tailor_locks/
 .venv/
 .env
 *.log
+# LaTeX intermediate files
+*.aux
+*.out
+*.synctex.gz

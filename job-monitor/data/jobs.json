@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-11T10:03:44.569194+00:00",
-  "total_items": 3,
-  "new_count": 0,
+  "last_run": "2026-06-11T12:46:47.642569+00:00",
+  "total_items": 4,
+  "new_count": 1,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -39,6 +39,37 @@
         "ai": 10
       },
       "is_new": false
+    },
+    {
+      "id": "wuzzuf-144959",
+      "name": "Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/halo-united-kingdom-144959",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Freelance / Project",
+      "experience_years": "5-10 yrs",
+      "skills": [
+        "JavaScript",
+        "React js",
+        "Nextjs",
+        "Nodejs",
+        "Supabase"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-11",
+      "raw_date_text": "2 hours ago",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20
+      },
+      "is_new": true
     },
     {
       "id": "wuzzuf-144523",
