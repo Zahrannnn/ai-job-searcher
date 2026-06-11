@@ -94,6 +94,25 @@ scoring:
 
 Full breakdown stored in `score_breakdown` per item.
 
+## Dashboard
+
+Open `dashboard.html` in a browser to see today's matches with filters,
+trends, and one-click apply links. The file is fully static and reads
+`data/jobs.json` + `data/jobs_history.json` at load.
+
+To serve it locally (so the data fetch works under `file://` is blocked
+by most browsers):
+
+```bash
+cd job-monitor
+python -m http.server 8765
+# open http://localhost:8765/dashboard.html
+```
+
+For a hosted view: enable GitHub Pages on the repo, set the source to
+the `master` branch and `/` (root) — the dashboard is at
+`/job-monitor/dashboard.html`.
+
 ## Adding a new source
 
 1. Create `scraper/sources/<name>.py` with a `fetch() -> list[dict]` function.

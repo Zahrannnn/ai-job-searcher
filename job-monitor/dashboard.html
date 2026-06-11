@@ -1,0 +1,1010 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Job pipeline — Frontend monitor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..700,0..100&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+  />
+  <style>
+    /* ------------------------------------------------------------------ */
+    /*  Tokens                                                            */
+    /* ------------------------------------------------------------------ */
+    :root {
+      /* warm paper, warm ink — never #000 or #fff */
+      --paper:        oklch(98.4% 0.006 80);
+      --paper-soft:   oklch(96.2% 0.008 78);
+      --ink:          oklch(22% 0.012 55);
+      --ink-2:        oklch(38% 0.010 60);
+      --ink-mute:     oklch(52% 0.008 65);
+      --rule:         oklch(88% 0.006 75);
+      --rule-strong:  oklch(78% 0.008 70);
+
+      /* single warm accent for "act on this" — deep terracotta */
+      --accent:       oklch(56% 0.165 38);
+      --accent-soft:  oklch(94% 0.040 40);
+      --accent-deep:  oklch(38% 0.120 35);
+
+      /* semantic tints (low chroma, hue-leaning toward paper) */
+      --positive:     oklch(50% 0.090 150);
+      --positive-soft:oklch(95% 0.025 145);
+      --cool:         oklch(45% 0.040 250);
+      --cool-soft:    oklch(95% 0.012 245);
+
+      /* type */
+      --serif: "Fraunces", "Iowan Old Style", "Georgia", serif;
+      --sans:  "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+      --mono:  "JetBrains Mono", "SF Mono", "Cascadia Mono", monospace;
+
+      /* layout */
+      --col-main: minmax(0, 1fr);
+      --col-rail: 220px;
+      --col-trend: 260px;
+      --gutter: 32px;
+      --max-w: 1280px;
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Reset & base                                                      */
+    /* ------------------------------------------------------------------ */
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-feature-settings: "ss01", "cv11", "tnum";
+      font-size: 15px;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      min-height: 100vh;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+
+    button {
+      font: inherit;
+      color: inherit;
+      background: none;
+      border: 0;
+      padding: 0;
+      cursor: pointer;
+    }
+    input, select {
+      font: inherit;
+      color: inherit;
+      background: var(--paper);
+      border: 1px solid var(--rule-strong);
+      border-radius: 0;
+      padding: 6px 8px;
+    }
+    input:focus, select:focus, button:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
+    /* tabular numerals everywhere we render numbers */
+    .num { font-variant-numeric: tabular-nums; }
+
+    /* ------------------------------------------------------------------ */
+    /*  Layout                                                            */
+    /* ------------------------------------------------------------------ */
+    .shell {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 32px var(--gutter) 96px;
+    }
+
+    .masthead {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: end;
+      gap: 24px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--ink);
+      margin-bottom: 32px;
+    }
+    .masthead h1 {
+      font-family: var(--serif);
+      font-weight: 400;
+      font-variation-settings: "opsz" 144, "SOFT" 50;
+      font-size: clamp(40px, 6vw, 76px);
+      line-height: 0.95;
+      letter-spacing: -0.02em;
+      margin: 0;
+      color: var(--ink);
+    }
+    .masthead h1 em {
+      font-style: italic;
+      font-variation-settings: "opsz" 144, "SOFT" 100;
+      color: var(--accent);
+      font-weight: 500;
+    }
+    .masthead .meta {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--ink-mute);
+      text-align: right;
+      line-height: 1.6;
+    }
+    .masthead .meta strong { color: var(--ink); font-weight: 600; }
+
+    .lede {
+      font-family: var(--serif);
+      font-variation-settings: "opsz" 14, "SOFT" 50;
+      font-style: italic;
+      font-size: 17px;
+      color: var(--ink-2);
+      max-width: 60ch;
+      margin: 0 0 40px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: var(--col-rail) var(--col-main) var(--col-trend);
+      gap: var(--gutter);
+      align-items: start;
+    }
+    @media (max-width: 1100px) {
+      .grid { grid-template-columns: var(--col-rail) var(--col-main); }
+      .trend-rail { grid-column: 1 / -1; display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+    }
+    @media (max-width: 720px) {
+      .grid { grid-template-columns: 1fr; }
+      .filter-rail { position: static; }
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Filter rail                                                       */
+    /* ------------------------------------------------------------------ */
+    .filter-rail { position: sticky; top: 24px; }
+    .filter-rail h2,
+    .trend-rail h2 {
+      font-family: var(--sans);
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--ink-mute);
+      margin: 0 0 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .filter-group { margin-bottom: 28px; }
+    .filter-group label.field {
+      display: block;
+      font-size: 13px;
+      color: var(--ink-2);
+      margin-bottom: 6px;
+    }
+    .filter-group input[type="text"],
+    .filter-group select {
+      width: 100%;
+      font-size: 13px;
+    }
+    .filter-group .range-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      color: var(--ink-mute);
+    }
+    .filter-group .range-row input[type="range"] { flex: 1; accent-color: var(--accent); }
+    .filter-group .check {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 4px 0;
+      font-size: 13px;
+      color: var(--ink-2);
+      cursor: pointer;
+    }
+    .filter-group .check input { accent-color: var(--accent); }
+    .filter-group .check .count {
+      margin-left: auto;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--ink-mute);
+    }
+    .filter-reset {
+      font-size: 12px;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-top: 4px;
+    }
+    .filter-reset:hover { text-decoration: underline; }
+
+    /* ------------------------------------------------------------------ */
+    /*  Trend rail                                                        */
+    /* ------------------------------------------------------------------ */
+    .trend-rail section { margin-bottom: 28px; }
+    .hist-bar {
+      display: flex;
+      align-items: flex-end;
+      gap: 3px;
+      height: 64px;
+      margin: 8px 0 4px;
+    }
+    .hist-bar .col {
+      flex: 1;
+      background: var(--ink);
+      min-height: 2px;
+      position: relative;
+    }
+    .hist-bar .col.peak { background: var(--accent); }
+    .hist-bar .col::after {
+      content: attr(data-label);
+      position: absolute;
+      bottom: -16px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-family: var(--mono);
+      font-size: 9px;
+      color: var(--ink-mute);
+    }
+    .hist-axis { height: 18px; }
+
+    .source-row {
+      display: grid;
+      grid-template-columns: 80px 1fr 32px;
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      color: var(--ink-2);
+      padding: 4px 0;
+    }
+    .source-row .bar-track {
+      height: 6px;
+      background: var(--rule);
+      position: relative;
+    }
+    .source-row .bar-fill {
+      position: absolute;
+      inset: 0 auto 0 0;
+      background: var(--ink);
+    }
+    .source-row .count {
+      text-align: right;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--ink-mute);
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Active filter chip strip                                          */
+    /* ------------------------------------------------------------------ */
+    .chip-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      padding: 12px 0 20px;
+      font-size: 12px;
+      color: var(--ink-mute);
+    }
+    .chip-strip .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 8px 3px 10px;
+      background: var(--paper-soft);
+      border: 1px solid var(--rule);
+      color: var(--ink-2);
+    }
+    .chip-strip .chip strong { color: var(--ink); font-weight: 600; }
+    .chip-strip .chip button {
+      color: var(--ink-mute);
+      font-size: 14px;
+      line-height: 1;
+    }
+    .chip-strip .chip button:hover { color: var(--accent); }
+
+    /* ------------------------------------------------------------------ */
+    /*  Job list                                                          */
+    /* ------------------------------------------------------------------ */
+    .job-list { display: flex; flex-direction: column; }
+
+    .job {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 110px 130px;
+      grid-template-areas:
+        "title    score   apply"
+        "meta     score   apply"
+        "skills   score   apply"
+        "break    score   apply";
+      column-gap: 20px;
+      row-gap: 8px;
+      padding: 24px 0;
+      border-top: 1px solid var(--rule);
+      position: relative;
+    }
+    .job:last-child { border-bottom: 1px solid var(--rule); }
+
+    .job[data-applied="true"] { opacity: 0.42; }
+    .job[data-applied="true"] .title { text-decoration: line-through; text-decoration-thickness: 1px; }
+    .job.is-new .new-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--accent);
+      display: inline-block;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+
+    .job .title {
+      grid-area: title;
+      font-family: var(--serif);
+      font-variation-settings: "opsz" 36, "SOFT" 50;
+      font-size: 22px;
+      line-height: 1.2;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin: 0;
+    }
+    .job .title a:hover { color: var(--accent); text-decoration: none; }
+    .job .title a::after {
+      content: " ↗";
+      font-size: 0.7em;
+      color: var(--ink-mute);
+      font-family: var(--sans);
+      font-weight: 400;
+      margin-left: 4px;
+    }
+
+    .job .meta {
+      grid-area: meta;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 14px;
+      font-size: 12px;
+      color: var(--ink-mute);
+      align-items: baseline;
+    }
+    .job .meta .company { color: var(--ink-2); font-weight: 500; }
+    .job .meta .sep { color: var(--rule-strong); }
+    .job .meta .source-tag {
+      font-family: var(--mono);
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      padding: 1px 5px;
+      background: var(--paper-soft);
+      color: var(--ink-2);
+    }
+
+    .job .skills {
+      grid-area: skills;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 6px;
+      font-size: 12px;
+      color: var(--ink-2);
+      font-family: var(--mono);
+    }
+    .job .skills .skill {
+      padding: 1px 6px;
+      background: var(--paper-soft);
+      color: var(--ink-2);
+    }
+    .job .skills .skill.more {
+      background: transparent;
+      color: var(--ink-mute);
+    }
+    .job .skills .skill.match { background: var(--accent-soft); color: var(--accent-deep); }
+
+    .job .breakdown {
+      grid-area: break;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--ink-mute);
+    }
+    .job .breakdown .bd {
+      display: inline-flex;
+      gap: 4px;
+    }
+    .job .breakdown .bd .k { color: var(--ink-mute); }
+    .job .breakdown .bd .v { color: var(--ink); }
+
+    .job .score {
+      grid-area: score;
+      text-align: right;
+      align-self: start;
+      padding-top: 4px;
+    }
+    .job .score .n {
+      font-family: var(--serif);
+      font-variation-settings: "opsz" 144, "SOFT" 50;
+      font-size: 48px;
+      font-weight: 400;
+      line-height: 0.9;
+      letter-spacing: -0.04em;
+      color: var(--ink);
+      font-variant-numeric: tabular-nums;
+    }
+    .job .score .n::after {
+      content: "/100";
+      font-family: var(--sans);
+      font-size: 11px;
+      color: var(--ink-mute);
+      letter-spacing: 0;
+      margin-left: 3px;
+      font-weight: 400;
+    }
+    .job[data-score-band="high"] .score .n { color: var(--accent); }
+    .job[data-score-band="mid"]  .score .n { color: var(--ink); }
+    .job[data-score-band="low"]  .score .n { color: var(--ink-mute); }
+    .job .score .band-label {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--ink-mute);
+      margin-top: 4px;
+    }
+    .job[data-score-band="high"] .score .band-label { color: var(--accent); }
+
+    .job .apply {
+      grid-area: apply;
+      align-self: center;
+      text-align: right;
+    }
+    .job .apply a {
+      display: inline-block;
+      padding: 8px 14px;
+      background: var(--ink);
+      color: var(--paper);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+    .job .apply a:hover { background: var(--accent); text-decoration: none; }
+    .job .apply .mark {
+      display: block;
+      font-size: 11px;
+      color: var(--ink-mute);
+      margin-top: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .job .apply .mark:hover { color: var(--accent); }
+
+    .job-list:empty::after,
+    .job-list .empty {
+      padding: 64px 0;
+      text-align: center;
+      font-family: var(--serif);
+      font-style: italic;
+      font-variation-settings: "opsz" 14, "SOFT" 50;
+      color: var(--ink-mute);
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Summary footer                                                    */
+    /* ------------------------------------------------------------------ */
+    .summary {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid var(--ink);
+      display: flex;
+      justify-content: space-between;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--ink-mute);
+    }
+    .summary strong { color: var(--ink); font-weight: 600; }
+
+    /* ------------------------------------------------------------------ */
+    /*  Empty / error states                                              */
+    /* ------------------------------------------------------------------ */
+    .empty-state {
+      text-align: center;
+      padding: 96px 24px;
+    }
+    .empty-state h2 {
+      font-family: var(--serif);
+      font-weight: 400;
+      font-size: 32px;
+      margin: 0 0 12px;
+    }
+    .empty-state p {
+      color: var(--ink-mute);
+      max-width: 50ch;
+      margin: 0 auto 24px;
+    }
+    .empty-state code {
+      font-family: var(--mono);
+      font-size: 12px;
+      background: var(--paper-soft);
+      padding: 6px 10px;
+      display: inline-block;
+    }
+
+    /* ------------------------------------------------------------------ */
+    /*  Animations (intentional, restrained)                              */
+    /* ------------------------------------------------------------------ */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .job { animation: fadeIn 0.18s ease-out both; }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="masthead">
+      <h1>Job pipeline.<br /><em>Today, 10 June.</em></h1>
+      <div class="meta" id="meta">
+        <div><strong id="m-count">—</strong> matches</div>
+        <div><strong id="m-new">—</strong> new since yesterday</div>
+        <div id="m-run">Last run: —</div>
+      </div>
+    </header>
+
+    <p class="lede" id="lede">
+      A filtered reading of every frontend role the monitor caught in the
+      last week. High-score items are worth an application today; the rest
+      are noise to scan past.
+    </p>
+
+    <div class="grid">
+      <aside class="filter-rail" aria-label="Filters">
+        <div class="filter-group">
+          <h2>Search</h2>
+          <input type="text" id="f-q" placeholder="title, company, skill" />
+        </div>
+
+        <div class="filter-group">
+          <h2>Source</h2>
+          <div id="f-sources"></div>
+        </div>
+
+        <div class="filter-group">
+          <label class="field" for="f-min">Minimum score</label>
+          <div class="range-row">
+            <input type="range" id="f-min" min="0" max="100" step="5" value="30" />
+            <span id="f-min-label" class="num">30</span>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="field" for="f-age">Max age (days)</label>
+          <div class="range-row">
+            <input type="range" id="f-age" min="1" max="30" step="1" value="7" />
+            <span id="f-age-label" class="num">7</span>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label class="field" for="f-sort">Sort by</label>
+          <select id="f-sort">
+            <option value="score">Score, highest first</option>
+            <option value="fresh">Newest first</option>
+            <option value="old">Oldest first</option>
+            <option value="title">Title A→Z</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="check">
+            <input type="checkbox" id="f-hide-applied" />
+            Hide applied
+          </label>
+        </div>
+
+        <button class="filter-reset" id="f-reset">Reset filters</button>
+      </aside>
+
+      <main>
+        <div class="chip-strip" id="chips"></div>
+        <div class="job-list" id="jobs"></div>
+      </main>
+
+      <aside class="trend-rail" aria-label="Trends">
+        <section>
+          <h2>By source</h2>
+          <div id="t-sources"></div>
+        </section>
+        <section>
+          <h2>Score distribution</h2>
+          <div class="hist-bar" id="t-hist"></div>
+          <div class="hist-axis"></div>
+        </section>
+        <section>
+          <h2>Pipeline</h2>
+          <div id="t-stats" style="font-size: 13px; color: var(--ink-2); line-height: 1.7;"></div>
+        </section>
+      </aside>
+    </div>
+
+    <footer class="summary">
+      <div>Source: <strong>job-monitor/data/jobs.json</strong></div>
+      <div id="f-applied-count">Applied: 0</div>
+    </footer>
+  </div>
+
+  <script type="module">
+    /* ---------------------------------------------------------------- */
+    /*  Data + state                                                    */
+    /* ---------------------------------------------------------------- */
+    const FRONTEND_MATCH_TOKENS = [
+      "react", "next", "typescript", "javascript",
+      "frontend", "front-end", "vue", "tailwind", "redux", "graphql",
+    ];
+
+    const state = {
+      data: null,
+      history: null,
+      applied: loadApplied(),
+      filters: {
+        q: "",
+        sources: new Set(),  // empty = all
+        minScore: 30,
+        maxAge: 7,
+        sort: "score",
+        hideApplied: false,
+      },
+    };
+
+    function loadApplied() {
+      try { return new Set(JSON.parse(localStorage.getItem("applied") || "[]")); }
+      catch { return new Set(); }
+    }
+    function saveApplied() {
+      localStorage.setItem("applied", JSON.stringify([...state.applied]));
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Fetch + boot                                                    */
+    /* ---------------------------------------------------------------- */
+    async function load() {
+      try {
+        const [jobs, hist] = await Promise.all([
+          fetch("data/jobs.json").then((r) => r.json()),
+          fetch("data/jobs_history.json").then((r) => r.json()),
+        ]);
+        state.data = jobs;
+        state.history = hist;
+        render();
+      } catch (e) {
+        document.getElementById("jobs").innerHTML = `
+          <div class="empty-state">
+            <h2>No data yet</h2>
+            <p>The monitor hasn't produced a run file, or this page isn't being served from the right folder. From the <code>job-monitor/</code> directory, run:</p>
+            <code>python -m scraper.main</code>
+            <p style="margin-top: 24px;">Or serve this file with <code>python -m http.server</code> so the data fetch works.</p>
+          </div>
+        `;
+      }
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Derived                                                         */
+    /* ---------------------------------------------------------------- */
+    function items() {
+      const all = state.data?.items || [];
+      return all.map(normalize).filter(Boolean);
+    }
+    function normalize(j) {
+      // Coerce to defensive defaults
+      return {
+        id: j.id,
+        name: j.name || "(untitled)",
+        company: j.company || "—",
+        url: j.url || "#",
+        source: j.source || "Unknown",
+        location: j.location || "",
+        workplace: j.workplace || "",
+        job_type: j.job_type || "",
+        experience_years: j.experience_years || "",
+        skills: Array.isArray(j.skills) ? j.skills : [],
+        salary: j.salary || "",
+        age_days: typeof j.age_days === "number" ? j.age_days : null,
+        is_new: !!j.is_new,
+        score: typeof j.score === "number" ? j.score : 0,
+        breakdown: j.score_breakdown || {},
+      };
+    }
+    function scoreBand(s) {
+      if (s >= 80) return "high";
+      if (s >= 50) return "mid";
+      return "low";
+    }
+    function isFrontendMatch(skillList) {
+      const hay = skillList.join(" ").toLowerCase();
+      return FRONTEND_MATCH_TOKENS.some((t) => hay.includes(t));
+    }
+
+    function applyFilters() {
+      const { q, sources, minScore, maxAge, sort, hideApplied } = state.filters;
+      const qLow = q.trim().toLowerCase();
+      let list = items().filter((j) => {
+        if (qLow) {
+          const blob = (j.name + " " + j.company + " " + j.skills.join(" ")).toLowerCase();
+          if (!blob.includes(qLow)) return false;
+        }
+        if (sources.size && !sources.has(j.source)) return false;
+        if (j.score < minScore) return false;
+        if (j.age_days != null && j.age_days > maxAge) return false;
+        if (hideApplied && state.applied.has(j.id)) return false;
+        return true;
+      });
+
+      const sorters = {
+        score: (a, b) => b.score - a.score,
+        fresh: (a, b) => (a.age_days ?? 99) - (b.age_days ?? 99),
+        old:   (a, b) => (b.age_days ?? 99) - (a.age_days ?? 99),
+        title: (a, b) => a.name.localeCompare(b.name),
+      };
+      list.sort(sorters[sort]);
+      return list;
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Render                                                          */
+    /* ---------------------------------------------------------------- */
+    function render() {
+      const all = items();
+      const list = applyFilters();
+      renderMeta(all);
+      renderChips();
+      renderJobs(list);
+      renderSourceTrend(all);
+      renderHistogram(list);
+      renderPipelineStats(all);
+      renderAppliedCount();
+    }
+
+    function renderMeta(all) {
+      document.getElementById("m-count").textContent = all.length;
+      document.getElementById("m-new").textContent = all.filter((j) => j.is_new).length;
+      const last = state.data?.last_run;
+      if (last) {
+        const d = new Date(last);
+        document.getElementById("m-run").textContent =
+          "Last run: " + d.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+      }
+    }
+
+    function renderChips() {
+      const f = state.filters;
+      const chips = [];
+      if (f.q) chips.push({ k: "q", label: "Search", value: f.q });
+      if (f.sources.size) chips.push({ k: "sources", label: "Source", value: [...f.sources].join(", ") });
+      if (f.minScore > 0) chips.push({ k: "minScore", label: "Min score", value: f.minScore + "+" });
+      if (f.maxAge < 30) chips.push({ k: "maxAge", label: "Max age", value: f.maxAge + "d" });
+      if (f.sort !== "score") chips.push({ k: "sort", label: "Sort", value: f.sort });
+      if (f.hideApplied) chips.push({ k: "hideApplied", label: "Hide applied", value: "on" });
+
+      const html = chips.map((c) =>
+        `<span class="chip"><strong>${c.label}:</strong> ${escapeHTML(c.value)} <button data-clear="${c.k}" aria-label="Clear">×</button></span>`
+      ).join("");
+      document.getElementById("chips").innerHTML =
+        chips.length ? `<span style="color: var(--ink-mute);">${chips.length} active:</span> ` + html : "";
+    }
+
+    function renderJobs(list) {
+      if (!list.length) {
+        document.getElementById("jobs").innerHTML =
+          `<div class="empty">No jobs match the current filters. Loosen them, or wait for the next run.</div>`;
+        return;
+      }
+      const html = list.map(jobHTML).join("");
+      document.getElementById("jobs").innerHTML = html;
+
+      // wire apply + mark-applied buttons
+      document.querySelectorAll("[data-mark]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const id = btn.getAttribute("data-mark");
+          if (state.applied.has(id)) state.applied.delete(id);
+          else state.applied.add(id);
+          saveApplied();
+          render();
+        });
+      });
+    }
+
+    function jobHTML(j) {
+      const skills = j.skills.slice(0, 8);
+      const extra = j.skills.length - skills.length;
+      const skillsHTML = skills.map((s) => {
+        const match = FRONTEND_MATCH_TOKENS.some((t) => s.toLowerCase().includes(t));
+        return `<span class="skill${match ? " match" : ""}">${escapeHTML(s)}</span>`;
+      }).join("") + (extra > 0 ? `<span class="skill more">+${extra} more</span>` : "");
+
+      const bdEntries = Object.entries(j.breakdown)
+        .filter(([, v]) => v && v !== 0)
+        .sort((a, b) => Math.abs(b[1]) - Math.abs(a[1]));
+      const bdHTML = bdEntries.map(([k, v]) =>
+        `<span class="bd"><span class="k">${escapeHTML(k)}</span><span class="v num">${v > 0 ? "+" : ""}${v}</span></span>`
+      ).join("");
+
+      const metaBits = [
+        j.company ? `<span class="company">${escapeHTML(j.company)}</span>` : "",
+        j.location ? `<span>${escapeHTML(j.location)}</span>` : "",
+        j.workplace ? `<span>${escapeHTML(j.workplace)}</span>` : "",
+        j.job_type ? `<span>${escapeHTML(j.job_type)}</span>` : "",
+        j.experience_years ? `<span>${escapeHTML(j.experience_years)}</span>` : "",
+        j.age_days != null ? `<span class="num">${j.age_days}d old</span>` : "",
+        j.source ? `<span class="source-tag">${escapeHTML(j.source)}</span>` : "",
+      ].filter(Boolean).join(`<span class="sep">·</span>`);
+
+      const isApplied = state.applied.has(j.id);
+      const newDot = j.is_new ? `<span class="new-dot" title="New since last run"></span>` : "";
+
+      return `
+        <article class="job" data-applied="${isApplied}" data-score-band="${scoreBand(j.score)}">
+          <h3 class="title">${newDot}<a href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(j.name)}</a></h3>
+          <div class="meta">${metaBits}</div>
+          <div class="skills">${skillsHTML}</div>
+          <div class="breakdown">${bdHTML || '<span class="k">no breakdown</span>'}</div>
+          <div class="score">
+            <div class="n num">${j.score}</div>
+            <div class="band-label">${scoreBand(j.score)}</div>
+          </div>
+          <div class="apply">
+            <a href="${escapeAttr(j.url)}" target="_blank" rel="noopener noreferrer">Apply ↗</a>
+            <button class="mark" data-mark="${escapeAttr(j.id)}">${isApplied ? "Mark unapplied" : "Mark applied"}</button>
+          </div>
+        </article>
+      `;
+    }
+
+    function renderSourceTrend(all) {
+      const counts = {};
+      for (const j of all) counts[j.source] = (counts[j.source] || 0) + 1;
+      const total = all.length || 1;
+      const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      document.getElementById("t-sources").innerHTML = entries.map(([src, n]) => {
+        const pct = (n / total) * 100;
+        return `
+          <div class="source-row">
+            <span>${escapeHTML(src)}</span>
+            <span class="bar-track"><span class="bar-fill" style="width: ${pct}%;"></span></span>
+            <span class="count num">${n}</span>
+          </div>
+        `;
+      }).join("") || `<div style="color: var(--ink-mute); font-size: 12px;">No sources yet.</div>`;
+    }
+
+    function renderHistogram(list) {
+      const buckets = Array(10).fill(0);
+      for (const j of list) {
+        const b = Math.min(9, Math.floor(j.score / 10));
+        buckets[b]++;
+      }
+      const peak = Math.max(1, ...buckets);
+      document.getElementById("t-hist").innerHTML = buckets.map((n, i) => {
+        const h = Math.max(2, (n / peak) * 64);
+        const label = `${i * 10}–${i * 10 + 9}`;
+        return `<div class="col${n === peak && n > 0 ? " peak" : ""}" style="height: ${h}px;" data-label="${label}"></div>`;
+      }).join("");
+    }
+
+    function renderPipelineStats(all) {
+      const html = `
+        <div>Active: <span class="num">${all.length}</span></div>
+        <div>High score (≥80): <span class="num">${all.filter((j) => j.score >= 80).length}</span></div>
+        <div>Median age: <span class="num">${medianAge(all)}d</span></div>
+        <div>Top source: <span style="text-transform: capitalize;">${escapeHTML(topSource(all))}</span></div>
+      `;
+      document.getElementById("t-stats").innerHTML = html;
+    }
+    function medianAge(all) {
+      const ages = all.map((j) => j.age_days).filter((n) => n != null).sort((a, b) => a - b);
+      if (!ages.length) return "—";
+      return ages[Math.floor(ages.length / 2)];
+    }
+    function topSource(all) {
+      const counts = {};
+      for (const j of all) counts[j.source] = (counts[j.source] || 0) + 1;
+      const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+      return entries[0]?.[0] || "—";
+    }
+    function renderAppliedCount() {
+      document.getElementById("f-applied-count").innerHTML =
+        `Applied: <span class="num">${state.applied.size}</span>`;
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Filters: source checkboxes (built from data)                    */
+    /* ---------------------------------------------------------------- */
+    function buildSourceFilters() {
+      const sources = [...new Set(items().map((j) => j.source))].sort();
+      const counts = {};
+      for (const j of items()) counts[j.source] = (counts[j.source] || 0) + 1;
+      document.getElementById("f-sources").innerHTML = sources.map((s) => `
+        <label class="check">
+          <input type="checkbox" data-source="${escapeAttr(s)}" />
+          <span>${escapeHTML(s)}</span>
+          <span class="count num">${counts[s]}</span>
+        </label>
+      `).join("") || `<div style="color: var(--ink-mute); font-size: 12px;">No sources yet.</div>`;
+
+      document.querySelectorAll("[data-source]").forEach((cb) => {
+        cb.addEventListener("change", () => {
+          const src = cb.getAttribute("data-source");
+          if (cb.checked) state.filters.sources.add(src);
+          else state.filters.sources.delete(src);
+          render();
+        });
+      });
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Wire filters                                                     */
+    /* ---------------------------------------------------------------- */
+    function wireFilters() {
+      const $ = (id) => document.getElementById(id);
+      $("f-q").addEventListener("input", (e) => { state.filters.q = e.target.value; render(); });
+      $("f-min").addEventListener("input", (e) => {
+        state.filters.minScore = +e.target.value;
+        $("f-min-label").textContent = e.target.value;
+        render();
+      });
+      $("f-age").addEventListener("input", (e) => {
+        state.filters.maxAge = +e.target.value;
+        $("f-age-label").textContent = e.target.value;
+        render();
+      });
+      $("f-sort").addEventListener("change", (e) => { state.filters.sort = e.target.value; render(); });
+      $("f-hide-applied").addEventListener("change", (e) => { state.filters.hideApplied = e.target.checked; render(); });
+      $("f-reset").addEventListener("click", () => {
+        state.filters = { q: "", sources: new Set(), minScore: 30, maxAge: 7, sort: "score", hideApplied: false };
+        $("f-q").value = "";
+        $("f-min").value = 30; $("f-min-label").textContent = "30";
+        $("f-age").value = 7;  $("f-age-label").textContent = "7";
+        $("f-sort").value = "score";
+        $("f-hide-applied").checked = false;
+        document.querySelectorAll("[data-source]").forEach((cb) => (cb.checked = false));
+        render();
+      });
+
+      // chip-strip clear buttons (event delegation)
+      document.getElementById("chips").addEventListener("click", (e) => {
+        const k = e.target.getAttribute("data-clear");
+        if (!k) return;
+        if (k === "q") { state.filters.q = ""; $("f-q").value = ""; }
+        if (k === "sources") {
+          state.filters.sources.clear();
+          document.querySelectorAll("[data-source]").forEach((cb) => (cb.checked = false));
+        }
+        if (k === "minScore") { state.filters.minScore = 0; $("f-min").value = 0; $("f-min-label").textContent = "0"; }
+        if (k === "maxAge") { state.filters.maxAge = 30; $("f-age").value = 30; $("f-age-label").textContent = "30"; }
+        if (k === "sort") { state.filters.sort = "score"; $("f-sort").value = "score"; }
+        if (k === "hideApplied") { state.filters.hideApplied = false; $("f-hide-applied").checked = false; }
+        render();
+      });
+    }
+
+    /* ---------------------------------------------------------------- */
+    /*  Utilities                                                        */
+    /* ---------------------------------------------------------------- */
+    function escapeHTML(s) {
+      return String(s).replace(/[&<>"']/g, (c) => ({
+        "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+      }[c]));
+    }
+    function escapeAttr(s) { return escapeHTML(s); }
+
+    /* ---------------------------------------------------------------- */
+    /*  Boot                                                             */
+    /* ---------------------------------------------------------------- */
+    await load();
+    if (state.data) {
+      buildSourceFilters();
+      wireFilters();
+    }
+  </script>
+</body>
+</html>
