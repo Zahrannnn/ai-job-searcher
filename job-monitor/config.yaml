@@ -76,6 +76,7 @@ sources:
   vuejobs: true         # Vue.js heavy, low hit rate
   remoteok: false       # API returns the same flat tag list per job, no real filter; recent 100 skew non-tech
   himalayas: true       # Remote global (JSON API) — geographic diversity, lower volume
+  linkedin: true        # Public guest search (HTML), Egypt + Cairo + Remote, 20-25 fresh items
 
 # Storage
 storage:

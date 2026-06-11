@@ -32,7 +32,7 @@ sys.path.insert(0, str(ROOT))
 
 from scraper import filters
 from scraper.sources import wuzzuf, bayt, remotive, jobicy, arbeitnow, vuejobs
-from scraper.sources import remoteok, himalayas
+from scraper.sources import remoteok, himalayas, linkedin
 from storage.json_sync import load_existing_urls, save_run, render_markdown_report
 
 SOURCES = {
@@ -44,6 +44,7 @@ SOURCES = {
     "vuejobs": vuejobs.fetch,
     "remoteok": remoteok.fetch,
     "himalayas": himalayas.fetch,
+    "linkedin": linkedin.fetch,
 }
 
 
