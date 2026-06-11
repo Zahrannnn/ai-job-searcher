@@ -58,7 +58,7 @@ filters:
     - "worldwide"
 
   # Max age in days
-  max_age_days: 7
+  max_age_days: 14
 
   # Min score to keep an item (0-100)
   min_score: 30
@@ -68,12 +68,14 @@ filters:
 
 # Source enable/disable
 sources:
-  wuzzuf: true          # Egypt/MENA (HTML) — primary
-  bayt: false           # Egypt/MENA (HTML) — Cloudflare 403s from CI, disabled
-  remotive: true        # Remote global (JSON API) — best signal
-  jobicy: false         # Remote global (JSON API) — only UK/EU sales roles, low value
-  arbeitnow: true       # Europe/Remote (JSON API) — mostly German on-site, low hit rate
-  vuejobs: true         # Vue.js heavy, some React cross-over
+  wuzzuf: true          # Egypt/MENA (HTML) — primary, 22 items
+  bayt: false           # Egypt/MENA (HTML) — Cloudflare 403s, disabled
+  remotive: true        # Remote global (JSON API) — software-dev, ~12 items, 5+ pass
+  jobicy: true          # Remote global (JSON API) — engineering industry, 20 items, 3+ pass
+  arbeitnow: true       # Europe/Remote (JSON API) — German on-site heavy, low hit rate
+  vuejobs: true         # Vue.js heavy, low hit rate
+  remoteok: false       # API returns the same flat tag list per job, no real filter; recent 100 skew non-tech
+  himalayas: true       # Remote global (JSON API) — geographic diversity, lower volume
 
 # Storage
 storage:
