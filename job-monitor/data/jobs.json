@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-11T14:05:21.530245+00:00",
-  "total_items": 26,
-  "new_count": 9,
+  "last_run": "2026-06-11T14:40:39.998844+00:00",
+  "total_items": 29,
+  "new_count": 5,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -304,7 +304,7 @@
       "is_new": false
     },
     {
-      "id": "himalayas-codeminders-1479000",
+      "id": "himalayas-codeminders-14554343",
       "name": "Senior Frontend Developer (React / TypeScript / AWS)",
       "company": "Codeminders",
       "url": "https://himalayas.app/companies/codeminders/jobs/senior-frontend-developer-react-typescript-aws",
@@ -339,64 +339,37 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4423506270",
-      "name": "Senior React Developer (React, TypeScript, Node.js)",
-      "company": "Arrow Components",
-      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-react-typescript-node-js-at-arrow-components-4423506270",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-04",
-      "age_days": 7,
-      "date_found": "2026-06-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4421118958",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "Supaapps",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4421118958",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-05",
-      "age_days": 6,
-      "date_found": "2026-06-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
       "id": "linkedin-4426000095",
       "name": "Semi Senior React Developer - Remote Work",
       "company": "BairesDev",
       "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4426000095",
       "source": "LinkedIn",
       "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-09",
+      "age_days": 2,
+      "date_found": "2026-06-11",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4425896200",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4425896200",
+      "source": "LinkedIn",
+      "location": "Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
@@ -472,7 +445,7 @@
       "date_posted": "",
       "age_days": null,
       "date_found": "2026-06-11",
-      "raw_date_text": "1 hour ago",
+      "raw_date_text": "27 minutes ago",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -571,6 +544,31 @@
       "is_new": false
     },
     {
+      "id": "linkedin-4425185238",
+      "name": "Senior Frontend Engineer (TypeScript)",
+      "company": "b_labs",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-typescript-at-b-labs-4425185238",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-07",
+      "age_days": 4,
+      "date_found": "2026-06-11",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
       "id": "linkedin-4426319577",
       "name": "Senior Frontend Engineer",
       "company": "Zeal",
@@ -592,7 +590,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-146074",
@@ -641,7 +639,7 @@
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4425527525",
@@ -664,7 +662,7 @@
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-144523",
@@ -750,6 +748,30 @@
         "fresh": 5,
         "senior_ic": 5
       },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4422825113",
+      "name": "Senior Frontend and UI/UX Engineer",
+      "company": "GamaLearn",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-and-ui-ux-engineer-at-gamalearn-4422825113",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-01",
+      "age_days": 10,
+      "date_found": "2026-06-11",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
       "is_new": true
     },
     {
@@ -773,7 +795,7 @@
         "location": 20,
         "fresh": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4422062784",
@@ -796,7 +818,7 @@
         "location": 20,
         "fresh": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-137483",
@@ -834,6 +856,53 @@
         "mobile_only": -40
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4426240017",
+      "name": "Front-end Developer",
+      "company": "AppliedAI",
+      "url": "https://ae.linkedin.com/jobs/view/front-end-developer-at-appliedai-4426240017",
+      "source": "LinkedIn",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-11",
+      "age_days": 0,
+      "date_found": "2026-06-11",
+      "score": 40,
+      "score_breakdown": {
+        "location": -15,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427517975",
+      "name": "Front-end Developer",
+      "company": "TALENTMATE",
+      "url": "https://ae.linkedin.com/jobs/view/front-end-developer-at-talentmate-4427517975",
+      "source": "LinkedIn",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-11",
+      "age_days": 0,
+      "date_found": "2026-06-11",
+      "score": 30,
+      "score_breakdown": {
+        "location": -15,
+        "fresh": 15
+      },
+      "is_new": true
     }
   ]
 }

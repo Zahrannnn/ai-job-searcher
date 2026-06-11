@@ -304,8 +304,10 @@ def tailor(job: dict) -> dict:
         "role": role,
         "job_url": job.get("url", ""),
         "is_confidential": is_confidential,
-        "cv_tex": str(cv_tex.relative_to(ROOT.parent)).replace("\\", "/"),
-        "cv_pdf": str(cv_pdf.relative_to(ROOT.parent)).replace("\\", "/") if cv_pdf else None,
+        # CV lives inside job-monitor/, so the URL is /cv/<filename>
+        "cv_tex": str(cv_tex.relative_to(ROOT)).replace("\\", "/"),
+        "cv_pdf": str(cv_pdf.relative_to(ROOT)).replace("\\", "/") if cv_pdf else None,
+        # Cover letter lives at the project root, so the URL is /cover_letters/<filename>
         "cover_tex": str(cover_tex.relative_to(ROOT.parent)).replace("\\", "/"),
         "cover_pdf": str(cover_pdf.relative_to(ROOT.parent)).replace("\\", "/") if cover_pdf else None,
     }
@@ -359,10 +361,19 @@ def main():
 
     write_status(job_id, "running", message="Generating CV and cover letter...")
     result = tailor(job)
-    # Don't double-pass job_id (it's in result) or company/role/cv_*/cover_*
-    # — only pass message + status; result is read from the same JSON.
+    # Persist the result into the status entry so the dashboard can
+    # render PDF download links without re-querying the disk.
     if result.get("cv_pdf") and result.get("cover_pdf"):
-        write_status(job_id, "done", message="Tailored successfully")
+        write_status(
+            job_id, "done",
+            message="Tailored successfully",
+            cv_pdf=result.get("cv_pdf"),
+            cover_pdf=result.get("cover_pdf"),
+            company=result.get("company"),
+            role=result.get("role"),
+            job_url=result.get("job_url"),
+            is_confidential=result.get("is_confidential", False),
+        )
     else:
         write_status(job_id, "error", message="LaTeX compilation failed")
 

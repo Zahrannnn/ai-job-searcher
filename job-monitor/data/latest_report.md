@@ -1,8 +1,8 @@
 # Job Monitor Report
 
-- **Last run:** 2026-06-11T14:05:21.530245+00:00
-- **Total items found:** 26
-- **New since last run:** 9
+- **Last run:** 2026-06-11T14:40:39.998844+00:00
+- **Total items found:** 29
+- **New since last run:** 5
 - **Alert threshold (score ≥ 70):** 17 items
 
 ## Top 17 matches (score ≥ 70)
@@ -63,22 +63,16 @@
 - **Apply:** https://himalayas.app/companies/codeminders/jobs/senior-frontend-developer-react-typescript-aws
 - **Score breakdown:** react=+25, nextjs=+15, typescript=+10, location=+20, fresh=+15, senior_ic=+5
 
-### Senior React Developer (React, TypeScript, Node.js) @ Arrow Components
-- **Score:** 100/100 — **Cairo, Cairo, Egypt** (7d ago) — On-site
-- **Source:** LinkedIn
-- **Apply:** https://eg.linkedin.com/jobs/view/senior-react-developer-react-typescript-node-js-at-arrow-components-4423506270
-- **Score breakdown:** react=+25, typescript=+10, location=+20, fresh=+10, senior_ic=+5
-
-### Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering @ Supaapps
-- **Score:** 100/100 — **Egypt** (6d ago) — On-site
-- **Source:** LinkedIn
-- **Apply:** https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4421118958
-- **Score breakdown:** react=+25, nextjs=+15, location=+20, fresh=+10, senior_ic=+5
-
 ### Semi Senior React Developer - Remote Work @ BairesDev
 - **Score:** 95/100 — **Cairo, Egypt** (2d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4426000095
+- **Score breakdown:** react=+25, location=+20, fresh=+15, senior_ic=+5
+
+### Semi Senior React Developer - Remote Work @ BairesDev
+- **Score:** 95/100 — **Egypt** (2d ago) — On-site
+- **Source:** LinkedIn
+- **Apply:** https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4425896200
 - **Score breakdown:** react=+25, location=+20, fresh=+15, senior_ic=+5
 
 ### Engineering Lead @ Confidential
@@ -116,13 +110,19 @@
 - **Apply:** https://wuzzuf.net/jobs/careers/IT-Experts-Egypt-89172
 - **Score breakdown:** react=+25, location=+20, fresh=+5
 
+### Senior Frontend Engineer (TypeScript) @ b_labs
+- **Score:** 75/100 — **Cairo, Cairo, Egypt** (4d ago) — On-site
+- **Source:** LinkedIn
+- **Apply:** https://eg.linkedin.com/jobs/view/senior-frontend-engineer-typescript-at-b-labs-4425185238
+- **Score breakdown:** typescript=+10, location=+20, fresh=+10, senior_ic=+5
+
 ### Senior Frontend Engineer @ Zeal
 - **Score:** 70/100 — **Cairo, Egypt** (2d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-zeal-4426319577
 - **Score breakdown:** location=+20, fresh=+15, senior_ic=+5
 
-## Below threshold (next 9)
+## Below threshold (next 12)
 
 - **65/100** — Developer Intern, Front-End Platform – Fall 2026 @ 1Password (Canada,  USA) — https://jobicy.com/jobs/146074-developer-intern-front-end-platform-fall-2026
 - **65/100** — Frontend Developer (Webflow) @ Palm Outsourcing (Egypt) — https://eg.linkedin.com/jobs/view/frontend-developer-webflow-at-palm-outsourcing-4388900889
@@ -130,6 +130,9 @@
 - **60/100** — Full Stack Developer @ Confidential (Cairo, Egypt) — https://wuzzuf.net/jobs/careers/actumcx-turkey-144523
 - **60/100** — Full Stack Developer @ Confidential (Riyadh, Saudi Arabia) — https://wuzzuf.net/jobs/careers/thobify-saudi-arabia-144707
 - **60/100** — Senior Frontend Engineer @ intella (Qesm El Maadi, Cairo, Egypt) — https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-intella-4422356125
+- **60/100** — Senior Frontend and UI/UX Engineer @ GamaLearn (Egypt) — https://eg.linkedin.com/jobs/view/senior-frontend-and-ui-ux-engineer-at-gamalearn-4422825113
 - **60/100** — Front-end Development Engineer, Valeo Service @ Valeo (Cairo, Cairo, Egypt) — https://eg.linkedin.com/jobs/view/front-end-development-engineer-valeo-service-at-valeo-4394975744
 - **55/100** — Front End Developer EG @ Core Code io (Cairo, Cairo, Egypt) — https://eg.linkedin.com/jobs/view/front-end-developer-eg-at-core-code-io-4422062784
 - **50/100** — Senior Software Developer (Full Stack, Lead) @ Confidential (New Cairo, Cairo, Egypt) — https://wuzzuf.net/jobs/careers/vazlane-united-kingdom-137483
+- **40/100** — Front-end Developer @ AppliedAI (Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates) — https://ae.linkedin.com/jobs/view/front-end-developer-at-appliedai-4426240017
+- **30/100** — Front-end Developer @ TALENTMATE (Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates) — https://ae.linkedin.com/jobs/view/front-end-developer-at-talentmate-4427517975
