@@ -1,0 +1,84 @@
+{
+  "_comment": [
+    "Copy this file to profile.json and fill in YOUR details.",
+    "The tailor.py script reads profile.json and generates a tailored CV and",
+    "cover letter for any job in data/jobs.json. No LaTeX editing required.",
+    "",
+    "All LaTeX special characters (\\, &, %, $, #, _, ~, ^) are auto-escaped",
+    "from your strings when they are written into the CV/CL, so you can type",
+    "natural text without worrying about backslashes."
+  ],
+
+  "identity": {
+    "_what": "Your contact details. These appear in the CV header and cover letter signoff.",
+    "first_name": "YourFirstName",
+    "last_name": "YourLastName",
+    "full_name": "Your Full Name (as it should appear on the CV)",
+    "address_lines": ["City", "Country"],
+    "phone": "+00 000 000 0000",
+    "email": "you@example.com",
+    "linkedin_url": "https://linkedin.com/in/your-handle",
+    "linkedin_label": "LinkedIn",
+    "portfolio_url": "https://your-portfolio.example.com",
+    "portfolio_label": "Portfolio"
+  },
+
+  "core_competencies": {
+    "_what": "4-6 short skill-area cards. Each is one bullet in the CV's 'Core Competencies' section. Use plain text (the script wraps it in LaTeX bold + body).",
+    "_example": [
+      {"label": "Frontend (React/Next.js)", "body": "React 18/19, Next.js, TypeScript -- component-driven accessible interfaces for SaaS dashboards."},
+      {"label": "Backend", "body": "Node.js, Python, PostgreSQL, Docker -- supporting full-stack feature delivery."}
+    ],
+    "items": []
+  },
+
+  "experience": {
+    "_what": "Work history, newest first. Most recent job is index 0. Each entry has 2-5 bullets of what you did and the impact.",
+    "_example": [
+      {
+        "start": "Jan 2024",
+        "end": "Present",
+        "title": "Senior Software Engineer",
+        "company": "Acme Corp",
+        "location": "Remote",
+        "bullets": [
+          "Led the migration of a legacy React app to Next.js, cutting page load by 60%.",
+          "Built an internal design system adopted by 5 product teams."
+        ]
+      }
+    ],
+    "items": []
+  },
+
+  "publications": {
+    "_what": "Optional. One short string per publication or notable open-source project.",
+    "items": []
+  },
+
+  "education": {
+    "_what": "List degrees in reverse-chronological order.",
+    "_example": [
+      {
+        "start": "2018",
+        "end": "2022",
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "Your University",
+        "location": "City",
+        "details": ["GPA: 3.8 / 4.0"]
+      }
+    ],
+    "items": []
+  },
+
+  "languages": {
+    "_what": "Languages you speak, with proficiency level.",
+    "items": ["English (fluent)."]
+  },
+
+  "awards": {
+    "_what": "Awards, hackathons, recognitions. Wrap the title in ** for bold.",
+    "items": []
+  },
+
+  "references": "Available upon request."
+}

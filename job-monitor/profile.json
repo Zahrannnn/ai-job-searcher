@@ -1,0 +1,110 @@
+{
+  "_comment": [
+    "Single source of truth for the candidate's CV and cover letter.",
+    "Edit this file with your details; tailor.py will read it and generate",
+    "tailored CV/cover letters in LaTeX. See profile.example.json for the",
+    "field schema with placeholder text."
+  ],
+
+  "identity": {
+    "first_name": "Mohamed",
+    "last_name": "Zahran",
+    "full_name": "Mohamed Osama Zahran",
+    "address_lines": ["Cairo", "Egypt"],
+    "phone": "+20 109 208 8922",
+    "email": "mohamedzahrann0@gmail.com",
+    "linkedin_url": "https://linkedin.com/in/mohamed-zahrann",
+    "linkedin_label": "LinkedIn",
+    "portfolio_url": "https://mohamedzahran.vercel.app",
+    "portfolio_label": "Portfolio"
+  },
+
+  "core_competencies": [
+    {
+      "label": "Frontend Engineering (React/Next.js)",
+      "body": "React 18/19, Next.js 15/16, TypeScript, Redux Toolkit, Zustand, TanStack Query -- building component-driven, accessible, multilingual interfaces for SaaS dashboards."
+    },
+    {
+      "label": "AI Integration & Applied ML",
+      "body": "Google Gemini API, HuggingFace Transformers, VAPI Voice AI, Label Studio -- embedding LLM-driven features, voice agents, and NLP pipelines into production web apps."
+    },
+    {
+      "label": "SaaS & CRM Domain",
+      "body": "Built multilingual admin/staff CRM dashboards (NedSwiss), real-time dashboards, and 3D visualization tools -- all under tight product/UX constraints for cross-regional operations."
+    },
+    {
+      "label": "Backend-Adjacent (Python/Node)",
+      "body": "Python, FastAPI, Prisma ORM, PostgreSQL, Docker -- supporting full-stack feature delivery and data-pipeline work."
+    },
+    {
+      "label": "Arabic Language & Localization",
+      "body": "Native Arabic; experience with Arabic NLP keyword extraction, RTL interfaces, and Arabic-first AI products (Turjuman)."
+    },
+    {
+      "label": "Remote Collaboration & Quality",
+      "body": "Git, feature-driven architecture, code review, Agile/Scrum -- daily collaboration with multicultural, cross-functional teams in European and MENA corporate environments."
+    }
+  ],
+
+  "experience": [
+    {
+      "start": "Nov 2025",
+      "end": "Present",
+      "title": "Front-End Developer",
+      "company": "RICOH Europe",
+      "location": "Maadi, Cairo",
+      "bullets": [
+        "Build and maintain web application features for cross-regional European operations, including an Arabic NLP keyword-extraction interface integrated with RICOH's enterprise document pipeline.",
+        "Delivered multiple production frontend projects under the CORELIA umbrella: real-time tailgating anomaly detection with live MJPEG streaming, multi-mode 3D building viewer, invoice lifecycle management, and the Arabic NLP tooling above.",
+        "Ship modular, reusable component systems with Shadcn UI, Radix UI, and Tailwind CSS, establishing patterns adopted across the CORELIA project portfolio.",
+        "Collaborate daily with multicultural, cross-functional teams in a remote-friendly European corporate environment; communicate technical decisions clearly across disciplines."
+      ]
+    },
+    {
+      "start": "Feb 2025",
+      "end": "Nov 2025",
+      "title": "Front-End Developer",
+      "company": "NedSwiss",
+      "location": "Remote, Switzerland",
+      "bullets": [
+        "Built a multilingual admin/staff CRM dashboard with rich data tables, chart analytics, and role-based navigation -- a near-direct analog to contact-center operations interfaces.",
+        "Developed a high-performance marketing website with advanced scroll animations (GSAP, Lenis) and micro-interactions, achieving smooth 60fps across devices.",
+        "Implemented internationalization (next-intl), Zod-validated contact forms, and optimized bundle performance with Turbopack."
+      ]
+    },
+    {
+      "start": "Aug 2023",
+      "end": "Jun 2025",
+      "title": "Frontend Leader",
+      "company": "GDSC -- Shorouk Academy",
+      "location": "Shorouk City",
+      "bullets": [
+        "Led the frontend track for Google Developer Student Club, running workshops and hands-on sessions for 50+ students.",
+        "Mentored developers in React, Next.js, TypeScript, and modern UI architecture patterns, reinforcing component-driven thinking and code review practices."
+      ]
+    }
+  ],
+
+  "publications": [
+    "Maintainer -- Turjuman: open-source AI-powered Arabic document translation platform."
+  ],
+
+  "education": [
+    {
+      "start": "2022",
+      "end": "2026",
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Shorouk Academy",
+      "location": "Shorouk City",
+      "details": ["GPA: 3.8 / 4.0"]
+    }
+  ],
+
+  "languages": ["Arabic (native), English (fluent)."],
+
+  "awards": [
+    "**Finalist / Winner** -- WE Innovative Hackathon (2026) for CyrusLearn Interactive Learning Platform."
+  ],
+
+  "references": "Available upon request."
+}
