@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-11T14:40:39.998844+00:00",
-  "total_items": 29,
-  "new_count": 5,
+  "last_run": "2026-06-12T05:54:05.595816+00:00",
+  "total_items": 25,
+  "new_count": 1,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -27,9 +27,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 6,
-      "date_found": "2026-06-11",
-      "raw_date_text": "6 days ago",
+      "age_days": 7,
+      "date_found": "2026-06-12",
+      "raw_date_text": "7 days ago",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -74,8 +74,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; color: #000000; letter-spacing: 0.75px;\">This is a remote role for candidates located in Belo Horizonte, Brazil</span></p>\n<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoo",
       "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
+      "age_days": 10,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -121,8 +121,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; color: #000000; letter-spacing: 0.75px;\">This is a remote role for candidates located in Florianópolis, Brazil</span></p>\n<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"> </p>\n<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"><strong>About LawnStarter</strong></p>\n<p>L",
       "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
+      "age_days": 10,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -168,8 +168,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><span style=\"  font-weight: 600; letter-spacing: 0.75px;\">This is a remote role for candidates located in </span><span style=\"\"><span style=\"letter-spacing: 0.75px;\"><strong>Porto Alegre, Brazil. </strong></span></span></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — oper",
       "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
+      "age_days": 10,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -215,8 +215,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; letter-spacing: 0.75px;  \">This is a remote role for candidates located in São Paulo.</span></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Ho",
       "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
+      "age_days": 10,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -262,8 +262,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; color: #000000; letter-spacing: 0.75px;\">This is a remote role for candidates located in Campinas (Brazil)</span></p>\n<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;  \"> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor ser",
       "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
+      "age_days": 10,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -292,8 +292,8 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered...",
       "date_posted": "2026-06-10",
-      "age_days": 1,
-      "date_found": "2026-06-11",
+      "age_days": 2,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -304,36 +304,27 @@
       "is_new": false
     },
     {
-      "id": "himalayas-codeminders-14554343",
-      "name": "Senior Frontend Developer (React / TypeScript / AWS)",
-      "company": "Codeminders",
-      "url": "https://himalayas.app/companies/codeminders/jobs/senior-frontend-developer-react-typescript-aws",
-      "source": "Himalayas",
-      "location": "Ukraine",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "React-Developer",
-        "Frontend-Engineer",
-        "Typescript-Developer",
-        "Web-Development",
-        "Senior-Front-End-Developer",
-        "Remote-Senior-Frontend-Developer-(TypeScript-NextJS)",
-        "Senior-React-Developer"
-      ],
+      "id": "linkedin-4421118958",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4421118958",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "About the RoleWe are looking for a Senior Frontend Developer who will be responsible for building modern, scalable, and high-performance web applications.",
-      "date_posted": "2026-06-11",
-      "age_days": 0,
-      "date_found": "2026-06-11",
+      "description_excerpt": "",
+      "date_posted": "2026-06-05",
+      "age_days": 7,
+      "date_found": "2026-06-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
-        "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -352,8 +343,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-09",
-      "age_days": 2,
-      "date_found": "2026-06-11",
+      "age_days": 3,
+      "date_found": "2026-06-12",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -377,8 +368,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-09",
-      "age_days": 2,
-      "date_found": "2026-06-11",
+      "age_days": 3,
+      "date_found": "2026-06-12",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -386,7 +377,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-144505",
@@ -411,9 +402,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 10,
-      "date_found": "2026-06-11",
-      "raw_date_text": "10 days ago",
+      "age_days": 11,
+      "date_found": "2026-06-12",
+      "raw_date_text": "11 days ago",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -444,8 +435,8 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-06-11",
-      "raw_date_text": "27 minutes ago",
+      "date_found": "2026-06-12",
+      "raw_date_text": "15 hours ago",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -471,40 +462,13 @@
       "salary": "",
       "description_excerpt": "Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology.What makes us...",
       "date_posted": "2026-06-10",
-      "age_days": 1,
-      "date_found": "2026-06-11",
+      "age_days": 2,
+      "date_found": "2026-06-12",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-145744",
-      "name": "Frontend Engineer React and AWS",
-      "company": "Numentica",
-      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Midweight",
-      "skills": [
-        "Software Engineering",
-        "Contract"
-      ],
-      "salary": "",
-      "description_excerpt": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B...",
-      "date_posted": "2026-06-07",
-      "age_days": 4,
-      "date_found": "2026-06-11",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -532,9 +496,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 9,
-      "date_found": "2026-06-11",
-      "raw_date_text": "9 days ago",
+      "age_days": 10,
+      "date_found": "2026-06-12",
+      "raw_date_text": "10 days ago",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -542,31 +506,6 @@
         "fresh": 5
       },
       "is_new": false
-    },
-    {
-      "id": "linkedin-4425185238",
-      "name": "Senior Frontend Engineer (TypeScript)",
-      "company": "b_labs",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-typescript-at-b-labs-4425185238",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-07",
-      "age_days": 4,
-      "date_found": "2026-06-11",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4426319577",
@@ -582,8 +521,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-09",
-      "age_days": 2,
-      "date_found": "2026-06-11",
+      "age_days": 3,
+      "date_found": "2026-06-12",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -609,54 +548,8 @@
       "salary": "",
       "description_excerpt": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up...",
       "date_posted": "2026-06-10",
-      "age_days": 1,
-      "date_found": "2026-06-11",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4388900889",
-      "name": "Frontend Developer (Webflow)",
-      "company": "Palm Outsourcing",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-webflow-at-palm-outsourcing-4388900889",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-08",
-      "age_days": 3,
-      "date_found": "2026-06-11",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4425527525",
-      "name": "Javascript Developer - Remote Work",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4425527525",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-08",
-      "age_days": 3,
-      "date_found": "2026-06-11",
+      "age_days": 2,
+      "date_found": "2026-06-12",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -684,7 +577,7 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": 7,
-      "date_found": "2026-06-11",
+      "date_found": "2026-06-12",
       "raw_date_text": "7 days ago",
       "score": 60,
       "score_breakdown": {
@@ -716,9 +609,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 4,
-      "date_found": "2026-06-11",
-      "raw_date_text": "4 days ago",
+      "age_days": 5,
+      "date_found": "2026-06-12",
+      "raw_date_text": "5 days ago",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -727,34 +620,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4422356125",
-      "name": "Senior Frontend Engineer",
-      "company": "intella",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-intella-4422356125",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-02",
-      "age_days": 9,
-      "date_found": "2026-06-11",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4422825113",
-      "name": "Senior Frontend and UI/UX Engineer",
-      "company": "GamaLearn",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-and-ui-ux-engineer-at-gamalearn-4422825113",
+      "id": "linkedin-4388900889",
+      "name": "Frontend Developer (Webflow)",
+      "company": "Palm Outsourcing",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-webflow-at-palm-outsourcing-4388900889",
       "source": "LinkedIn",
       "location": "Egypt",
       "workplace": "On-site",
@@ -763,33 +632,32 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-01",
-      "age_days": 10,
-      "date_found": "2026-06-11",
+      "date_posted": "2026-06-08",
+      "age_days": 4,
+      "date_found": "2026-06-12",
       "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "linkedin-4394975744",
-      "name": "Front-end Development Engineer, Valeo Service",
-      "company": "Valeo",
-      "url": "https://eg.linkedin.com/jobs/view/front-end-development-engineer-valeo-service-at-valeo-4394975744",
+      "id": "linkedin-4425527525",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4425527525",
       "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-05",
-      "age_days": 6,
-      "date_found": "2026-06-11",
+      "date_posted": "2026-06-08",
+      "age_days": 4,
+      "date_found": "2026-06-12",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -811,8 +679,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-05-30",
-      "age_days": 12,
-      "date_found": "2026-06-11",
+      "age_days": 13,
+      "date_found": "2026-06-12",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -844,9 +712,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 13,
-      "date_found": "2026-06-11",
-      "raw_date_text": "13 days ago",
+      "age_days": 14,
+      "date_found": "2026-06-12",
+      "raw_date_text": "14 days ago",
       "score": 50,
       "score_breakdown": {
         "react": 25,
@@ -856,6 +724,33 @@
         "mobile_only": -40
       },
       "is_new": false
+    },
+    {
+      "id": "jobicy-146173",
+      "name": "Frontend Developer (Vue.js) | Special Project Music (YBHQ)",
+      "company": "GT",
+      "url": "https://jobicy.com/jobs/146173-frontend-developer-vue-js-special-project-music-ybhq-2",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "GT was founded in 2019 by a former Apple, Nest, and Google executive. GT’s mission is to connect the world’s best talent with product careers offered by high-growth companies in the...",
+      "date_posted": "2026-06-11",
+      "age_days": 1,
+      "date_found": "2026-06-12",
+      "score": 45,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "vue_only": -20
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4426240017",
@@ -871,15 +766,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-11",
-      "age_days": 0,
-      "date_found": "2026-06-11",
+      "age_days": 1,
+      "date_found": "2026-06-12",
       "score": 40,
       "score_breakdown": {
         "location": -15,
         "fresh": 15,
         "ai": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4427517975",
@@ -895,14 +790,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-11",
-      "age_days": 0,
-      "date_found": "2026-06-11",
+      "age_days": 1,
+      "date_found": "2026-06-12",
       "score": 30,
       "score_breakdown": {
         "location": -15,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     }
   ]
 }
