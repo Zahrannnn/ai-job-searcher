@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T05:54:05.596872+00:00",
-  "total_unique": 32,
+  "last_updated": "2026-06-13T05:24:20.599218+00:00",
+  "total_unique": 40,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -976,6 +976,223 @@
         "location": 20,
         "fresh": 15,
         "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146294",
+      "name": "Senior Full-Stack Engineer (TypeScript/AI Automation) – Real Estate – LATAM",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146283",
+      "name": "Senior Full-stack Engineer (React OR Vue/Python) – Investment (Latam)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146276",
+      "name": "Senior Full-stack Engineer (Elixir/React) – veterinary software company – (Remote – LATAM)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146274",
+      "name": "Lead Product Engineer (JavaScript) – Technology Company",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146274-lead-product-engineer-javascript-technology-company",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146265",
+      "name": "Lead Front-End Engineer – Digital agency – (LATAM)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146265-lead-front-end-engineer-digital-agency-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146264",
+      "name": "Senior FullStack Engineer (C#/React) – Ecommerce (LATAM)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146264-senior-fullstack-engineer-c-react-ecommerce-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4428141572",
+      "name": "Frontend Developer (React / Next.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-react-next-js-at-house-of-iryss-4428141572",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4428119763",
+      "name": "Senior Frontend Developer (React / Next.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4428119763",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-12",
+      "age_days": 1,
+      "date_found": "2026-06-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
