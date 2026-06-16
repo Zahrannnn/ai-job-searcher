@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T06:31:10.855583+00:00",
-  "total_unique": 40,
+  "last_updated": "2026-06-16T06:37:36.143488+00:00",
+  "total_unique": 46,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1193,6 +1193,163 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-bjak-5365557",
+      "name": "Senior Software Engineer, JavaScript/TypeScript",
+      "company": "name",
+      "url": "https://himalayas.app/companies/bjak/jobs/senior-software-engineer-javascript-typescript-3081682675",
+      "source": "Himalayas",
+      "location": "Malaysia",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-JavaScript-Engineer",
+        "Senior-TypeScript-Developer",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
+        "Senior-JavaScript-Developer",
+        "Senior-Software-Engineer",
+        "Senior-Frontend-Engineer-(Angular)",
+        "Senior-Technical-Lead-JavaScript",
+        "Senior-Software-Engineer-Front-End"
+      ],
+      "salary": "",
+      "description_excerpt": "About UsBjak is focused on providing access to affordable and sustainable financial services for people in ASEAN.",
+      "date_posted": "2026-06-16",
+      "age_days": 0,
+      "date_found": "2026-06-16",
+      "score": 50,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4428899930",
+      "name": "Frontend Developer (React)",
+      "company": "Ecom Experts | Shopify Plus Agency",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-react-at-ecom-experts-shopify-plus-agency-4428899930",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 1,
+      "date_found": "2026-06-16",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427757521",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4427757521",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 1,
+      "date_found": "2026-06-16",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427752684",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4427752684",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 1,
+      "date_found": "2026-06-16",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427736576",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4427736576",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 1,
+      "date_found": "2026-06-16",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4423181302",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4423181302",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-10",
+      "age_days": 6,
+      "date_found": "2026-06-16",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10
       },
       "is_new": true
     }
