@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-16T06:37:36.143488+00:00",
-  "total_unique": 46,
+  "last_updated": "2026-06-17T06:20:58.075402+00:00",
+  "total_unique": 51,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1350,6 +1350,168 @@
         "react": 25,
         "location": 20,
         "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-22686",
+      "name": "Senior Full-Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Roaya-Electronic-Egypt-22686",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "3-7 yrs",
+      "skills": [
+        "Computer Science",
+        "Information Technology (IT)",
+        "Software Development",
+        "JavaScript"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-17",
+      "raw_date_text": "14 hours ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2069746",
+      "name": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "location": "USA, Canada, USA timezones",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails",
+        "AI/ML",
+        "CAD",
+        "advertising",
+        "Redis",
+        "ES6",
+        "web applications",
+        "MySQL",
+        "NLP",
+        "fintech",
+        "Micro services",
+        "github",
+        "system architecture"
+      ],
+      "salary": "$170k - $200k",
+      "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
+      "date_posted": "2026-06-14",
+      "age_days": 3,
+      "date_found": "2026-06-17",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-146795",
+      "name": "Front-End Developer",
+      "company": "Skylum",
+      "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
+      "source": "Jobicy",
+      "location": "Europe,  Ukraine",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of...",
+      "date_posted": "2026-06-16",
+      "age_days": 1,
+      "date_found": "2026-06-17",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-sarj-ai-15248781",
+      "name": "Fullstack Engineer",
+      "company": "Sarj.ai",
+      "url": "https://himalayas.app/companies/sarj-ai/jobs/fullstack-engineer-3257078735",
+      "source": "Himalayas",
+      "location": "Saudi Arabia",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Full-Stack-Software-Engineer",
+        "Fullstack-Software-Development-Engineer",
+        "Full-Stack-Web-Engineer",
+        "Full-Stack-Engineering",
+        "Full-Stack-JavaScript-Engineer",
+        "Full-Stack-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "Sarj. ai is hiring a Fullstack Engineer to build and scale our communications platform.",
+      "date_posted": "2026-06-17",
+      "age_days": 0,
+      "date_found": "2026-06-17",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4426833844",
+      "name": "Frontend - Full Stack Developer (Vue.js / Nuxt.js)",
+      "company": "Confidential",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-full-stack-developer-vue-js-nuxt-js-at-confidential-4426833844",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-16",
+      "age_days": 1,
+      "date_found": "2026-06-17",
+      "score": 45,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "vue_only": -20
       },
       "is_new": true
     }
