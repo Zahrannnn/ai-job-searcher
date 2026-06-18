@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T06:20:58.075402+00:00",
-  "total_unique": 51,
+  "last_updated": "2026-06-18T06:00:38.221612+00:00",
+  "total_unique": 54,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1512,6 +1512,111 @@
         "location": 20,
         "fresh": 15,
         "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-15576",
+      "name": "Senior Python Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Link-Development-Egypt-15576",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Full Time",
+      "experience_years": "2-5 yrs",
+      "skills": [
+        "Python",
+        "Next.js",
+        "full-stack development expertise",
+        "Software Development",
+        "Computer Science",
+        "CSS3",
+        "Engineering",
+        "HTML5"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-18",
+      "raw_date_text": "17 hours ago",
+      "score": 70,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2090991",
+      "name": "Frontend Developer",
+      "company": "Quinncia Inc",
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "source": "Remotive",
+      "location": "Worldwide",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "CSS",
+        "docker",
+        "frontend",
+        "graphql",
+        "javascript",
+        "react js",
+        "UI/UX",
+        "video",
+        "AI/ML",
+        "computer vision",
+        "Typescript ",
+        "data visualization",
+        "NLP",
+        "testing",
+        "next.js",
+        "github",
+        "Webpack",
+        "jest",
+        "REST"
+      ],
+      "salary": "$20k – $35k • No equity",
+      "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
+      "date_posted": "2026-06-16",
+      "age_days": 2,
+      "date_found": "2026-06-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4370070887",
+      "name": "Senior Frontend Developer",
+      "company": "Celfocus",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-celfocus-4370070887",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-17",
+      "age_days": 1,
+      "date_found": "2026-06-18",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }

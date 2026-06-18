@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-17T06:20:58.074345+00:00",
+  "last_run": "2026-06-18T06:00:38.220518+00:00",
   "total_items": 19,
-  "new_count": 5,
+  "new_count": 3,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -27,9 +27,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 12,
-      "date_found": "2026-06-17",
-      "raw_date_text": "12 days ago",
+      "age_days": 13,
+      "date_found": "2026-06-18",
+      "raw_date_text": "13 days ago",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -37,6 +37,41 @@
         "location": 20,
         "fresh": 5,
         "ai": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-144505",
+      "name": "Engineering Lead",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/lato-belgium-144505",
+      "source": "Wuzzuf",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "5-10 yrs",
+      "skills": [
+        "Computer Science",
+        "Engineering",
+        "Information Technology (IT)",
+        "Software Development",
+        "React",
+        "Typescript",
+        "JavaScript",
+        "PostgreSQL"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 2,
+      "date_found": "2026-06-18",
+      "raw_date_text": "2 days ago",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": false
     },
@@ -60,9 +95,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 6,
-      "date_found": "2026-06-17",
-      "raw_date_text": "6 days ago",
+      "age_days": 7,
+      "date_found": "2026-06-18",
+      "raw_date_text": "7 days ago",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -71,6 +106,53 @@
         "fresh": 10
       },
       "is_new": false
+    },
+    {
+      "id": "remotive-2090991",
+      "name": "Frontend Developer",
+      "company": "Quinncia Inc",
+      "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "source": "Remotive",
+      "location": "Worldwide",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "CSS",
+        "docker",
+        "frontend",
+        "graphql",
+        "javascript",
+        "react js",
+        "UI/UX",
+        "video",
+        "AI/ML",
+        "computer vision",
+        "Typescript ",
+        "data visualization",
+        "NLP",
+        "testing",
+        "next.js",
+        "github",
+        "Webpack",
+        "jest",
+        "REST"
+      ],
+      "salary": "$20k – $35k • No equity",
+      "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
+      "date_posted": "2026-06-16",
+      "age_days": 2,
+      "date_found": "2026-06-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
     },
     {
       "id": "remotive-2069746",
@@ -110,17 +192,17 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-06-14",
-      "age_days": 3,
-      "date_found": "2026-06-17",
+      "age_days": 4,
+      "date_found": "2026-06-18",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-146276",
@@ -139,8 +221,8 @@
       "salary": "",
       "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top...",
       "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
+      "age_days": 6,
+      "date_found": "2026-06-18",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -152,12 +234,12 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4428899930",
-      "name": "Frontend Developer (React)",
-      "company": "Ecom Experts | Shopify Plus Agency",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-react-at-ecom-experts-shopify-plus-agency-4428899930",
+      "id": "linkedin-4427757521",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4427757521",
       "source": "LinkedIn",
-      "location": "Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
@@ -165,14 +247,40 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 2,
-      "date_found": "2026-06-17",
-      "score": 100,
+      "age_days": 3,
+      "date_found": "2026-06-18",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4423506270",
+      "name": "Senior React Developer (React, TypeScript, Node.js)",
+      "company": "Arrow Components",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-react-typescript-node-js-at-arrow-components-4423506270",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-04",
+      "age_days": 14,
+      "date_found": "2026-06-18",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -193,76 +301,14 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
       "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
+      "age_days": 6,
+      "date_found": "2026-06-18",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-146264",
-      "name": "Senior FullStack Engineer (C#/React) – Ecommerce (LATAM)",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/146264-senior-fullstack-engineer-c-react-ecommerce-latam",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "wuzzuf-144505",
-      "name": "Engineering Lead",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/lato-belgium-144505",
-      "source": "Wuzzuf",
-      "location": "New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "Full Time",
-      "experience_years": "5-10 yrs",
-      "skills": [
-        "Computer Science",
-        "Engineering",
-        "Information Technology (IT)",
-        "Software Development",
-        "React",
-        "Typescript",
-        "JavaScript",
-        "PostgreSQL"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-06-17",
-      "raw_date_text": "19 hours ago",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20
       },
       "is_new": false
     },
@@ -283,8 +329,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
       "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
+      "age_days": 6,
+      "date_found": "2026-06-18",
       "score": 85,
       "score_breakdown": {
         "typescript": 10,
@@ -312,45 +358,101 @@
       "salary": "",
       "description_excerpt": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of...",
       "date_posted": "2026-06-16",
-      "age_days": 1,
-      "date_found": "2026-06-17",
+      "age_days": 2,
+      "date_found": "2026-06-18",
       "score": 75,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "ai": 10
       },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-15576",
+      "name": "Senior Python Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Link-Development-Egypt-15576",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Full Time",
+      "experience_years": "2-5 yrs",
+      "skills": [
+        "Python",
+        "Next.js",
+        "full-stack development expertise",
+        "Software Development",
+        "Computer Science",
+        "CSS3",
+        "Engineering",
+        "HTML5"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-18",
+      "raw_date_text": "17 hours ago",
+      "score": 70,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "senior_ic": 5
+      },
       "is_new": true
     },
     {
-      "id": "himalayas-sarj-ai-15248781",
-      "name": "Fullstack Engineer",
-      "company": "Sarj.ai",
-      "url": "https://himalayas.app/companies/sarj-ai/jobs/fullstack-engineer-3257078735",
-      "source": "Himalayas",
-      "location": "Saudi Arabia",
-      "workplace": "Remote",
+      "id": "wuzzuf-22686",
+      "name": "Senior Full-Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Roaya-Electronic-Egypt-22686",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "On-site",
       "job_type": "Full Time",
-      "experience_years": "Mid-level",
+      "experience_years": "3-7 yrs",
       "skills": [
-        "Full-Stack-Engineer",
-        "Full-Stack-Software-Engineer",
-        "Fullstack-Software-Development-Engineer",
-        "Full-Stack-Web-Engineer",
-        "Full-Stack-Engineering",
-        "Full-Stack-JavaScript-Engineer",
-        "Full-Stack-Developer"
+        "Computer Science",
+        "Information Technology (IT)",
+        "Software Development",
+        "JavaScript"
       ],
       "salary": "",
-      "description_excerpt": "Sarj. ai is hiring a Fullstack Engineer to build and scale our communications platform.",
-      "date_posted": "2026-06-17",
-      "age_days": 0,
-      "date_found": "2026-06-17",
-      "score": 75,
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 2,
+      "date_found": "2026-06-18",
+      "raw_date_text": "2 days ago",
+      "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "ai": 10
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4370070887",
+      "name": "Senior Frontend Developer",
+      "company": "Celfocus",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-celfocus-4370070887",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-17",
+      "age_days": 1,
+      "date_found": "2026-06-18",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -368,8 +470,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 2,
-      "date_found": "2026-06-17",
+      "age_days": 3,
+      "date_found": "2026-06-18",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -394,62 +496,12 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
       "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
+      "age_days": 6,
+      "date_found": "2026-06-18",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-146265",
-      "name": "Lead Front-End Engineer – Digital agency – (LATAM)",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/146265-lead-front-end-engineer-digital-agency-latam",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of...",
-      "date_posted": "2026-06-12",
-      "age_days": 5,
-      "date_found": "2026-06-17",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4426319577",
-      "name": "Senior Frontend Engineer",
-      "company": "Zeal",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-zeal-4426319577",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-09",
-      "age_days": 8,
-      "date_found": "2026-06-17",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -473,7 +525,7 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": 13,
-      "date_found": "2026-06-17",
+      "date_found": "2026-06-18",
       "raw_date_text": "13 days ago",
       "score": 55,
       "score_breakdown": {
@@ -505,44 +557,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 10,
-      "date_found": "2026-06-17",
-      "raw_date_text": "10 days ago",
+      "age_days": 11,
+      "date_found": "2026-06-18",
+      "raw_date_text": "11 days ago",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
-    },
-    {
-      "id": "wuzzuf-22686",
-      "name": "Senior Full-Stack Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/Roaya-Electronic-Egypt-22686",
-      "source": "Wuzzuf",
-      "location": "Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "Full Time",
-      "experience_years": "3-7 yrs",
-      "skills": [
-        "Computer Science",
-        "Information Technology (IT)",
-        "Software Development",
-        "JavaScript"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-06-17",
-      "raw_date_text": "14 hours ago",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4426833844",
@@ -558,15 +581,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-16",
-      "age_days": 1,
-      "date_found": "2026-06-17",
+      "age_days": 2,
+      "date_found": "2026-06-18",
       "score": 45,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "vue_only": -20
       },
-      "is_new": true
+      "is_new": false
     }
   ]
 }
