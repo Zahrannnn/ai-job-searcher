@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T06:00:38.221612+00:00",
-  "total_unique": 54,
+  "last_updated": "2026-06-19T06:24:48.913424+00:00",
+  "total_unique": 57,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1617,6 +1617,95 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-117060",
+      "name": "Full Stack Laravel CMS & Website Templates Developer (Full-Time, Remote)",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/iBrokerage Ltd.-Canada-117060",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "5-7 yrs",
+      "skills": [
+        "Software Development",
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "Information Technology (IT)",
+        "UI Design",
+        "Web Design",
+        "Web Development"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 1,
+      "date_found": "2026-06-19",
+      "raw_date_text": "1 day ago",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "php_only": -25
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147188",
+      "name": "Full Stack Engineer (Americas)",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
+      "date_posted": "2026-06-18",
+      "age_days": 1,
+      "date_found": "2026-06-19",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-144839",
+      "name": "Front-end Engineer",
+      "company": "Libertex Group",
+      "url": "https://jobicy.com/jobs/144839-front-end-engineer-2",
+      "source": "Jobicy",
+      "location": "Serbia",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Libertex Group Overview Established in 1997, the Libertex Group has helped shape the online trading industry by merging innovative technology, market movements and digital trends. The multi-awarded online trading platform, Libertex, enables...",
+      "date_posted": "2026-06-18",
+      "age_days": 1,
+      "date_found": "2026-06-19",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
