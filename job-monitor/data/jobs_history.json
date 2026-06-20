@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T06:24:48.913424+00:00",
-  "total_unique": 57,
+  "last_updated": "2026-06-20T05:21:17.265336+00:00",
+  "total_unique": 61,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1706,6 +1706,114 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-typescript-developer-cologne-256926",
+      "name": "Senior Typescript Developer (f/m/d)",
+      "company": "Sidestream",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-256926",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong>Why Join Sidestream?</strong></p>\n<p>At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect:</p>\n<ul>\n<li><strong>Impactful Work:</strong> Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI.</li>\n<li><strong>Learning &#x26; Growth:</strong> Gain mentoring from experienced professionals and ",
+      "date_posted": "2026-06-19",
+      "age_days": 1,
+      "date_found": "2026-06-20",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-seeka-technology-13290916",
+      "name": "Ionic Framework Developer - WFH/ Remote Job",
+      "company": "Seeka Technology",
+      "url": "https://himalayas.app/companies/seeka-technology/jobs/ionic-framework-developer-wfh-remote-job",
+      "source": "Himalayas",
+      "location": "Indonesia",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Mobile-Development",
+        "Ionic-Developer",
+        "Frontend-Development",
+        "Web-Development",
+        "Mobile-Engineer",
+        "Cross-Platform-Development",
+        "Ionic-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "Role and Responsibilities: As an Ionic Developer, you will play a vital role in designing, developing, and maintaining our mobile applications.",
+      "date_posted": "2026-06-20",
+      "age_days": 0,
+      "date_found": "2026-06-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427836301",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4427836301",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-18",
+      "age_days": 2,
+      "date_found": "2026-06-20",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430918853",
+      "name": "Senior Frontend Developer",
+      "company": "800 Storage",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-800-storage-4430918853",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-19",
+      "age_days": 1,
+      "date_found": "2026-06-20",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
