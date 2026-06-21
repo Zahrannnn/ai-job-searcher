@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-20T05:21:17.264219+00:00",
-  "total_items": 20,
-  "new_count": 4,
+  "last_run": "2026-06-21T06:09:14.069386+00:00",
+  "total_items": 19,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2090991",
@@ -36,8 +36,8 @@
       "salary": "$20k – $35k • No equity",
       "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
       "date_posted": "2026-06-16",
-      "age_days": 4,
-      "date_found": "2026-06-20",
+      "age_days": 5,
+      "date_found": "2026-06-21",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -88,8 +88,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-06-14",
-      "age_days": 6,
-      "date_found": "2026-06-20",
+      "age_days": 7,
+      "date_found": "2026-06-21",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -99,32 +99,6 @@
         "salary": 5
       },
       "is_new": false
-    },
-    {
-      "id": "linkedin-4427836301",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "Supaapps",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4427836301",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-18",
-      "age_days": 2,
-      "date_found": "2026-06-20",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "wuzzuf-144505",
@@ -149,9 +123,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 4,
-      "date_found": "2026-06-20",
-      "raw_date_text": "4 days ago",
+      "age_days": 5,
+      "date_found": "2026-06-21",
+      "raw_date_text": "5 days ago",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -181,9 +155,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 9,
-      "date_found": "2026-06-20",
-      "raw_date_text": "9 days ago",
+      "age_days": 10,
+      "date_found": "2026-06-21",
+      "raw_date_text": "10 days ago",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -207,8 +181,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 5,
-      "date_found": "2026-06-20",
+      "age_days": 6,
+      "date_found": "2026-06-21",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -232,8 +206,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 5,
-      "date_found": "2026-06-20",
+      "age_days": 6,
+      "date_found": "2026-06-21",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -242,6 +216,59 @@
         "senior_ic": 5
       },
       "is_new": false
+    },
+    {
+      "id": "jobicy-147188",
+      "name": "Full Stack Engineer (Americas)",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
+      "date_posted": "2026-06-18",
+      "age_days": 3,
+      "date_found": "2026-06-21",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4425825388",
+      "name": "Senior Front-End Engineer (React &amp; Angular)",
+      "company": "CoorB",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-react-angular-at-coorb-4425825388",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-09",
+      "age_days": 12,
+      "date_found": "2026-06-21",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "wuzzuf-15576",
@@ -266,43 +293,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 3,
-      "date_found": "2026-06-20",
-      "raw_date_text": "3 days ago",
-      "score": 85,
+      "age_days": 4,
+      "date_found": "2026-06-21",
+      "raw_date_text": "4 days ago",
+      "score": 80,
       "score_breakdown": {
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-147188",
-      "name": "Full Stack Engineer (Americas)",
-      "company": "infisical",
-      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Entry-Level, Junior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
-      "date_posted": "2026-06-18",
-      "age_days": 2,
-      "date_found": "2026-06-20",
-      "score": 85,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
       },
       "is_new": false
     },
@@ -322,38 +321,14 @@
       "salary": "",
       "description_excerpt": "<p><strong>Why Join Sidestream?</strong></p>\n<p>At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect:</p>\n<ul>\n<li><strong>Impactful Work:</strong> Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI.</li>\n<li><strong>Learning &#x26; Growth:</strong> Gain mentoring from experienced professionals and ",
       "date_posted": "2026-06-19",
-      "age_days": 1,
-      "date_found": "2026-06-20",
+      "age_days": 2,
+      "date_found": "2026-06-21",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4423181302",
-      "name": "Frontend Lead – React Native",
-      "company": "QNBeyond Plus",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4423181302",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-10",
-      "age_days": 10,
-      "date_found": "2026-06-20",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     },
@@ -374,8 +349,8 @@
       "salary": "",
       "description_excerpt": "Libertex Group Overview Established in 1997, the Libertex Group has helped shape the online trading industry by merging innovative technology, market movements and digital trends. The multi-awarded online trading platform, Libertex, enables...",
       "date_posted": "2026-06-18",
-      "age_days": 2,
-      "date_found": "2026-06-20",
+      "age_days": 3,
+      "date_found": "2026-06-21",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
@@ -401,8 +376,8 @@
       "salary": "",
       "description_excerpt": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of...",
       "date_posted": "2026-06-16",
-      "age_days": 4,
-      "date_found": "2026-06-20",
+      "age_days": 5,
+      "date_found": "2026-06-21",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -425,62 +400,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-17",
-      "age_days": 3,
-      "date_found": "2026-06-20",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4430918853",
-      "name": "Senior Frontend Developer",
-      "company": "800 Storage",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-800-storage-4430918853",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-19",
-      "age_days": 1,
-      "date_found": "2026-06-20",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "wuzzuf-22686",
-      "name": "Senior Full-Stack Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/Roaya-Electronic-Egypt-22686",
-      "source": "Wuzzuf",
-      "location": "Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "Full Time",
-      "experience_years": "3-7 yrs",
-      "skills": [
-        "Computer Science",
-        "Information Technology (IT)",
-        "Software Development",
-        "JavaScript"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
       "age_days": 4,
-      "date_found": "2026-06-20",
-      "raw_date_text": "4 days ago",
+      "date_found": "2026-06-21",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -490,33 +411,53 @@
       "is_new": false
     },
     {
-      "id": "himalayas-seeka-technology-13290916",
-      "name": "Ionic Framework Developer - WFH/ Remote Job",
-      "company": "Seeka Technology",
-      "url": "https://himalayas.app/companies/seeka-technology/jobs/ionic-framework-developer-wfh-remote-job",
-      "source": "Himalayas",
-      "location": "Indonesia",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "Mobile-Development",
-        "Ionic-Developer",
-        "Frontend-Development",
-        "Web-Development",
-        "Mobile-Engineer",
-        "Cross-Platform-Development",
-        "Ionic-Development"
-      ],
+      "id": "linkedin-4427736576",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4427736576",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "Role and Responsibilities: As an Ionic Developer, you will play a vital role in designing, developing, and maintaining our mobile applications.",
-      "date_posted": "2026-06-20",
-      "age_days": 0,
-      "date_found": "2026-06-20",
-      "score": 65,
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 6,
+      "date_found": "2026-06-21",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-35895",
+      "name": "Senior Full-Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Orient-Egypt-Egypt-35895",
+      "source": "Wuzzuf",
+      "location": "Dokki, Giza, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "5-7 yrs",
+      "skills": [
+        "Software Development",
+        "JavaScript",
+        "Computer Science"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-21",
+      "raw_date_text": "2 hours ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -543,15 +484,44 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 13,
-      "date_found": "2026-06-20",
-      "raw_date_text": "13 days ago",
+      "age_days": 14,
+      "date_found": "2026-06-21",
+      "raw_date_text": "14 days ago",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "wuzzuf-15615",
+      "name": "Frontend Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/nichepharma-Egypt-15615",
+      "source": "Wuzzuf",
+      "location": "Sheikh Zayed, Giza, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Internship",
+      "experience_years": "Student",
+      "skills": [
+        "Computer Science",
+        "JavaScript",
+        "Software Development",
+        "UI"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 9,
+      "date_found": "2026-06-21",
+      "raw_date_text": "9 days ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": true
     },
     {
       "id": "wuzzuf-117060",
@@ -576,9 +546,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 2,
-      "date_found": "2026-06-20",
-      "raw_date_text": "2 days ago",
+      "age_days": 3,
+      "date_found": "2026-06-21",
+      "raw_date_text": "3 days ago",
       "score": 40,
       "score_breakdown": {
         "location": 20,
@@ -601,8 +571,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-16",
-      "age_days": 4,
-      "date_found": "2026-06-20",
+      "age_days": 5,
+      "date_found": "2026-06-21",
       "score": 40,
       "score_breakdown": {
         "location": 20,

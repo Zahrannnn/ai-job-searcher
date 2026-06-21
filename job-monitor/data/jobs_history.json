@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T05:21:17.265336+00:00",
-  "total_unique": 61,
+  "last_updated": "2026-06-21T06:09:14.070586+00:00",
+  "total_unique": 64,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1813,6 +1813,88 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-35895",
+      "name": "Senior Full-Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Orient-Egypt-Egypt-35895",
+      "source": "Wuzzuf",
+      "location": "Dokki, Giza, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "5-7 yrs",
+      "skills": [
+        "Software Development",
+        "JavaScript",
+        "Computer Science"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-21",
+      "raw_date_text": "2 hours ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-15615",
+      "name": "Frontend Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/nichepharma-Egypt-15615",
+      "source": "Wuzzuf",
+      "location": "Sheikh Zayed, Giza, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Internship",
+      "experience_years": "Student",
+      "skills": [
+        "Computer Science",
+        "JavaScript",
+        "Software Development",
+        "UI"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 9,
+      "date_found": "2026-06-21",
+      "raw_date_text": "9 days ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4425825388",
+      "name": "Senior Front-End Engineer (React &amp; Angular)",
+      "company": "CoorB",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-react-angular-at-coorb-4425825388",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-09",
+      "age_days": 12,
+      "date_found": "2026-06-21",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": true
