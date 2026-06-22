@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T06:09:14.070586+00:00",
-  "total_unique": 64,
+  "last_updated": "2026-06-22T06:34:08.639979+00:00",
+  "total_unique": 67,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1896,6 +1896,80 @@
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147332",
+      "name": "Full Stack Engineer (Global)",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/147332-full-stack-engineer-global",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
+      "date_posted": "2026-06-21",
+      "age_days": 1,
+      "date_found": "2026-06-22",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4431399794",
+      "name": "Frontend Developer",
+      "company": "Valify Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-valify-solutions-4431399794",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-21",
+      "age_days": 1,
+      "date_found": "2026-06-22",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427727973",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4427727973",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 7,
+      "date_found": "2026-06-22",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
       },
       "is_new": true
     }

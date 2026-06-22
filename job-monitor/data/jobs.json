@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-21T06:09:14.069386+00:00",
+  "last_run": "2026-06-22T06:34:08.638645+00:00",
   "total_items": 19,
   "new_count": 3,
   "items": [
@@ -36,8 +36,8 @@
       "salary": "$20k – $35k • No equity",
       "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
       "date_posted": "2026-06-16",
-      "age_days": 5,
-      "date_found": "2026-06-21",
+      "age_days": 6,
+      "date_found": "2026-06-22",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -47,6 +47,99 @@
         "fresh": 10,
         "ai": 10,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4427836301",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4427836301",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-18",
+      "age_days": 4,
+      "date_found": "2026-06-22",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-144505",
+      "name": "Engineering Lead",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/lato-belgium-144505",
+      "source": "Wuzzuf",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "5-10 yrs",
+      "skills": [
+        "Computer Science",
+        "Engineering",
+        "Information Technology (IT)",
+        "Software Development",
+        "React",
+        "Typescript",
+        "JavaScript",
+        "PostgreSQL"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 6,
+      "date_found": "2026-06-22",
+      "raw_date_text": "6 days ago",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-144959",
+      "name": "Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/halo-united-kingdom-144959",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Freelance / Project",
+      "experience_years": "5-10 yrs",
+      "skills": [
+        "JavaScript",
+        "React js",
+        "Nextjs",
+        "Nodejs",
+        "Supabase"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 11,
+      "date_found": "2026-06-22",
+      "raw_date_text": "11 days ago",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5
       },
       "is_new": false
     },
@@ -88,107 +181,15 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-06-14",
-      "age_days": 7,
-      "date_found": "2026-06-21",
-      "score": 100,
+      "age_days": 8,
+      "date_found": "2026-06-22",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "ai": 10,
         "salary": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "wuzzuf-144505",
-      "name": "Engineering Lead",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/lato-belgium-144505",
-      "source": "Wuzzuf",
-      "location": "New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "Full Time",
-      "experience_years": "5-10 yrs",
-      "skills": [
-        "Computer Science",
-        "Engineering",
-        "Information Technology (IT)",
-        "Software Development",
-        "React",
-        "Typescript",
-        "JavaScript",
-        "PostgreSQL"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 5,
-      "date_found": "2026-06-21",
-      "raw_date_text": "5 days ago",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "wuzzuf-144959",
-      "name": "Full Stack Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/halo-united-kingdom-144959",
-      "source": "Wuzzuf",
-      "location": "Cairo, Egypt",
-      "workplace": "Remote",
-      "job_type": "Freelance / Project",
-      "experience_years": "5-10 yrs",
-      "skills": [
-        "JavaScript",
-        "React js",
-        "Nextjs",
-        "Nodejs",
-        "Supabase"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 10,
-      "date_found": "2026-06-21",
-      "raw_date_text": "10 days ago",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4427757521",
-      "name": "Semi Senior React Developer - Remote Work",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4427757521",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-15",
-      "age_days": 6,
-      "date_found": "2026-06-21",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -206,8 +207,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 6,
-      "date_found": "2026-06-21",
+      "age_days": 7,
+      "date_found": "2026-06-22",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -218,10 +219,10 @@
       "is_new": false
     },
     {
-      "id": "jobicy-147188",
-      "name": "Full Stack Engineer (Americas)",
+      "id": "jobicy-147332",
+      "name": "Full Stack Engineer (Global)",
       "company": "infisical",
-      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+      "url": "https://jobicy.com/jobs/147332-full-stack-engineer-global",
       "source": "Jobicy",
       "location": "USA",
       "workplace": "Remote",
@@ -233,9 +234,9 @@
       ],
       "salary": "",
       "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
-      "date_posted": "2026-06-18",
-      "age_days": 3,
-      "date_found": "2026-06-21",
+      "date_posted": "2026-06-21",
+      "age_days": 1,
+      "date_found": "2026-06-22",
       "score": 85,
       "score_breakdown": {
         "typescript": 10,
@@ -243,7 +244,7 @@
         "fresh": 15,
         "ai": 10
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4425825388",
@@ -259,8 +260,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-09",
-      "age_days": 12,
-      "date_found": "2026-06-21",
+      "age_days": 13,
+      "date_found": "2026-06-22",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -268,7 +269,7 @@
         "fresh": 5,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-15576",
@@ -293,9 +294,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 4,
-      "date_found": "2026-06-21",
-      "raw_date_text": "4 days ago",
+      "age_days": 5,
+      "date_found": "2026-06-22",
+      "raw_date_text": "5 days ago",
       "score": 80,
       "score_breakdown": {
         "nextjs": 15,
@@ -306,29 +307,30 @@
       "is_new": false
     },
     {
-      "id": "arbeitnow-senior-typescript-developer-cologne-256926",
-      "name": "Senior Typescript Developer (f/m/d)",
-      "company": "Sidestream",
-      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-256926",
-      "source": "Arbeitnow",
-      "location": "Cologne",
+      "id": "jobicy-147188",
+      "name": "Full Stack Engineer (Americas)",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/147188-full-stack-engineer-americas",
+      "source": "Jobicy",
+      "location": "USA",
       "workplace": "Remote",
-      "experience_years": "",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
       "skills": [
-        "Remote",
-        "Software Development"
+        "Software Engineering",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "<p><strong>Why Join Sidestream?</strong></p>\n<p>At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect:</p>\n<ul>\n<li><strong>Impactful Work:</strong> Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI.</li>\n<li><strong>Learning &#x26; Growth:</strong> Gain mentoring from experienced professionals and ",
-      "date_posted": "2026-06-19",
-      "age_days": 2,
-      "date_found": "2026-06-21",
+      "description_excerpt": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
+      "date_posted": "2026-06-18",
+      "age_days": 4,
+      "date_found": "2026-06-22",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 10,
+        "ai": 10
       },
       "is_new": false
     },
@@ -349,48 +351,51 @@
       "salary": "",
       "description_excerpt": "Libertex Group Overview Established in 1997, the Libertex Group has helped shape the online trading industry by merging innovative technology, market movements and digital trends. The multi-awarded online trading platform, Libertex, enables...",
       "date_posted": "2026-06-18",
-      "age_days": 3,
-      "date_found": "2026-06-21",
-      "score": 75,
+      "age_days": 4,
+      "date_found": "2026-06-22",
+      "score": 70,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
     {
-      "id": "jobicy-146795",
-      "name": "Front-End Developer",
-      "company": "Skylum",
-      "url": "https://jobicy.com/jobs/146795-front-end-developer-2",
-      "source": "Jobicy",
-      "location": "Europe,  Ukraine",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Midweight",
+      "id": "wuzzuf-22686",
+      "name": "Senior Full-Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Roaya-Electronic-Egypt-22686",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "3-7 yrs",
       "skills": [
-        "Programming",
-        "Full-Time"
+        "Computer Science",
+        "Information Technology (IT)",
+        "Software Development",
+        "JavaScript"
       ],
       "salary": "",
-      "description_excerpt": "Skylum allows millions of photographers to make incredible images. Our award-winning software automates photo editing with the power of AI yet leaves all the creative control in the hands of...",
-      "date_posted": "2026-06-16",
-      "age_days": 5,
-      "date_found": "2026-06-21",
-      "score": 70,
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 6,
+      "date_found": "2026-06-22",
+      "raw_date_text": "6 days ago",
+      "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
-        "ai": 10
+        "senior_ic": 5
       },
       "is_new": false
     },
     {
-      "id": "linkedin-4370070887",
-      "name": "Senior Frontend Developer",
-      "company": "Celfocus",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-celfocus-4370070887",
+      "id": "linkedin-4431399794",
+      "name": "Frontend Developer",
+      "company": "Valify Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-valify-solutions-4431399794",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -399,16 +404,38 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-17",
-      "age_days": 4,
-      "date_found": "2026-06-21",
+      "date_posted": "2026-06-21",
+      "age_days": 1,
+      "date_found": "2026-06-22",
       "score": 65,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
+        "fresh": 15
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4427727973",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4427727973",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-15",
+      "age_days": 7,
+      "date_found": "2026-06-22",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4427736576",
@@ -424,8 +451,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-15",
-      "age_days": 6,
-      "date_found": "2026-06-21",
+      "age_days": 7,
+      "date_found": "2026-06-22",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -452,45 +479,12 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-06-21",
-      "raw_date_text": "2 hours ago",
+      "date_found": "2026-06-22",
+      "raw_date_text": "22 hours ago",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "wuzzuf-144707",
-      "name": "Full Stack Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/thobify-saudi-arabia-144707",
-      "source": "Wuzzuf",
-      "location": "Riyadh, Saudi Arabia",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "",
-      "skills": [
-        "Computer Science",
-        "Information Technology (IT)",
-        "Software Development",
-        "JavaScript",
-        "UI/UX",
-        "SW Development",
-        "Program Development",
-        "Graphic Design"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 14,
-      "date_found": "2026-06-21",
-      "raw_date_text": "14 days ago",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     },
@@ -513,15 +507,39 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 9,
-      "date_found": "2026-06-21",
-      "raw_date_text": "9 days ago",
+      "age_days": 10,
+      "date_found": "2026-06-22",
+      "raw_date_text": "10 days ago",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4426833844",
+      "name": "Frontend - Full Stack Developer (Vue.js / Nuxt.js)",
+      "company": "Confidential",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-full-stack-developer-vue-js-nuxt-js-at-confidential-4426833844",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-16",
+      "age_days": 6,
+      "date_found": "2026-06-22",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10,
+        "vue_only": -20
+      },
+      "is_new": false
     },
     {
       "id": "wuzzuf-117060",
@@ -546,38 +564,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 3,
-      "date_found": "2026-06-21",
-      "raw_date_text": "3 days ago",
-      "score": 40,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "php_only": -25
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4426833844",
-      "name": "Frontend - Full Stack Developer (Vue.js / Nuxt.js)",
-      "company": "Confidential",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-full-stack-developer-vue-js-nuxt-js-at-confidential-4426833844",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-16",
-      "age_days": 5,
-      "date_found": "2026-06-21",
-      "score": 40,
+      "age_days": 4,
+      "date_found": "2026-06-22",
+      "raw_date_text": "4 days ago",
+      "score": 35,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
-        "vue_only": -20
+        "php_only": -25
       },
       "is_new": false
     }
