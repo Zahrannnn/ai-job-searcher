@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-22T06:34:08.639979+00:00",
-  "total_unique": 67,
+  "last_updated": "2026-06-23T05:08:03.921639+00:00",
+  "total_unique": 73,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -1970,6 +1970,169 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-2056",
+      "name": "Senior Frontend Developer- Angular",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/egabi-solution-Egypt-2056",
+      "source": "Wuzzuf",
+      "location": "Sheraton, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "4-7 yrs",
+      "skills": [
+        "Computer Science",
+        "Information Technology (IT)",
+        "javaScript",
+        "CSS",
+        "CSS3",
+        "Software Development",
+        "Angular2+",
+        "Angular"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 1,
+      "date_found": "2026-06-23",
+      "raw_date_text": "1 day ago",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-karriere-tutor-gmbh-5811438",
+      "name": "Freiberufliche Lehrkraft (w/m/d) für JavaScript für Vertretungen",
+      "company": "karriere tutor GmbH",
+      "url": "https://himalayas.app/companies/karriere-tutor-gmbh/jobs/freiberufliche-lehrkraft-w-m-d-fur-javascript-fur-vertretungen-6859460095",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Entry-level",
+      "skills": [
+        "JavaScript-Training",
+        "Technical-Instructor",
+        "Adult-Education",
+        "IT-Training",
+        "Freelance-Teaching",
+        "Substitute-Teaching",
+        "Freiberufliche-Lehrkraft",
+        "Remote-German-IT-Instructor"
+      ],
+      "salary": "",
+      "description_excerpt": "deine rolle bei karriere tutor®Wir suchen engagierte und kompetente freiberufliche Dozierende (m/w/d) für den Kurs JavaScript die unser Team im Rahmen von Vertretungseinsätzen in verschiedenen Fachbereichen unterstützen.",
+      "date_posted": "2026-06-23",
+      "age_days": 0,
+      "date_found": "2026-06-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430599955",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4430599955",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-22",
+      "age_days": 1,
+      "date_found": "2026-06-23",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430597381",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4430597381",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-22",
+      "age_days": 1,
+      "date_found": "2026-06-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430584476",
+      "name": "Javascript Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4430584476",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-22",
+      "age_days": 1,
+      "date_found": "2026-06-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430817093",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4430817093",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-22",
+      "age_days": 1,
+      "date_found": "2026-06-23",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
