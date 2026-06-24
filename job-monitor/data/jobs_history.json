@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T05:08:03.921639+00:00",
-  "total_unique": 73,
+  "last_updated": "2026-06-24T05:05:48.176104+00:00",
+  "total_unique": 81,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -2133,6 +2133,233 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-145395",
+      "name": "مهندس برمجيات",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/swakip-saudi-arabia-145395",
+      "source": "Wuzzuf",
+      "location": "Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "1-2 yrs",
+      "skills": [
+        "* HTML5",
+        "* CSS3",
+        "* JavaScript",
+        "* TypeScript",
+        "React.js",
+        "Next.js",
+        "Node.js",
+        "MySQL",
+        "* Git & GitHub"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-24",
+      "raw_date_text": "16 hours ago",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147496",
+      "name": "Senior Frontend Software Engineer, Home Experience",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit...",
+      "date_posted": "2026-06-23",
+      "age_days": 1,
+      "date_found": "2026-06-24",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-ultimate-jet-vacations-5652742",
+      "name": "Senior Fullstack Engineer - PHP/Laravel",
+      "company": "Ultimate Jet Vacations",
+      "url": "https://himalayas.app/companies/ultimate-jet-vacations/jobs/senior-fullstack-engineer-php-laravel",
+      "source": "Himalayas",
+      "location": "Argentina",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "PHP-Development",
+        "Backend-Engineering",
+        "Frontend-Engineering",
+        "Software-Engineering",
+        "Senior-Full-Stack-PHP-Developer",
+        "Senior-Full-Stack-Laravel-React-Developer",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Engineer",
+        "Senior-Laravel-Developer",
+        "Fullstack-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "About UJV Who Are We?  Planning and managing a 5-star vacation from scratch requires expertise, cleverness, and a genuine passion for detail.",
+      "date_posted": "2026-06-24",
+      "age_days": 0,
+      "date_found": "2026-06-24",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-careerteam-llc-16231658",
+      "name": "Software Engineer - Remote",
+      "company": "CareerTEAM, LLC",
+      "url": "https://himalayas.app/companies/careerteam-llc/jobs/software-engineer-remote",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Web-Developer",
+        "Remote-Senior-Software-Engineer",
+        "Back-End-Developer",
+        "Front-End-Developer"
+      ],
+      "salary": "30000-90000 PHP",
+      "description_excerpt": "Job Title: Software Engineer - Remote Level: Mid-Level Location: Manila, Cebu, Davao (aside from Remote) Work Hours: Night Shift (10PM - 7am PHT) Pay Band: Php 30,000 - 90,000 It’s not just about the tech; it’s about the people!",
+      "date_posted": "2026-06-24",
+      "age_days": 0,
+      "date_found": "2026-06-24",
+      "score": 45,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5,
+        "php_only": -25
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4431229584",
+      "name": "Front End Engineer",
+      "company": "Octane",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-engineer-at-octane-4431229584",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-23",
+      "age_days": 1,
+      "date_found": "2026-06-24",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4432251330",
+      "name": "Frontend Developer (React)",
+      "company": "Swisstech",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-react-at-swisstech-4432251330",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-23",
+      "age_days": 1,
+      "date_found": "2026-06-24",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430836710",
+      "name": "AI-enabled Senior Software Engineer (Typescript Focus)",
+      "company": "AccessOwl",
+      "url": "https://eg.linkedin.com/jobs/view/ai-enabled-senior-software-engineer-typescript-focus-at-accessowl-4430836710",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-23",
+      "age_days": 1,
+      "date_found": "2026-06-24",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4432289265",
+      "name": "Frontend Engineer &amp; UI Designer (Developer Tooling)",
+      "company": "SearchApi",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-ui-designer-developer-tooling-at-searchapi-4432289265",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-23",
+      "age_days": 1,
+      "date_found": "2026-06-24",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
