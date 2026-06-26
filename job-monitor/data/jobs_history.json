@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T05:10:10.787186+00:00",
-  "total_unique": 89,
+  "last_updated": "2026-06-26T05:14:16.346673+00:00",
+  "total_unique": 94,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -2682,6 +2682,154 @@
         "location": 20,
         "fresh": 15,
         "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-142967",
+      "name": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/142967-python-react-engineer-with-ai-remote-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered...",
+      "date_posted": "2026-06-25",
+      "age_days": 1,
+      "date_found": "2026-06-26",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-upland-software-11119239",
+      "name": "Senior Software Engineer I",
+      "company": "Upland Software",
+      "url": "https://himalayas.app/companies/upland-software/jobs/senior-software-engineer-i",
+      "source": "Himalayas",
+      "location": "India",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Software-Engineer",
+        "Cloud-Engineering",
+        "Backend-Engineering",
+        "Frontend-Engineering",
+        "Sr.-Software-Engineer",
+        "Senior-Software-Development-Engineer",
+        "Senior-Staff-Software-Engineer",
+        "Senior-Lead-Software-Engineer",
+        "Fullstack-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "Senior Software Engineer IJob DescriptionOpportunity SummaryWe are looking for an enthusiastic and dynamic individual to join Upland India as a Senior Software Engineer I for our Upland InGenius product.",
+      "date_posted": "2026-06-26",
+      "age_days": 0,
+      "date_found": "2026-06-26",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-fastrocket-11403319",
+      "name": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.",
+      "company": "FastRocket",
+      "url": "https://himalayas.app/companies/fastrocket/jobs/full-stack-softwareentwickler-m-w-d-react-next-js-oder-angular-nest-js-node",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Software-Development",
+        "Web-Development",
+        "Frontend-Development",
+        "Backend-Development",
+        "Full-Stack-Developer-(Next.Js-React)",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Mid-Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Fullstack-Development"
+      ],
+      "salary": "45000-60000 EUR",
+      "description_excerpt": "Bist du bereit, deine Karriere auf die nächste Stufe zu heben?",
+      "date_posted": "2026-06-26",
+      "age_days": 0,
+      "date_found": "2026-06-26",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4430223351",
+      "name": "Senior Front End Developer-VOIS",
+      "company": "VOIS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-developer-vois-at-vois-4430223351",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-25",
+      "age_days": 1,
+      "date_found": "2026-06-26",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4433092091",
+      "name": "Senior ReactJS Developer",
+      "company": "Advansys",
+      "url": "https://eg.linkedin.com/jobs/view/senior-reactjs-developer-at-advansys-4433092091",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-25",
+      "age_days": 1,
+      "date_found": "2026-06-26",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
         "senior_ic": 5
       },
       "is_new": true
