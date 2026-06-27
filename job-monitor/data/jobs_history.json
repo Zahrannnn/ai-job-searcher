@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T05:14:16.346673+00:00",
-  "total_unique": 94,
+  "last_updated": "2026-06-27T04:57:09.422301+00:00",
+  "total_unique": 96,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -2831,6 +2831,68 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-106997",
+      "name": "Sr.Full Stack Java Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/hr@clinizone.net-Egypt-106997",
+      "source": "Wuzzuf",
+      "location": "Sheraton, Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "6-7 yrs",
+      "skills": [
+        "JWT/OAuth2",
+        "Java",
+        "Software Development",
+        "JavaScript",
+        "RESTful APIs and",
+        "Microservices",
+        "FHIR, HL7, DICOM, CDA, and IHE Profiles.",
+        "Maven/Gradle, and CI/CD tools",
+        "Angular"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 2,
+      "date_found": "2026-06-27",
+      "raw_date_text": "2 days ago",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-144087",
+      "name": "Software Developer in Test (JavaScript)",
+      "company": "Veeam Software",
+      "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
+      "source": "Jobicy",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
+      "date_posted": "2026-06-26",
+      "age_days": 1,
+      "date_found": "2026-06-27",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
       },
       "is_new": true
     }

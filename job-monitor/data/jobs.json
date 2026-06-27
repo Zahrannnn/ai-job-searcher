@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-26T05:14:16.345062+00:00",
-  "total_items": 30,
-  "new_count": 5,
+  "last_run": "2026-06-27T04:57:09.420755+00:00",
+  "total_items": 28,
+  "new_count": 2,
   "items": [
     {
       "id": "wuzzuf-145395",
@@ -27,16 +27,16 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 3,
-      "date_found": "2026-06-26",
-      "raw_date_text": "3 days ago",
+      "age_days": 4,
+      "date_found": "2026-06-27",
+      "raw_date_text": "4 days ago",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -74,14 +74,14 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><span style=\"white-space: normal;\"><strong>São Paulo</strong></span><strong>, Brazil.</strong></p>\n<p> </p>\n<p><strong>LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on ",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
@@ -117,13 +117,13 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><strong>Florianópolis, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p> </p>\n<p><strong>A",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
@@ -160,13 +160,13 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in <span style=\"white-space: normal;\">São Paulo</span>, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
@@ -203,13 +203,13 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Belo Horizonte, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnS",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
@@ -246,13 +246,13 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<div class=\"h3\"><strong><span style=\"\">This is a remote role for candidates located in </span><span style=\"\">Campinas, Brazil.</span></strong></div>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shar",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
@@ -289,13 +289,13 @@
       "salary": "$45k- $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Porto Alegre, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnSta",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
+      "age_days": 4,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
@@ -335,8 +335,8 @@
       "salary": "$20k – $35k • No equity",
       "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
       "date_posted": "2026-06-16",
-      "age_days": 10,
-      "date_found": "2026-06-26",
+      "age_days": 11,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -364,18 +364,19 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered...",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
       "date_posted": "2026-06-25",
-      "age_days": 1,
-      "date_found": "2026-06-26",
+      "age_days": 2,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "ai": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-147648",
@@ -392,10 +393,10 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "The company and our mission:  Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations...",
+      "description_excerpt": "The company and our mission:  Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver real impact. Our teams bring deep expertise in AI driven platforms, secure API architectures, and cloud&hellip;",
       "date_posted": "2026-06-24",
-      "age_days": 2,
-      "date_found": "2026-06-26",
+      "age_days": 3,
+      "date_found": "2026-06-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -403,69 +404,6 @@
         "location": 20,
         "fresh": 15,
         "ai": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-fastrocket-11403319",
-      "name": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.",
-      "company": "FastRocket",
-      "url": "https://himalayas.app/companies/fastrocket/jobs/full-stack-softwareentwickler-m-w-d-react-next-js-oder-angular-nest-js-node",
-      "source": "Himalayas",
-      "location": "Germany",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "Software-Development",
-        "Web-Development",
-        "Frontend-Development",
-        "Backend-Development",
-        "Full-Stack-Developer-(Next.Js-React)",
-        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
-        "Senior-Full-Stack-Developer-(React-Node.Js)",
-        "Mid-Senior-Full-Stack-Developer-(React-Node.Js)",
-        "Fullstack-Development"
-      ],
-      "salary": "45000-60000 EUR",
-      "description_excerpt": "Bist du bereit, deine Karriere auf die nächste Stufe zu heben?",
-      "date_posted": "2026-06-26",
-      "age_days": 0,
-      "date_found": "2026-06-26",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4427836301",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "Supaapps",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4427836301",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-18",
-      "age_days": 8,
-      "date_found": "2026-06-26",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -508,8 +446,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-06-14",
-      "age_days": 12,
-      "date_found": "2026-06-26",
+      "age_days": 13,
+      "date_found": "2026-06-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -534,8 +472,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-25",
-      "age_days": 1,
-      "date_found": "2026-06-26",
+      "age_days": 2,
+      "date_found": "2026-06-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -543,7 +481,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-144505",
@@ -568,40 +506,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 10,
-      "date_found": "2026-06-26",
-      "raw_date_text": "10 days ago",
+      "age_days": 11,
+      "date_found": "2026-06-27",
+      "raw_date_text": "11 days ago",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
         "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4430817093",
-      "name": "Semi Senior React Developer - Remote Work",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4430817093",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-22",
-      "age_days": 4,
-      "date_found": "2026-06-26",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -619,8 +532,33 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-22",
-      "age_days": 4,
-      "date_found": "2026-06-26",
+      "age_days": 5,
+      "date_found": "2026-06-27",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4430817093",
+      "name": "Semi Senior React Developer - Remote Work",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-at-bairesdev-4430817093",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-22",
+      "age_days": 5,
+      "date_found": "2026-06-27",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -653,9 +591,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 9,
-      "date_found": "2026-06-26",
-      "raw_date_text": "9 days ago",
+      "age_days": 10,
+      "date_found": "2026-06-27",
+      "raw_date_text": "10 days ago",
       "score": 75,
       "score_breakdown": {
         "nextjs": 15,
@@ -666,38 +604,56 @@
       "is_new": false
     },
     {
-      "id": "himalayas-upland-software-11119239",
-      "name": "Senior Software Engineer I",
-      "company": "Upland Software",
-      "url": "https://himalayas.app/companies/upland-software/jobs/senior-software-engineer-i",
-      "source": "Himalayas",
-      "location": "India",
+      "id": "jobicy-144087",
+      "name": "Software Developer in Test (JavaScript)",
+      "company": "Veeam Software",
+      "url": "https://jobicy.com/jobs/144087-software-developer-in-test-javascript-2",
+      "source": "Jobicy",
+      "location": "Poland",
       "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
+      "job_type": "",
+      "experience_years": "Midweight",
       "skills": [
-        "Senior-Software-Engineer",
-        "Cloud-Engineering",
-        "Backend-Engineering",
-        "Frontend-Engineering",
-        "Sr.-Software-Engineer",
-        "Senior-Software-Development-Engineer",
-        "Senior-Staff-Software-Engineer",
-        "Senior-Lead-Software-Engineer",
-        "Fullstack-Development"
+        "Programming",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Senior Software Engineer IJob DescriptionOpportunity SummaryWe are looking for an enthusiastic and dynamic individual to join Upland India as a Senior Software Engineer I for our Upland InGenius product.",
+      "description_excerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
       "date_posted": "2026-06-26",
-      "age_days": 0,
-      "date_found": "2026-06-26",
-      "score": 70,
+      "age_days": 1,
+      "date_found": "2026-06-27",
+      "score": 75,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
+        "ai": 10
       },
       "is_new": true
+    },
+    {
+      "id": "linkedin-4430836710",
+      "name": "AI-enabled Senior Software Engineer (Typescript Focus)",
+      "company": "AccessOwl",
+      "url": "https://eg.linkedin.com/jobs/view/ai-enabled-senior-software-engineer-typescript-focus-at-accessowl-4430836710",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-23",
+      "age_days": 4,
+      "date_found": "2026-06-27",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
     },
     {
       "id": "linkedin-4430223351",
@@ -713,15 +669,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-25",
-      "age_days": 1,
-      "date_found": "2026-06-26",
+      "age_days": 2,
+      "date_found": "2026-06-27",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wuzzuf-35895",
@@ -741,9 +697,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 5,
-      "date_found": "2026-06-26",
-      "raw_date_text": "5 days ago",
+      "age_days": 6,
+      "date_found": "2026-06-27",
+      "raw_date_text": "6 days ago",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -766,12 +722,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
-      "score": 65,
+      "age_days": 4,
+      "date_found": "2026-06-27",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -789,31 +745,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-23",
-      "age_days": 3,
-      "date_found": "2026-06-26",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4430597381",
-      "name": "Javascript Developer - Remote Work",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-at-bairesdev-4430597381",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-22",
       "age_days": 4,
-      "date_found": "2026-06-26",
+      "date_found": "2026-06-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -835,41 +768,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-22",
-      "age_days": 4,
-      "date_found": "2026-06-26",
+      "age_days": 5,
+      "date_found": "2026-06-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "wuzzuf-15615",
-      "name": "Frontend Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/nichepharma-Egypt-15615",
-      "source": "Wuzzuf",
-      "location": "Sheikh Zayed, Giza, Egypt",
-      "workplace": "Hybrid",
-      "job_type": "Internship",
-      "experience_years": "Student",
-      "skills": [
-        "Computer Science",
-        "JavaScript",
-        "Software Development",
-        "UI"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 14,
-      "date_found": "2026-06-26",
-      "raw_date_text": "14 days ago",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     },
@@ -893,13 +797,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 3,
-      "date_found": "2026-06-26",
-      "raw_date_text": "3 days ago",
-      "score": 40,
+      "age_days": 4,
+      "date_found": "2026-06-27",
+      "raw_date_text": "4 days ago",
+      "score": 35,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "net_only": -25
       },
       "is_new": false
@@ -927,9 +831,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 4,
-      "date_found": "2026-06-26",
-      "raw_date_text": "4 days ago",
+      "age_days": 5,
+      "date_found": "2026-06-27",
+      "raw_date_text": "5 days ago",
       "score": 35,
       "score_breakdown": {
         "location": 20,
@@ -938,6 +842,41 @@
         "angular_only": -30
       },
       "is_new": false
+    },
+    {
+      "id": "wuzzuf-106997",
+      "name": "Sr.Full Stack Java Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/hr@clinizone.net-Egypt-106997",
+      "source": "Wuzzuf",
+      "location": "Sheraton, Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "6-7 yrs",
+      "skills": [
+        "JWT/OAuth2",
+        "Java",
+        "Software Development",
+        "JavaScript",
+        "RESTful APIs and",
+        "Microservices",
+        "FHIR, HL7, DICOM, CDA, and IHE Profiles.",
+        "Maven/Gradle, and CI/CD tools",
+        "Angular"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 2,
+      "date_found": "2026-06-27",
+      "raw_date_text": "2 days ago",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "angular_only": -30
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4426833844",
@@ -953,8 +892,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-16",
-      "age_days": 10,
-      "date_found": "2026-06-26",
+      "age_days": 11,
+      "date_found": "2026-06-27",
       "score": 35,
       "score_breakdown": {
         "location": 20,
@@ -986,9 +925,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 8,
-      "date_found": "2026-06-26",
-      "raw_date_text": "8 days ago",
+      "age_days": 9,
+      "date_found": "2026-06-27",
+      "raw_date_text": "9 days ago",
       "score": 30,
       "score_breakdown": {
         "location": 20,
