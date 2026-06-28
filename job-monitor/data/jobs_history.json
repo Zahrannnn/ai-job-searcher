@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T04:57:09.422301+00:00",
-  "total_unique": 96,
+  "last_updated": "2026-06-28T05:21:55.011909+00:00",
+  "total_unique": 98,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -2893,6 +2893,63 @@
         "location": 20,
         "fresh": 15,
         "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-142794",
+      "name": "AI-Enhanced Full Stack Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Zyntra-Digital-Egypt-142794",
+      "source": "Wuzzuf",
+      "location": "Hadayek Alahram, Giza, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "0-2 yrs",
+      "skills": [
+        "AI",
+        "Computer Science",
+        "Information Technology (IT)",
+        "JavaScript",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-06-28",
+      "raw_date_text": "17 hours ago",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-142139",
+      "name": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
+      "date_posted": "2026-06-27",
+      "age_days": 1,
+      "date_found": "2026-06-28",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
