@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T05:21:55.011909+00:00",
-  "total_unique": 98,
+  "last_updated": "2026-06-29T05:56:08.281133+00:00",
+  "total_unique": 106,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -2950,6 +2950,233 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147980",
+      "name": "Node.js & React Tech Lead (Latam, Remote)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
+      "date_posted": "2026-06-28",
+      "age_days": 1,
+      "date_found": "2026-06-29",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147975",
+      "name": "Laravel & React Engineer (Remote, Latam)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
+      "date_posted": "2026-06-28",
+      "age_days": 1,
+      "date_found": "2026-06-29",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147974",
+      "name": "Full-Stack Node.js and React Engineer",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple industries. Among other accolades, we&hellip;",
+      "date_posted": "2026-06-28",
+      "age_days": 1,
+      "date_found": "2026-06-29",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-sqli-3094605",
+      "name": "QA Automation Back Front (Selenium/Java & Playwright/Typescript)",
+      "company": "SQLI",
+      "url": "https://himalayas.app/companies/sqli/jobs/qa-automation-back-front-selenium-java-playwright-typescript",
+      "source": "Himalayas",
+      "location": "Morocco",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "QA-Automation",
+        "Software-Testing",
+        "Test-Automation",
+        "QA-Engineering",
+        "Full-Stack-QA",
+        "QA-Test-Automation-Developer",
+        "QA-Automation-Developer",
+        "QA-Automation-Engineer",
+        "Quality-Assurance-Automation-Tester"
+      ],
+      "salary": "",
+      "description_excerpt": "Mission : Intégré(e) dans les équipes Finance & Corporate, le/la consultant(e) aura pour mission de concevoir et de mettre en œuvre des tests automatisés pour garantir la qualité des applications web et mobiles de la DF.",
+      "date_posted": "2026-06-29",
+      "age_days": 0,
+      "date_found": "2026-06-29",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-nagarro-16446415",
+      "name": "Senior Staff Engineer",
+      "company": "Nagarro",
+      "url": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-4475394594",
+      "source": "Himalayas",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "AEM-Developer",
+        "Web-Development",
+        "Staff-Engineer",
+        "Software-Engineering",
+        "Lead-Engineer",
+        "Senior-Staff-Engineer",
+        "Senior-Staff-Engineering",
+        "Senior-Staff-Software-Engineer",
+        "Senior-Engineer",
+        "Sr.-Staff-Software-Engineer",
+        "Senior-Principal-Engineer",
+        "Senior-Lead-Engineer",
+        "Front-End-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "We are looking for Lead level resource who is having experience in AEM (Adobe Experience Manager) • Translate business goals into technical requirements, conduct code/design reviews, and drive the technical implementation of web projects throughout the project lifecycle.",
+      "date_posted": "2026-06-29",
+      "age_days": 0,
+      "date_found": "2026-06-29",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4434289081",
+      "name": "Software Engineer - Frontend (React JS)",
+      "company": "Floward",
+      "url": "https://eg.linkedin.com/jobs/view/software-engineer-frontend-react-js-at-floward-4434289081",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-28",
+      "age_days": 1,
+      "date_found": "2026-06-29",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4434418887",
+      "name": "JavaScript Frontend Developer (Remote)",
+      "company": "Quik Hire Staffing",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-frontend-developer-remote-at-quik-hire-staffing-4434418887",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-29",
+      "age_days": 0,
+      "date_found": "2026-06-29",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4431031499",
+      "name": "Senior Frontend Engineer",
+      "company": "Aspire, Jordan",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-aspire-jordan-4431031499",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-28",
+      "age_days": 1,
+      "date_found": "2026-06-29",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
