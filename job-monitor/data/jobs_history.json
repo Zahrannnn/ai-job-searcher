@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T05:56:08.281133+00:00",
-  "total_unique": 106,
+  "last_updated": "2026-06-30T05:10:12.142237+00:00",
+  "total_unique": 109,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3174,6 +3174,96 @@
       "date_found": "2026-06-29",
       "score": 70,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-143731",
+      "name": "Full Stack Software Developer – Node.js & React (Bulgaria based)",
+      "company": "Sutherland",
+      "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
+      "source": "Jobicy",
+      "location": "Bulgaria",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Programming",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Company DescriptionAbout Sutherland: Sutherland is a global leader in driving business and digital transformation, and exceptional experiences along the entire journey of our client’s engagement with their customers. With over 35 years of experience, we combine deep domain expertise and extensive knowledge in proven optimization with both proprietary and partnered tools and platforms to drive growth,&hellip;",
+      "date_posted": "2026-06-29",
+      "age_days": 1,
+      "date_found": "2026-06-30",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-aidaptive-15862684",
+      "name": "Frontend Engineer (US)",
+      "company": "Aidaptive",
+      "url": "https://himalayas.app/companies/aidaptive/jobs/frontend-engineer-us",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Frontend-Engineering",
+        "Web-Development",
+        "JavaScript-Development",
+        "Frontend-Development",
+        "UI-Engineering",
+        "Frontend-Engineer",
+        "Web-Frontend-Engineer",
+        "Front-End-Software-Engineer",
+        "Senior-Frontend-Engineer",
+        "Frontend-Web-Software-Engineer",
+        "Staff-Frontend-Engineer",
+        "Lead-Front-End-Engineer",
+        "Senior-Frontend-Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "Jarvis ML is a prediction engine that's always learning.",
+      "date_posted": "2026-06-30",
+      "age_days": 0,
+      "date_found": "2026-06-30",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4434798137",
+      "name": "Senior Front-End Engineer - (React) \"Financial Service\"",
+      "company": "Yassir",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-react-financial-service-at-yassir-4434798137",
+      "source": "LinkedIn",
+      "location": "Alexandria, Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-29",
+      "age_days": 1,
+      "date_found": "2026-06-30",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
