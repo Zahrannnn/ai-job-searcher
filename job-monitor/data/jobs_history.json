@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T05:10:12.142237+00:00",
-  "total_unique": 109,
+  "last_updated": "2026-07-01T05:27:47.195980+00:00",
+  "total_unique": 113,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3264,6 +3264,130 @@
       "score": 95,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-careerswift-8224759",
+      "name": "Senior Full-Stack Engineer",
+      "company": "Careerswift",
+      "url": "https://himalayas.app/companies/careerswift/jobs/senior-full-stack-engineer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Full-Stack-Web-Engineer",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-+-DevOps-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Job DescriptionOur client is a the company provides pharmaceutical state licensing software and services to pharmaceutical manufacturers, wholesale distributors, logistics companies, and pharmacies.",
+      "date_posted": "2026-07-01",
+      "age_days": 0,
+      "date_found": "2026-07-01",
+      "score": 55,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "mobile_only": -40
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-pavebank-9087434",
+      "name": "Junior Software Engineer",
+      "company": "Pavebank",
+      "url": "https://himalayas.app/companies/pavebank/jobs/junior-software-engineer",
+      "source": "Himalayas",
+      "location": "Singapore",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Entry-level",
+      "skills": [
+        "Junior-Software-Engineer",
+        "Junior-Software-Engineer-Jobs",
+        "Junior-Software-Engineering",
+        "Junior-Software-Developer",
+        "Remote-Junior-Software-Engineer",
+        "Junior-Full-Stack-Software-Engineer",
+        "Junior-Software-Engineer-TypeScript",
+        "Junior-Software-Development-Engineer-In-Test"
+      ],
+      "salary": "",
+      "description_excerpt": "About the RoleWe're looking for an early-career Software Engineer to join us on a rotational track across our functional units: Banking & Payments, Trading, Investment Products, and Internal Products.",
+      "date_posted": "2026-07-01",
+      "age_days": 0,
+      "date_found": "2026-07-01",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-kong-8324607",
+      "name": "Senior Software Engineer  - Fronend",
+      "company": "Kong",
+      "url": "https://himalayas.app/companies/kong/jobs/senior-software-engineer-fronend",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Software-Engineer-Front-End",
+        "Senior-Software-Engineer",
+        "Senior-Frontend-Engineer",
+        "Senior-Frontend-Engineering"
+      ],
+      "salary": "144780-173800 CAD",
+      "description_excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply.",
+      "date_posted": "2026-07-01",
+      "age_days": 0,
+      "date_found": "2026-07-01",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4434972630",
+      "name": "Senior Frontend Engineer (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-remote-at-hire-feed-4434972630",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
+      "age_days": 1,
+      "date_found": "2026-07-01",
+      "score": 70,
+      "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
