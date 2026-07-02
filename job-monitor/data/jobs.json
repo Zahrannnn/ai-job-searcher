@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-01T05:27:47.194327+00:00",
+  "last_run": "2026-07-02T05:03:26.490978+00:00",
   "total_items": 31,
-  "new_count": 4,
+  "new_count": 6,
   "items": [
     {
       "id": "wuzzuf-145395",
@@ -27,9 +27,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 8,
-      "date_found": "2026-07-01",
-      "raw_date_text": "8 days ago",
+      "age_days": 9,
+      "date_found": "2026-07-02",
+      "raw_date_text": "9 days ago",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -74,8 +74,8 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><span style=\"white-space: normal;\"><strong>São Paulo</strong></span><strong>, Brazil.</strong></p>\n<p> </p>\n<p><strong>LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on ",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -117,8 +117,8 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><strong>Florianópolis, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p> </p>\n<p><strong>A",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -160,8 +160,8 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in <span style=\"white-space: normal;\">São Paulo</span>, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -203,8 +203,8 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Belo Horizonte, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnS",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -246,8 +246,8 @@
       "salary": "$45k - $65k",
       "description_excerpt": "<div class=\"h3\"><strong><span style=\"\">This is a remote role for candidates located in </span><span style=\"\">Campinas, Brazil.</span></strong></div>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shar",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -289,8 +289,8 @@
       "salary": "$45k- $65k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Porto Alegre, Brazil</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnSta",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -299,6 +299,61 @@
         "ai": 10,
         "senior_ic": 5,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-146283",
+      "name": "Senior Full-stack Engineer (React OR Vue/Python) - Investment (Latam)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/146283-senior-full-stack-engineer-react-or-vue-python-investment-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-07-01",
+      "age_days": 1,
+      "date_found": "2026-07-02",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4427836301",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4427836301",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-18",
+      "age_days": 14,
+      "date_found": "2026-07-02",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -319,14 +374,14 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
       "date_posted": "2026-06-28",
-      "age_days": 3,
-      "date_found": "2026-07-01",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-07-02",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -347,14 +402,14 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
       "date_posted": "2026-06-28",
-      "age_days": 3,
-      "date_found": "2026-07-01",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-07-02",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -375,33 +430,33 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple industries. Among other accolades, we&hellip;",
       "date_posted": "2026-06-28",
-      "age_days": 3,
-      "date_found": "2026-07-01",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-07-02",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
     {
-      "id": "linkedin-4434798137",
-      "name": "Senior Front-End Engineer - (React) \"Financial Service\"",
-      "company": "Yassir",
-      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-react-financial-service-at-yassir-4434798137",
+      "id": "linkedin-4435331900",
+      "name": "Semi Senior React Developer - Remote Work | REF#296505",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296505-at-bairesdev-4435331900",
       "source": "LinkedIn",
-      "location": "Alexandria, Alexandria, Egypt",
+      "location": "Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-29",
+      "date_posted": "2026-06-30",
       "age_days": 2,
-      "date_found": "2026-07-01",
+      "date_found": "2026-07-02",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -409,32 +464,55 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jobicy-143731",
-      "name": "Full Stack Software Developer – Node.js & React (Bulgaria based)",
-      "company": "Sutherland",
-      "url": "https://jobicy.com/jobs/143731-full-stack-software-developer-node-js-react-bulgaria-based",
-      "source": "Jobicy",
-      "location": "Bulgaria",
-      "workplace": "Remote",
+      "id": "linkedin-4435341357",
+      "name": "Semi Senior React Developer - Remote Work | REF#296501",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296501-at-bairesdev-4435341357",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
       "job_type": "",
-      "experience_years": "Director",
-      "skills": [
-        "Programming",
-        "Full-Time"
-      ],
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "Company DescriptionAbout Sutherland: Sutherland is a global leader in driving business and digital transformation, and exceptional experiences along the entire journey of our client’s engagement with their customers. With over 35 years of experience, we combine deep domain expertise and extensive knowledge in proven optimization with both proprietary and partnered tools and platforms to drive growth,&hellip;",
-      "date_posted": "2026-06-29",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
       "age_days": 2,
-      "date_found": "2026-07-01",
+      "date_found": "2026-07-02",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4433092091",
+      "name": "Senior ReactJS Developer",
+      "company": "Advansys",
+      "url": "https://eg.linkedin.com/jobs/view/senior-reactjs-developer-at-advansys-4433092091",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-25",
+      "age_days": 7,
+      "date_found": "2026-07-02",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15
+        "fresh": 10,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -452,104 +530,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-28",
-      "age_days": 3,
-      "date_found": "2026-07-01",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4433092091",
-      "name": "Senior ReactJS Developer",
-      "company": "Advansys",
-      "url": "https://eg.linkedin.com/jobs/view/senior-reactjs-developer-at-advansys-4433092091",
-      "source": "LinkedIn",
-      "location": "Nasr City, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-06-25",
-      "age_days": 6,
-      "date_found": "2026-07-01",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-kong-8324607",
-      "name": "Senior Software Engineer  - Fronend",
-      "company": "Kong",
-      "url": "https://himalayas.app/companies/kong/jobs/senior-software-engineer-fronend",
-      "source": "Himalayas",
-      "location": "Canada",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Senior-Software-Engineer-Front-End",
-        "Senior-Software-Engineer",
-        "Senior-Frontend-Engineer",
-        "Senior-Frontend-Engineering"
-      ],
-      "salary": "144780-173800 CAD",
-      "description_excerpt": "Are you ready to unlock intelligence? If you don’t think you meet all of the criteria below but are still interested in the job, please apply.",
-      "date_posted": "2026-07-01",
-      "age_days": 0,
-      "date_found": "2026-07-01",
+      "age_days": 4,
+      "date_found": "2026-07-02",
       "score": 85,
       "score_breakdown": {
+        "react": 25,
         "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "wuzzuf-15576",
-      "name": "Senior Python Developer",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/Link-Development-Egypt-15576",
-      "source": "Wuzzuf",
-      "location": "Maadi, Cairo, Egypt",
-      "workplace": "Hybrid",
-      "job_type": "Full Time",
-      "experience_years": "2-5 yrs",
-      "skills": [
-        "Python",
-        "Next.js",
-        "full-stack development expertise",
-        "Software Development",
-        "Computer Science",
-        "CSS3",
-        "Engineering",
-        "HTML5"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 14,
-      "date_found": "2026-07-01",
-      "raw_date_text": "14 days ago",
-      "score": 75,
-      "score_breakdown": {
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
     },
@@ -570,8 +557,8 @@
       "salary": "",
       "description_excerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
       "date_posted": "2026-06-30",
-      "age_days": 1,
-      "date_found": "2026-07-01",
+      "age_days": 2,
+      "date_found": "2026-07-02",
       "score": 75,
       "score_breakdown": {
         "location": 20,
@@ -579,39 +566,6 @@
         "ai": 10
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-pavebank-9087434",
-      "name": "Junior Software Engineer",
-      "company": "Pavebank",
-      "url": "https://himalayas.app/companies/pavebank/jobs/junior-software-engineer",
-      "source": "Himalayas",
-      "location": "Singapore",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Entry-level",
-      "skills": [
-        "Junior-Software-Engineer",
-        "Junior-Software-Engineer-Jobs",
-        "Junior-Software-Engineering",
-        "Junior-Software-Developer",
-        "Remote-Junior-Software-Engineer",
-        "Junior-Full-Stack-Software-Engineer",
-        "Junior-Software-Engineer-TypeScript",
-        "Junior-Software-Development-Engineer-In-Test"
-      ],
-      "salary": "",
-      "description_excerpt": "About the RoleWe're looking for an early-career Software Engineer to join us on a rotational track across our functional units: Banking & Payments, Trading, Investment Products, and Internal Products.",
-      "date_posted": "2026-07-01",
-      "age_days": 0,
-      "date_found": "2026-07-01",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
     },
     {
       "id": "wuzzuf-142794",
@@ -636,9 +590,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 4,
-      "date_found": "2026-07-01",
-      "raw_date_text": "4 days ago",
+      "age_days": 5,
+      "date_found": "2026-07-02",
+      "raw_date_text": "5 days ago",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -664,8 +618,8 @@
       "salary": "",
       "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
       "date_posted": "2026-06-27",
-      "age_days": 4,
-      "date_found": "2026-07-01",
+      "age_days": 5,
+      "date_found": "2026-07-02",
       "score": 70,
       "score_breakdown": {
         "typescript": 10,
@@ -675,10 +629,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4434972630",
+      "id": "linkedin-4436180114",
       "name": "Senior Frontend Engineer (Remote)",
       "company": "Hire Feed",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-remote-at-hire-feed-4434972630",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-remote-at-hire-feed-4436180114",
       "source": "LinkedIn",
       "location": "Egypt",
       "workplace": "On-site",
@@ -687,9 +641,9 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-30",
-      "age_days": 1,
-      "date_found": "2026-07-01",
+      "date_posted": "2026-07-02",
+      "age_days": 0,
+      "date_found": "2026-07-02",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -699,10 +653,10 @@
       "is_new": true
     },
     {
-      "id": "linkedin-4430836710",
-      "name": "AI-enabled Senior Software Engineer (Typescript Focus)",
-      "company": "AccessOwl",
-      "url": "https://eg.linkedin.com/jobs/view/ai-enabled-senior-software-engineer-typescript-focus-at-accessowl-4430836710",
+      "id": "linkedin-4436133369",
+      "name": "Senior Front End Engineer",
+      "company": "RemoFirst",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-remofirst-4436133369",
       "source": "LinkedIn",
       "location": "Egypt",
       "workplace": "On-site",
@@ -711,17 +665,39 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "date_posted": "2026-07-01",
+      "age_days": 1,
+      "date_found": "2026-07-02",
       "score": 70,
       "score_breakdown": {
-        "typescript": 10,
         "location": 20,
-        "fresh": 5,
+        "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435519333",
+      "name": "Frontend Web Developer - HTML,CSS (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-hire-feed-4435519333",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-01",
+      "age_days": 1,
+      "date_found": "2026-07-02",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4430223351",
@@ -737,8 +713,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-25",
-      "age_days": 6,
-      "date_found": "2026-07-01",
+      "age_days": 7,
+      "date_found": "2026-07-02",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -746,6 +722,29 @@
         "senior_ic": 5
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4435331893",
+      "name": "Javascript Developer - Remote Work | REF#296482",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-ref#296482-at-bairesdev-4435331893",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
+      "age_days": 2,
+      "date_found": "2026-07-02",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "wuzzuf-35895",
@@ -765,9 +764,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 10,
-      "date_found": "2026-07-01",
-      "raw_date_text": "10 days ago",
+      "age_days": 11,
+      "date_found": "2026-07-02",
+      "raw_date_text": "11 days ago",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -775,42 +774,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-careerswift-8224759",
-      "name": "Senior Full-Stack Engineer",
-      "company": "Careerswift",
-      "url": "https://himalayas.app/companies/careerswift/jobs/senior-full-stack-engineer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Senior-Full-Stack-Engineer",
-        "Senior-Full-Stack-Engineering",
-        "Senior-Fullstack-Software-Engineer",
-        "Senior-Fullstack-Software-Development-Engineer",
-        "Senior-Full-Stack-Web-Engineer",
-        "Senior-Fullstack-Developer",
-        "Senior-Full-Stack-Development",
-        "Senior-Full-Stack-Engineer-(React-Node.Js)",
-        "Senior-Fullstack-+-DevOps-Engineer"
-      ],
-      "salary": "",
-      "description_excerpt": "Job DescriptionOur client is a the company provides pharmaceutical state licensing software and services to pharmaceutical manufacturers, wholesale distributors, logistics companies, and pharmacies.",
-      "date_posted": "2026-07-01",
-      "age_days": 0,
-      "date_found": "2026-07-01",
-      "score": 55,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5,
-        "mobile_only": -40
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4431229584",
@@ -826,8 +789,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -849,12 +812,48 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-06-23",
-      "age_days": 8,
-      "date_found": "2026-07-01",
+      "age_days": 9,
+      "date_found": "2026-07-02",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "wuzzuf-117060",
+      "name": "Front-End & Website Template Developer (Full-Time, Remote)",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/iBrokerage Ltd.-Canada-117060",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "5-7 yrs",
+      "skills": [
+        "Software Development",
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "Information Technology (IT)",
+        "UI Design",
+        "Web Design",
+        "Web Development",
+        "HTML"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 14,
+      "date_found": "2026-07-02",
+      "raw_date_text": "14 days ago",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "ai": 10,
+        "php_only": -25
       },
       "is_new": false
     },
@@ -878,9 +877,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 8,
-      "date_found": "2026-07-01",
-      "raw_date_text": "8 days ago",
+      "age_days": 9,
+      "date_found": "2026-07-02",
+      "raw_date_text": "9 days ago",
       "score": 30,
       "score_breakdown": {
         "location": 20,
@@ -912,9 +911,9 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 9,
-      "date_found": "2026-07-01",
-      "raw_date_text": "9 days ago",
+      "age_days": 10,
+      "date_found": "2026-07-02",
+      "raw_date_text": "10 days ago",
       "score": 30,
       "score_breakdown": {
         "location": 20,
@@ -948,48 +947,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "",
-      "age_days": 6,
-      "date_found": "2026-07-01",
-      "raw_date_text": "6 days ago",
+      "age_days": 7,
+      "date_found": "2026-07-02",
+      "raw_date_text": "7 days ago",
       "score": 30,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
         "angular_only": -30
-      },
-      "is_new": false
-    },
-    {
-      "id": "wuzzuf-117060",
-      "name": "Front-End & Website Template Developer (Full-Time, Remote)",
-      "company": "Confidential",
-      "url": "https://wuzzuf.net/jobs/careers/iBrokerage Ltd.-Canada-117060",
-      "source": "Wuzzuf",
-      "location": "Cairo, Egypt",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "5-7 yrs",
-      "skills": [
-        "Software Development",
-        "PHP",
-        "Laravel",
-        "JavaScript",
-        "Information Technology (IT)",
-        "UI Design",
-        "Web Design",
-        "Web Development"
-      ],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": 13,
-      "date_found": "2026-07-01",
-      "raw_date_text": "13 days ago",
-      "score": 30,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "php_only": -25
       },
       "is_new": false
     }

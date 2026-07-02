@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-01T05:27:47.195980+00:00",
-  "total_unique": 113,
+  "last_updated": "2026-07-02T05:03:26.492645+00:00",
+  "total_unique": 119,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3391,6 +3391,150 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435519333",
+      "name": "Frontend Web Developer - HTML,CSS (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-hire-feed-4435519333",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-01",
+      "age_days": 1,
+      "date_found": "2026-07-02",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435331900",
+      "name": "Semi Senior React Developer - Remote Work | REF#296505",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296505-at-bairesdev-4435331900",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
+      "age_days": 2,
+      "date_found": "2026-07-02",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435341357",
+      "name": "Semi Senior React Developer - Remote Work | REF#296501",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296501-at-bairesdev-4435341357",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
+      "age_days": 2,
+      "date_found": "2026-07-02",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4436180114",
+      "name": "Senior Frontend Engineer (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-remote-at-hire-feed-4436180114",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-02",
+      "age_days": 0,
+      "date_found": "2026-07-02",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4436133369",
+      "name": "Senior Front End Engineer",
+      "company": "RemoFirst",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-remofirst-4436133369",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-01",
+      "age_days": 1,
+      "date_found": "2026-07-02",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435331893",
+      "name": "Javascript Developer - Remote Work | REF#296482",
+      "company": "BairesDev",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-ref#296482-at-bairesdev-4435331893",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-06-30",
+      "age_days": 2,
+      "date_found": "2026-07-02",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
