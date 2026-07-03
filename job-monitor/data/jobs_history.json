@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T05:03:26.492645+00:00",
-  "total_unique": 119,
+  "last_updated": "2026-07-03T04:47:45.004415+00:00",
+  "total_unique": 122,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3535,6 +3535,77 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4436193005",
+      "name": "FrontEnd Web Developer (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-web-developer-remote-at-hire-feed-4436193005",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-02",
+      "age_days": 1,
+      "date_found": "2026-07-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4436193994",
+      "name": "Frontend Developer - TypeScript (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-typescript-remote-at-hire-feed-4436193994",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-02",
+      "age_days": 1,
+      "date_found": "2026-07-03",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435035720",
+      "name": "Senior Frontend Developer",
+      "company": "First.tech Group",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-first-tech-group-4435035720",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-02",
+      "age_days": 1,
+      "date_found": "2026-07-03",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
