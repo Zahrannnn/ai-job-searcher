@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T04:39:47.527954+00:00",
-  "total_unique": 124,
+  "last_updated": "2026-07-05T05:01:21.579984+00:00",
+  "total_unique": 129,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3658,6 +3658,156 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-148652",
+      "name": "Senior React Native Developer",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
+      "date_posted": "2026-07-04",
+      "age_days": 1,
+      "date_found": "2026-07-05",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-kaizen-7477979",
+      "name": "Full Stack Engineer - Remote",
+      "company": "Kaizen",
+      "url": "https://himalayas.app/companies/kaizen/jobs/full-stack-engineer-remote",
+      "source": "Himalayas",
+      "location": "Lebanon",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Web-Development",
+        "Software-Engineering",
+        "Real-Estate-Technology",
+        "Frontend-Development",
+        "Backend-Development",
+        "Remote-Senior-Full-Stack-Developer",
+        "Full-Stack-Engineer",
+        "Full-Stack-Software-Engineer",
+        "Fullstack-Software-Development-Engineer",
+        "Full-Stack-Engineer-Jobs",
+        "Fullstack-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "Kaizen Asset Management Services is at the forefront of integrating advanced technology within the asset and property management sector.",
+      "date_posted": "2026-07-04",
+      "age_days": 0,
+      "date_found": "2026-07-05",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-the-hr-hub-nigeria-8574417",
+      "name": "Volunteer Tech Team",
+      "company": "The HR Hub Nigeria",
+      "url": "https://himalayas.app/companies/the-hr-hub-nigeria/jobs/volunteer-tech-team",
+      "source": "Himalayas",
+      "location": "Nigeria",
+      "workplace": "Remote",
+      "job_type": "Volunteer",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Information-Technology",
+        "Education-Management",
+        "Volunteering",
+        "Frontend-Development",
+        "Product-&-Design",
+        "Mobile-App-Development",
+        "Digital-Marketing",
+        "Project-Management",
+        "Product-Management",
+        "Content-Creation",
+        "Technology-Volunteering",
+        "Volunteer-Technology-Officer",
+        "Volunteer-Software-Development",
+        "Volunteer-Web-Design"
+      ],
+      "salary": "",
+      "description_excerpt": "Once you accept a volunteer position, we'll share a comprehensive description of the role, including specific tasks and responsibilities.",
+      "date_posted": "2026-07-04",
+      "age_days": 0,
+      "date_found": "2026-07-05",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4436024388",
+      "name": "JavaScript/TypeScript Developer - Remote",
+      "company": "YO IT Consulting",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-typescript-developer-remote-at-yo-it-consulting-4436024388",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-05",
+      "age_days": 0,
+      "date_found": "2026-07-05",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4432386096",
+      "name": "Full Stack Web Developer (Laravel + React.js + Next.js)",
+      "company": "WAJJAD | وجّاد",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-web-developer-laravel-+-react-js-+-next-js-at-wajjad-وجّاد-4432386096",
+      "source": "LinkedIn",
+      "location": "Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-01",
+      "age_days": 4,
+      "date_found": "2026-07-05",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 10
       },
       "is_new": true
     }
