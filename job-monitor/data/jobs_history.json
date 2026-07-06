@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T05:01:21.579984+00:00",
-  "total_unique": 129,
+  "last_updated": "2026-07-06T05:17:37.015294+00:00",
+  "total_unique": 133,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3808,6 +3808,101 @@
         "nextjs": 15,
         "location": 20,
         "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437146035",
+      "name": "Frontend Web Developer - HTML,CSS (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-web-developer-html-css-remote-at-hire-feed-4437146035",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-06",
+      "age_days": 0,
+      "date_found": "2026-07-06",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437134485",
+      "name": "Senior Frontend Software Engineer (Typescript) (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-hire-feed-4437134485",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-06",
+      "age_days": 0,
+      "date_found": "2026-07-06",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437128861",
+      "name": "Fullstack Developer (React/Node.js) (Remote)",
+      "company": "Hired",
+      "url": "https://eg.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hired-4437128861",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-06",
+      "age_days": 0,
+      "date_found": "2026-07-06",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437116533",
+      "name": "Remote Junior Front-End Developer",
+      "company": "PulseMediaNL (MENA)",
+      "url": "https://sa.linkedin.com/jobs/view/remote-junior-front-end-developer-at-pulsemedianl-mena-4437116533",
+      "source": "LinkedIn",
+      "location": "Mecca, Makkah, Saudi Arabia",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-05",
+      "age_days": 1,
+      "date_found": "2026-07-06",
+      "score": 65,
+      "score_breakdown": {
+        "location_mena": 20,
+        "fresh": 15
       },
       "is_new": true
     }
