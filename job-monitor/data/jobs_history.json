@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T05:17:37.015294+00:00",
-  "total_unique": 133,
+  "last_updated": "2026-07-07T04:58:15.793291+00:00",
+  "total_unique": 137,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -3902,6 +3902,118 @@
       "score": 65,
       "score_breakdown": {
         "location_mena": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-viind-gmbh-12070973",
+      "name": "Senior Fullstack Developer (m/w/d)",
+      "company": "viind GmbH",
+      "url": "https://himalayas.app/companies/viind-gmbh/jobs/senior-fullstack-developer-m-w-d-8601420327",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "Senior-Fullstack-Developer",
+        "Software-Architecture",
+        "Frontend-Development",
+        "Backend-Development",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-Web-Application-Developer",
+        "Senior-Fullstack-Engineer-(Java-+-Angular)",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Full-Stack-Developer-(JavaScript-Python)",
+        "Senior-Full-Stack-Developer-(Java-+-Angular)",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)"
+      ],
+      "salary": "",
+      "description_excerpt": "wir bei viind suchen genau dich! Denn Du bist: • Motiviert und hast richtig Lust, etwas zu verändern • Findest es erfüllend, in einem motivierten Team zu arbeiten • Bist strukturiert und willst eigene Ideen umsetzen Willst Du Deutschland bei der Digitalisierung helfen?",
+      "date_posted": "2026-07-07",
+      "age_days": 0,
+      "date_found": "2026-07-07",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437420383",
+      "name": "Java Front End Developer",
+      "company": "Network International",
+      "url": "https://eg.linkedin.com/jobs/view/java-front-end-developer-at-network-international-4437420383",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-06",
+      "age_days": 1,
+      "date_found": "2026-07-07",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437743124",
+      "name": "Frontend Developer - TypeScript (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-typescript-remote-at-hire-feed-4437743124",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-07",
+      "age_days": 0,
+      "date_found": "2026-07-07",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4437723883",
+      "name": "Fullstack Developer (React/Node.js) (Remote)",
+      "company": "Hired",
+      "url": "https://eg.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hired-4437723883",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-07",
+      "age_days": 0,
+      "date_found": "2026-07-07",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
         "fresh": 15
       },
       "is_new": true
