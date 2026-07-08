@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T04:58:15.793291+00:00",
-  "total_unique": 137,
+  "last_updated": "2026-07-08T04:19:04.638937+00:00",
+  "total_unique": 138,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -4015,6 +4015,45 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-affirm-523124",
+      "name": "Senior Software Engineer, Full Stack (Zero to One Labs)",
+      "company": "Affirm",
+      "url": "https://himalayas.app/companies/affirm/jobs/senior-software-engineer-full-stack-zero-to-one-labs-1841293204",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Backend-Engineering",
+        "Frontend-Engineering",
+        "AI-Engineering",
+        "Innovation-Product-Development",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)",
+        "Senior-Fullstack-Developer",
+        "Fullstack-Development"
+      ],
+      "salary": "153000-213000 CAD",
+      "description_excerpt": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.",
+      "date_posted": "2026-07-08",
+      "age_days": 0,
+      "date_found": "2026-07-08",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "salary": 5
       },
       "is_new": true
     }
