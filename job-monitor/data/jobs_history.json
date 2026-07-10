@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T04:58:52.966358+00:00",
-  "total_unique": 147,
+  "last_updated": "2026-07-10T04:57:57.033785+00:00",
+  "total_unique": 151,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -4268,6 +4268,112 @@
       "date_posted": "2026-07-09",
       "age_days": 0,
       "date_found": "2026-07-09",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-teya-2365118",
+      "name": "Senior Full Stack Engineer",
+      "company": "Teya",
+      "url": "https://himalayas.app/companies/teya/jobs/senior-full-stack-engineer",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Full-Stack-Web-Engineer",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-+-DevOps-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Hello!  We're Teya. Teya is a payment and software service provider, headquartered in London serving small, local businesses across Europe.",
+      "date_posted": "2026-07-10",
+      "age_days": 0,
+      "date_found": "2026-07-10",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4438659758",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4438659758",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-09",
+      "age_days": 1,
+      "date_found": "2026-07-10",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4438667488",
+      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4438667488",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-09",
+      "age_days": 1,
+      "date_found": "2026-07-10",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435656901",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4435656901",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-09",
+      "age_days": 1,
+      "date_found": "2026-07-10",
       "score": 90,
       "score_breakdown": {
         "react": 25,
