@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T04:57:57.033785+00:00",
-  "total_unique": 151,
+  "last_updated": "2026-07-11T04:17:33.199191+00:00",
+  "total_unique": 152,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -4377,6 +4377,29 @@
       "score": 90,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4435938762",
+      "name": "Frontend Developer",
+      "company": "Datamatics Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-datamatics-technologies-4435938762",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-10",
+      "age_days": 1,
+      "date_found": "2026-07-11",
+      "score": 65,
+      "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
