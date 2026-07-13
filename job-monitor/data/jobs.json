@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-12T04:28:56.677386+00:00",
-  "total_items": 25,
-  "new_count": 13,
+  "last_run": "2026-07-13T04:34:02.012329+00:00",
+  "total_items": 26,
+  "new_count": 4,
   "items": [
     {
       "id": "remotive-2091056",
@@ -37,18 +37,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Belo Horizonte, Brazil. </strong></p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnStarter",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091058",
@@ -84,18 +84,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><span style=\"white-space: normal;\"><strong>Montevideo, Uruguay. </strong></span></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091055",
@@ -131,18 +131,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in São Paulo, Brazil.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnStar",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091050",
@@ -178,18 +178,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Mexico City, Mexico.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnSt",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091049",
@@ -225,18 +225,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in </strong><strong>Campinas, Brazil.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Enginee",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091059",
@@ -272,18 +272,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Florianópolis, Brazil.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at Lawn",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091057",
@@ -319,18 +319,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Mexico City, Mexico.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnSt",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091054",
@@ -366,18 +366,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Montevideo, Uruguay.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnSt",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091053",
@@ -413,18 +413,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Campinas, Brazil.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at LawnStart",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091052",
@@ -460,18 +460,18 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p><strong>This is a remote role for candidates located in Belo Horizonte, Brazil.</strong></p>\n<p> </p>\n<p><strong>About LawnStarter</strong></p>\n<p>LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services — operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform.</p>\n<p><strong>About Engineering at Law",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "salary": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2091051",
@@ -507,8 +507,100 @@
       "salary": "$80k - $100k",
       "description_excerpt": "<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;\"><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; color: #000000; letter-spacing: 0.75px;\">This is a remote role for candidates located in </span><span style=\"box-sizing: border-box; border: 0px solid; font-weight: 600; color: #000000; letter-spacing: 0.75px;\">Florianópolis, Brazil</span></p>\n<p style=\"box-sizing: border-box; border: 0px solid; margin: 0px; color: #532a21;\"> </p>\n<p><strong",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 10,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-149158",
+      "name": "Senior Fullstack Engineer (.NET/React + Umbraco CMS) - Digital Agency",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/149158-senior-fullstack-engineer-net-react-umbraco-cms-digital-agency",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-07-12",
+      "age_days": 1,
+      "date_found": "2026-07-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-149156",
+      "name": "Senior Full-stack Engineer (Python/React) - Advertising",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/149156-senior-full-stack-engineer-python-react-advertising",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-07-12",
+      "age_days": 1,
+      "date_found": "2026-07-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-spear-ai-8377688",
+      "name": "Forward Deployed Full-Stack Engineer (Keyport, WA / Senior)",
+      "company": "Spear AI",
+      "url": "https://himalayas.app/companies/spear-ai/jobs/forward-deployed-full-stack-engineer-keyport-wa-senior-4872259478",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)"
+      ],
+      "salary": "",
+      "description_excerpt": "We’re seeking a skilled Forward Deployed Full-Stack Engineer to build the next-generation data management and artificial intelligence platform for maritime domain awareness.",
+      "date_posted": "2026-07-13",
+      "age_days": 0,
+      "date_found": "2026-07-13",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -516,7 +608,7 @@
         "location": 20,
         "fresh": 15,
         "ai": 10,
-        "salary": 5
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -537,8 +629,8 @@
       "salary": "",
       "description_excerpt": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong React and TypeScript experience HTML5, CSS3, JavaScript AWS&hellip;",
       "date_posted": "2026-07-08",
-      "age_days": 4,
-      "date_found": "2026-07-12",
+      "age_days": 5,
+      "date_found": "2026-07-13",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -562,8 +654,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-11",
-      "age_days": 1,
-      "date_found": "2026-07-12",
+      "age_days": 2,
+      "date_found": "2026-07-13",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -571,57 +663,31 @@
         "fresh": 15,
         "senior_ic": 5
       },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4437217478",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4437217478",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-12",
+      "age_days": 1,
+      "date_found": "2026-07-13",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
       "is_new": true
-    },
-    {
-      "id": "linkedin-4434534884",
-      "name": "Senior Software Developer (Reactjs) - VOIS",
-      "company": "VOIS",
-      "url": "https://eg.linkedin.com/jobs/view/senior-software-developer-reactjs-vois-at-vois-4434534884",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-07",
-      "age_days": 5,
-      "date_found": "2026-07-12",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4437791193",
-      "name": "ETIC, Senior Associate Frontend Engineer- React",
-      "company": "PwC",
-      "url": "https://eg.linkedin.com/jobs/view/etic-senior-associate-frontend-engineer-react-at-pwc-4437791193",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-07",
-      "age_days": 5,
-      "date_found": "2026-07-12",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
     },
     {
       "id": "linkedin-4435656901",
@@ -637,128 +703,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-148652",
-      "name": "Senior React Native Developer",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/148652-senior-react-native-developer",
-      "source": "Jobicy",
-      "location": "Europe",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
-      "date_posted": "2026-07-04",
-      "age_days": 8,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-ethena-5462972",
-      "name": "Senior Software Engineer",
-      "company": "Ethena",
-      "url": "https://himalayas.app/companies/ethena/jobs/senior-software-engineer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Software-Development",
-        "Senior-Software-Engineer",
-        "Full-Stack-Engineer",
-        "Frontend-Engineer",
-        "Backend-Engineer",
-        "Senior-Software-Engineering",
-        "Senior-Software-Development-Engineer",
-        "Sr.-Software-Engineer",
-        "Senior-Lead-Software-Engineer",
-        "Senior-Software-Developer",
-        "Senior-Staff-Software-Engineer",
-        "Senior-Principal-Software-Engineer",
-        "Lead-Senior-Software-Engineer"
-      ],
-      "salary": "180000-200000 USD",
-      "description_excerpt": "Who we areHi there 👋 We’re Ethena, compliance training that customizes itself to you.",
-      "date_posted": "2026-07-11",
-      "age_days": 0,
-      "date_found": "2026-07-12",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4436024388",
-      "name": "JavaScript/TypeScript Developer - Remote",
-      "company": "YO IT Consulting",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-typescript-developer-remote-at-yo-it-consulting-4436024388",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-05",
-      "age_days": 7,
-      "date_found": "2026-07-12",
-      "score": 70,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4438659758",
-      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4438659758",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -776,31 +727,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-10",
-      "age_days": 2,
-      "date_found": "2026-07-12",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4437327663",
-      "name": "Javascript Developer - Remote",
-      "company": "YO IT Consulting",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-at-yo-it-consulting-4437327663",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-09",
       "age_days": 3,
-      "date_found": "2026-07-12",
+      "date_found": "2026-07-13",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -809,10 +737,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4438667488",
-      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
+      "id": "linkedin-4438659758",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
       "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4438667488",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4438659758",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -822,12 +750,37 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-09",
-      "age_days": 3,
-      "date_found": "2026-07-12",
+      "age_days": 4,
+      "date_found": "2026-07-13",
       "score": 65,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4436024388",
+      "name": "JavaScript/TypeScript Developer - Remote",
+      "company": "YO IT Consulting",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-typescript-developer-remote-at-yo-it-consulting-4436024388",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-05",
+      "age_days": 8,
+      "date_found": "2026-07-13",
+      "score": 65,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 5
       },
       "is_new": false
     },
@@ -845,8 +798,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-06",
-      "age_days": 6,
-      "date_found": "2026-07-12",
+      "age_days": 7,
+      "date_found": "2026-07-13",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -868,13 +821,83 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-02",
-      "age_days": 10,
-      "date_found": "2026-07-12",
+      "age_days": 11,
+      "date_found": "2026-07-13",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4436133369",
+      "name": "Senior Front End Engineer",
+      "company": "RemoFirst",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-remofirst-4436133369",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-01",
+      "age_days": 12,
+      "date_found": "2026-07-13",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4438667488",
+      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4438667488",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-09",
+      "age_days": 4,
+      "date_found": "2026-07-13",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4437327663",
+      "name": "Javascript Developer - Remote",
+      "company": "YO IT Consulting",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-at-yo-it-consulting-4437327663",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-09",
+      "age_days": 4,
+      "date_found": "2026-07-13",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
       },
       "is_new": false
     }
