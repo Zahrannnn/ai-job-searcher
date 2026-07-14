@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T04:34:02.014336+00:00",
-  "total_unique": 169,
+  "last_updated": "2026-07-14T04:07:47.709646+00:00",
+  "total_unique": 170,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5099,6 +5099,30 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4440019564",
+      "name": "Senior Frontend developer (Banking)",
+      "company": "SSC HR Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-banking-at-ssc-hr-solutions-4440019564",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-13",
+      "age_days": 1,
+      "date_found": "2026-07-14",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
