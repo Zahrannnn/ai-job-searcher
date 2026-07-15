@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-14T04:07:47.709646+00:00",
-  "total_unique": 170,
+  "last_updated": "2026-07-15T04:09:34.916589+00:00",
+  "total_unique": 173,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5123,6 +5123,95 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091062",
+      "name": "Senior Product Engineer (Fullstack)",
+      "company": "Clipster",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "source": "Remotive",
+      "location": "Europe, UK, Germany, France, European timezones",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "backend",
+        "frontend",
+        "fullstack",
+        "golang",
+        "postgresql",
+        "react",
+        "AI/ML",
+        "documentation",
+        "youtube",
+        "Redis",
+        "distributed systems",
+        "GCP",
+        "chat",
+        "next.js",
+        "infrastructure"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
+      "date_posted": "2026-07-13",
+      "age_days": 2,
+      "date_found": "2026-07-15",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4440801290",
+      "name": "Senior Frontend Engineer",
+      "company": "Yassir",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-yassir-4440801290",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-14",
+      "age_days": 1,
+      "date_found": "2026-07-15",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4438011458",
+      "name": "Front-End Tech Lead|SaaS",
+      "company": "Daftra - دفترة",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-tech-lead-saas-at-daftra-دفترة-4438011458",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-14",
+      "age_days": 1,
+      "date_found": "2026-07-15",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
