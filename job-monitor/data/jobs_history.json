@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T04:09:34.916589+00:00",
-  "total_unique": 173,
+  "last_updated": "2026-07-16T04:12:59.914386+00:00",
+  "total_unique": 177,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5212,6 +5212,133 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-outlive-5909285",
+      "name": "Senior Full Stack Engineer - Future Openings",
+      "company": "Outlive",
+      "url": "https://himalayas.app/companies/outlive/jobs/senior-full-stack-engineer-future-openings",
+      "source": "Himalayas",
+      "location": "Remote",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineering",
+        "Software-Engineering",
+        "Mobile-Development",
+        "Web-Development",
+        "Health-Technology",
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Software-Engineer",
+        "Senior-Fullstack-Software-Development-Engineer",
+        "Senior-Full-Stack-Web-Engineer",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)"
+      ],
+      "salary": "125000-200000 USD",
+      "description_excerpt": "Join OutliveHelp Build the Operating System for Better Long-Term Health Outlive is translating the principles of Medicine 3.",
+      "date_posted": "2026-07-15",
+      "age_days": 0,
+      "date_found": "2026-07-16",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-the-health-management-academy-10445532",
+      "name": "Product Engineer",
+      "company": "The Health Management Academy",
+      "url": "https://himalayas.app/companies/the-health-management-academy/jobs/product-engineer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Product-Engineering",
+        "Fullstack-Development",
+        "Frontend-Development",
+        "Software-Engineering",
+        "AI-ML-Engineering",
+        "Product-Engineer",
+        "Product-Development-Engineer",
+        "Product-Design-Engineer",
+        "Lead-Product-Engineer",
+        "Products-Engineering",
+        "Principal-Product-Engineer",
+        "Senior-Product-Engineer",
+        "Product-Engineering-Jobs"
+      ],
+      "salary": "150000-160000 USD",
+      "description_excerpt": "The Health Management Academy (THMA) brings together health system leaders and innovators to collectively address the industry’s biggest challenges and opportunities.",
+      "date_posted": "2026-07-15",
+      "age_days": 0,
+      "date_found": "2026-07-16",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4441210380",
+      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-15",
+      "age_days": 1,
+      "date_found": "2026-07-16",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4440533618",
+      "name": "OutSystems Front-End Developer, Senior",
+      "company": "Adree",
+      "url": "https://eg.linkedin.com/jobs/view/outsystems-front-end-developer-senior-at-adree-4440533618",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-14",
+      "age_days": 2,
+      "date_found": "2026-07-16",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
