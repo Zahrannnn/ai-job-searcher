@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T04:12:59.914386+00:00",
-  "total_unique": 177,
+  "last_updated": "2026-07-17T04:12:07.003400+00:00",
+  "total_unique": 179,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5339,6 +5339,67 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-curotec-7398980",
+      "name": "Senior Full-Stack Engineer (Laravel/ReactJS)",
+      "company": "Curotec",
+      "url": "https://himalayas.app/companies/curotec/jobs/senior-full-stack-engineer-laravel-reactjs",
+      "source": "Himalayas",
+      "location": "Remote",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Senior-Software-Engineer",
+        "Senior-Full-Stack-Laravel-React-Developer",
+        "Senior-Full-Stack-Engineer-(Laravel-Vue)",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Full-Stack-Engineer",
+        "Senior-Full-Stack-Web-Engineer",
+        "Senior-Fullstack-Software-Engineer",
+        "Front-End-Developer",
+        "Backend-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "About Curotec We are a globally leading software services company specializing in developing enterprise-level projects for clients worldwide.",
+      "date_posted": "2026-07-16",
+      "age_days": 0,
+      "date_found": "2026-07-17",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4438713816",
+      "name": "Frontend Developer — New Opportunity",
+      "company": "HiJob.work",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-—-new-opportunity-at-hijob-work-4438713816",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-16",
+      "age_days": 1,
+      "date_found": "2026-07-17",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
