@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T04:12:07.003400+00:00",
-  "total_unique": 179,
+  "last_updated": "2026-07-18T04:04:35.141426+00:00",
+  "total_unique": 183,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5398,6 +5398,103 @@
       "date_found": "2026-07-17",
       "score": 65,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-frontend-developer-intern-unpaid-puchheim-124552",
+      "name": "Frontend Developer Intern (Unpaid)",
+      "company": "HOPn UG",
+      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552",
+      "source": "Arbeitnow",
+      "location": "Puchheim",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Web Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>We are looking for a motivated Frontend Developer Intern to join our team. This is an unpaid internship for candidates who want to gain real-world experience working on modern web applications.</p>\n<ul>\n<li>Location: Remote</li>\n<li>Compensation: Unpaid Internship</li>\n</ul>\n<h2>Tasks</h2>\n<p><strong>Responsibilities</strong></p>\n<ul>\n<li>Build and maintain responsive frontend applications</li>\n<li>Develop reusable UI components</li>\n<li>Collaborate with designers and developers to implement ",
+      "date_posted": "2026-07-17",
+      "age_days": 1,
+      "date_found": "2026-07-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442420615",
+      "name": "JavaScript Frontend Developer (Remote)",
+      "company": "Quik Hire Staffing",
+      "url": "https://eg.linkedin.com/jobs/view/javascript-frontend-developer-remote-at-quik-hire-staffing-4442420615",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-18",
+      "age_days": 0,
+      "date_found": "2026-07-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442429374",
+      "name": "Senior Frontend Software Engineer (Typescript) (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-hire-feed-4442429374",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-18",
+      "age_days": 0,
+      "date_found": "2026-07-18",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4441676503",
+      "name": "Full-Stack Developer Intern – React &amp; Node.js",
+      "company": "PentaValue",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-intern-–-react-node-js-at-pentavalue-4441676503",
+      "source": "LinkedIn",
+      "location": "El Golf, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-16",
+      "age_days": 2,
+      "date_found": "2026-07-18",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },
