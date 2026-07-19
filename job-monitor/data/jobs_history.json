@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T04:04:35.141426+00:00",
-  "total_unique": 183,
+  "last_updated": "2026-07-19T04:25:21.170678+00:00",
+  "total_unique": 191,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5497,6 +5497,241 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-138195",
+      "name": "Full Stack Developer (Frontend-Focused)",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Adwar-Logistics-Saudi-Arabia-138195",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Freelance / Project",
+      "experience_years": "2-4 yrs",
+      "skills": [
+        "Software Development",
+        "Computer Science",
+        "HTML5",
+        "JavaScript",
+        "React",
+        "Git",
+        "Agile"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 4,
+      "date_found": "2026-07-19",
+      "raw_date_text": "4 days ago",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-145889",
+      "name": "Front End Developer",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/reservya-egypt-145889",
+      "source": "Wuzzuf",
+      "location": "Cairo, Egypt",
+      "workplace": "Remote",
+      "job_type": "Internship",
+      "experience_years": "Student",
+      "skills": [
+        "React Native",
+        "React.js",
+        "Computer Science",
+        "Information Technology (IT)",
+        "Software Development",
+        "JavaScript",
+        "Front-End Development"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 4,
+      "date_found": "2026-07-19",
+      "raw_date_text": "4 days ago",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-597",
+      "name": "Head of Engineering (FinTech)",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Bright-Creations-Egypt-597",
+      "source": "Wuzzuf",
+      "location": "Smart Village, Giza, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "5-20 yrs",
+      "skills": [
+        "Agile",
+        "back-end",
+        "Engineering",
+        "Computer Science",
+        "front-end",
+        "Management",
+        "Project Management",
+        "Cloud"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 9,
+      "date_found": "2026-07-19",
+      "raw_date_text": "9 days ago",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-6676",
+      "name": "Full Stack Developer (PHP Laravel + NextJS)",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Namaa-IT-Egypt-6676",
+      "source": "Wuzzuf",
+      "location": "Heliopolis, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "Full Time",
+      "experience_years": "2-5 yrs",
+      "skills": [
+        "Computer Science",
+        "Information Technology (IT)",
+        "PHP",
+        "Laravel",
+        "Software Development",
+        "JavaScript",
+        "Next JS"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 7,
+      "date_found": "2026-07-19",
+      "raw_date_text": "7 days ago",
+      "score": 50,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 10,
+        "php_only": -25
+      },
+      "is_new": true
+    },
+    {
+      "id": "wuzzuf-87028",
+      "name": "Full Stack Developer (all genders) – Junior Level",
+      "company": "Confidential",
+      "url": "https://wuzzuf.net/jobs/careers/Datenlotsen-Egypt-87028",
+      "source": "Wuzzuf",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "Hybrid",
+      "job_type": "Full Time",
+      "experience_years": "0-2 yrs",
+      "skills": [
+        "Computer Science",
+        "Information Technology (IT)",
+        "Software Development",
+        "JavaScript"
+      ],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": 8,
+      "date_found": "2026-07-19",
+      "raw_date_text": "8 days ago",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4441735847",
+      "name": "Frontend Developer",
+      "company": "Insense",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-insense-4441735847",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-18",
+      "age_days": 1,
+      "date_found": "2026-07-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442477333",
+      "name": "Frontend Developer",
+      "company": "ComplyMarket",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-complymarket-4442477333",
+      "source": "LinkedIn",
+      "location": "Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-18",
+      "age_days": 1,
+      "date_found": "2026-07-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442425880",
+      "name": "Senior Full Stack Developer (React / Next.js / Node.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-developer-react-next-js-node-js-at-house-of-iryss-4442425880",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-18",
+      "age_days": 1,
+      "date_found": "2026-07-19",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
