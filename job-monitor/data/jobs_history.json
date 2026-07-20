@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T04:25:21.170678+00:00",
-  "total_unique": 191,
+  "last_updated": "2026-07-20T04:39:41.077860+00:00",
+  "total_unique": 194,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5732,6 +5732,76 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442534034",
+      "name": "React.js &amp; React Native Developer",
+      "company": "Valleysoft | Center of Excellence",
+      "url": "https://eg.linkedin.com/jobs/view/react-js-react-native-developer-at-valleysoft-center-of-excellence-4442534034",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-19",
+      "age_days": 1,
+      "date_found": "2026-07-20",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4439658795",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4439658795",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-19",
+      "age_days": 1,
+      "date_found": "2026-07-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442553965",
+      "name": "Junior Front-End Developer - Remote",
+      "company": "PULSE (MENA)",
+      "url": "https://sa.linkedin.com/jobs/view/junior-front-end-developer-remote-at-pulse-mena-4442553965",
+      "source": "LinkedIn",
+      "location": "Riyadh, Riyadh, Saudi Arabia",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-20",
+      "age_days": 0,
+      "date_found": "2026-07-20",
+      "score": 65,
+      "score_breakdown": {
+        "location_mena": 20,
+        "fresh": 15
       },
       "is_new": true
     }
