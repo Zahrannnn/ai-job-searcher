@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T04:39:41.077860+00:00",
-  "total_unique": 194,
+  "last_updated": "2026-07-21T04:18:37.507106+00:00",
+  "total_unique": 195,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -5802,6 +5802,30 @@
       "score_breakdown": {
         "location_mena": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442029359",
+      "name": "Senior Frontend Developer",
+      "company": "Brightskies",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-brightskies-4442029359",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-20",
+      "age_days": 1,
+      "date_found": "2026-07-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
