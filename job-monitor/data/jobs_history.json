@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T04:20:58.363360+00:00",
-  "total_unique": 204,
+  "last_updated": "2026-07-23T04:19:26.336311+00:00",
+  "total_unique": 207,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6055,6 +6055,94 @@
         "location_mena": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mindrift-9007174",
+      "name": "Freelance Frontend Developer (Landing Pages & Websites)",
+      "company": "Mindrift",
+      "url": "https://himalayas.app/companies/mindrift/jobs/freelance-frontend-developer-landing-pages-websites-5531876643",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Entry-level",
+      "skills": [
+        "Frontend-Development",
+        "Web-Development",
+        "Landing-Page-Development",
+        "Frontend-Engineer",
+        "UI-Engineering",
+        "Freelance-Frontend-Developer",
+        "Front-End-Developer",
+        "freelance-web-developer",
+        "Landing-Page-Developer",
+        "UX-UI-Front-End-Developer",
+        "Freelance-Web-Development",
+        "Frontend-React-Developer",
+        "UI-Frontend-Developer",
+        "Creative-Frontend-Developer",
+        "Frontend-Web-Development"
+      ],
+      "salary": "60-60 USD",
+      "description_excerpt": "Mindrift is looking for skilled Frontend Developers (HTML/CSS/JavaScript, React/Next.",
+      "date_posted": "2026-07-23",
+      "age_days": 0,
+      "date_found": "2026-07-23",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4443772460",
+      "name": "Front End Developer (React)",
+      "company": "SSC HR Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-react-at-ssc-hr-solutions-4443772460",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-22",
+      "age_days": 1,
+      "date_found": "2026-07-23",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4444247981",
+      "name": "Front-End Software Developer",
+      "company": "exequt",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-software-developer-at-exequt-4444247981",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-23",
+      "age_days": 0,
+      "date_found": "2026-07-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
