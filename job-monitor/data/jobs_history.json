@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T04:19:26.336311+00:00",
-  "total_unique": 207,
+  "last_updated": "2026-07-24T04:19:46.437686+00:00",
+  "total_unique": 208,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6141,6 +6141,33 @@
       "date_found": "2026-07-23",
       "score": 65,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147333",
+      "name": "Sr. Software Engineer II - Catalog",
+      "company": "iHerb",
+      "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Job Summary: The Sr. Software Engineer II - Catalog will build and modernize iHerb's product catalog, one of the most business-critical platforms in the company. You will work across the full stack: backend services, React frontend, and relational data layers. Our current backend is .NET/C#; we also use Go, Python, and Java across the organization. Job Expectations:&hellip;",
+      "date_posted": "2026-07-23",
+      "age_days": 1,
+      "date_found": "2026-07-24",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },
