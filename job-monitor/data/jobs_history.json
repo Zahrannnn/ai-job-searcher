@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T04:19:46.437686+00:00",
-  "total_unique": 208,
+  "last_updated": "2026-07-25T04:15:24.053024+00:00",
+  "total_unique": 212,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6170,6 +6170,120 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-149683",
+      "name": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-07-24",
+      "age_days": 1,
+      "date_found": "2026-07-25",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-typescript-developer-cologne-311511",
+      "name": "Senior Typescript Developer (f/m/d)",
+      "company": "Sidestream",
+      "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-311511",
+      "source": "Arbeitnow",
+      "location": "Cologne",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong>Why Join Sidestream?</strong></p>\n<p>At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect:</p>\n<ul>\n<li><strong>Impactful Work:</strong> Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI.</li>\n<li><strong>Learning &#x26; Growth:</strong> Gain mentoring from experienced professionals and ",
+      "date_posted": "2026-07-24",
+      "age_days": 1,
+      "date_found": "2026-07-25",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-peraton-12728606",
+      "name": "Full Stack Software Engineer",
+      "company": "Peraton",
+      "url": "https://himalayas.app/companies/peraton/jobs/full-stack-software-engineer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Cloud-Engineer",
+        "Defense-Technology",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Developer",
+        "Fullstack-Software-Engineering",
+        "Full-Stack-Web-Engineer",
+        "Full-Stack-JavaScript-Engineer",
+        "Software-Engineer"
+      ],
+      "salary": "135000-216000 USD",
+      "description_excerpt": "ResponsibilitiesPeraton is delivering advanced mission planning, digital engineering, and command‑and‑control capabilities supporting the U.",
+      "date_posted": "2026-07-24",
+      "age_days": 0,
+      "date_found": "2026-07-25",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4445281843",
+      "name": "Senior Frontend Engineer Teacher",
+      "company": "Catalyst",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-teacher-at-catalyst-4445281843",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-25",
+      "age_days": 0,
+      "date_found": "2026-07-25",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
