@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-25T04:15:24.051012+00:00",
-  "total_items": 15,
-  "new_count": 4,
+  "last_run": "2026-07-26T04:31:29.090537+00:00",
+  "total_items": 12,
+  "new_count": 0,
   "items": [
     {
       "id": "remotive-2091062",
@@ -32,8 +32,8 @@
       "salary": "",
       "description_excerpt": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring",
       "date_posted": "2026-07-13",
-      "age_days": 12,
-      "date_found": "2026-07-25",
+      "age_days": 13,
+      "date_found": "2026-07-26",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -83,8 +83,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-07-14",
-      "age_days": 11,
-      "date_found": "2026-07-25",
+      "age_days": 12,
+      "date_found": "2026-07-26",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -112,8 +112,8 @@
       "salary": "",
       "description_excerpt": "Job Summary: The Sr. Software Engineer II - Catalog will build and modernize iHerb's product catalog, one of the most business-critical platforms in the company. You will work across the full stack: backend services, React frontend, and relational data layers. Our current backend is .NET/C#; we also use Go, Python, and Java across the organization. Job Expectations:&hellip;",
       "date_posted": "2026-07-23",
-      "age_days": 2,
-      "date_found": "2026-07-25",
+      "age_days": 3,
+      "date_found": "2026-07-26",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -136,41 +136,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 4,
-      "date_found": "2026-07-25",
+      "age_days": 5,
+      "date_found": "2026-07-26",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-149527",
-      "name": "Web Frontend Engineer - JS, CSS, React, Flutter",
-      "company": "Canonical Ltd.",
-      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "source": "Jobicy",
-      "location": "Anywhere",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
-      "date_posted": "2026-07-21",
-      "age_days": 4,
-      "date_found": "2026-07-25",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -188,8 +161,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-19",
-      "age_days": 6,
-      "date_found": "2026-07-25",
+      "age_days": 7,
+      "date_found": "2026-07-26",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -214,8 +187,8 @@
       "salary": "",
       "description_excerpt": "<p><strong>Why Join Sidestream?</strong></p>\n<p>At Sidestream, we’re building a team of committed, explorative and witty individuals who love pushing boundaries while having fun. Here’s what you can expect:</p>\n<ul>\n<li><strong>Impactful Work:</strong> Contribute to projects that matter, whether it’s digitalizing leading companies, developing open-source tool or innovating with blockchain and AI.</li>\n<li><strong>Learning &#x26; Growth:</strong> Gain mentoring from experienced professionals and ",
       "date_posted": "2026-07-24",
-      "age_days": 1,
-      "date_found": "2026-07-25",
+      "age_days": 2,
+      "date_found": "2026-07-26",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -223,7 +196,34 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "jobicy-147496",
+      "name": "Senior Frontend Software Engineer, Home Experience",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-07-25",
+      "age_days": 1,
+      "date_found": "2026-07-26",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
     },
     {
       "id": "jobicy-149683",
@@ -242,75 +242,15 @@
       "salary": "",
       "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
       "date_posted": "2026-07-24",
-      "age_days": 1,
-      "date_found": "2026-07-25",
+      "age_days": 2,
+      "date_found": "2026-07-26",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
-    },
-    {
-      "id": "himalayas-peraton-12728606",
-      "name": "Full Stack Software Engineer",
-      "company": "Peraton",
-      "url": "https://himalayas.app/companies/peraton/jobs/full-stack-software-engineer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Full-Stack-Engineer",
-        "Backend-Engineer",
-        "Frontend-Engineer",
-        "Cloud-Engineer",
-        "Defense-Technology",
-        "Full-Stack-Software-Developer",
-        "Full-Stack-Developer",
-        "Fullstack-Software-Engineering",
-        "Full-Stack-Web-Engineer",
-        "Full-Stack-JavaScript-Engineer",
-        "Software-Engineer"
-      ],
-      "salary": "135000-216000 USD",
-      "description_excerpt": "ResponsibilitiesPeraton is delivering advanced mission planning, digital engineering, and command‑and‑control capabilities supporting the U.",
-      "date_posted": "2026-07-24",
-      "age_days": 0,
-      "date_found": "2026-07-25",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4445281843",
-      "name": "Senior Frontend Engineer Teacher",
-      "company": "Catalyst",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-teacher-at-catalyst-4445281843",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-25",
-      "age_days": 0,
-      "date_found": "2026-07-25",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4444247981",
@@ -326,8 +266,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-23",
-      "age_days": 2,
-      "date_found": "2026-07-25",
+      "age_days": 3,
+      "date_found": "2026-07-26",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -349,8 +289,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-20",
-      "age_days": 5,
-      "date_found": "2026-07-25",
+      "age_days": 6,
+      "date_found": "2026-07-26",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -373,8 +313,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-13",
-      "age_days": 12,
-      "date_found": "2026-07-25",
+      "age_days": 13,
+      "date_found": "2026-07-26",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -397,36 +337,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 4,
-      "date_found": "2026-07-25",
+      "age_days": 5,
+      "date_found": "2026-07-26",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4440801290",
-      "name": "Senior Frontend Engineer",
-      "company": "Yassir",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-yassir-4440801290",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-14",
-      "age_days": 11,
-      "date_found": "2026-07-25",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
       },
       "is_new": false
     }
