@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T04:31:29.092533+00:00",
-  "total_unique": 212,
+  "last_updated": "2026-07-27T04:41:24.886989+00:00",
+  "total_unique": 217,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6284,6 +6284,127 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-engineer-germany-388392",
+      "name": "Senior Fullstack Engineer",
+      "company": "Mlabs",
+      "url": "https://www.arbeitnow.com/jobs/companies/mlabs/remote-senior-fullstack-engineer-germany-388392",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "RLL",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong>Location:&nbsp;Remote - Europe preferred, must be able to work European hours</strong></p><p><strong>Remote&nbsp;| Full-time</strong></p><p><strong>Compensation: $120K - $150K</strong></p><p></p><p>Our client is a dynamic, forward-thinking, fully remote organization with an ambitious roadmap and a strong commitment to engineering excellence.</p><p>Seeking a <strong>Senior Fullstack Engineer</strong> to work at the intersection of frontend and backend development. In this role, the eng",
+      "date_posted": "2026-07-25",
+      "age_days": 2,
+      "date_found": "2026-07-27",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4444853725",
+      "name": "Senior Front-End Engineer",
+      "company": "exequt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-exequt-4444853725",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 0,
+      "date_found": "2026-07-27",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4444871506",
+      "name": "Frontend/UI Developer - Cairo, Egypt",
+      "company": "OHK Consultants",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-ui-developer-cairo-egypt-at-ohk-consultants-4444871506",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 0,
+      "date_found": "2026-07-27",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442643501",
+      "name": "Frontend Developer (REACT)",
+      "company": "Nexttec Technology Outsourcing",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-react-at-nexttec-technology-outsourcing-4442643501",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-21",
+      "age_days": 6,
+      "date_found": "2026-07-27",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4444782367",
+      "name": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782367",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-24",
+      "age_days": 3,
+      "date_found": "2026-07-27",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
