@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T04:41:24.886989+00:00",
-  "total_unique": 217,
+  "last_updated": "2026-07-28T04:14:46.940842+00:00",
+  "total_unique": 220,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6403,6 +6403,78 @@
       "date_found": "2026-07-27",
       "score": 65,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4442304828",
+      "name": "Senior Frontend Developer",
+      "company": "Speero",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-speero-4442304828",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-25",
+      "age_days": 3,
+      "date_found": "2026-07-28",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4445971200",
+      "name": "Senior Frontend Developer",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-systems-limited-egypt-4445971200",
+      "source": "LinkedIn",
+      "location": "Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 1,
+      "date_found": "2026-07-28",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4445913270",
+      "name": "Mid-Level Frontend Engineer (React.js) - 4 Months - Remote - Octopus by RTG",
+      "company": "Robusta Studio",
+      "url": "https://eg.linkedin.com/jobs/view/mid-level-frontend-engineer-react-js-4-months-remote-octopus-by-rtg-at-robusta-studio-4445913270",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 1,
+      "date_found": "2026-07-28",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },
