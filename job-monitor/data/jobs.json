@@ -1,8 +1,36 @@
 {
-  "last_run": "2026-07-29T04:17:00.693560+00:00",
-  "total_items": 17,
-  "new_count": 1,
+  "last_run": "2026-07-30T04:10:19.345646+00:00",
+  "total_items": 18,
+  "new_count": 2,
   "items": [
+    {
+      "id": "jobicy-147980",
+      "name": "Node.js & React Tech Lead (Latam, Remote)",
+      "company": "Kubikware",
+      "url": "https://jobicy.com/jobs/147980-node-js-react-tech-lead-latam-remote",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
+      "date_posted": "2026-07-29",
+      "age_days": 1,
+      "date_found": "2026-07-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
+    },
     {
       "id": "linkedin-4443221697",
       "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
@@ -17,8 +45,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-28",
-      "age_days": 1,
-      "date_found": "2026-07-29",
+      "age_days": 2,
+      "date_found": "2026-07-30",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -27,7 +55,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4442693634",
@@ -43,62 +71,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 8,
-      "date_found": "2026-07-29",
+      "age_days": 9,
+      "date_found": "2026-07-30",
       "score": 95,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
         "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4445913270",
-      "name": "Mid-Level Frontend Engineer (React.js) - 4 Months - Remote - Octopus by RTG",
-      "company": "Robusta Studio",
-      "url": "https://eg.linkedin.com/jobs/view/mid-level-frontend-engineer-react-js-4-months-remote-octopus-by-rtg-at-robusta-studio-4445913270",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-27",
-      "age_days": 2,
-      "date_found": "2026-07-29",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4443772460",
-      "name": "Front End Developer (React)",
-      "company": "SSC HR Solutions",
-      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-react-at-ssc-hr-solutions-4443772460",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-22",
-      "age_days": 7,
-      "date_found": "2026-07-29",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -116,8 +96,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 8,
-      "date_found": "2026-07-29",
+      "age_days": 9,
+      "date_found": "2026-07-30",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -141,8 +121,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 8,
-      "date_found": "2026-07-29",
+      "age_days": 9,
+      "date_found": "2026-07-30",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -166,8 +146,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-19",
-      "age_days": 10,
-      "date_found": "2026-07-29",
+      "age_days": 11,
+      "date_found": "2026-07-30",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -193,8 +173,32 @@
       "salary": "",
       "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
       "date_posted": "2026-07-28",
-      "age_days": 1,
-      "date_found": "2026-07-29",
+      "age_days": 2,
+      "date_found": "2026-07-30",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4444871506",
+      "name": "Frontend/UI Developer - Cairo, Egypt",
+      "company": "OHK Consultants",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-ui-developer-cairo-egypt-at-ohk-consultants-4444871506",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 3,
+      "date_found": "2026-07-30",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
@@ -217,32 +221,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-27",
-      "age_days": 2,
-      "date_found": "2026-07-29",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4444853725",
-      "name": "Senior Front-End Engineer",
-      "company": "exequt",
-      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-exequt-4444853725",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-27",
-      "age_days": 2,
-      "date_found": "2026-07-29",
+      "age_days": 3,
+      "date_found": "2026-07-30",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -268,8 +248,8 @@
       "salary": "",
       "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
       "date_posted": "2026-07-25",
-      "age_days": 4,
-      "date_found": "2026-07-29",
+      "age_days": 5,
+      "date_found": "2026-07-30",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -279,28 +259,29 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4442304828",
-      "name": "Senior Frontend Developer",
-      "company": "Speero",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-speero-4442304828",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
+      "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-102759",
+      "name": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-102759",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
       "experience_years": "",
-      "skills": [],
+      "skills": [
+        "Tech",
+        "Remote"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-25",
-      "age_days": 4,
-      "date_found": "2026-07-29",
+      "description_excerpt": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</a>)</p>",
+      "date_posted": "2026-07-29",
+      "age_days": 1,
+      "date_found": "2026-07-30",
       "score": 65,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
+        "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4437420383",
@@ -316,36 +297,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-28",
-      "age_days": 1,
-      "date_found": "2026-07-29",
+      "age_days": 2,
+      "date_found": "2026-07-30",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4442029359",
-      "name": "Senior Frontend Developer",
-      "company": "Brightskies",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-brightskies-4442029359",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-20",
-      "age_days": 9,
-      "date_found": "2026-07-29",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -363,8 +320,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-23",
-      "age_days": 6,
-      "date_found": "2026-07-29",
+      "age_days": 7,
+      "date_found": "2026-07-30",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -386,12 +343,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-24",
-      "age_days": 5,
-      "date_found": "2026-07-29",
+      "age_days": 6,
+      "date_found": "2026-07-30",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4442029359",
+      "name": "Senior Frontend Developer",
+      "company": "Brightskies",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-brightskies-4442029359",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-20",
+      "age_days": 10,
+      "date_found": "2026-07-30",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -409,14 +390,61 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 8,
-      "date_found": "2026-07-29",
+      "age_days": 9,
+      "date_found": "2026-07-30",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4439658795",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4439658795",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-19",
+      "age_days": 11,
+      "date_found": "2026-07-30",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4444183923",
+      "name": "UI Engineer (React)",
+      "company": "Dicetek LLC",
+      "url": "https://ae.linkedin.com/jobs/view/ui-engineer-react-at-dicetek-llc-4444183923",
+      "source": "LinkedIn",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-30",
+      "age_days": 0,
+      "date_found": "2026-07-30",
+      "score": 55,
+      "score_breakdown": {
+        "react": 25,
+        "location": -15,
+        "fresh": 15
+      },
+      "is_new": true
     }
   ]
 }

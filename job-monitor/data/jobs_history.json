@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T04:17:00.695680+00:00",
-  "total_unique": 221,
+  "last_updated": "2026-07-30T04:10:19.348509+00:00",
+  "total_unique": 223,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6503,6 +6503,55 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-102759",
+      "name": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-102759",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Tech",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</a>)</p>",
+      "date_posted": "2026-07-29",
+      "age_days": 1,
+      "date_found": "2026-07-30",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4444183923",
+      "name": "UI Engineer (React)",
+      "company": "Dicetek LLC",
+      "url": "https://ae.linkedin.com/jobs/view/ui-engineer-react-at-dicetek-llc-4444183923",
+      "source": "LinkedIn",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-30",
+      "age_days": 0,
+      "date_found": "2026-07-30",
+      "score": 55,
+      "score_breakdown": {
+        "react": 25,
+        "location": -15,
+        "fresh": 15
       },
       "is_new": true
     }
