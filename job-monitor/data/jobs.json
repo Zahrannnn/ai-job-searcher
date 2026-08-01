@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-07-31T04:27:32.096944+00:00",
+  "last_run": "2026-08-01T04:24:01.026186+00:00",
   "total_items": 19,
-  "new_count": 3,
+  "new_count": 4,
   "items": [
     {
       "id": "jobicy-147974",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple industries. Among other accolades, we&hellip;",
       "date_posted": "2026-07-30",
-      "age_days": 1,
-      "date_found": "2026-07-31",
+      "age_days": 2,
+      "date_found": "2026-08-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -48,8 +48,8 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
       "date_posted": "2026-07-30",
-      "age_days": 1,
-      "date_found": "2026-07-31",
+      "age_days": 2,
+      "date_found": "2026-08-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -60,34 +60,30 @@
       "is_new": false
     },
     {
-      "id": "himalayas-reactive-markets-16736518",
-      "name": "Lead ClickHouse Engineer",
-      "company": "Reactive Markets",
-      "url": "https://himalayas.app/companies/reactive-markets/jobs/lead-clickhouse-engineer",
-      "source": "Himalayas",
-      "location": "United Kingdom",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Lead-Data-Engineer",
-        "Lead-Big-Data-Engineer",
-        "Lead-Data-Engineering",
-        "Data-Engineering-Lead"
-      ],
+      "id": "linkedin-4443221697",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4443221697",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "Lead ClickHouse EngineerRemote (UK-based) | Full-TimeAbout UsReactive Markets is the 2026 OTC Trading Platform of the Year ().",
-      "date_posted": "2026-07-31",
-      "age_days": 0,
-      "date_found": "2026-07-31",
+      "description_excerpt": "",
+      "date_posted": "2026-07-28",
+      "age_days": 4,
+      "date_found": "2026-08-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
-        "typescript": 10,
+        "nextjs": 15,
         "location": 20,
-        "fresh": 15
+        "fresh": 10,
+        "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4442693634",
@@ -103,8 +99,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 10,
-      "date_found": "2026-07-31",
+      "age_days": 11,
+      "date_found": "2026-08-01",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -115,53 +111,28 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4445913270",
-      "name": "Mid-Level Frontend Engineer (React.js) - 4 Months - Remote - Octopus by RTG",
-      "company": "Robusta Studio",
-      "url": "https://eg.linkedin.com/jobs/view/mid-level-frontend-engineer-react-js-4-months-remote-octopus-by-rtg-at-robusta-studio-4445913270",
+      "id": "linkedin-4443683970",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4443683970",
       "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-07-27",
-      "age_days": 4,
-      "date_found": "2026-07-31",
-      "score": 85,
+      "date_posted": "2026-07-29",
+      "age_days": 3,
+      "date_found": "2026-08-01",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10
+        "fresh": 15
       },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4435331900",
-      "name": "Semi Senior React Developer - Remote Work | REF#296505",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296505-at-bairesdev-4435331900",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 10,
-      "date_found": "2026-07-31",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4443772460",
@@ -177,8 +148,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-22",
-      "age_days": 9,
-      "date_found": "2026-07-31",
+      "age_days": 10,
+      "date_found": "2026-08-01",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -201,8 +172,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-19",
-      "age_days": 12,
-      "date_found": "2026-07-31",
+      "age_days": 13,
+      "date_found": "2026-08-01",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -228,15 +199,39 @@
       "salary": "",
       "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
       "date_posted": "2026-07-28",
-      "age_days": 3,
-      "date_found": "2026-07-31",
-      "score": 75,
+      "age_days": 4,
+      "date_found": "2026-08-01",
+      "score": 70,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4447137536",
+      "name": "Senior Front-End Engineer",
+      "company": "exequt MENA",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-exequt-mena-4447137536",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-31",
+      "age_days": 1,
+      "date_found": "2026-08-01",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4438659758",
@@ -252,8 +247,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-30",
-      "age_days": 1,
-      "date_found": "2026-07-31",
+      "age_days": 2,
+      "date_found": "2026-08-01",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -279,8 +274,54 @@
       "salary": "",
       "description_excerpt": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
       "date_posted": "2026-07-30",
+      "age_days": 2,
+      "date_found": "2026-08-01",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4446985873",
+      "name": "Front End Developer | $50/hr Remote",
+      "company": "Crossing Hurdles",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-$50-hr-remote-at-crossing-hurdles-4446985873",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-31",
       "age_days": 1,
-      "date_found": "2026-07-31",
+      "date_found": "2026-08-01",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4447140562",
+      "name": "Front-End Software Developer",
+      "company": "exequt MENA",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-software-developer-at-exequt-mena-4447140562",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-31",
+      "age_days": 1,
+      "date_found": "2026-08-01",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -302,8 +343,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-30",
-      "age_days": 1,
-      "date_found": "2026-07-31",
+      "age_days": 2,
+      "date_found": "2026-08-01",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -325,36 +366,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-27",
-      "age_days": 4,
-      "date_found": "2026-07-31",
+      "age_days": 5,
+      "date_found": "2026-08-01",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4437420383",
-      "name": "Java Front End Developer",
-      "company": "Network International",
-      "url": "https://eg.linkedin.com/jobs/view/java-front-end-developer-at-network-international-4437420383",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-28",
-      "age_days": 3,
-      "date_found": "2026-07-31",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
       },
       "is_new": false
     },
@@ -372,36 +390,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-20",
-      "age_days": 11,
-      "date_found": "2026-07-31",
+      "age_days": 12,
+      "date_found": "2026-08-01",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4444782367",
-      "name": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782367",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-24",
-      "age_days": 7,
-      "date_found": "2026-07-31",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -419,37 +414,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-23",
-      "age_days": 8,
-      "date_found": "2026-07-31",
+      "age_days": 9,
+      "date_found": "2026-08-01",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
-    },
-    {
-      "id": "linkedin-4435335771",
-      "name": "Javascript Developer - Remote Work | REF#296484",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-ref#296484-at-bairesdev-4435335771",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 10,
-      "date_found": "2026-07-31",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4435331893",
@@ -465,8 +437,31 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-21",
-      "age_days": 10,
-      "date_found": "2026-07-31",
+      "age_days": 11,
+      "date_found": "2026-08-01",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4439658795",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4439658795",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-19",
+      "age_days": 13,
+      "date_found": "2026-08-01",
       "score": 55,
       "score_breakdown": {
         "location": 20,
