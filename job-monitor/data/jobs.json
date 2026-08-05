@@ -1,69 +1,13 @@
 {
-  "last_run": "2026-08-04T04:17:34.377445+00:00",
-  "total_items": 18,
+  "last_run": "2026-08-05T04:15:38.279842+00:00",
+  "total_items": 15,
   "new_count": 1,
   "items": [
     {
-      "id": "jobicy-147974",
-      "name": "Full-Stack Node.js and React Engineer",
-      "company": "Kubikware",
-      "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple industries. Among other accolades, we&hellip;",
-      "date_posted": "2026-07-30",
-      "age_days": 5,
-      "date_found": "2026-08-04",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-147975",
-      "name": "Laravel & React Engineer (Remote, Latam)",
-      "company": "Kubikware",
-      "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
-      "date_posted": "2026-07-30",
-      "age_days": 5,
-      "date_found": "2026-08-04",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4442693634",
+      "id": "linkedin-4447329771",
       "name": "Frontend Engineer – Next.js (React)",
       "company": "York Towers",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-–-next-js-react-at-york-towers-4442693634",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-–-next-js-react-at-york-towers-4447329771",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -72,42 +16,17 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 14,
-      "date_found": "2026-08-04",
-      "score": 95,
+      "date_posted": "2026-08-05",
+      "age_days": 0,
+      "date_found": "2026-08-05",
+      "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 5
+        "fresh": 15
       },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4435331900",
-      "name": "Semi Senior React Developer - Remote Work | REF#296505",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/semi-senior-react-developer-remote-work-ref#296505-at-bairesdev-4435331900",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 14,
-      "date_found": "2026-08-04",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4443772460",
@@ -123,8 +42,32 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-22",
-      "age_days": 13,
-      "date_found": "2026-08-04",
+      "age_days": 14,
+      "date_found": "2026-08-05",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4445913270",
+      "name": "Mid-Level Frontend Engineer (React.js) - 4 Months - Remote - Octopus by RTG",
+      "company": "Robusta Studio",
+      "url": "https://eg.linkedin.com/jobs/view/mid-level-frontend-engineer-react-js-4-months-remote-octopus-by-rtg-at-robusta-studio-4445913270",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 9,
+      "date_found": "2026-08-05",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -150,12 +93,12 @@
       "salary": "",
       "description_excerpt": "Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security,&hellip;",
       "date_posted": "2026-08-01",
-      "age_days": 3,
-      "date_found": "2026-08-04",
-      "score": 75,
+      "age_days": 4,
+      "date_found": "2026-08-05",
+      "score": 70,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10
       },
       "is_new": false
@@ -174,36 +117,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-02",
-      "age_days": 2,
-      "date_found": "2026-08-04",
+      "age_days": 3,
+      "date_found": "2026-08-05",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4447137536",
-      "name": "Senior Front-End Engineer",
-      "company": "exequt MENA",
-      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-exequt-mena-4447137536",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-31",
-      "age_days": 4,
-      "date_found": "2026-08-04",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -222,13 +141,61 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-30",
-      "age_days": 5,
-      "date_found": "2026-08-04",
+      "age_days": 6,
+      "date_found": "2026-08-05",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4447137536",
+      "name": "Senior Front-End Engineer",
+      "company": "exequt MENA",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-engineer-at-exequt-mena-4447137536",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-31",
+      "age_days": 5,
+      "date_found": "2026-08-05",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4444871506",
+      "name": "Frontend/UI Developer - Cairo, Egypt",
+      "company": "OHK Consultants",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-ui-developer-cairo-egypt-at-ohk-consultants-4444871506",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 9,
+      "date_found": "2026-08-05",
+      "score": 65,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 5
       },
       "is_new": false
     },
@@ -246,12 +213,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-31",
-      "age_days": 4,
-      "date_found": "2026-08-04",
+      "age_days": 5,
+      "date_found": "2026-08-05",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4445971200",
+      "name": "Senior Frontend Developer",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-systems-limited-egypt-4445971200",
+      "source": "LinkedIn",
+      "location": "Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-27",
+      "age_days": 9,
+      "date_found": "2026-08-05",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -269,31 +260,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-31",
-      "age_days": 4,
-      "date_found": "2026-08-04",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4438667488",
-      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4438667488",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-30",
       "age_days": 5,
-      "date_found": "2026-08-04",
+      "date_found": "2026-08-05",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -315,8 +283,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-27",
-      "age_days": 8,
-      "date_found": "2026-08-04",
+      "age_days": 9,
+      "date_found": "2026-08-05",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -339,36 +307,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-28",
-      "age_days": 7,
-      "date_found": "2026-08-04",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4445971200",
-      "name": "Senior Frontend Developer",
-      "company": "Systems Limited - Egypt",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-systems-limited-egypt-4445971200",
-      "source": "LinkedIn",
-      "location": "Al Jizah, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-27",
       "age_days": 8,
-      "date_found": "2026-08-04",
-      "score": 60,
+      "date_found": "2026-08-05",
+      "score": 55,
       "score_breakdown": {
         "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 5
       },
       "is_new": false
     },
@@ -386,8 +330,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-23",
-      "age_days": 12,
-      "date_found": "2026-08-04",
+      "age_days": 13,
+      "date_found": "2026-08-05",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -396,33 +340,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4435335771",
-      "name": "Javascript Developer - Remote Work | REF#296484",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-ref#296484-at-bairesdev-4435335771",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 14,
-      "date_found": "2026-08-04",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4435331893",
-      "name": "Javascript Developer - Remote Work | REF#296482",
-      "company": "BairesDev",
-      "url": "https://eg.linkedin.com/jobs/view/javascript-developer-remote-work-ref#296482-at-bairesdev-4435331893",
+      "id": "linkedin-4444782367",
+      "name": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782367",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -431,9 +352,9 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-07-21",
-      "age_days": 14,
-      "date_found": "2026-08-04",
+      "date_posted": "2026-07-24",
+      "age_days": 12,
+      "date_found": "2026-08-05",
       "score": 55,
       "score_breakdown": {
         "location": 20,

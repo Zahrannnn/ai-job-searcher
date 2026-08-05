@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T04:17:34.379549+00:00",
-  "total_unique": 231,
+  "last_updated": "2026-08-05T04:15:38.281843+00:00",
+  "total_unique": 232,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6749,6 +6749,31 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4447329771",
+      "name": "Frontend Engineer – Next.js (React)",
+      "company": "York Towers",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-–-next-js-react-at-york-towers-4447329771",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-05",
+      "age_days": 0,
+      "date_found": "2026-08-05",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
