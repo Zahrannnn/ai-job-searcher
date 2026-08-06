@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T04:15:38.281843+00:00",
-  "total_unique": 232,
+  "last_updated": "2026-08-06T04:17:56.309382+00:00",
+  "total_unique": 234,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6774,6 +6774,54 @@
         "nextjs": 15,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4448935587",
+      "name": "Senior Frontend Engineer",
+      "company": "Kernel-Z",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-kernel-z-4448935587",
+      "source": "LinkedIn",
+      "location": "Alexandria, Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-05",
+      "age_days": 1,
+      "date_found": "2026-08-06",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4449101571",
+      "name": "Senior Frontend Developer",
+      "company": "Nexus Analytica",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-nexus-analytica-4449101571",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-05",
+      "age_days": 1,
+      "date_found": "2026-08-06",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
