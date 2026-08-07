@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T04:17:56.309382+00:00",
-  "total_unique": 234,
+  "last_updated": "2026-08-07T03:53:11.218730+00:00",
+  "total_unique": 235,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6822,6 +6822,44 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091087",
+      "name": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "source": "Remotive",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "api",
+        "CSS",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing",
+        "github"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"padding: 0px 0px 1em; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #000000;\">We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.</p>\n<p style=\"pa",
+      "date_posted": "2026-08-05",
+      "age_days": 2,
+      "date_found": "2026-08-07",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
       },
       "is_new": true
     }
