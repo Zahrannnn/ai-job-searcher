@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T03:53:11.218730+00:00",
-  "total_unique": 235,
+  "last_updated": "2026-08-08T02:57:05.091513+00:00",
+  "total_unique": 236,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6860,6 +6860,29 @@
         "fresh": 15,
         "ai": 10,
         "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4448766971",
+      "name": "Junior Frontend Developer – Quality Engineering Track",
+      "company": "Kadorf.com",
+      "url": "https://eg.linkedin.com/jobs/view/junior-frontend-developer-–-quality-engineering-track-at-kadorf-com-4448766971",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-07",
+      "age_days": 1,
+      "date_found": "2026-08-08",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
