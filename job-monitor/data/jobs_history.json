@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T02:57:05.091513+00:00",
-  "total_unique": 236,
+  "last_updated": "2026-08-09T03:03:56.173509+00:00",
+  "total_unique": 238,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6883,6 +6883,78 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mozilla-10870867",
+      "name": "Staff Design Engineer, AI Product",
+      "company": "Mozilla",
+      "url": "https://himalayas.app/companies/mozilla/jobs/staff-design-engineer-ai-product",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Design-Engineering",
+        "Frontend-Engineering",
+        "Product-Design",
+        "UX-Engineering",
+        "AI-Product-Development",
+        "AI-Product-Design-Lead",
+        "Lead-AI-ML-Product-Designer",
+        "Principal-AI-Product-Designer",
+        "Staff-Product-Designer"
+      ],
+      "salary": "155000-175000 CAD",
+      "description_excerpt": "Why Thunderbird? Thunderbird is one of the world’s most trusted open-source email applications, empowering more than 20 million people globally.",
+      "date_posted": "2026-08-09",
+      "age_days": 0,
+      "date_found": "2026-08-09",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-engine-4746020",
+      "name": "Senior Frontend Engineer - Fintech, Card",
+      "company": "Engine",
+      "url": "https://himalayas.app/companies/engine/jobs/senior-frontend-engineer-fintech-card",
+      "source": "Himalayas",
+      "location": "Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Frontend-Engineering",
+        "Frontend-Development",
+        "Software-Engineering",
+        "Fintech-Engineering",
+        "Card-Payments-Engineer",
+        "Senior-Software-Engineer-Front-End",
+        "Senior-Frontend-Engineer-(Angular)",
+        "Senior-Frontend-React-Developer",
+        "Senior-Frontend-Architect",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "About EngineAt Engine, we’re transforming business travel into something personalized, rewarding, and simple.",
+      "date_posted": "2026-08-09",
+      "age_days": 0,
+      "date_found": "2026-08-09",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
