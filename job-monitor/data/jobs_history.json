@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T03:03:56.173509+00:00",
-  "total_unique": 238,
+  "last_updated": "2026-08-10T03:13:41.145210+00:00",
+  "total_unique": 240,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -6955,6 +6955,69 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mantech-13521000",
+      "name": "UI/UX Junior AI Application Developer",
+      "company": "ManTech",
+      "url": "https://himalayas.app/companies/mantech/jobs/ui-ux-junior-ai-application-developer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Entry-level",
+      "skills": [
+        "UI-UX-Development",
+        "Frontend-Development",
+        "AI-Application-Developer",
+        "Human-AI-Teaming",
+        "Junior-Developer",
+        "Junior-UI-Developer",
+        "Junior-AI-Developer",
+        "Junior-UI-UX-Engineer",
+        "Junior-Application-Developer",
+        "Junior-UI-UX-Designer",
+        "Junior-AI-Developer-Jobs",
+        "Junior-Applications-Developer",
+        "Junior-UI-Designer"
+      ],
+      "salary": "63500-105900 USD",
+      "description_excerpt": "Elevate your career with MANTECH International Corporation!",
+      "date_posted": "2026-08-10",
+      "age_days": 0,
+      "date_found": "2026-08-10",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4443693762",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4443693762",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-07-29",
+      "age_days": 12,
+      "date_found": "2026-08-10",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5
       },
       "is_new": true
     }
