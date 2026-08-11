@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-10T03:13:41.145210+00:00",
-  "total_unique": 240,
+  "last_updated": "2026-08-11T03:06:01.377935+00:00",
+  "total_unique": 243,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7018,6 +7018,93 @@
         "react": 25,
         "location": 20,
         "fresh": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-caretria-160464",
+      "name": "Software Architect (2026-7245)",
+      "company": "name",
+      "url": "https://himalayas.app/companies/caretria/jobs/software-architect-2026-7245",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Architecture",
+        "Fullstack-Development",
+        "Frontend-Development",
+        "Backend-Development",
+        "Healthcare-Technology",
+        "Software-Architect",
+        "Software-Architect-(Node.Js)",
+        "Software-System-Architect",
+        "Senior-Cloud-Software-Architect",
+        "Senior-Application-Architect",
+        "Senior-Software-Architect---Reliability-Engineering",
+        "Senior-Java-Architect"
+      ],
+      "salary": "",
+      "description_excerpt": "The Software Architect is responsible for driving the development of our cutting-edge healthcare technology platform.",
+      "date_posted": "2026-08-11",
+      "age_days": 0,
+      "date_found": "2026-08-11",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4449254450",
+      "name": "Senior Frontend Engineer (React / Next.js)",
+      "company": "ConnectX AI",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-at-connectx-ai-4449254450",
+      "source": "LinkedIn",
+      "location": "Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-10",
+      "age_days": 1,
+      "date_found": "2026-08-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4449548937",
+      "name": "Full Stack developer (node js, React)",
+      "company": "UtoPia",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-utopia-4449548937",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-10",
+      "age_days": 1,
+      "date_found": "2026-08-11",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
