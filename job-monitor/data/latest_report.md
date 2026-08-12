@@ -1,54 +1,53 @@
 # Job Monitor Report
 
-- **Last run:** 2026-08-11T03:06:01.375823+00:00
-- **Total items found:** 13
-- **New since last run:** 3
+- **Last run:** 2026-08-12T03:25:24.072665+00:00
+- **Total items found:** 12
+- **New since last run:** 0
 - **Alert threshold (score ≥ 70):** 6 items
 
 ## Top 6 matches (score ≥ 70)
 
 ### Frontend Engineer React and AWS @ Numentica
-- **Score:** 100/100 — **USA** (2d ago) — Remote
+- **Score:** 100/100 — **USA** (3d ago) — Remote
 - **Source:** Jobicy
 - **Skills:** Software Engineering, Contract
 - **Apply:** https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws
 - **Score breakdown:** react=+25, typescript=+10, location=+20, fresh=+15
 
 ### Senior Frontend Engineer (React / Next.js) @ ConnectX AI
-- **Score:** 100/100 — **Alexandria, Egypt** (1d ago) — On-site
+- **Score:** 100/100 — **Alexandria, Egypt** (2d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-at-connectx-ai-4449254450
 - **Score breakdown:** react=+25, nextjs=+15, location=+20, fresh=+15, ai=+10, senior_ic=+5
 
 ### Senior React Native Developer @ Ruby Labs
-- **Score:** 90/100 — **Europe** (6d ago) — Remote
+- **Score:** 90/100 — **Europe** (7d ago) — Remote
 - **Source:** Jobicy
 - **Skills:** Software Engineering, Full-Time
 - **Apply:** https://jobicy.com/jobs/148652-senior-react-native-developer
 - **Score breakdown:** react=+25, location=+20, fresh=+10, senior_ic=+5
 
 ### Full Stack developer (node js, React) @ UtoPia
-- **Score:** 90/100 — **Qesm El Maadi, Cairo, Egypt** (1d ago) — On-site
+- **Score:** 90/100 — **Qesm El Maadi, Cairo, Egypt** (2d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-utopia-4449548937
 - **Score breakdown:** react=+25, location=+20, fresh=+15
 
 ### SaaS Product Support Jedi @ Creative Force
-- **Score:** 80/100 — **Europe, EMEA, UK, Germany, France, European timezones** (6d ago) — Remote
+- **Score:** 80/100 — **Europe, EMEA, UK, Germany, France, European timezones** (7d ago) — Remote
 - **Source:** Remotive
 - **Skills:** api, CSS, go, html, javascript
 - **Apply:** https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087
 - **Score breakdown:** location=+20, fresh=+10, ai=+10, founding=+10
 
 ### Frontend Lead – React Native @ QNBeyond Plus
-- **Score:** 80/100 — **Cairo, Egypt** (13d ago) — On-site
+- **Score:** 80/100 — **Cairo, Egypt** (14d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4443683970
 - **Score breakdown:** react=+25, location=+20, fresh=+5
 
-## Below threshold (next 7)
+## Below threshold (next 6)
 
-- **65/100** — Software Architect (2026-7245) @ name (United States) — https://himalayas.app/companies/caretria/jobs/software-architect-2026-7245
 - **65/100** — Senior Frontend Engineer @ Kernel-Z (Alexandria, Alexandria, Egypt) — https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-kernel-z-4448935587
 - **65/100** — Senior Frontend Developer @ Nexus Analytica (Cairo, Cairo, Egypt) — https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-nexus-analytica-4449101571
 - **60/100** — Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt @ Deloitte (Cairo, Cairo, Egypt) — https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4438659758
