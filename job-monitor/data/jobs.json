@@ -1,8 +1,36 @@
 {
-  "last_run": "2026-08-12T03:25:24.072665+00:00",
-  "total_items": 12,
-  "new_count": 0,
+  "last_run": "2026-08-13T03:28:21.112543+00:00",
+  "total_items": 11,
+  "new_count": 3,
   "items": [
+    {
+      "id": "jobicy-150581",
+      "name": "Senior Software Engineer (Node & React, Headless API)",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/150581-senior-software-engineer-node-react-headless-api",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This role is part of our Ayrshare, one of our growing brands at saas.group. Ayrshare offers a unified social media API to post, schedule, analyze, comment, and message across 13+ networks — letting developers integrate social media features in minutes while removing the burden of maintaining multiple native integrations. We’re looking for an outstanding backend&hellip;",
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
     {
       "id": "jobicy-145744",
       "name": "Frontend Engineer React and AWS",
@@ -20,24 +48,24 @@
       "salary": "",
       "description_excerpt": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong React and TypeScript experience HTML5, CSS3, JavaScript AWS&hellip;",
       "date_posted": "2026-08-09",
-      "age_days": 3,
-      "date_found": "2026-08-12",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-08-13",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
     {
-      "id": "linkedin-4449254450",
-      "name": "Senior Frontend Engineer (React / Next.js)",
-      "company": "ConnectX AI",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-react-next-js-at-connectx-ai-4449254450",
+      "id": "linkedin-4449548937",
+      "name": "Full Stack developer (node js, React)",
+      "company": "UtoPia",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-utopia-4449548937",
       "source": "LinkedIn",
-      "location": "Alexandria, Egypt",
+      "location": "Qesm El Maadi, Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
@@ -45,16 +73,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-10",
-      "age_days": 2,
-      "date_found": "2026-08-12",
-      "score": 100,
+      "age_days": 3,
+      "date_found": "2026-08-13",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
-        "nextjs": 15,
         "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
+        "fresh": 15
       },
       "is_new": false
     },
@@ -75,40 +100,41 @@
       "salary": "",
       "description_excerpt": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at:&hellip;",
       "date_posted": "2026-08-05",
-      "age_days": 7,
-      "date_found": "2026-08-12",
-      "score": 90,
+      "age_days": 8,
+      "date_found": "2026-08-13",
+      "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
     },
     {
-      "id": "linkedin-4449548937",
-      "name": "Full Stack developer (node js, React)",
-      "company": "UtoPia",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-utopia-4449548937",
+      "id": "linkedin-4451688811",
+      "name": "Senior Frontend Developer",
+      "company": "Sai",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-sai-4451688811",
       "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-10",
-      "age_days": 2,
-      "date_found": "2026-08-12",
-      "score": 90,
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
+      "score": 80,
       "score_breakdown": {
-        "react": 25,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2091087",
@@ -137,70 +163,22 @@
       "salary": "",
       "description_excerpt": "<p style=\"padding: 0px 0px 1em; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #000000;\">We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.</p>\n<p style=\"pa",
       "date_posted": "2026-08-05",
-      "age_days": 7,
-      "date_found": "2026-08-12",
-      "score": 80,
+      "age_days": 8,
+      "date_found": "2026-08-13",
+      "score": 75,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "ai": 10,
         "founding": 10
       },
       "is_new": false
     },
     {
-      "id": "linkedin-4443683970",
-      "name": "Frontend Lead – React Native",
-      "company": "QNBeyond Plus",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4443683970",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-07-29",
-      "age_days": 14,
-      "date_found": "2026-08-12",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4448935587",
-      "name": "Senior Frontend Engineer",
-      "company": "Kernel-Z",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-at-kernel-z-4448935587",
-      "source": "LinkedIn",
-      "location": "Alexandria, Alexandria, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-05",
-      "age_days": 7,
-      "date_found": "2026-08-12",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4449101571",
-      "name": "Senior Frontend Developer",
-      "company": "Nexus Analytica",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-nexus-analytica-4449101571",
+      "id": "linkedin-4453116119",
+      "name": "Frontend Engineer",
+      "company": "Bayzat",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-at-bayzat-4453116119",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -209,16 +187,15 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-05",
-      "age_days": 7,
-      "date_found": "2026-08-12",
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
       "score": 65,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
+        "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4438659758",
@@ -234,8 +211,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-30",
-      "age_days": 13,
-      "date_found": "2026-08-12",
+      "age_days": 14,
+      "date_found": "2026-08-13",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -258,8 +235,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-31",
-      "age_days": 12,
-      "date_found": "2026-08-12",
+      "age_days": 13,
+      "date_found": "2026-08-13",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -282,8 +259,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-31",
-      "age_days": 12,
-      "date_found": "2026-08-12",
+      "age_days": 13,
+      "date_found": "2026-08-13",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -305,8 +282,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-07-30",
-      "age_days": 13,
-      "date_found": "2026-08-12",
+      "age_days": 14,
+      "date_found": "2026-08-13",
       "score": 55,
       "score_breakdown": {
         "location": 20,

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T03:25:24.074319+00:00",
-  "total_unique": 243,
+  "last_updated": "2026-08-13T03:28:21.114620+00:00",
+  "total_unique": 246,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7105,6 +7105,82 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-150581",
+      "name": "Senior Software Engineer (Node & React, Headless API)",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/150581-senior-software-engineer-node-react-headless-api",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This role is part of our Ayrshare, one of our growing brands at saas.group. Ayrshare offers a unified social media API to post, schedule, analyze, comment, and message across 13+ networks — letting developers integrate social media features in minutes while removing the burden of maintaining multiple native integrations. We’re looking for an outstanding backend&hellip;",
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4453116119",
+      "name": "Frontend Engineer",
+      "company": "Bayzat",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-at-bayzat-4453116119",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4451688811",
+      "name": "Senior Frontend Developer",
+      "company": "Sai",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-sai-4451688811",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-12",
+      "age_days": 1,
+      "date_found": "2026-08-13",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
       },
       "is_new": true
     }
