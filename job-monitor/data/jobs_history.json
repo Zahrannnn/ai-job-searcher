@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16T02:22:37.194324+00:00",
-  "total_unique": 249,
+  "last_updated": "2026-08-17T02:21:14.486269+00:00",
+  "total_unique": 255,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7253,6 +7253,169 @@
         "nextjs": 15,
         "location": 20,
         "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-150845",
+      "name": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
+      "source": "Jobicy",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
+      "date_posted": "2026-08-16",
+      "age_days": 1,
+      "date_found": "2026-08-17",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-150844",
+      "name": "Mid Level Front End Engineer",
+      "company": "Cedar",
+      "url": "https://jobicy.com/jobs/150844-mid-level-front-end-engineer",
+      "source": "Jobicy",
+      "location": "Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Front-End Engineer (Mid-Level) Job Description Owning a home has slipped out of reach for millions of Americans. Cedar has built a model that changes that, we’ve proven it by closing deals, and now we’re scaling. As our mid-level front-end engineer, you’ll build what people touch every day: the screens a family uses to figure out&hellip;",
+      "date_posted": "2026-08-16",
+      "age_days": 1,
+      "date_found": "2026-08-17",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-nooxit-16161578",
+      "name": "Full Stack Engineer",
+      "company": "name",
+      "url": "https://himalayas.app/companies/nooxit/jobs/full-stack-engineer-8217305689",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Development",
+        "Full-Stack-Engineering",
+        "Backend-Development",
+        "Frontend-Development",
+        "Cloud-Engineer",
+        "Full-Stack-Engineer",
+        "Full-Stack-Web-Engineer",
+        "Full-Stack-Developer",
+        "Full-Stack-Engineer-Jobs",
+        "Full-Stack-Product-Engineer",
+        "Full-Stack-Software-Engineering",
+        "Full-Stack-JavaScript-Engineer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Engineering-Jobs"
+      ],
+      "salary": "40000-70000 EUR",
+      "description_excerpt": "Nooxit is building the next generation of AI-powered finance process automation for medium and large enterprises.",
+      "date_posted": "2026-08-17",
+      "age_days": 0,
+      "date_found": "2026-08-17",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4455222956",
+      "name": "Fullstack Developer (React/Node.js) (Remote)",
+      "company": "Hire Feed",
+      "url": "https://eg.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hire-feed-4455222956",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-17",
+      "age_days": 0,
+      "date_found": "2026-08-17",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4451761914",
+      "name": "Frontend Software Engineer",
+      "company": "Axis",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-software-engineer-at-axis-4451761914",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-16",
+      "age_days": 1,
+      "date_found": "2026-08-17",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4455171917",
+      "name": "Senior Frontend Developer",
+      "company": "Mondia",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-mondia-4455171917",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-16",
+      "age_days": 1,
+      "date_found": "2026-08-17",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
         "senior_ic": 5
       },
       "is_new": true
