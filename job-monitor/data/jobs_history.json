@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-17T02:21:14.486269+00:00",
-  "total_unique": 255,
+  "last_updated": "2026-08-18T02:17:17.774318+00:00",
+  "total_unique": 256,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7414,6 +7414,34 @@
       "date_found": "2026-08-17",
       "score": 70,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-150883",
+      "name": "Contract Senior Front End Engineer",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
+      "source": "Jobicy",
+      "location": "Anywhere",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
+      "date_posted": "2026-08-17",
+      "age_days": 1,
+      "date_found": "2026-08-18",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
