@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T02:17:17.774318+00:00",
-  "total_unique": 256,
+  "last_updated": "2026-08-19T02:19:58.430763+00:00",
+  "total_unique": 258,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7445,6 +7445,53 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4452812780",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-18",
+      "age_days": 1,
+      "date_found": "2026-08-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4455596250",
+      "name": "Frontend Angular Engineer",
+      "company": "Modupay",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-angular-engineer-at-modupay-4455596250",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-18",
+      "age_days": 1,
+      "date_found": "2026-08-19",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "angular_only": -30
       },
       "is_new": true
     }

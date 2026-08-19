@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-18T02:17:17.772167+00:00",
-  "total_items": 11,
-  "new_count": 1,
+  "last_run": "2026-08-19T02:19:58.428550+00:00",
+  "total_items": 12,
+  "new_count": 2,
   "items": [
     {
       "id": "remotive-2069746",
@@ -41,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 4,
-      "date_found": "2026-08-18",
+      "age_days": 5,
+      "date_found": "2026-08-19",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -70,14 +70,14 @@
       "salary": "",
       "description_excerpt": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other&hellip;",
       "date_posted": "2026-08-15",
-      "age_days": 3,
-      "date_found": "2026-08-18",
+      "age_days": 4,
+      "date_found": "2026-08-19",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10
       },
       "is_new": false
@@ -99,14 +99,40 @@
       "salary": "",
       "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top projects in U.S. companies. Truelogic has been helping companies of all sizes to achieve their digital transformation goals.Would you like to make innovation happen? Have&hellip;",
       "date_posted": "2026-08-15",
-      "age_days": 3,
-      "date_found": "2026-08-18",
+      "age_days": 4,
+      "date_found": "2026-08-19",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4449293468",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4449293468",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-09",
+      "age_days": 10,
+      "date_found": "2026-08-19",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -128,43 +154,16 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-15",
-      "age_days": 3,
-      "date_found": "2026-08-18",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-08-19",
+      "score": 95,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "founding": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-150845",
-      "name": "Full Stack Developer - Java & React (f/m/d)",
-      "company": "ecosio",
-      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
-      "source": "Jobicy",
-      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
-      "date_posted": "2026-08-16",
-      "age_days": 2,
-      "date_found": "2026-08-18",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
       },
       "is_new": false
     },
@@ -185,38 +184,14 @@
       "salary": "",
       "description_excerpt": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
       "date_posted": "2026-08-17",
-      "age_days": 1,
-      "date_found": "2026-08-18",
+      "age_days": 2,
+      "date_found": "2026-08-19",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4449548937",
-      "name": "Full Stack developer (node js, React)",
-      "company": "UtoPia",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-node-js-react-at-utopia-4449548937",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-10",
-      "age_days": 8,
-      "date_found": "2026-08-18",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     },
@@ -247,8 +222,8 @@
       "salary": "",
       "description_excerpt": "<p style=\"padding: 0px 0px 1em; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #000000;\">We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.</p>\n<p style=\"pa",
       "date_posted": "2026-08-05",
-      "age_days": 13,
-      "date_found": "2026-08-18",
+      "age_days": 14,
+      "date_found": "2026-08-19",
       "score": 75,
       "score_breakdown": {
         "location": 20,
@@ -272,8 +247,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-16",
-      "age_days": 2,
-      "date_found": "2026-08-18",
+      "age_days": 3,
+      "date_found": "2026-08-19",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -299,8 +274,8 @@
       "salary": "",
       "description_excerpt": "Front-End Engineer (Mid-Level) Job Description Owning a home has slipped out of reach for millions of Americans. Cedar has built a model that changes that, we’ve proven it by closing deals, and now we’re scaling. As our mid-level front-end engineer, you’ll build what people touch every day: the screens a family uses to figure out&hellip;",
       "date_posted": "2026-08-16",
-      "age_days": 2,
-      "date_found": "2026-08-18",
+      "age_days": 3,
+      "date_found": "2026-08-19",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -322,14 +297,61 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-16",
-      "age_days": 2,
-      "date_found": "2026-08-18",
+      "age_days": 3,
+      "date_found": "2026-08-19",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4452812780",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-18",
+      "age_days": 1,
+      "date_found": "2026-08-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4455596250",
+      "name": "Frontend Angular Engineer",
+      "company": "Modupay",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-angular-engineer-at-modupay-4455596250",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-18",
+      "age_days": 1,
+      "date_found": "2026-08-19",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "angular_only": -30
+      },
+      "is_new": true
     }
   ]
 }
