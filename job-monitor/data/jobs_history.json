@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T02:19:58.430763+00:00",
-  "total_unique": 258,
+  "last_updated": "2026-08-20T02:18:54.873324+00:00",
+  "total_unique": 260,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7492,6 +7492,61 @@
         "location": 20,
         "fresh": 15,
         "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151152",
+      "name": "Member of the Technical Staff, Internal Agent",
+      "company": "Vercel",
+      "url": "https://jobicy.com/jobs/151152-member-of-the-technical-staff-internal-agent",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
+      "date_posted": "2026-08-19",
+      "age_days": 1,
+      "date_found": "2026-08-20",
+      "score": 100,
+      "score_breakdown": {
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-frontend-software-engineer-100-remote-united-kindom-470934",
+      "name": "Frontend Software Engineer (100% Remote)",
+      "company": "Tether Operations Limited",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong><em><span style=\"color:#121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color:#121317\">At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, an",
+      "date_posted": "2026-08-19",
+      "age_days": 1,
+      "date_found": "2026-08-20",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
