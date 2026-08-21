@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-20T02:18:54.871280+00:00",
-  "total_items": 5,
-  "new_count": 2,
+  "last_run": "2026-08-21T02:24:32.765977+00:00",
+  "total_items": 11,
+  "new_count": 5,
   "items": [
     {
       "id": "remotive-2069746",
@@ -41,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 6,
-      "date_found": "2026-08-20",
+      "age_days": 7,
+      "date_found": "2026-08-21",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -70,8 +70,8 @@
       "salary": "",
       "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
       "date_posted": "2026-08-19",
-      "age_days": 1,
-      "date_found": "2026-08-20",
+      "age_days": 2,
+      "date_found": "2026-08-21",
       "score": 100,
       "score_breakdown": {
         "nextjs": 15,
@@ -80,15 +80,79 @@
         "fresh": 15,
         "ai": 10
       },
+      "is_new": false
+    },
+    {
+      "id": "himalayas-minsait-an-indra-company-16624550",
+      "name": "Desenvolvedor Java FullStack SR",
+      "company": "Minsait an Indra Company",
+      "url": "https://himalayas.app/companies/minsait-an-indra-company/jobs/desenvolvedor-java-fullstack-sr",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Java-Full-Stack-Developer",
+        "Java-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Software-Developer",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Senior-Java-Full-Stack-Developer",
+        "Desenvolvedor-Java-Senior",
+        "Senior-Full-Stack-Java-Developer",
+        "Senior-Full-Stack-Engineer-(Java-+-DevOps)",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-(Java-+-Angular)",
+        "Senior-Fullstack-Engineer-(Java-+-Angular)",
+        "Senior-Full-Stack-Engineer-(Java-+-React)"
+      ],
+      "salary": "",
+      "description_excerpt": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo.",
+      "date_posted": "2026-08-21",
+      "age_days": 0,
+      "date_found": "2026-08-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
       "is_new": true
     },
     {
-      "id": "jobicy-150883",
-      "name": "Contract Senior Front End Engineer",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
+      "id": "linkedin-4456751655",
+      "name": "Sr. ReactJS Front End Developer",
+      "company": "Network International",
+      "url": "https://eg.linkedin.com/jobs/view/sr-reactjs-front-end-developer-at-network-international-4456751655",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151249",
+      "name": "Engineering Manager (Frontend)",
+      "company": "ClickUp",
+      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
       "source": "Jobicy",
-      "location": "Anywhere",
+      "location": "USA",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -97,37 +161,36 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
-      "date_posted": "2026-08-17",
-      "age_days": 3,
-      "date_found": "2026-08-20",
-      "score": 80,
+      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 75,
       "score_breakdown": {
-        "typescript": 10,
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
+        "ai": 10
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "arbeitnow-frontend-software-engineer-100-remote-united-kindom-470934",
-      "name": "Frontend Software Engineer (100% Remote)",
-      "company": "Tether Operations Limited",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
+      "id": "arbeitnow-full-stack-engineer-london-182572",
+      "name": "Full Stack Engineer",
+      "company": "Souk",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
       "source": "Arbeitnow",
-      "location": "Remote job",
+      "location": "London",
       "workplace": "Remote",
       "experience_years": "",
       "skills": [
-        "Engineering",
-        "Remote"
+        "Remote",
+        "Software Development"
       ],
       "salary": "",
-      "description_excerpt": "<p><strong><em><span style=\"color:#121317\">Join Tether and Shape the Future of Digital Finance</span></em></strong></p><p><span style=\"color:#121317\">At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, an",
-      "date_posted": "2026-08-19",
+      "description_excerpt": "<p>Join Souk, a forward-thinking company that is redefining the way businesses operate in the digital marketplace. As a Full Stack Engineer, you will play a pivotal role in developing and enhancing our innovative platform, which seamlessly connects buyers and sellers across diverse markets. You will be responsible for designing and implementing robust, scalable solutions while working alongside a dynamic team of talented developers. Your expertise in both front-end and back-end technologies will",
+      "date_posted": "2026-08-20",
       "age_days": 1,
-      "date_found": "2026-08-20",
+      "date_found": "2026-08-21",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
@@ -135,6 +198,107 @@
         "fresh": 15
       },
       "is_new": true
+    },
+    {
+      "id": "himalayas-steno-812083",
+      "name": "Staff Software Engineer",
+      "company": "Steno",
+      "url": "https://himalayas.app/companies/steno/jobs/staff-software-engineer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Fullstack-Development",
+        "Staff-Engineer",
+        "Backend-Development",
+        "Frontend-Development",
+        "Staff-Software-Engineering"
+      ],
+      "salary": "205000-260000 USD",
+      "description_excerpt": "Staff Software Engineer (Full-stack) Full-Time, Remote / Salary, Exempt Includes Exceptional Benefits, Flexible PTO, Flexible Schedule, Equity Steno is growing!",
+      "date_posted": "2026-08-21",
+      "age_days": 0,
+      "date_found": "2026-08-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4438659758",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4438659758",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4438667488",
+      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4438667488",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4452812780",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-18",
+      "age_days": 3,
+      "date_found": "2026-08-21",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
     },
     {
       "id": "linkedin-4455596250",
@@ -150,8 +314,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 2,
-      "date_found": "2026-08-20",
+      "age_days": 3,
+      "date_found": "2026-08-21",
       "score": 35,
       "score_breakdown": {
         "location": 20,

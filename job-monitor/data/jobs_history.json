@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-20T02:18:54.873324+00:00",
-  "total_unique": 260,
+  "last_updated": "2026-08-21T02:24:32.767830+00:00",
+  "total_unique": 265,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7545,6 +7545,154 @@
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151249",
+      "name": "Engineering Manager (Frontend)",
+      "company": "ClickUp",
+      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-182572",
+      "name": "Full Stack Engineer",
+      "company": "Souk",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
+      "source": "Arbeitnow",
+      "location": "London",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Join Souk, a forward-thinking company that is redefining the way businesses operate in the digital marketplace. As a Full Stack Engineer, you will play a pivotal role in developing and enhancing our innovative platform, which seamlessly connects buyers and sellers across diverse markets. You will be responsible for designing and implementing robust, scalable solutions while working alongside a dynamic team of talented developers. Your expertise in both front-end and back-end technologies will",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-steno-812083",
+      "name": "Staff Software Engineer",
+      "company": "Steno",
+      "url": "https://himalayas.app/companies/steno/jobs/staff-software-engineer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Fullstack-Development",
+        "Staff-Engineer",
+        "Backend-Development",
+        "Frontend-Development",
+        "Staff-Software-Engineering"
+      ],
+      "salary": "205000-260000 USD",
+      "description_excerpt": "Staff Software Engineer (Full-stack) Full-Time, Remote / Salary, Exempt Includes Exceptional Benefits, Flexible PTO, Flexible Schedule, Equity Steno is growing!",
+      "date_posted": "2026-08-21",
+      "age_days": 0,
+      "date_found": "2026-08-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-minsait-an-indra-company-16624550",
+      "name": "Desenvolvedor Java FullStack SR",
+      "company": "Minsait an Indra Company",
+      "url": "https://himalayas.app/companies/minsait-an-indra-company/jobs/desenvolvedor-java-fullstack-sr",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Java-Full-Stack-Developer",
+        "Java-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Software-Developer",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Senior-Java-Full-Stack-Developer",
+        "Desenvolvedor-Java-Senior",
+        "Senior-Full-Stack-Java-Developer",
+        "Senior-Full-Stack-Engineer-(Java-+-DevOps)",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-(Java-+-Angular)",
+        "Senior-Fullstack-Engineer-(Java-+-Angular)",
+        "Senior-Full-Stack-Engineer-(Java-+-React)"
+      ],
+      "salary": "",
+      "description_excerpt": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo.",
+      "date_posted": "2026-08-21",
+      "age_days": 0,
+      "date_found": "2026-08-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4456751655",
+      "name": "Sr. ReactJS Front End Developer",
+      "company": "Network International",
+      "url": "https://eg.linkedin.com/jobs/view/sr-reactjs-front-end-developer-at-network-international-4456751655",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-20",
+      "age_days": 1,
+      "date_found": "2026-08-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },
