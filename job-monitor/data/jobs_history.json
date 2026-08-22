@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T02:24:32.767830+00:00",
-  "total_unique": 265,
+  "last_updated": "2026-08-22T02:16:57.100160+00:00",
+  "total_unique": 266,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7695,6 +7695,35 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151313",
+      "name": "Senior Frontend Engineer – Growth (USA Only - 100% Remote)",
+      "company": "Close",
+      "url": "https://jobicy.com/jobs/151313-senior-frontend-engineer-growth-usa-only-100-remote",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
+      "date_posted": "2026-08-21",
+      "age_days": 1,
+      "date_found": "2026-08-22",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
       },
       "is_new": true
     }

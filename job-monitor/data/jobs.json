@@ -1,8 +1,37 @@
 {
-  "last_run": "2026-08-21T02:24:32.765977+00:00",
-  "total_items": 11,
-  "new_count": 5,
+  "last_run": "2026-08-22T02:16:57.097845+00:00",
+  "total_items": 9,
+  "new_count": 1,
   "items": [
+    {
+      "id": "jobicy-151152",
+      "name": "Member of the Technical Staff, Internal Agent",
+      "company": "Vercel",
+      "url": "https://jobicy.com/jobs/151152-member-of-the-technical-staff-internal-agent",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
+      "date_posted": "2026-08-19",
+      "age_days": 3,
+      "date_found": "2026-08-22",
+      "score": 100,
+      "score_breakdown": {
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": false
+    },
     {
       "id": "remotive-2069746",
       "name": "Tech Lead Full-Stack Rails Engineer",
@@ -41,23 +70,23 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 7,
-      "date_found": "2026-08-21",
-      "score": 100,
+      "age_days": 8,
+      "date_found": "2026-08-22",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "ai": 10,
         "salary": 5
       },
       "is_new": false
     },
     {
-      "id": "jobicy-151152",
-      "name": "Member of the Technical Staff, Internal Agent",
-      "company": "Vercel",
-      "url": "https://jobicy.com/jobs/151152-member-of-the-technical-staff-internal-agent",
+      "id": "jobicy-151313",
+      "name": "Senior Frontend Engineer – Growth (USA Only - 100% Remote)",
+      "company": "Close",
+      "url": "https://jobicy.com/jobs/151313-senior-frontend-engineer-growth-usa-only-100-remote",
       "source": "Jobicy",
       "location": "USA",
       "workplace": "Remote",
@@ -68,57 +97,17 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
-      "date_posted": "2026-08-19",
-      "age_days": 2,
-      "date_found": "2026-08-21",
-      "score": 100,
+      "description_excerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
+      "date_posted": "2026-08-21",
+      "age_days": 1,
+      "date_found": "2026-08-22",
+      "score": 90,
       "score_breakdown": {
-        "nextjs": 15,
         "typescript": 10,
         "location": 20,
         "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-minsait-an-indra-company-16624550",
-      "name": "Desenvolvedor Java FullStack SR",
-      "company": "Minsait an Indra Company",
-      "url": "https://himalayas.app/companies/minsait-an-indra-company/jobs/desenvolvedor-java-fullstack-sr",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Java-Full-Stack-Developer",
-        "Java-Developer",
-        "Backend-Engineer",
-        "Front-End-Developer",
-        "Software-Developer",
-        "Desenvolvedor-Senior-Full-Stack",
-        "Senior-Java-Full-Stack-Developer",
-        "Desenvolvedor-Java-Senior",
-        "Senior-Full-Stack-Java-Developer",
-        "Senior-Full-Stack-Engineer-(Java-+-DevOps)",
-        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
-        "Senior-Full-Stack-Developer-(Java-+-React)",
-        "Senior-Full-Stack-Developer-(Java-+-Angular)",
-        "Senior-Fullstack-Engineer-(Java-+-Angular)",
-        "Senior-Full-Stack-Engineer-(Java-+-React)"
-      ],
-      "salary": "",
-      "description_excerpt": "Transforme o futuro com a MinsaitNa Minsait, acreditamos na tecnologia como força para transformar realidades e gerar impacto positivo.",
-      "date_posted": "2026-08-21",
-      "age_days": 0,
-      "date_found": "2026-08-21",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
+        "ai": 10,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -136,15 +125,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 1,
-      "date_found": "2026-08-21",
+      "age_days": 2,
+      "date_found": "2026-08-22",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-151249",
@@ -163,72 +152,15 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-08-20",
-      "age_days": 1,
-      "date_found": "2026-08-21",
+      "age_days": 2,
+      "date_found": "2026-08-22",
       "score": 75,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "ai": 10
       },
-      "is_new": true
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-182572",
-      "name": "Full Stack Engineer",
-      "company": "Souk",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
-      "source": "Arbeitnow",
-      "location": "London",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": "",
-      "description_excerpt": "<p>Join Souk, a forward-thinking company that is redefining the way businesses operate in the digital marketplace. As a Full Stack Engineer, you will play a pivotal role in developing and enhancing our innovative platform, which seamlessly connects buyers and sellers across diverse markets. You will be responsible for designing and implementing robust, scalable solutions while working alongside a dynamic team of talented developers. Your expertise in both front-end and back-end technologies will",
-      "date_posted": "2026-08-20",
-      "age_days": 1,
-      "date_found": "2026-08-21",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "himalayas-steno-812083",
-      "name": "Staff Software Engineer",
-      "company": "Steno",
-      "url": "https://himalayas.app/companies/steno/jobs/staff-software-engineer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Software-Engineer",
-        "Fullstack-Development",
-        "Staff-Engineer",
-        "Backend-Development",
-        "Frontend-Development",
-        "Staff-Software-Engineering"
-      ],
-      "salary": "205000-260000 USD",
-      "description_excerpt": "Staff Software Engineer (Full-stack) Full-Time, Remote / Salary, Exempt Includes Exceptional Benefits, Flexible PTO, Flexible Schedule, Equity Steno is growing!",
-      "date_posted": "2026-08-21",
-      "age_days": 0,
-      "date_found": "2026-08-21",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "salary": 5
-      },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4438659758",
@@ -244,8 +176,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 1,
-      "date_found": "2026-08-21",
+      "age_days": 2,
+      "date_found": "2026-08-22",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -268,8 +200,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 1,
-      "date_found": "2026-08-21",
+      "age_days": 2,
+      "date_found": "2026-08-22",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -291,12 +223,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 3,
-      "date_found": "2026-08-21",
-      "score": 65,
+      "age_days": 4,
+      "date_found": "2026-08-22",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -314,12 +246,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 3,
-      "date_found": "2026-08-21",
-      "score": 35,
+      "age_days": 4,
+      "date_found": "2026-08-22",
+      "score": 30,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "angular_only": -30
       },
       "is_new": false
