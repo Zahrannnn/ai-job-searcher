@@ -1,37 +1,8 @@
 {
-  "last_run": "2026-08-22T02:16:57.097845+00:00",
-  "total_items": 9,
-  "new_count": 1,
+  "last_run": "2026-08-23T02:25:08.708972+00:00",
+  "total_items": 8,
+  "new_count": 0,
   "items": [
-    {
-      "id": "jobicy-151152",
-      "name": "Member of the Technical Staff, Internal Agent",
-      "company": "Vercel",
-      "url": "https://jobicy.com/jobs/151152-member-of-the-technical-staff-internal-agent",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
-      "date_posted": "2026-08-19",
-      "age_days": 3,
-      "date_found": "2026-08-22",
-      "score": 100,
-      "score_breakdown": {
-        "nextjs": 15,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
     {
       "id": "remotive-2069746",
       "name": "Tech Lead Full-Stack Rails Engineer",
@@ -70,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 8,
-      "date_found": "2026-08-22",
+      "age_days": 9,
+      "date_found": "2026-08-23",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -79,6 +50,33 @@
         "fresh": 5,
         "ai": 10,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-149527",
+      "name": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical Ltd.",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "source": "Jobicy",
+      "location": "Anywhere",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
+      "date_posted": "2026-08-22",
+      "age_days": 1,
+      "date_found": "2026-08-23",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": false
     },
@@ -99,8 +97,8 @@
       "salary": "",
       "description_excerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
       "date_posted": "2026-08-21",
-      "age_days": 1,
-      "date_found": "2026-08-22",
+      "age_days": 2,
+      "date_found": "2026-08-23",
       "score": 90,
       "score_breakdown": {
         "typescript": 10,
@@ -109,7 +107,7 @@
         "ai": 10,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4456751655",
@@ -125,40 +123,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 2,
-      "date_found": "2026-08-22",
+      "age_days": 3,
+      "date_found": "2026-08-23",
       "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151249",
-      "name": "Engineering Manager (Frontend)",
-      "company": "ClickUp",
-      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "date_posted": "2026-08-20",
-      "age_days": 2,
-      "date_found": "2026-08-22",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
       },
       "is_new": false
     },
@@ -176,8 +147,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 2,
-      "date_found": "2026-08-22",
+      "age_days": 3,
+      "date_found": "2026-08-23",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -200,8 +171,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 2,
-      "date_found": "2026-08-22",
+      "age_days": 3,
+      "date_found": "2026-08-23",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -223,8 +194,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 4,
-      "date_found": "2026-08-22",
+      "age_days": 5,
+      "date_found": "2026-08-23",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -246,8 +217,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 4,
-      "date_found": "2026-08-22",
+      "age_days": 5,
+      "date_found": "2026-08-23",
       "score": 30,
       "score_breakdown": {
         "location": 20,
