@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-23T02:25:08.711103+00:00",
-  "total_unique": 266,
+  "last_updated": "2026-08-24T02:23:54.599420+00:00",
+  "total_unique": 267,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7724,6 +7724,32 @@
         "fresh": 15,
         "ai": 10,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151420",
+      "name": "Staff Frontend Engineer - Design Systems",
+      "company": "Pleo",
+      "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
+      "source": "Jobicy",
+      "location": "Denmark,  Portugal,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
+      "date_posted": "2026-08-23",
+      "age_days": 1,
+      "date_found": "2026-08-24",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
