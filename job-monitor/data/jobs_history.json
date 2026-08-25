@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T02:23:54.599420+00:00",
-  "total_unique": 267,
+  "last_updated": "2026-08-25T02:19:27.797760+00:00",
+  "total_unique": 272,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7746,6 +7746,143 @@
       "date_posted": "2026-08-23",
       "age_days": 1,
       "date_found": "2026-08-24",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151502",
+      "name": "Front End Engineering Manager, Firefox Desktop",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
+      "date_posted": "2026-08-24",
+      "age_days": 1,
+      "date_found": "2026-08-25",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151496",
+      "name": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-08-24",
+      "age_days": 1,
+      "date_found": "2026-08-25",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-grupo-boticario-16607415",
+      "name": "Pessoa Desenvolvedora Fullstack Node.js/React.js III (Tech Consumer) - Vaga afir",
+      "company": "Grupo Boticário",
+      "url": "https://himalayas.app/companies/grupo-boticario/jobs/pessoa-desenvolvedora-fullstack-node-js-react-js-iii-tech-consumer-vaga-afir",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "NodeJS-Developer",
+        "Software-Engineer",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Engenheiro-De-Software-Full-Stack",
+        "Full-Stack-Developer-React-Node.Js",
+        "Senior-Full-Stack-Developer-(React-Node.Js)"
+      ],
+      "salary": "",
+      "description_excerpt": "SOBRE O GRUPO BOTICÁRIOUm dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países.",
+      "date_posted": "2026-08-25",
+      "age_days": 0,
+      "date_found": "2026-08-25",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4458172444",
+      "name": "Full Stack Developer (React, Next.js, PHP)",
+      "company": "Confidential Careers",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-24",
+      "age_days": 1,
+      "date_found": "2026-08-25",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4458168415",
+      "name": "Salla Theme Developer - Front-End Ecommerce Developer",
+      "company": "ArabyBrand",
+      "url": "https://eg.linkedin.com/jobs/view/salla-theme-developer-front-end-ecommerce-developer-at-arabybrand-4458168415",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-24",
+      "age_days": 1,
+      "date_found": "2026-08-25",
       "score": 65,
       "score_breakdown": {
         "location": 20,
