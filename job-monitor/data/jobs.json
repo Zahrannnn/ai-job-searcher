@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-25T02:19:27.795517+00:00",
-  "total_items": 13,
-  "new_count": 5,
+  "last_run": "2026-08-26T02:26:15.403856+00:00",
+  "total_items": 11,
+  "new_count": 0,
   "items": [
     {
       "id": "jobicy-151496",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "date_posted": "2026-08-24",
-      "age_days": 1,
-      "date_found": "2026-08-25",
+      "age_days": 2,
+      "date_found": "2026-08-26",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -29,7 +29,7 @@
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4458172444",
@@ -45,8 +45,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-24",
-      "age_days": 1,
-      "date_found": "2026-08-25",
+      "age_days": 2,
+      "date_found": "2026-08-26",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -54,7 +54,7 @@
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2069746",
@@ -94,8 +94,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 11,
-      "date_found": "2026-08-25",
+      "age_days": 12,
+      "date_found": "2026-08-26",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -105,67 +105,6 @@
         "salary": 5
       },
       "is_new": false
-    },
-    {
-      "id": "jobicy-149527",
-      "name": "Web Frontend Engineer - JS, CSS, React, Flutter",
-      "company": "Canonical Ltd.",
-      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "source": "Jobicy",
-      "location": "Anywhere",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in&hellip;",
-      "date_posted": "2026-08-22",
-      "age_days": 3,
-      "date_found": "2026-08-25",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-grupo-boticario-16607415",
-      "name": "Pessoa Desenvolvedora Fullstack Node.js/React.js III (Tech Consumer) - Vaga afir",
-      "company": "Grupo Boticário",
-      "url": "https://himalayas.app/companies/grupo-boticario/jobs/pessoa-desenvolvedora-fullstack-node-js-react-js-iii-tech-consumer-vaga-afir",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Full-Stack-Developer",
-        "Backend-Engineer",
-        "Front-End-Developer",
-        "NodeJS-Developer",
-        "Software-Engineer",
-        "Desenvolvedor-Senior-Full-Stack",
-        "Engenheiro-De-Software-Full-Stack",
-        "Full-Stack-Developer-React-Node.Js",
-        "Senior-Full-Stack-Developer-(React-Node.Js)"
-      ],
-      "salary": "",
-      "description_excerpt": "SOBRE O GRUPO BOTICÁRIOUm dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países.",
-      "date_posted": "2026-08-25",
-      "age_days": 0,
-      "date_found": "2026-08-25",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4456751655",
@@ -181,8 +120,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 5,
-      "date_found": "2026-08-25",
+      "age_days": 6,
+      "date_found": "2026-08-26",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -208,15 +147,42 @@
       "salary": "",
       "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
       "date_posted": "2026-08-24",
-      "age_days": 1,
-      "date_found": "2026-08-25",
+      "age_days": 2,
+      "date_found": "2026-08-26",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "jobicy-149683",
+      "name": "Senior Frontend Engineer, Ads Creative",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-08-25",
+      "age_days": 1,
+      "date_found": "2026-08-26",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
     },
     {
       "id": "jobicy-151420",
@@ -235,8 +201,8 @@
       "salary": "",
       "description_excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
       "date_posted": "2026-08-23",
-      "age_days": 2,
-      "date_found": "2026-08-25",
+      "age_days": 3,
+      "date_found": "2026-08-26",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -258,8 +224,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 5,
-      "date_found": "2026-08-25",
+      "age_days": 6,
+      "date_found": "2026-08-26",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -282,35 +248,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-24",
-      "age_days": 1,
-      "date_found": "2026-08-25",
+      "age_days": 2,
+      "date_found": "2026-08-26",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4452812780",
-      "name": "Application Developer-Experience Front End",
-      "company": "IBM",
-      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
-      "source": "LinkedIn",
-      "location": "Giza, Al Jizah, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-18",
-      "age_days": 7,
-      "date_found": "2026-08-25",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -328,8 +271,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 5,
-      "date_found": "2026-08-25",
+      "age_days": 6,
+      "date_found": "2026-08-26",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -338,12 +281,12 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4455596250",
-      "name": "Frontend Angular Engineer",
-      "company": "Modupay",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-angular-engineer-at-modupay-4455596250",
+      "id": "linkedin-4452812780",
+      "name": "Application Developer-Experience Front End",
+      "company": "IBM",
+      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
       "source": "LinkedIn",
-      "location": "New Cairo, Cairo, Egypt",
+      "location": "Giza, Al Jizah, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
@@ -351,13 +294,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-18",
-      "age_days": 7,
-      "date_found": "2026-08-25",
-      "score": 30,
+      "age_days": 8,
+      "date_found": "2026-08-26",
+      "score": 55,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
-        "angular_only": -30
+        "fresh": 5
       },
       "is_new": false
     }
