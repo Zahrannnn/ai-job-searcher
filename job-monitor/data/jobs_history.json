@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T02:26:15.406058+00:00",
-  "total_unique": 272,
+  "last_updated": "2026-08-27T11:04:18.569545+00:00",
+  "total_unique": 277,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -7887,6 +7887,156 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151742",
+      "name": "Senior Frontend Engineer - Contract",
+      "company": "Roofr",
+      "url": "https://jobicy.com/jobs/151742-senior-frontend-engineer-contract",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151737",
+      "name": "Senior Frontend Engineer",
+      "company": "Roofr",
+      "url": "https://jobicy.com/jobs/151737-senior-frontend-engineer",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-codev-16587382",
+      "name": "Full Stack React Developer",
+      "company": "CoDev",
+      "url": "https://himalayas.app/companies/codev/jobs/full-stack-react-developer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "React",
+        "Full-Stack-Engineer",
+        "Web-Development",
+        "Frontend-Development",
+        "Full-Stack-Developer",
+        "Full-Stack-JavaScript-Developer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Developer-(Next.Js-React)",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Full-Stack-Developer-React-Node.Js",
+        "Fullstack-Development"
+      ],
+      "salary": "",
+      "description_excerpt": "OverviewAbout the ProjectThis project focuses on building and maintaining a leadership development and organizational culture platform that helps organizations strengthen leadership capabilities and foster healthier workplaces.",
+      "date_posted": "2026-08-26",
+      "age_days": 0,
+      "date_found": "2026-08-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-kevinroot-medical-3956809",
+      "name": "React Native Developer",
+      "company": "KevinRoot Medical",
+      "url": "https://himalayas.app/companies/kevinroot-medical/jobs/react-native-developer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "React-Native-Development",
+        "iOS-Development",
+        "Android-Development",
+        "Mobile-Engineering",
+        "Mobile-Application-Developer",
+        "React-Native-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "This is a remote position. Develops user interface for mobile applications for iOS and Android for KevinRoot Medical mobile applications using React Native.",
+      "date_posted": "2026-08-26",
+      "age_days": 0,
+      "date_found": "2026-08-27",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4457256209",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "JobsInPython",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-jobsinpython-4457256209",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }

@@ -1,52 +1,36 @@
 {
-  "last_run": "2026-08-26T02:26:15.403856+00:00",
+  "last_run": "2026-08-27T11:04:18.567775+00:00",
   "total_items": 11,
-  "new_count": 0,
+  "new_count": 5,
   "items": [
     {
-      "id": "jobicy-151496",
-      "name": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "source": "Jobicy",
-      "location": "Argentina,  Brazil,  Mexico",
+      "id": "himalayas-codev-16587382",
+      "name": "Full Stack React Developer",
+      "company": "CoDev",
+      "url": "https://himalayas.app/companies/codev/jobs/full-stack-react-developer",
+      "source": "Himalayas",
+      "location": "United States",
       "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "React",
+        "Full-Stack-Engineer",
+        "Web-Development",
+        "Frontend-Development",
+        "Full-Stack-Developer",
+        "Full-Stack-JavaScript-Developer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Developer-(Next.Js-React)",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Full-Stack-Developer-React-Node.Js",
+        "Fullstack-Development"
       ],
       "salary": "",
-      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
-      "date_posted": "2026-08-24",
-      "age_days": 2,
-      "date_found": "2026-08-26",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4458172444",
-      "name": "Full Stack Developer (React, Next.js, PHP)",
-      "company": "Confidential Careers",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
-      "source": "LinkedIn",
-      "location": "New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-24",
-      "age_days": 2,
-      "date_found": "2026-08-26",
+      "description_excerpt": "OverviewAbout the ProjectThis project focuses on building and maintaining a leadership development and organizational culture platform that helps organizations strengthen leadership capabilities and foster healthier workplaces.",
+      "date_posted": "2026-08-26",
+      "age_days": 0,
+      "date_found": "2026-08-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -54,7 +38,33 @@
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4457256209",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "JobsInPython",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-jobsinpython-4457256209",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "remotive-2069746",
@@ -94,8 +104,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 12,
-      "date_found": "2026-08-26",
+      "age_days": 13,
+      "date_found": "2026-08-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -107,34 +117,96 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4456751655",
-      "name": "Sr. ReactJS Front End Developer",
-      "company": "Network International",
-      "url": "https://eg.linkedin.com/jobs/view/sr-reactjs-front-end-developer-at-network-international-4456751655",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
+      "id": "jobicy-150845",
+      "name": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
+      "source": "Jobicy",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "workplace": "Remote",
       "job_type": "",
-      "experience_years": "",
-      "skills": [],
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-20",
-      "age_days": 6,
-      "date_found": "2026-08-26",
-      "score": 85,
+      "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
+      "date_posted": "2026-08-27",
+      "age_days": 0,
+      "date_found": "2026-08-27",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10
+        "fresh": 15
       },
       "is_new": false
     },
     {
-      "id": "jobicy-151502",
-      "name": "Front End Engineering Manager, Firefox Desktop",
-      "company": "Mozilla",
-      "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
+      "id": "himalayas-kevinroot-medical-3956809",
+      "name": "React Native Developer",
+      "company": "KevinRoot Medical",
+      "url": "https://himalayas.app/companies/kevinroot-medical/jobs/react-native-developer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "React-Native-Development",
+        "iOS-Development",
+        "Android-Development",
+        "Mobile-Engineering",
+        "Mobile-Application-Developer",
+        "React-Native-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "This is a remote position. Develops user interface for mobile applications for iOS and Android for KevinRoot Medical mobile applications using React Native.",
+      "date_posted": "2026-08-26",
+      "age_days": 0,
+      "date_found": "2026-08-27",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151742",
+      "name": "Senior Frontend Engineer - Contract",
+      "company": "Roofr",
+      "url": "https://jobicy.com/jobs/151742-senior-frontend-engineer-contract",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151737",
+      "name": "Senior Frontend Engineer",
+      "company": "Roofr",
+      "url": "https://jobicy.com/jobs/151737-senior-frontend-engineer",
       "source": "Jobicy",
       "location": "Canada",
       "workplace": "Remote",
@@ -145,23 +217,24 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
-      "date_posted": "2026-08-24",
-      "age_days": 2,
-      "date_found": "2026-08-26",
-      "score": 75,
+      "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
+      "date_posted": "2026-08-26",
+      "age_days": 1,
+      "date_found": "2026-08-27",
+      "score": 80,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jobicy-149683",
-      "name": "Senior Frontend Engineer, Ads Creative",
+      "id": "jobicy-147496",
+      "name": "Senior Frontend Software Engineer, Home Experience",
       "company": "Reddit",
-      "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
+      "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
       "source": "Jobicy",
       "location": "USA",
       "workplace": "Remote",
@@ -173,40 +246,14 @@
       ],
       "salary": "",
       "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
-      "date_posted": "2026-08-25",
+      "date_posted": "2026-08-26",
       "age_days": 1,
-      "date_found": "2026-08-26",
+      "date_found": "2026-08-27",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151420",
-      "name": "Staff Frontend Engineer - Design Systems",
-      "company": "Pleo",
-      "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
-      "source": "Jobicy",
-      "location": "Denmark,  Portugal,  UK",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
-      "date_posted": "2026-08-23",
-      "age_days": 3,
-      "date_found": "2026-08-26",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
       },
       "is_new": false
     },
@@ -224,8 +271,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 6,
-      "date_found": "2026-08-26",
+      "age_days": 7,
+      "date_found": "2026-08-27",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -248,8 +295,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-24",
-      "age_days": 2,
-      "date_found": "2026-08-26",
+      "age_days": 3,
+      "date_found": "2026-08-27",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -271,35 +318,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 6,
-      "date_found": "2026-08-26",
+      "age_days": 7,
+      "date_found": "2026-08-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4452812780",
-      "name": "Application Developer-Experience Front End",
-      "company": "IBM",
-      "url": "https://eg.linkedin.com/jobs/view/application-developer-experience-front-end-at-ibm-4452812780",
-      "source": "LinkedIn",
-      "location": "Giza, Al Jizah, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-18",
-      "age_days": 8,
-      "date_found": "2026-08-26",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     }
