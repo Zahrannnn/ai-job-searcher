@@ -1,70 +1,32 @@
 {
-  "last_run": "2026-08-27T11:04:18.567775+00:00",
-  "total_items": 11,
-  "new_count": 5,
+  "last_run": "2026-08-28T12:37:18.292482+00:00",
+  "total_items": 9,
+  "new_count": 1,
   "items": [
     {
-      "id": "himalayas-codev-16587382",
-      "name": "Full Stack React Developer",
-      "company": "CoDev",
-      "url": "https://himalayas.app/companies/codev/jobs/full-stack-react-developer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "React",
-        "Full-Stack-Engineer",
-        "Web-Development",
-        "Frontend-Development",
-        "Full-Stack-Developer",
-        "Full-Stack-JavaScript-Developer",
-        "Full-Stack-Web-Developer",
-        "Full-Stack-Developer-(Next.Js-React)",
-        "Senior-Full-Stack-Developer-(React-Node.Js)",
-        "Full-Stack-Developer-React-Node.Js",
-        "Fullstack-Development"
-      ],
-      "salary": "",
-      "description_excerpt": "OverviewAbout the ProjectThis project focuses on building and maintaining a leadership development and organizational culture platform that helps organizations strengthen leadership capabilities and foster healthier workplaces.",
-      "date_posted": "2026-08-26",
-      "age_days": 0,
-      "date_found": "2026-08-27",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4457256209",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "JobsInPython",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-jobsinpython-4457256209",
+      "id": "linkedin-4458172444",
+      "name": "Full Stack Developer (React, Next.js, PHP)",
+      "company": "Confidential Careers",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
       "source": "LinkedIn",
-      "location": "Egypt",
+      "location": "New Cairo, Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-26",
-      "age_days": 1,
-      "date_found": "2026-08-27",
+      "date_posted": "2026-08-24",
+      "age_days": 4,
+      "date_found": "2026-08-28",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2069746",
@@ -104,8 +66,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-08-14",
-      "age_days": 13,
-      "date_found": "2026-08-27",
+      "age_days": 14,
+      "date_found": "2026-08-28",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -133,8 +95,8 @@
       "salary": "",
       "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
       "date_posted": "2026-08-27",
-      "age_days": 0,
-      "date_found": "2026-08-27",
+      "age_days": 1,
+      "date_found": "2026-08-28",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -144,33 +106,30 @@
       "is_new": false
     },
     {
-      "id": "himalayas-kevinroot-medical-3956809",
-      "name": "React Native Developer",
-      "company": "KevinRoot Medical",
-      "url": "https://himalayas.app/companies/kevinroot-medical/jobs/react-native-developer",
-      "source": "Himalayas",
-      "location": "United States",
+      "id": "jobicy-151824",
+      "name": "Senior Full Stack Product Engineer (TypeScript)",
+      "company": "Maze",
+      "url": "https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript",
+      "source": "Jobicy",
+      "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
       "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
+      "job_type": "",
+      "experience_years": "Senior",
       "skills": [
-        "React-Native-Development",
-        "iOS-Development",
-        "Android-Development",
-        "Mobile-Engineering",
-        "Mobile-Application-Developer",
-        "React-Native-Developer"
+        "Software Engineering",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "This is a remote position. Develops user interface for mobile applications for iOS and Android for KevinRoot Medical mobile applications using React Native.",
-      "date_posted": "2026-08-26",
-      "age_days": 0,
-      "date_found": "2026-08-27",
-      "score": 90,
+      "description_excerpt": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
+      "date_posted": "2026-08-27",
+      "age_days": 1,
+      "date_found": "2026-08-28",
+      "score": 80,
       "score_breakdown": {
-        "react": 25,
+        "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -191,8 +150,8 @@
       "salary": "",
       "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
       "date_posted": "2026-08-26",
-      "age_days": 1,
-      "date_found": "2026-08-27",
+      "age_days": 2,
+      "date_found": "2026-08-28",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -200,7 +159,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-151737",
@@ -219,38 +178,11 @@
       "salary": "",
       "description_excerpt": "At Roofr, we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and&hellip;",
       "date_posted": "2026-08-26",
-      "age_days": 1,
-      "date_found": "2026-08-27",
+      "age_days": 2,
+      "date_found": "2026-08-28",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "jobicy-147496",
-      "name": "Senior Frontend Software Engineer, Home Experience",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit&hellip;",
-      "date_posted": "2026-08-26",
-      "age_days": 1,
-      "date_found": "2026-08-27",
-      "score": 70,
-      "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
@@ -271,12 +203,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 7,
-      "date_found": "2026-08-27",
-      "score": 65,
+      "age_days": 8,
+      "date_found": "2026-08-28",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -295,12 +227,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-24",
-      "age_days": 3,
-      "date_found": "2026-08-27",
-      "score": 65,
+      "age_days": 4,
+      "date_found": "2026-08-28",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -318,12 +250,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 7,
-      "date_found": "2026-08-27",
-      "score": 60,
+      "age_days": 8,
+      "date_found": "2026-08-28",
+      "score": 55,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10
+        "fresh": 5
       },
       "is_new": false
     }

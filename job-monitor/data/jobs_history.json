@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T11:04:18.569545+00:00",
-  "total_unique": 277,
+  "last_updated": "2026-08-28T12:37:18.294904+00:00",
+  "total_unique": 278,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8034,6 +8034,34 @@
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-151824",
+      "name": "Senior Full Stack Product Engineer (TypeScript)",
+      "company": "Maze",
+      "url": "https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript",
+      "source": "Jobicy",
+      "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
+      "date_posted": "2026-08-27",
+      "age_days": 1,
+      "date_found": "2026-08-28",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
