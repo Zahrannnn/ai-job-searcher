@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T12:37:18.294904+00:00",
-  "total_unique": 278,
+  "last_updated": "2026-08-29T07:46:02.419080+00:00",
+  "total_unique": 279,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8065,6 +8065,41 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-bjak-6971118",
+      "name": "Principal Software Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/principal-software-engineer",
+      "source": "Himalayas",
+      "location": "Netherlands",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior, Director",
+      "skills": [
+        "Principal-Software-Engineer",
+        "Principal-Software-Development-Engineer",
+        "Principal-Software-Engineering",
+        "Principal-Software-Developer",
+        "Principal-Fullstack-Software-Engineer",
+        "Principal-Software-Engineer-Frontend",
+        "Principal-C++-Software-Engineer",
+        "Principal-Embedded-Software-Engineer",
+        "Principal-Security-Software-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "The RoleBJAK builds technology products used by millions of users across Southeast Asia.",
+      "date_posted": "2026-08-29",
+      "age_days": 0,
+      "date_found": "2026-08-29",
+      "score": 60,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "too_senior": -15
       },
       "is_new": true
     }
