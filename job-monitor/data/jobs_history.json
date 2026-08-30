@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T07:46:02.419080+00:00",
-  "total_unique": 279,
+  "last_updated": "2026-08-30T06:23:10.318533+00:00",
+  "total_unique": 284,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8100,6 +8100,146 @@
         "location": 20,
         "fresh": 15,
         "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152035",
+      "name": "Senior Front-End Developer (React / TypeScript) - Market Research",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-08-29",
+      "age_days": 1,
+      "date_found": "2026-08-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152031",
+      "name": "Senior Full-stack Engineer (React OR Vue/Python) - Investment",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-08-29",
+      "age_days": 1,
+      "date_found": "2026-08-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152025",
+      "name": "Semi-Senior Full Stack Engineer (Python / React) - E-learning",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152025-semi-senior-full-stack-engineer-python-react-e-learning",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-08-29",
+      "age_days": 1,
+      "date_found": "2026-08-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152023",
+      "name": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152023-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-08-29",
+      "age_days": 1,
+      "date_found": "2026-08-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4458494174",
+      "name": "Frontend Developer — New Opportunity",
+      "company": "HiJob.work",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-—-new-opportunity-at-hijob-work-4458494174",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-29",
+      "age_days": 1,
+      "date_found": "2026-08-30",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
