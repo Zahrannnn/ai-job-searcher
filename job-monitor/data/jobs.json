@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-30T06:23:10.316180+00:00",
+  "last_run": "2026-08-31T06:51:26.973765+00:00",
   "total_items": 13,
-  "new_count": 5,
+  "new_count": 3,
   "items": [
     {
       "id": "jobicy-152035",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 1,
-      "date_found": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-08-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -31,7 +31,7 @@
         "founding": 10,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-152031",
@@ -50,8 +50,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 1,
-      "date_found": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-08-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -60,7 +60,7 @@
         "founding": 10,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-152025",
@@ -79,8 +79,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 1,
-      "date_found": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-08-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -89,7 +89,7 @@
         "founding": 10,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-152023",
@@ -108,8 +108,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 1,
-      "date_found": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-08-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -117,31 +117,6 @@
         "fresh": 15,
         "founding": 10,
         "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4458172444",
-      "name": "Full Stack Developer (React, Next.js, PHP)",
-      "company": "Confidential Careers",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
-      "source": "LinkedIn",
-      "location": "New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-24",
-      "age_days": 6,
-      "date_found": "2026-08-30",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -159,8 +134,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-26",
-      "age_days": 4,
-      "date_found": "2026-08-30",
+      "age_days": 5,
+      "date_found": "2026-08-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -172,30 +147,27 @@
       "is_new": false
     },
     {
-      "id": "jobicy-151824",
-      "name": "Senior Full Stack Product Engineer (TypeScript)",
-      "company": "Maze",
-      "url": "https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript",
-      "source": "Jobicy",
-      "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
-      "workplace": "Remote",
+      "id": "linkedin-4458172444",
+      "name": "Full Stack Developer (React, Next.js, PHP)",
+      "company": "Confidential Careers",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
       "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
-      "date_posted": "2026-08-27",
-      "age_days": 3,
-      "date_found": "2026-08-30",
-      "score": 80,
+      "description_excerpt": "",
+      "date_posted": "2026-08-24",
+      "age_days": 7,
+      "date_found": "2026-08-31",
+      "score": 100,
       "score_breakdown": {
-        "typescript": 10,
+        "react": 25,
+        "nextjs": 15,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
     },
@@ -216,8 +188,8 @@
       "salary": "",
       "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 1,
-      "date_found": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-08-31",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
@@ -227,25 +199,50 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4458494174",
-      "name": "Frontend Developer — New Opportunity",
-      "company": "HiJob.work",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-—-new-opportunity-at-hijob-work-4458494174",
+      "id": "linkedin-4459732169",
+      "name": "Senior Frontend Engineer - Web",
+      "company": "MBC GROUP",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-web-at-mbc-group-4459732169",
       "source": "LinkedIn",
-      "location": "Egypt",
+      "location": "6th of October, Al Jizah, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-29",
+      "date_posted": "2026-08-30",
       "age_days": 1,
-      "date_found": "2026-08-30",
-      "score": 65,
+      "date_found": "2026-08-31",
+      "score": 70,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459774548",
+      "name": "Senior Frontend Engineer - Web",
+      "company": "TechJobsData",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-web-at-techjobsdata-4459774548",
+      "source": "LinkedIn",
+      "location": "6th of October, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 0,
+      "date_found": "2026-08-31",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -263,14 +260,37 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-28",
-      "age_days": 2,
-      "date_found": "2026-08-30",
+      "age_days": 3,
+      "date_found": "2026-08-31",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4458855134",
+      "name": "Junior Engineer — Frontend",
+      "company": "BENO - Luxury At Your Service",
+      "url": "https://eg.linkedin.com/jobs/view/junior-engineer-—-frontend-at-beno-luxury-at-your-service-4458855134",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-30",
+      "age_days": 1,
+      "date_found": "2026-08-31",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4438659758",
@@ -286,36 +306,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 10,
-      "date_found": "2026-08-30",
+      "age_days": 11,
+      "date_found": "2026-08-31",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4458168415",
-      "name": "Salla Theme Developer - Front-End Ecommerce Developer",
-      "company": "ArabyBrand",
-      "url": "https://eg.linkedin.com/jobs/view/salla-theme-developer-front-end-ecommerce-developer-at-arabybrand-4458168415",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-24",
-      "age_days": 6,
-      "date_found": "2026-08-30",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -333,8 +330,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 10,
-      "date_found": "2026-08-30",
+      "age_days": 11,
+      "date_found": "2026-08-31",
       "score": 55,
       "score_breakdown": {
         "location": 20,
