@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T06:51:26.976317+00:00",
-  "total_unique": 287,
+  "last_updated": "2026-09-01T06:09:49.506664+00:00",
+  "total_unique": 294,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8309,6 +8309,189 @@
       "date_found": "2026-08-31",
       "score": 65,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152149",
+      "name": "Frontend Engineer - Music",
+      "company": "Spotify",
+      "url": "https://jobicy.com/jobs/152149-frontend-engineer-music",
+      "source": "Jobicy",
+      "location": "Sweden,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "The Rights Systems team builds and operates Spotify Rights Center (SRC), Spotify’s rights management platform that enables the company and its partners to identify, manage, and enforce music licensing rights across creator- and artist-generated content. Comparable in scope to YouTube’s Content ID, SRC is designed specifically for Spotify’s ecosystem and plays an important role in&hellip;",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-rekluti-7782355",
+      "name": "DESARROLLADOR FULLSTACK (JAVA - REACT)  / ESPAÑOL - CONTRACTOR",
+      "company": "XKTalent Inc. - Rimutee",
+      "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-fullstack-java-react-espanol-contractor-6945769135",
+      "source": "Himalayas",
+      "location": "Spain",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "Java-Development",
+        "React",
+        "Software-Engineer",
+        "Backend-Development",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-React-And-Java",
+        "Senior-Full-Stack-Engineer-(Java-+-React)",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Java-Full-Stack-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "🧑‍💻 Desarrollador/a Fullstack Senior – Proyecto Internacional (LATAM)¿Te gustaría formar parte de un equipo que desarrolla soluciones tecnológicas para una de las empresas más grandes de México?",
+      "date_posted": "2026-09-01",
+      "age_days": 0,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4461071968",
+      "name": "Senior Frontend Engineer ( Angular )",
+      "company": "BlackStone eIT",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-angular-at-blackstone-eit-4461071968",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459223612",
+      "name": "Full Stack Engineer - Website &amp; Marketing Technology (Storyblok / Next.js)",
+      "company": "WorkMotion",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-engineer-website-marketing-technology-storyblok-next-js-at-workmotion-4459223612",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 80,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4460870914",
+      "name": "Full Stack (React + Node.js)",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-react-+-node-js-at-systems-limited-egypt-4460870914",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459202298",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4459202298",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4456587740",
+      "name": "React Native Developer",
+      "company": "Qartas",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qartas-4456587740",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },

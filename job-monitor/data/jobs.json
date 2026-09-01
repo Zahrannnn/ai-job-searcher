@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-31T06:51:26.973765+00:00",
-  "total_items": 13,
-  "new_count": 3,
+  "last_run": "2026-09-01T06:09:49.504151+00:00",
+  "total_items": 17,
+  "new_count": 7,
   "items": [
     {
       "id": "jobicy-152035",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 2,
-      "date_found": "2026-08-31",
+      "age_days": 3,
+      "date_found": "2026-09-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -50,8 +50,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 2,
-      "date_found": "2026-08-31",
+      "age_days": 3,
+      "date_found": "2026-09-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -79,8 +79,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 2,
-      "date_found": "2026-08-31",
+      "age_days": 3,
+      "date_found": "2026-09-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -108,8 +108,8 @@
       "salary": "",
       "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
       "date_posted": "2026-08-29",
-      "age_days": 2,
-      "date_found": "2026-08-31",
+      "age_days": 3,
+      "date_found": "2026-09-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -121,82 +121,162 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4441210380",
-      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380",
+      "id": "himalayas-rekluti-7782355",
+      "name": "DESARROLLADOR FULLSTACK (JAVA - REACT)  / ESPAÑOL - CONTRACTOR",
+      "company": "XKTalent Inc. - Rimutee",
+      "url": "https://himalayas.app/companies/rekluti/jobs/desarrollador-fullstack-java-react-espanol-contractor-6945769135",
+      "source": "Himalayas",
+      "location": "Spain",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "Java-Development",
+        "React",
+        "Software-Engineer",
+        "Backend-Development",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-React-And-Java",
+        "Senior-Full-Stack-Engineer-(Java-+-React)",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Java-Full-Stack-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "🧑‍💻 Desarrollador/a Fullstack Senior – Proyecto Internacional (LATAM)¿Te gustaría formar parte de un equipo que desarrolla soluciones tecnológicas para una de las empresas más grandes de México?",
+      "date_posted": "2026-09-01",
+      "age_days": 0,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4460870914",
+      "name": "Full Stack (React + Node.js)",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-react-+-node-js-at-systems-limited-egypt-4460870914",
       "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-26",
-      "age_days": 5,
-      "date_found": "2026-08-31",
-      "score": 100,
+      "date_posted": "2026-08-30",
+      "age_days": 2,
+      "date_found": "2026-09-01",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
-        "nextjs": 15,
         "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
+        "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "linkedin-4458172444",
-      "name": "Full Stack Developer (React, Next.js, PHP)",
-      "company": "Confidential Careers",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-react-next-js-php-at-confidential-careers-4458172444",
+      "id": "linkedin-4459202298",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4459202298",
       "source": "LinkedIn",
-      "location": "New Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-08-24",
-      "age_days": 7,
-      "date_found": "2026-08-31",
-      "score": 100,
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
-        "nextjs": 15,
         "location": 20,
-        "fresh": 10
+        "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jobicy-142139",
-      "name": "Solidity Compiler Frontend Engineer",
-      "company": "CertiK",
-      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
+      "id": "linkedin-4456587740",
+      "name": "React Native Developer",
+      "company": "Qartas",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qartas-4456587740",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459223612",
+      "name": "Full Stack Engineer - Website &amp; Marketing Technology (Storyblok / Next.js)",
+      "company": "WorkMotion",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-engineer-website-marketing-technology-storyblok-next-js-at-workmotion-4459223612",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 80,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152149",
+      "name": "Frontend Engineer - Music",
+      "company": "Spotify",
+      "url": "https://jobicy.com/jobs/152149-frontend-engineer-music",
       "source": "Jobicy",
-      "location": "USA",
+      "location": "Sweden,  UK",
       "workplace": "Remote",
       "job_type": "",
-      "experience_years": "Midweight",
+      "experience_years": "Any",
       "skills": [
         "Software Engineering",
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
-      "date_posted": "2026-08-29",
-      "age_days": 2,
-      "date_found": "2026-08-31",
+      "description_excerpt": "The Rights Systems team builds and operates Spotify Rights Center (SRC), Spotify’s rights management platform that enables the company and its partners to identify, manage, and enforce music licensing rights across creator- and artist-generated content. Comparable in scope to YouTube’s Content ID, SRC is designed specifically for Spotify’s ecosystem and plays an important role in&hellip;",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4459732169",
@@ -212,56 +292,35 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 1,
-      "date_found": "2026-08-31",
+      "age_days": 2,
+      "date_found": "2026-09-01",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "linkedin-4459774548",
-      "name": "Senior Frontend Engineer - Web",
-      "company": "TechJobsData",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-web-at-techjobsdata-4459774548",
-      "source": "LinkedIn",
-      "location": "6th of October, Al Jizah, Egypt",
-      "workplace": "On-site",
+      "id": "jobicy-149869",
+      "name": "Frontend Engineering Team Lead - MarTech",
+      "company": "Sporty Group",
+      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
       "job_type": "",
-      "experience_years": "",
-      "skills": [],
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
+      "description_excerpt": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
       "date_posted": "2026-08-31",
-      "age_days": 0,
-      "date_found": "2026-08-31",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4440998963",
-      "name": "Deloitte Innovation Hub I Frontend Developer Senior Technical lead, Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-developer-senior-technical-lead-cairo-egypt-at-deloitte-4440998963",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-28",
-      "age_days": 3,
-      "date_found": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -283,14 +342,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 1,
-      "date_found": "2026-08-31",
+      "age_days": 2,
+      "date_found": "2026-09-01",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4438659758",
@@ -306,13 +365,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 11,
-      "date_found": "2026-08-31",
+      "age_days": 12,
+      "date_found": "2026-09-01",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4440998963",
+      "name": "Deloitte Innovation Hub I Frontend Developer Senior Technical lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-developer-senior-technical-lead-cairo-egypt-at-deloitte-4440998963",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-28",
+      "age_days": 4,
+      "date_found": "2026-09-01",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
       },
       "is_new": false
     },
@@ -330,14 +412,39 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-20",
-      "age_days": 11,
-      "date_found": "2026-08-31",
+      "age_days": 12,
+      "date_found": "2026-09-01",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4461071968",
+      "name": "Senior Frontend Engineer ( Angular )",
+      "company": "BlackStone eIT",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-angular-at-blackstone-eit-4461071968",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 1,
+      "date_found": "2026-09-01",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "angular_only": -30
+      },
+      "is_new": true
     }
   ]
 }
