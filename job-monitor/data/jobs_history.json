@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T05:35:45.296537+00:00",
-  "total_unique": 295,
+  "last_updated": "2026-09-03T05:36:00.356431+00:00",
+  "total_unique": 299,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8518,6 +8518,111 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5,
+        "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152377",
+      "name": "Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Mexico)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152377-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-mexico",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top projects in U.S. companies. Truelogic has been helping companies of all sizes to achieve their digital transformation goals. Would you like to make innovation happen?&hellip;",
+      "date_posted": "2026-09-02",
+      "age_days": 1,
+      "date_found": "2026-09-03",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152372",
+      "name": "Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Brazil)",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152372-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-brazil",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top projects in U.S. companies. Truelogic has been helping companies of all sizes to achieve their digital transformation goals. Would you like to make innovation happen?&hellip;",
+      "date_posted": "2026-09-02",
+      "age_days": 1,
+      "date_found": "2026-09-03",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4460996620",
+      "name": "UI/UX Front-End Web Development Engineer",
+      "company": "Siemens",
+      "url": "https://eg.linkedin.com/jobs/view/ui-ux-front-end-web-development-engineer-at-siemens-4460996620",
+      "source": "LinkedIn",
+      "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-02",
+      "age_days": 1,
+      "date_found": "2026-09-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459162999",
+      "name": "Front End Developer (Angular)",
+      "company": "Luftborn",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-angular-at-luftborn-4459162999",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-02",
+      "age_days": 1,
+      "date_found": "2026-09-03",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
         "angular_only": -30
       },
       "is_new": true
