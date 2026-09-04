@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T05:36:00.356431+00:00",
-  "total_unique": 299,
+  "last_updated": "2026-09-04T05:41:37.512523+00:00",
+  "total_unique": 302,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8624,6 +8624,92 @@
         "location": 20,
         "fresh": 15,
         "angular_only": -30
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-sezzle-1079327",
+      "name": "Junior Software Engineer (Mexico)",
+      "company": "Sezzle",
+      "url": "https://himalayas.app/companies/sezzle/jobs/junior-software-engineer-mexico",
+      "source": "Himalayas",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Entry-level",
+      "skills": [
+        "Software-Engineer",
+        "Backend-Development",
+        "Frontend-Development",
+        "Fullstack-Development",
+        "Cloud-Computing",
+        "Junior-Software-Engineer",
+        "Entry-Level-Software-Developer-(LATAM)",
+        "Junior-Software-Developer",
+        "Remote-Junior-Software-Developer",
+        "Junior-Software-Engineer-Jobs",
+        "Junior-Software-Engineer-TypeScript",
+        "Junior-Product-Engineer"
+      ],
+      "salary": "1500-2700 USD",
+      "description_excerpt": "The salary range for this role is $1,500 - $2,700 per month (Gross in USD) About Sezzle:With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible.",
+      "date_posted": "2026-09-04",
+      "age_days": 0,
+      "date_found": "2026-09-04",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4460996620",
+      "name": "Front-End Web Development Engineer",
+      "company": "Siemens",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-web-development-engineer-at-siemens-4460996620",
+      "source": "LinkedIn",
+      "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-02",
+      "age_days": 2,
+      "date_found": "2026-09-04",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4459223612",
+      "name": "Full Stack Engineer - Website &amp; Marketing Technology (Headless CMS / Next.js)",
+      "company": "WorkMotion",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-engineer-website-marketing-technology-headless-cms-next-js-at-workmotion-4459223612",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-31",
+      "age_days": 4,
+      "date_found": "2026-09-04",
+      "score": 75,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 10
       },
       "is_new": true
     }
