@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-04T05:41:37.510113+00:00",
-  "total_items": 14,
-  "new_count": 3,
+  "last_run": "2026-09-05T05:29:59.697307+00:00",
+  "total_items": 11,
+  "new_count": 1,
   "items": [
     {
       "id": "jobicy-152377",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top projects in U.S. companies. Truelogic has been helping companies of all sizes to achieve their digital transformation goals. Would you like to make innovation happen?&hellip;",
       "date_posted": "2026-09-02",
-      "age_days": 2,
-      "date_found": "2026-09-04",
+      "age_days": 3,
+      "date_found": "2026-09-05",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -49,8 +49,8 @@
       "salary": "",
       "description_excerpt": "Truelogic is a leading provider of nearshore staff augmentation services, located in New York. Our team of 500 tech talents is driving digital disruption from Latin America to the top projects in U.S. companies. Truelogic has been helping companies of all sizes to achieve their digital transformation goals. Would you like to make innovation happen?&hellip;",
       "date_posted": "2026-09-02",
-      "age_days": 2,
-      "date_found": "2026-09-04",
+      "age_days": 3,
+      "date_found": "2026-09-05",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -75,8 +75,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-26",
-      "age_days": 9,
-      "date_found": "2026-09-04",
+      "age_days": 10,
+      "date_found": "2026-09-05",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -84,69 +84,6 @@
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-sezzle-1079327",
-      "name": "Junior Software Engineer (Mexico)",
-      "company": "Sezzle",
-      "url": "https://himalayas.app/companies/sezzle/jobs/junior-software-engineer-mexico",
-      "source": "Himalayas",
-      "location": "Mexico",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Entry-level",
-      "skills": [
-        "Software-Engineer",
-        "Backend-Development",
-        "Frontend-Development",
-        "Fullstack-Development",
-        "Cloud-Computing",
-        "Junior-Software-Engineer",
-        "Entry-Level-Software-Developer-(LATAM)",
-        "Junior-Software-Developer",
-        "Remote-Junior-Software-Developer",
-        "Junior-Software-Engineer-Jobs",
-        "Junior-Software-Engineer-TypeScript",
-        "Junior-Product-Engineer"
-      ],
-      "salary": "1500-2700 USD",
-      "description_excerpt": "The salary range for this role is $1,500 - $2,700 per month (Gross in USD) About Sezzle:With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible.",
-      "date_posted": "2026-09-04",
-      "age_days": 0,
-      "date_found": "2026-09-04",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4459202298",
-      "name": "Frontend Lead – React Native",
-      "company": "QNBeyond Plus",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4459202298",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-31",
-      "age_days": 4,
-      "date_found": "2026-09-04",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -164,8 +101,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 5,
-      "date_found": "2026-09-04",
+      "age_days": 6,
+      "date_found": "2026-09-05",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -173,6 +110,34 @@
         "fresh": 10
       },
       "is_new": false
+    },
+    {
+      "id": "jobicy-152539",
+      "name": "Senior Software Engineer, Frontend",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
+      "source": "Jobicy",
+      "location": "LATAM,  Canada,  Europe,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "date_posted": "2026-09-04",
+      "age_days": 1,
+      "date_found": "2026-09-05",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4459223612",
@@ -188,15 +153,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-31",
-      "age_days": 4,
-      "date_found": "2026-09-04",
+      "age_days": 5,
+      "date_found": "2026-09-05",
       "score": 75,
       "score_breakdown": {
         "nextjs": 15,
         "location": 20,
         "fresh": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4459732169",
@@ -212,59 +177,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 5,
-      "date_found": "2026-09-04",
+      "age_days": 6,
+      "date_found": "2026-09-05",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4460996620",
-      "name": "Front-End Web Development Engineer",
-      "company": "Siemens",
-      "url": "https://eg.linkedin.com/jobs/view/front-end-web-development-engineer-at-siemens-4460996620",
-      "source": "LinkedIn",
-      "location": "Qesm 2nd New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-02",
-      "age_days": 2,
-      "date_found": "2026-09-04",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4440998963",
-      "name": "Deloitte Innovation Hub I Frontend Developer Senior Technical lead, Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-developer-senior-technical-lead-cairo-egypt-at-deloitte-4440998963",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-28",
-      "age_days": 7,
-      "date_found": "2026-09-04",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -282,12 +201,35 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 5,
-      "date_found": "2026-09-04",
+      "age_days": 6,
+      "date_found": "2026-09-05",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4440998963",
+      "name": "Deloitte Innovation Hub I Frontend Developer Senior Technical lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-developer-senior-technical-lead-cairo-egypt-at-deloitte-4440998963",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-08-28",
+      "age_days": 8,
+      "date_found": "2026-09-05",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
       },
       "is_new": false
     },
@@ -305,8 +247,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-31",
-      "age_days": 4,
-      "date_found": "2026-09-04",
+      "age_days": 5,
+      "date_found": "2026-09-05",
       "score": 35,
       "score_breakdown": {
         "location": 20,
@@ -330,37 +272,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-31",
-      "age_days": 4,
-      "date_found": "2026-09-04",
+      "age_days": 5,
+      "date_found": "2026-09-05",
       "score": 35,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
         "senior_ic": 5,
-        "angular_only": -30
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4459162999",
-      "name": "Front End Developer (Angular)",
-      "company": "Luftborn",
-      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-angular-at-luftborn-4459162999",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-02",
-      "age_days": 2,
-      "date_found": "2026-09-04",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
         "angular_only": -30
       },
       "is_new": false
