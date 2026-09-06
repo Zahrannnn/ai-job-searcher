@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T05:29:59.700281+00:00",
-  "total_unique": 303,
+  "last_updated": "2026-09-06T05:43:09.934130+00:00",
+  "total_unique": 306,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8738,6 +8738,119 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-grupo-data-7860359",
+      "name": "Desenvolvedor(a) Full Stack Sênior | Java & JavaScript",
+      "company": "Grupo Data",
+      "url": "https://himalayas.app/companies/grupo-data/jobs/desenvolvedor-a-full-stack-senior-java-javascript",
+      "source": "Himalayas",
+      "location": "Portugal",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "Software-Engineer",
+        "Backend-Engineering",
+        "Frontend-Engineer",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Desenvolvedor-Java-Senior",
+        "Desenvolvedor-Full-Stack",
+        "Engenheiro-De-Software-Full-Stack",
+        "Senior-Full-Stack-Developer-(Java-+-Angular)",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-React-And-Java",
+        "Senior-Fullstack-Engineer-(Java-+-Angular)",
+        "Senior-Full-Stack-Engineer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-(Java-+-Vue)"
+      ],
+      "salary": "",
+      "description_excerpt": "Sobre a oportunidadeEstamos buscando um(a) Desenvolvedor(a) Full Stack Sênior para integrar um projeto internacional, atuando no desenvolvimento e evolução de soluções utilizando Java e JavaScript, com acesso a Data Lake e atuação com consultas e manipulação de dados por meio de SQL.",
+      "date_posted": "2026-09-06",
+      "age_days": 0,
+      "date_found": "2026-09-06",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-bright-vision-technologies-11998350",
+      "name": "Principal Software Engineer",
+      "company": "Bright Vision Technologies",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/principal-software-engineer-9094034090",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Principal-Software-Engineer",
+        "Software-Engineer",
+        "Backend-Engineering",
+        "Distributed-Systems-Engineering",
+        "Cloud-Engineer",
+        "Principal-Software-Development-Engineer",
+        "Principal-Software-Engineering",
+        "Principal-Software-Developer",
+        "Principal-Fullstack-Software-Engineer",
+        "Principal-Software-Engineer-Frontend",
+        "Principal-C++-Software-Engineer",
+        "Principal-Embedded-Software-Engineer",
+        "Principal-Security-Software-Engineer"
+      ],
+      "salary": "100000-150000 USD",
+      "description_excerpt": "Principal Software Engineer - Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "date_posted": "2026-09-06",
+      "age_days": 0,
+      "date_found": "2026-09-06",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5,
+        "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-zarego-13442044",
+      "name": "Full Stack Developer (Java, React) - Remote LATAM",
+      "company": "Zarego",
+      "url": "https://himalayas.app/companies/zarego/jobs/full-stack-developer-java-react-remote-latam",
+      "source": "Himalayas",
+      "location": "Argentina",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Developer",
+        "Full-Stack-Engineer",
+        "Java-Developer",
+        "React-Developer",
+        "Software-Developer",
+        "Senior-Full-Stack-Developer-(Java-+-React)",
+        "Senior-Full-Stack-Developer-React-And-Java",
+        "Senior-Full-Stack-Engineer-(Java-+-React)",
+        "Remote-Senior-Full-Stack-Developer",
+        "Full-Stack-Java-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "English level: B2 or higher Seniority: Senior Stack: Java, React, AWS Remote Anywhere in LATAM Hi!",
+      "date_posted": "2026-09-06",
+      "age_days": 0,
+      "date_found": "2026-09-06",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
