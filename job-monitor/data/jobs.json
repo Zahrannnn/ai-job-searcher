@@ -1,33 +1,42 @@
 {
-  "last_run": "2026-09-07T05:53:08.974010+00:00",
-  "total_items": 12,
-  "new_count": 2,
+  "last_run": "2026-09-08T05:46:01.541246+00:00",
+  "total_items": 13,
+  "new_count": 5,
   "items": [
     {
-      "id": "linkedin-4441210380",
-      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
+      "id": "himalayas-5blue-software-2390885",
+      "name": "Senior Full-Stack Engineer",
+      "company": "5Blue Software",
+      "url": "https://himalayas.app/companies/5blue-software/jobs/senior-full-stack-engineer",
+      "source": "Himalayas",
+      "location": "Poland, Romania, Spain, Ukraine",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Frontend-Full-Stack-Engineer"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-26",
-      "age_days": 12,
-      "date_found": "2026-09-07",
+      "description_excerpt": "About Us: 5Blue Software is an Israeli-Ukrainian software development company specializing in custom software development, staff augmentation, dedicated engineering teams, AI solutions, and CTO-as-a-Service.",
+      "date_posted": "2026-09-08",
+      "age_days": 0,
+      "date_found": "2026-09-08",
       "score": 100,
       "score_breakdown": {
         "react": 25,
-        "nextjs": 15,
         "location": 20,
-        "fresh": 5,
+        "fresh": 15,
+        "ai": 10,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2091087",
@@ -56,8 +65,8 @@
       "salary": "",
       "description_excerpt": "<p style=\"padding: 0px 0px 1em; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: #000000;\">We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.</p>\n<p style=\"pa",
       "date_posted": "2026-09-05",
-      "age_days": 2,
-      "date_found": "2026-09-07",
+      "age_days": 3,
+      "date_found": "2026-09-08",
       "score": 85,
       "score_breakdown": {
         "location": 20,
@@ -84,8 +93,35 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-09-06",
+      "age_days": 2,
+      "date_found": "2026-09-08",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-france-245440",
+      "name": "Senior Full-Stack Engineer (Backend + Frontend)",
+      "company": "Soda Data Nv",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-france-245440",
+      "source": "Arbeitnow",
+      "location": "France",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Computer Software",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.</p><p>Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;<strong>Senior Full-Stack Engineer</strong>&nbsp;to build the platform that catches data p",
+      "date_posted": "2026-09-07",
       "age_days": 1,
-      "date_found": "2026-09-07",
+      "date_found": "2026-09-08",
       "score": 80,
       "score_breakdown": {
         "location": 20,
@@ -96,56 +132,31 @@
       "is_new": true
     },
     {
-      "id": "jobicy-152539",
-      "name": "Senior Software Engineer, Frontend",
-      "company": "Phantom",
-      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
-      "source": "Jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
+      "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-france-447542",
+      "name": "Senior Frontend Engineer (Full-stack)",
+      "company": "Soda Data Nv",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-france-447542",
+      "source": "Arbeitnow",
+      "location": "France",
       "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "Computer Software",
+        "Remote"
       ],
       "salary": "",
-      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
-      "date_posted": "2026-09-04",
-      "age_days": 3,
-      "date_found": "2026-09-07",
+      "description_excerpt": "<p>Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.</p><p>Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;<strong>Senior Full-Stack Engineer</strong>&nbsp;to build the platform that catches data p",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
       "score": 80,
       "score_breakdown": {
-        "typescript": 10,
         "location": 20,
         "fresh": 15,
+        "ai": 10,
         "senior_ic": 5
       },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4460870914",
-      "name": "Full Stack (React + Node.js)",
-      "company": "Systems Limited - Egypt",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-react-+-node-js-at-systems-limited-egypt-4460870914",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-30",
-      "age_days": 8,
-      "date_found": "2026-09-07",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jobicy-152644",
@@ -164,13 +175,65 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-09-06",
-      "age_days": 1,
-      "date_found": "2026-09-07",
+      "age_days": 2,
+      "date_found": "2026-09-08",
       "score": 75,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "ai": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-152539",
+      "name": "Senior Software Engineer, Frontend",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
+      "source": "Jobicy",
+      "location": "LATAM,  Canada,  Europe,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "date_posted": "2026-09-04",
+      "age_days": 4,
+      "date_found": "2026-09-08",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4464358810",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -188,15 +251,38 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-31",
-      "age_days": 7,
-      "date_found": "2026-09-07",
-      "score": 75,
+      "age_days": 8,
+      "date_found": "2026-09-08",
+      "score": 70,
       "score_breakdown": {
         "nextjs": 15,
         "location": 20,
-        "fresh": 10
+        "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "linkedin-4464303523",
+      "name": "Frontend Developer",
+      "company": "SAQAYA",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-saqaya-4464303523",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4459732169",
@@ -212,8 +298,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 8,
-      "date_found": "2026-09-07",
+      "age_days": 9,
+      "date_found": "2026-09-08",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -236,8 +322,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-28",
-      "age_days": 10,
-      "date_found": "2026-09-07",
+      "age_days": 11,
+      "date_found": "2026-09-08",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -259,62 +345,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-08-30",
-      "age_days": 8,
-      "date_found": "2026-09-07",
+      "age_days": 9,
+      "date_found": "2026-09-08",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4461071968",
-      "name": "Senior Frontend Engineer ( Angular )",
-      "company": "BlackStone eIT",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-angular-at-blackstone-eit-4461071968",
-      "source": "LinkedIn",
-      "location": "Nasr City, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-31",
-      "age_days": 7,
-      "date_found": "2026-09-07",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5,
-        "angular_only": -30
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4461068987",
-      "name": "Senior Frontend Engineer ( Angular )",
-      "company": "BlackStone eIT",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-angular-at-blackstone-eit-4461068987",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-08-31",
-      "age_days": 7,
-      "date_found": "2026-09-07",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5,
-        "angular_only": -30
       },
       "is_new": false
     }

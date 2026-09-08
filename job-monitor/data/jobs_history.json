@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T05:53:08.977101+00:00",
-  "total_unique": 308,
+  "last_updated": "2026-09-08T05:46:01.544518+00:00",
+  "total_unique": 313,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -8905,6 +8905,142 @@
         "location": 20,
         "fresh": 15,
         "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-full-stack-engineer-backend-frontend-france-245440",
+      "name": "Senior Full-Stack Engineer (Backend + Frontend)",
+      "company": "Soda Data Nv",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-france-245440",
+      "source": "Arbeitnow",
+      "location": "France",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Computer Software",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.</p><p>Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;<strong>Senior Full-Stack Engineer</strong>&nbsp;to build the platform that catches data p",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-engineer-full-stack-france-447542",
+      "name": "Senior Frontend Engineer (Full-stack)",
+      "company": "Soda Data Nv",
+      "url": "https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-france-447542",
+      "source": "Arbeitnow",
+      "location": "France",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Computer Software",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Data quality is the bottleneck of the AI era. Every Fortune 500 is trying to solve it. We're the team they call.</p><p>Soda is the data quality layer for Disney, Ralph Lauren, CBRE, HelloFresh, 2K Games, and Nubank. Our open-source engine, Soda Core, is used by companies like Tesla, Slack, Adyen, Walmart, and JPMC. The category is growing fast because AI doesn't work on bad data, and we're hiring a&nbsp;<strong>Senior Full-Stack Engineer</strong>&nbsp;to build the platform that catches data p",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-5blue-software-2390885",
+      "name": "Senior Full-Stack Engineer",
+      "company": "5Blue Software",
+      "url": "https://himalayas.app/companies/5blue-software/jobs/senior-full-stack-engineer",
+      "source": "Himalayas",
+      "location": "Poland, Romania, Spain, Ukraine",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Frontend-Full-Stack-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "About Us: 5Blue Software is an Israeli-Ukrainian software development company specializing in custom software development, staff augmentation, dedicated engineering teams, AI solutions, and CTO-as-a-Service.",
+      "date_posted": "2026-09-08",
+      "age_days": 0,
+      "date_found": "2026-09-08",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4464303523",
+      "name": "Frontend Developer",
+      "company": "SAQAYA",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-saqaya-4464303523",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4464358810",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-07",
+      "age_days": 1,
+      "date_found": "2026-09-08",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
         "senior_ic": 5
       },
       "is_new": true
