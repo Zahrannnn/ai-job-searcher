@@ -1,72 +1,84 @@
 # Job Monitor Report
 
-- **Last run:** 2026-09-08T05:46:01.541246+00:00
-- **Total items found:** 13
-- **New since last run:** 5
-- **Alert threshold (score ≥ 70):** 9 items
+- **Last run:** 2026-09-09T05:50:21.310249+00:00
+- **Total items found:** 15
+- **New since last run:** 2
+- **Alert threshold (score ≥ 70):** 11 items
 
-## Top 9 matches (score ≥ 70)
+## Top 11 matches (score ≥ 70)
 
-### Senior Full-Stack Engineer @ 5Blue Software
-- **Score:** 100/100 — **Poland, Romania, Spain, Ukraine** (0d ago) — Remote
-- **Source:** Himalayas
-- **Skills:** Full-Stack-Engineer, Senior-Full-Stack-Engineering, Senior-Fullstack-Developer, Senior-Full-Stack-Development, ¿Senior-Fullstack-Engineering
-- **Apply:** https://himalayas.app/companies/5blue-software/jobs/senior-full-stack-engineer
-- **Score breakdown:** react=+25, location=+20, fresh=+15, ai=+10, senior_ic=+5
+### Software Engineer, Data Integration @ Bayesian Health
+- **Score:** 100/100 — **USA** (1d ago) — Remote
+- **Source:** Jobicy
+- **Skills:** Software Engineering, Full-Time
+- **Apply:** https://jobicy.com/jobs/152819-software-engineer-data-integration
+- **Score breakdown:** react=+25, location=+20, fresh=+15, founding=+10
+
+### Senior React Developer (React, TypeScript, Node.js) @ Arrow Electronics
+- **Score:** 100/100 — **Cairo, Cairo, Egypt** (1d ago) — On-site
+- **Source:** LinkedIn
+- **Apply:** https://eg.linkedin.com/jobs/view/senior-react-developer-react-typescript-node-js-at-arrow-electronics-4464904079
+- **Score breakdown:** react=+25, typescript=+10, location=+20, fresh=+15, senior_ic=+5
+
+### Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt @ Deloitte
+- **Score:** 100/100 — **Cairo, Cairo, Egypt** (14d ago) — On-site
+- **Source:** LinkedIn
+- **Apply:** https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380
+- **Score breakdown:** react=+25, nextjs=+15, location=+20, fresh=+5, senior_ic=+5
 
 ### SaaS Product Support Jedi @ Creative Force
-- **Score:** 85/100 — **Europe, EMEA, UK, Germany, France, European timezones** (3d ago) — Remote
+- **Score:** 80/100 — **Europe, EMEA, UK, Germany, France, European timezones** (4d ago) — Remote
 - **Source:** Remotive
 - **Skills:** api, CSS, go, html, javascript
 - **Apply:** https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087
-- **Score breakdown:** location=+20, fresh=+15, ai=+10, founding=+10
+- **Score breakdown:** location=+20, fresh=+10, ai=+10, founding=+10
 
 ### Senior Frontend Engineer @ ClickUp
-- **Score:** 80/100 — **Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine** (2d ago) — Remote
+- **Score:** 80/100 — **Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine** (3d ago) — Remote
 - **Source:** Jobicy
 - **Skills:** Software Engineering, Full-Time
 - **Apply:** https://jobicy.com/jobs/152642-senior-frontend-engineer-2
 - **Score breakdown:** location=+20, fresh=+15, ai=+10, senior_ic=+5
 
 ### Senior Full-Stack Engineer (Backend + Frontend) @ Soda Data Nv
-- **Score:** 80/100 — **France** (1d ago) — Remote
+- **Score:** 80/100 — **France** (2d ago) — Remote
 - **Source:** Arbeitnow
 - **Skills:** Computer Software, Remote
 - **Apply:** https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-france-245440
 - **Score breakdown:** location=+20, fresh=+15, ai=+10, senior_ic=+5
 
 ### Senior Frontend Engineer (Full-stack) @ Soda Data Nv
-- **Score:** 80/100 — **France** (1d ago) — Remote
+- **Score:** 80/100 — **France** (2d ago) — Remote
 - **Source:** Arbeitnow
 - **Skills:** Computer Software, Remote
 - **Apply:** https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-france-447542
 - **Score breakdown:** location=+20, fresh=+15, ai=+10, senior_ic=+5
 
+### Frontend Lead – React Native @ QNBeyond Plus
+- **Score:** 80/100 — **Cairo, Egypt** (9d ago) — On-site
+- **Source:** LinkedIn
+- **Apply:** https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4459202298
+- **Score breakdown:** react=+25, location=+20, fresh=+5
+
 ### Staff Frontend Engineer @ ClickUp
-- **Score:** 75/100 — **Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine** (2d ago) — Remote
+- **Score:** 75/100 — **Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine** (3d ago) — Remote
 - **Source:** Jobicy
 - **Skills:** Software Engineering, Full-Time
 - **Apply:** https://jobicy.com/jobs/152644-staff-frontend-engineer
 - **Score breakdown:** location=+20, fresh=+15, ai=+10
 
 ### Senior Software Engineer, Frontend @ Phantom
-- **Score:** 75/100 — **LATAM,  Canada,  Europe,  USA** (4d ago) — Remote
+- **Score:** 75/100 — **LATAM,  Canada,  Europe,  USA** (5d ago) — Remote
 - **Source:** Jobicy
 - **Skills:** Software Engineering, Full-Time
 - **Apply:** https://jobicy.com/jobs/152539-senior-software-engineer-frontend
 - **Score breakdown:** typescript=+10, location=+20, fresh=+10, senior_ic=+5
 
 ### Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt @ Deloitte
-- **Score:** 70/100 — **Cairo, Cairo, Egypt** (1d ago) — On-site
+- **Score:** 70/100 — **Cairo, Cairo, Egypt** (2d ago) — On-site
 - **Source:** LinkedIn
 - **Apply:** https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810
 - **Score breakdown:** location=+20, fresh=+15, senior_ic=+5
-
-### Full Stack Engineer - Website &amp; Marketing Technology (Headless CMS / Next.js) @ WorkMotion
-- **Score:** 70/100 — **Egypt** (8d ago) — On-site
-- **Source:** LinkedIn
-- **Apply:** https://eg.linkedin.com/jobs/view/full-stack-engineer-website-marketing-technology-headless-cms-next-js-at-workmotion-4459223612
-- **Score breakdown:** nextjs=+15, location=+20, fresh=+5
 
 ## Below threshold (next 4)
 

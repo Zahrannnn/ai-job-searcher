@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T05:46:01.544518+00:00",
-  "total_unique": 313,
+  "last_updated": "2026-09-09T05:50:21.312977+00:00",
+  "total_unique": 315,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9039,6 +9039,60 @@
       "date_found": "2026-09-08",
       "score": 70,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152819",
+      "name": "Software Engineer, Data Integration",
+      "company": "Bayesian Health",
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "date_posted": "2026-09-08",
+      "age_days": 1,
+      "date_found": "2026-09-09",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4464904079",
+      "name": "Senior React Developer (React, TypeScript, Node.js)",
+      "company": "Arrow Electronics",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-react-typescript-node-js-at-arrow-electronics-4464904079",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-08",
+      "age_days": 1,
+      "date_found": "2026-09-09",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
