@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T05:50:21.312977+00:00",
-  "total_unique": 315,
+  "last_updated": "2026-09-10T05:44:40.072152+00:00",
+  "total_unique": 320,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9096,6 +9096,161 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152938",
+      "name": "Software Engineer, Backend",
+      "company": "Vercel",
+      "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, security, and exceptional&hellip;",
+      "date_posted": "2026-09-09",
+      "age_days": 1,
+      "date_found": "2026-09-10",
+      "score": 100,
+      "score_breakdown": {
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-relay-cc-8160267",
+      "name": "Senior Frontend Developer (React, TypeScript)",
+      "company": "Relay",
+      "url": "https://himalayas.app/companies/relay-cc/jobs/senior-frontend-developer-react-typescript-4874985008",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Frontend-Development",
+        "React",
+        "Web3-Development",
+        "Frontend-Engineer",
+        "Web-Development",
+        "Senior-Frontend-React-Developer",
+        "Senior-Front-End-Developer",
+        "Remote-Senior-Frontend-Developer-(TypeScript-NextJS)",
+        "Senior-Frontend-Development",
+        "Senior-ReactJS-Developer",
+        "Senior-Frontend-Engineering",
+        "Senior-React-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "Relay is building the web3 messenger.  We are looking for talented and motivated front-end engineers of all experience levels.",
+      "date_posted": "2026-09-10",
+      "age_days": 0,
+      "date_found": "2026-09-10",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-grupo-boticario-566032",
+      "name": "Pessoa Desenvolvedora Fullstack React/Node Analista III (Pricing/E-commerce) - V",
+      "company": "Grupo Boticário",
+      "url": "https://himalayas.app/companies/grupo-boticario/jobs/pessoa-desenvolvedora-fullstack-react-node-analista-iii-pricing-e-commerce-v",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "React",
+        "Node.Js-Development",
+        "Backend-Development",
+        "Frontend-Development",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Engenheiro-De-Software-Full-Stack",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Mid-Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Desenvolvedor-Full-Stack",
+        "Full-Stack-Developer-(Next.Js-React)",
+        "Mid-Level-Full-Stack-Developer-(JavaScript-React-Node.Js)",
+        "Semi-Senior-Full-Stack-Engineer-(React-Node.Js)"
+      ],
+      "salary": "",
+      "description_excerpt": "Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países.",
+      "date_posted": "2026-09-10",
+      "age_days": 0,
+      "date_found": "2026-09-10",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4463037526",
+      "name": "Front-End Developer",
+      "company": "Vodafone",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-developer-at-vodafone-4463037526",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-09",
+      "age_days": 1,
+      "date_found": "2026-09-10",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4465061986",
+      "name": "Deloitte Innovation Hub I Frontend Development Tech Lead, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-frontend-development-tech-lead-cairo-egypt-at-deloitte-4465061986",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-09",
+      "age_days": 1,
+      "date_found": "2026-09-10",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
