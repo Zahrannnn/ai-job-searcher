@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T05:31:54.652722+00:00",
-  "total_unique": 324,
+  "last_updated": "2026-09-13T05:51:21.449453+00:00",
+  "total_unique": 330,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9372,6 +9372,188 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+      "name": "(Senior) Fullstack Engineer - Node / React (all genders)",
+      "company": "Gamigo",
+      "url": "https://www.arbeitnow.com/jobs/companies/gamigo/remote-senior-fullstack-engineer-node-react-all-genders-germany-250238",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Portals",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>To strengthen our team, gamigo group is looking for a Senior Fullstack Engineer (all genders) to join as soon as possible, full-time, based in Germany.</p><p></p><p></p><p><strong>About the role</strong></p><p>As a Senior Fullstack Engineer, you will build and evolve our casual gaming eCommerce platform end-to-end, driving technical direction with broad expertise across web and cloud systems.</p><p></p><ul><li>Actively&nbsp;shape&nbsp;and&nbsp;evolve&nbsp;our&nbsp;code&nbsp;structure&nbsp;and",
+      "date_posted": "2026-09-12",
+      "age_days": 1,
+      "date_found": "2026-09-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-all-genders-287472",
+      "name": "Senior Frontend Developer (all genders)",
+      "company": "Contabo",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-287472",
+      "source": "Arbeitnow",
+      "location": "Remote (Germany)",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "it",
+        "infrastructure",
+        "code",
+        "cloud",
+        "hosting",
+        "data center",
+        "information technology",
+        "software",
+        "hybrid",
+        "remote",
+        "germany",
+        "company",
+        "tech",
+        "technology",
+        "frontend",
+        "developer"
+      ],
+      "salary": "",
+      "description_excerpt": "<br><strong>Your creative field</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">We are looking for <strong>two full-time, permanent Senior Frontend Developer </strong>(all genders) <strong>t</strong><strong>o start as soon as </strong><strong>possible</strong>. We live remote-first <span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">within <strong>Germany</strong></span>, but you have the freedom to choose whether you want to work hybrid or comp",
+      "date_posted": "2026-09-12",
+      "age_days": 1,
+      "date_found": "2026-09-13",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3124321863",
+      "name": "Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDKGitLabCanada+1remotefull-time$115.2-194.4K/yr23 days ago",
+      "company": "Logo of GitLab",
+      "url": "https://vuejobs.com/jobs/gitlab-fullstack-engineer-typescript-ai-engineering-duo-client-sdk",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-13",
+      "score": 70,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1529323634",
+      "name": "Senior Frontend Software EngineerOkendoBrisbane, Australiaremotefull-timesenior1 month ago",
+      "company": "Logo of Okendo",
+      "url": "https://vuejobs.com/jobs/okendo-senior-frontend-software-engineer-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-13",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-workleap-3739535",
+      "name": "Senior Fullstack Developer (C#/React), Migrate - ShareGate",
+      "company": "Workleap",
+      "url": "https://himalayas.app/companies/workleap/jobs/senior-fullstack-developer-c-react-migrate-sharegate-550263068",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Fullstack-Developer",
+        "Fullstack-Development",
+        "C#-Development",
+        "React",
+        "Software-Engineer",
+        "Senior-Full-Stack-Engineer-(.NET-React)",
+        "Senior-.NET-Full-Stack-Developer",
+        "Senior-.NET-Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineer-(.NET-C#-SQL)"
+      ],
+      "salary": "125000-160000 CAD",
+      "description_excerpt": "About ShareGateShareGate is the leading Microsoft 365 migration and governance platform, trusted by over 100,000 IT pros for its unmatched simplicity.",
+      "date_posted": "2026-09-13",
+      "age_days": 0,
+      "date_found": "2026-09-13",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-bjak-4665716",
+      "name": "Frontend Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/frontend-engineer-2742227216",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Frontend-Engineer",
+        "Web-Frontend-Engineer",
+        "Front-End-Software-Engineer",
+        "Frontend-Web-Software-Engineer",
+        "React-Frontend-Engineer",
+        "Front-End-Developer",
+        "Frontend-Vue.Js-Engineer",
+        "UI-UX-Front-End-Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native.",
+      "date_posted": "2026-09-13",
+      "age_days": 0,
+      "date_found": "2026-09-13",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
