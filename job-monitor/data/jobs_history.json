@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T05:51:21.449453+00:00",
-  "total_unique": 330,
+  "last_updated": "2026-09-14T05:58:10.485292+00:00",
+  "total_unique": 338,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9553,6 +9553,196 @@
       "score_breakdown": {
         "react": 25,
         "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-4046718039",
+      "name": "Senior Front-end EngineerRenesas ElectronicsWrocław, Poland+1remotefull-timesenior20 days ago",
+      "company": "Logo of Renesas Electronics",
+      "url": "https://vuejobs.com/jobs/renesas-electronics-senior-front-end-engineer-8",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-14",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2379849438",
+      "name": "Senior Front-end EngineerRenesas ElectronicsKatowice, Poland+1remotefull-timesenior20 days ago",
+      "company": "Logo of Renesas Electronics",
+      "url": "https://vuejobs.com/jobs/renesas-electronics-senior-front-end-engineer-7",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-14",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-801635736",
+      "name": "Senior Front-end EngineerRenesas ElectronicsLisbon, Portugal+1remotefull-timesenior20 days ago",
+      "company": "Logo of Renesas Electronics",
+      "url": "https://vuejobs.com/jobs/renesas-electronics-senior-front-end-engineer-6",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-14",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3107078681",
+      "name": "Lead Frontend Engineer (m/f/d)ABOUT YOU SE & Co. KGHamburg, Germany+1remotefull-timelead€85.0K/yr26 days ago",
+      "company": "Logo of ABOUT YOU SE & Co. KG",
+      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-lead-frontend-engineer-m-f-d-5",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-14",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-bjak-8720092",
+      "name": "Full Stack Engineer",
+      "company": "Bjak",
+      "url": "https://himalayas.app/companies/bjak/jobs/full-stack-engineer-9597952359",
+      "source": "Himalayas",
+      "location": "Japan",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Full-Stack-Engineering",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Developer",
+        "Full-Stack-Engineer-Jobs",
+        "Full-Stack-Product-Engineer",
+        "Full-Stack-Software-Engineering",
+        "Full-Stack-JavaScript-Engineer",
+        "Full-Stack-Software-Developer",
+        "Full-Stack-Engineering-Jobs"
+      ],
+      "salary": "",
+      "description_excerpt": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money.",
+      "date_posted": "2026-09-14",
+      "age_days": 0,
+      "date_found": "2026-09-14",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4466795805",
+      "name": "Junior Front-end Developer",
+      "company": "Viseven",
+      "url": "https://eg.linkedin.com/jobs/view/junior-front-end-developer-at-viseven-4466795805",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-13",
+      "age_days": 1,
+      "date_found": "2026-09-14",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4466777690",
+      "name": "Frontend Software Engineer - Saudi Only",
+      "company": "Lucidya | لوسيديا",
+      "url": "https://sa.linkedin.com/jobs/view/frontend-software-engineer-saudi-only-at-lucidya-لوسيديا-4466777690",
+      "source": "LinkedIn",
+      "location": "Jiddah, Makkah, Saudi Arabia",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-13",
+      "age_days": 1,
+      "date_found": "2026-09-14",
+      "score": 65,
+      "score_breakdown": {
+        "location_mena": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4466768705",
+      "name": "Frontend Software Engineer - Saudi Only",
+      "company": "Lucidya | لوسيديا",
+      "url": "https://sa.linkedin.com/jobs/view/frontend-software-engineer-saudi-only-at-lucidya-لوسيديا-4466768705",
+      "source": "LinkedIn",
+      "location": "Al Khobar, Eastern, Saudi Arabia",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-13",
+      "age_days": 1,
+      "date_found": "2026-09-14",
+      "score": 65,
+      "score_breakdown": {
+        "location_mena": 20,
         "fresh": 15
       },
       "is_new": true
