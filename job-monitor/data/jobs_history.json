@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T05:58:10.485292+00:00",
-  "total_unique": 338,
+  "last_updated": "2026-09-15T05:59:15.722847+00:00",
+  "total_unique": 340,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9743,6 +9743,57 @@
       "score": 65,
       "score_breakdown": {
         "location_mena": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153297",
+      "name": "Senior Frontend Software Engineer (AI Receptionist)",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/153297-senior-frontend-software-engineer-ai-receptionist",
+      "source": "Jobicy",
+      "location": "Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
+      "date_posted": "2026-09-14",
+      "age_days": 1,
+      "date_found": "2026-09-15",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4466795805",
+      "name": "Junior Front-end Developer (Talent Pool)",
+      "company": "Viseven",
+      "url": "https://eg.linkedin.com/jobs/view/junior-front-end-developer-talent-pool-at-viseven-4466795805",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-13",
+      "age_days": 2,
+      "date_found": "2026-09-15",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
         "fresh": 15
       },
       "is_new": true
