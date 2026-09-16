@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T05:59:15.722847+00:00",
-  "total_unique": 340,
+  "last_updated": "2026-09-16T05:49:50.070223+00:00",
+  "total_unique": 343,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -9795,6 +9795,90 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-dhaka-technologies-limited-company-2645825",
+      "name": "Senior React JS Developer",
+      "company": "Dhaka Technologies Limited Company",
+      "url": "https://himalayas.app/companies/dhaka-technologies-limited-company/jobs/senior-react-js-developer-278981451",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "React-Developer",
+        "Front-End-Developer",
+        "JavaScript-Developer",
+        "Web-Developer",
+        "Software-Engineer",
+        "Senior-ReactJS-Developer",
+        "Senior-React-Developer",
+        "Senior-Frontend-React-Developer",
+        "Senior-React-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Senior React JS Developer Vacancy: 1 Work Arrangement: Remote Location: Washington, DC 20003 Employment Type: Contract Engagement Type: W2 or 1099 only; no C2C Final Interview: In person Dhaka Technologies Limited is hiring for a client seeking a Sr.",
+      "date_posted": "2026-09-16",
+      "age_days": 0,
+      "date_found": "2026-09-16",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4467710941",
+      "name": "Sr. Software Engineer - Frontend (React JS)",
+      "company": "Floward",
+      "url": "https://eg.linkedin.com/jobs/view/sr-software-engineer-frontend-react-js-at-floward-4467710941",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-15",
+      "age_days": 1,
+      "date_found": "2026-09-16",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4397729853",
+      "name": "Senior React Native Engineer (Mobile Engineer)",
+      "company": "Zeal",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-native-engineer-mobile-engineer-at-zeal-4397729853",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-13",
+      "age_days": 3,
+      "date_found": "2026-09-16",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
