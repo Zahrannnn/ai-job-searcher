@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-09-17T05:56:31.580897+00:00",
-  "total_items": 13,
+  "last_run": "2026-09-18T05:43:15.252164+00:00",
+  "total_items": 17,
   "new_count": 7,
   "items": [
     {
@@ -41,17 +41,46 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-09-14",
-      "age_days": 3,
-      "date_found": "2026-09-17",
+      "age_days": 4,
+      "date_found": "2026-09-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-153536",
+      "name": "Senior Full-stack Engineer (Python/React) - Advertising",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15,
-        "ai": 10,
-        "salary": 5
+        "founding": 10,
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4465993799",
@@ -67,14 +96,67 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 1,
-      "date_found": "2026-09-17",
+      "age_days": 2,
+      "date_found": "2026-09-18",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4441210380",
+      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4466664193",
+      "name": "Senior Full Stack Software Engineer (.NET &amp; React/Next.js)",
+      "company": "Ossus.ai",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-react-next-js-at-ossus-ai-4466664193",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-18",
+      "age_days": 0,
+      "date_found": "2026-09-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
         "senior_ic": 5
       },
       "is_new": true
@@ -93,8 +175,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-15",
-      "age_days": 2,
-      "date_found": "2026-09-17",
+      "age_days": 3,
+      "date_found": "2026-09-18",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -104,55 +186,32 @@
       "is_new": false
     },
     {
-      "id": "jobicy-153297",
-      "name": "Senior Frontend Software Engineer (AI Receptionist)",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/153297-senior-frontend-software-engineer-ai-receptionist",
+      "id": "jobicy-150883",
+      "name": "Contract Senior Front End Engineer",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
       "source": "Jobicy",
-      "location": "Canada,  USA",
+      "location": "Anywhere",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
       "skills": [
         "Software Engineering",
-        "Full-Time"
+        "Contract"
       ],
       "salary": "",
-      "description_excerpt": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world’s leading companies, including United Airlines, Cox Communications, and Marriott, use Cresta to&hellip;",
-      "date_posted": "2026-09-14",
-      "age_days": 3,
-      "date_found": "2026-09-17",
+      "description_excerpt": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
+      "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
       "score": 80,
       "score_breakdown": {
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
-        "ai": 10,
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "vuejobs-1691111258",
-      "name": "Senior Frontend Engineer (VueJS / React)Helium Healthremotefull-timesenior22 days ago",
-      "company": "Logo of Helium Health",
-      "url": "https://vuejobs.com/jobs/helium-health-senior-frontend-engineer-vuejs-react",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-09-17",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "jobicy-153452",
@@ -171,15 +230,15 @@
       "salary": "",
       "description_excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Edge Functions are server-side TypeScript functions, distributed globally at the edge - close to your users. They&hellip;",
       "date_posted": "2026-09-16",
-      "age_days": 1,
-      "date_found": "2026-09-17",
+      "age_days": 2,
+      "date_found": "2026-09-18",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-153449",
@@ -198,55 +257,15 @@
       "salary": "",
       "description_excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth, written in Go (server) and with client libraries for TypeScript, SSR and for&hellip;",
       "date_posted": "2026-09-16",
-      "age_days": 1,
-      "date_found": "2026-09-17",
+      "age_days": 2,
+      "date_found": "2026-09-18",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
-    },
-    {
-      "id": "arbeitnow-remote-senior-frontend-developer-all-genders-267880",
-      "name": "Senior Frontend Developer (all genders)",
-      "company": "Contabo",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-267880",
-      "source": "Arbeitnow",
-      "location": "Remote (Germany)",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "it",
-        "infrastructure",
-        "code",
-        "cloud",
-        "hosting",
-        "data center",
-        "information technology",
-        "software",
-        "hybrid",
-        "remote",
-        "germany",
-        "company",
-        "tech",
-        "technology",
-        "frontend",
-        "developer"
-      ],
-      "salary": "",
-      "description_excerpt": "<br><strong>Your creative field</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">We are looking for <strong>two full-time, permanent Senior Frontend Developer </strong>(all genders) <strong>t</strong><strong>o start as soon as </strong><strong>possible</strong>. We live remote-first <span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">within <strong>Germany</strong></span>, but you have the freedom to choose whether you want to work hybrid or comp",
-      "date_posted": "2026-09-17",
-      "age_days": 0,
-      "date_found": "2026-09-17",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4466217789",
@@ -262,15 +281,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 1,
-      "date_found": "2026-09-17",
+      "age_days": 2,
+      "date_found": "2026-09-18",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-150844",
@@ -289,8 +308,8 @@
       "salary": "",
       "description_excerpt": "Front-End Engineer (Mid-Level) Job Description Owning a home has slipped out of reach for millions of Americans. Cedar has built a model that changes that, we’ve proven it by closing deals, and now we’re scaling. As our mid-level front-end engineer, you’ll build what people touch every day: the screens a family uses to figure out&hellip;",
       "date_posted": "2026-09-16",
-      "age_days": 1,
-      "date_found": "2026-09-17",
+      "age_days": 2,
+      "date_found": "2026-09-18",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -299,35 +318,46 @@
       "is_new": false
     },
     {
-      "id": "himalayas-decisionpoint-corporation-14728948",
-      "name": "Full Stack Developer",
-      "company": "DecisionPoint Corporation",
-      "url": "https://himalayas.app/companies/decisionpoint-corporation/jobs/full-stack-developer",
-      "source": "Himalayas",
-      "location": "United States",
+      "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-341906",
+      "name": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
+      "source": "Arbeitnow",
+      "location": "Remote job",
       "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
+      "experience_years": "",
       "skills": [
-        "Fullstack-Development",
-        "Software-Engineer",
-        "Oracle-Apex-Development",
-        "Backend-Development",
-        "Frontend-Development",
-        "Full-Stack-Developer",
-        "Full-Stack-Software-Developer",
-        "Full-Stack-Web-Developer",
-        "Full-Stack-Engineer",
-        "Full-Stack-JavaScript-Developer",
-        "Full-Stack",
-        "Full-Stack-Web-Development",
-        "Full-Stack-Developer-Jobs"
+        "Tech",
+        "Remote"
       ],
       "salary": "",
-      "description_excerpt": "OverviewDecisionPoint is seeking an experienced Full Stack Developers to support the MODES III program.",
+      "description_excerpt": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</a>)</p>",
       "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4467828431",
+      "name": "Full-Stack JavaScript Developer (AI-Native)",
+      "company": "UltaHost",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-javascript-developer-ai-native-at-ultahost-4467828431",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-18",
       "age_days": 0,
-      "date_found": "2026-09-17",
+      "date_found": "2026-09-18",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -349,8 +379,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-13",
-      "age_days": 4,
-      "date_found": "2026-09-17",
+      "age_days": 5,
+      "date_found": "2026-09-18",
       "score": 60,
       "score_breakdown": {
         "location_mena": 20,
@@ -359,10 +389,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-441580801",
-      "name": "Senior Front-end EngineerRenesas ElectronicsLisbon, Portugal+1remotefull-timesenior23 days ago",
-      "company": "Logo of Renesas Electronics",
-      "url": "https://vuejobs.com/jobs/renesas-electronics-senior-front-end-engineer-6",
+      "id": "vuejobs-470272462",
+      "name": "Jr. Front End Web Developer - AFITApplied Research SolutionsDayton, United Statesremotefull-timejunior8 days ago",
+      "company": "Logo of Applied Research Solutions",
+      "url": "https://vuejobs.com/jobs/applied-research-solutions-jr-front-end-web-developer-afit",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -372,13 +402,54 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-09-17",
-      "score": 55,
+      "date_found": "2026-09-18",
+      "score": 50,
       "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5
+        "location": 20
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1749635826",
+      "name": "Stage- Développement Java/ Javascript- Fin d'étude - Pré-embaucheACT-ONNeuilly-sur-Seine, Franceremoteon-sitefull-time€1.5K/mo8 days ago",
+      "company": "Logo of ACT-ON",
+      "url": "https://vuejobs.com/jobs/act-on-stage-developpement-java-javascript-fin-d-etude-pre-embauche",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-18",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-163005225",
+      "name": "REMOTE FRONTEND DEVELOPER – FIGMA TO LIVE WEBSITE, WEB APP & CLIENT PORTALSAlTaqadum AlMustamer IT Consultremotefull-timejuniorAED 1.0K/mo21 days ago",
+      "company": "Logo of AlTaqadum AlMustamer IT Consult",
+      "url": "https://vuejobs.com/jobs/altaqadum-almustamer-it-consult-remote-frontend-developer-figma-to-live-website-web-app-client-portals",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-18",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
     }
   ]
 }

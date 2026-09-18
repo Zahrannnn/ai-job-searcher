@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T05:56:31.584384+00:00",
-  "total_unique": 350,
+  "last_updated": "2026-09-18T05:43:15.255603+00:00",
+  "total_unique": 357,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10082,6 +10082,173 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153536",
+      "name": "Senior Full-stack Engineer (Python/React) - Advertising",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-staff-product-engineer-frontend-koln-341906",
+      "name": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+      "company": "epilot GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Tech",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong><span style=\"font-size:1.1em\">Are you ready to be a technology leader in the SaaS space? Join epilot!</span></strong><br>We are looking for product minded engineers not only coders. We're seeking builders who bridge technical expertise with product strategy. If you're passionate about impactful software, apply now! (Learn more about our understanding of being a product engineer <a rel=\"noopener\" target=\"_blank\" href=\"https://dev.to/epilot/what-is-a-product-engineer-1kpg\">here</a>)</p>",
+      "date_posted": "2026-09-17",
+      "age_days": 1,
+      "date_found": "2026-09-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-470272462",
+      "name": "Jr. Front End Web Developer - AFITApplied Research SolutionsDayton, United Statesremotefull-timejunior8 days ago",
+      "company": "Logo of Applied Research Solutions",
+      "url": "https://vuejobs.com/jobs/applied-research-solutions-jr-front-end-web-developer-afit",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-18",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1749635826",
+      "name": "Stage- Développement Java/ Javascript- Fin d'étude - Pré-embaucheACT-ONNeuilly-sur-Seine, Franceremoteon-sitefull-time€1.5K/mo8 days ago",
+      "company": "Logo of ACT-ON",
+      "url": "https://vuejobs.com/jobs/act-on-stage-developpement-java-javascript-fin-d-etude-pre-embauche",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-18",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-163005225",
+      "name": "REMOTE FRONTEND DEVELOPER – FIGMA TO LIVE WEBSITE, WEB APP & CLIENT PORTALSAlTaqadum AlMustamer IT Consultremotefull-timejuniorAED 1.0K/mo21 days ago",
+      "company": "Logo of AlTaqadum AlMustamer IT Consult",
+      "url": "https://vuejobs.com/jobs/altaqadum-almustamer-it-consult-remote-frontend-developer-figma-to-live-website-web-app-client-portals",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-18",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4467828431",
+      "name": "Full-Stack JavaScript Developer (AI-Native)",
+      "company": "UltaHost",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-javascript-developer-ai-native-at-ultahost-4467828431",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-18",
+      "age_days": 0,
+      "date_found": "2026-09-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4466664193",
+      "name": "Senior Full Stack Software Engineer (.NET &amp; React/Next.js)",
+      "company": "Ossus.ai",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-react-next-js-at-ossus-ai-4466664193",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-18",
+      "age_days": 0,
+      "date_found": "2026-09-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
         "senior_ic": 5
       },
       "is_new": true
