@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T05:43:15.255603+00:00",
-  "total_unique": 357,
+  "last_updated": "2026-09-19T05:37:59.375397+00:00",
+  "total_unique": 362,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10250,6 +10250,135 @@
         "fresh": 15,
         "ai": 10,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153596",
+      "name": "Software Engineer, Application Integration",
+      "company": "Bayesian Health",
+      "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Software Engineer, Application Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "date_posted": "2026-09-18",
+      "age_days": 1,
+      "date_found": "2026-09-19",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2469636749",
+      "name": "Senior Frontend Engineer (all genders)Company hiddenHamburg, Germany+1remotefull-timesenior€70.0-85.0K/yr14 hours agoPRO only",
+      "company": "Flag of Germany",
+      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-senior-frontend-engineer-all-genders-6",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-19",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-306912744",
+      "name": "Lead Frontend Engineer (all genders)ABOUT YOU SE & Co. KGHamburg, Germany+1remotefull-timelead€85.0K/yr1 month ago",
+      "company": "Logo of ABOUT YOU SE & Co. KG",
+      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-lead-frontend-engineer-all-genders-5",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-19",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-263081839",
+      "name": "Desarrollo Front EndGbitcorpremotefull-timemid-level17 days ago",
+      "company": "Logo of Gbitcorp",
+      "url": "https://vuejobs.com/jobs/gbitcorp-desarrollo-front-end",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-19",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-grupo-sysmap-1325005",
+      "name": "Desenvolvedor Full Stack + Mobile (iOS/Android) SR",
+      "company": "Grupo SysMap",
+      "url": "https://himalayas.app/companies/grupo-sysmap/jobs/desenvolvedor-full-stack-mobile-ios-android-sr",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-Fullstack-Developer",
+        "Senior-Mobile-Developer",
+        "React-Native-Developer",
+        "Flutter-Developer",
+        "Desenvolvedor-Senior-Full-Stack",
+        "Senior-Full-Stack-Developer-(React-Native)",
+        "Desenvolvedor-Full-Stack",
+        "Engenheiro-De-Software-Full-Stack",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Developer-(Java-+-React)"
+      ],
+      "salary": "",
+      "description_excerpt": "Você é apaixonado(a) por tecnologia e inovação?  💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e – acreditamos que grandes resultados nascem de pessoas incríveis.",
+      "date_posted": "2026-09-19",
+      "age_days": 0,
+      "date_found": "2026-09-19",
+      "score": 50,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "mobile_only": -40
       },
       "is_new": true
     }
