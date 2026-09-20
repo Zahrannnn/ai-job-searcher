@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T05:37:59.375397+00:00",
-  "total_unique": 362,
+  "last_updated": "2026-09-20T05:56:35.822674+00:00",
+  "total_unique": 366,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10379,6 +10379,125 @@
         "location": 20,
         "fresh": 15,
         "mobile_only": -40
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-fleetio-6460265",
+      "name": "Web Developer",
+      "company": "Fleetio",
+      "url": "https://himalayas.app/companies/fleetio/jobs/web-developer",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Web-Development",
+        "Frontend-Development",
+        "Martech",
+        "Web-Marketing",
+        "SaaS-Development",
+        "Web-Developer",
+        "JavaScript-Web-Developer",
+        "Web-Application-Developer",
+        "IT-Web-Developer",
+        "Web-Development-Engineer",
+        "HTML-Developer",
+        "Desenvolvedor-Web",
+        "Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations.",
+      "date_posted": "2026-09-20",
+      "age_days": 0,
+      "date_found": "2026-09-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-grafana-labs-14124882",
+      "name": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
+      "company": "Grafana Labs",
+      "url": "https://himalayas.app/companies/grafana-labs/jobs/senior-engineering-manager-grafana-frontend-united-kingdom-remote",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Manager, Senior",
+      "skills": [
+        "Engineering-Management",
+        "Frontend-Engineer",
+        "Software-Engineering-Leadership",
+        "Engineering-Leadership",
+        "R&D:-Grafana",
+        "Senior-Frontend-Engineering-Manager",
+        "Frontend-Engineering-Manager",
+        "Engineering-Manager"
+      ],
+      "salary": "117949-141539 GBP",
+      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
+      "date_posted": "2026-09-20",
+      "age_days": 0,
+      "date_found": "2026-09-20",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4469552659",
+      "name": "Frontend Engineer",
+      "company": "crewlia",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-at-crewlia-4469552659",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-19",
+      "age_days": 1,
+      "date_found": "2026-09-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4469552737",
+      "name": "TypeScript Developer (Remote)",
+      "company": "crewlia",
+      "url": "https://eg.linkedin.com/jobs/view/typescript-developer-remote-at-crewlia-4469552737",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-19",
+      "age_days": 1,
+      "date_found": "2026-09-20",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }

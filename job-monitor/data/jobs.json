@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-19T05:37:59.373448+00:00",
-  "total_items": 18,
-  "new_count": 5,
+  "last_run": "2026-09-20T05:56:35.818541+00:00",
+  "total_items": 17,
+  "new_count": 4,
   "items": [
     {
       "id": "remotive-2069746",
@@ -41,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-09-14",
-      "age_days": 5,
-      "date_found": "2026-09-19",
+      "age_days": 6,
+      "date_found": "2026-09-20",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -70,8 +70,8 @@
       "salary": "",
       "description_excerpt": "Software Engineer, Application Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
       "date_posted": "2026-09-18",
-      "age_days": 1,
-      "date_found": "2026-09-19",
+      "age_days": 2,
+      "date_found": "2026-09-20",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -79,7 +79,7 @@
         "fresh": 15,
         "founding": 10
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-153536",
@@ -98,8 +98,8 @@
       "salary": "",
       "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
       "date_posted": "2026-09-17",
-      "age_days": 2,
-      "date_found": "2026-09-19",
+      "age_days": 3,
+      "date_found": "2026-09-20",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -124,14 +124,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 3,
-      "date_found": "2026-09-19",
+      "age_days": 4,
+      "date_found": "2026-09-20",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -150,8 +150,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-17",
-      "age_days": 2,
-      "date_found": "2026-09-19",
+      "age_days": 3,
+      "date_found": "2026-09-20",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -163,31 +163,39 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4466664193",
-      "name": "Senior Full Stack Software Engineer (.NET &amp; React/Next.js)",
-      "company": "Ossus.ai",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-software-engineer-net-react-next-js-at-ossus-ai-4466664193",
-      "source": "LinkedIn",
-      "location": "New Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-18",
-      "age_days": 1,
-      "date_found": "2026-09-19",
-      "score": 100,
+      "id": "himalayas-grafana-labs-14124882",
+      "name": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
+      "company": "Grafana Labs",
+      "url": "https://himalayas.app/companies/grafana-labs/jobs/senior-engineering-manager-grafana-frontend-united-kingdom-remote",
+      "source": "Himalayas",
+      "location": "United Kingdom",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Manager, Senior",
+      "skills": [
+        "Engineering-Management",
+        "Frontend-Engineer",
+        "Software-Engineering-Leadership",
+        "Engineering-Leadership",
+        "R&D:-Grafana",
+        "Senior-Frontend-Engineering-Manager",
+        "Frontend-Engineering-Manager",
+        "Engineering-Manager"
+      ],
+      "salary": "117949-141539 GBP",
+      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale.",
+      "date_posted": "2026-09-20",
+      "age_days": 0,
+      "date_found": "2026-09-20",
+      "score": 85,
       "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
+        "senior_ic": 5,
+        "salary": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4467710941",
@@ -203,8 +211,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-15",
-      "age_days": 4,
-      "date_found": "2026-09-19",
+      "age_days": 5,
+      "date_found": "2026-09-20",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -214,86 +222,88 @@
       "is_new": false
     },
     {
-      "id": "jobicy-150883",
-      "name": "Contract Senior Front End Engineer",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
-      "source": "Jobicy",
-      "location": "Anywhere",
-      "workplace": "Remote",
+      "id": "linkedin-4469552737",
+      "name": "TypeScript Developer (Remote)",
+      "company": "crewlia",
+      "url": "https://eg.linkedin.com/jobs/view/typescript-developer-remote-at-crewlia-4469552737",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
       "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Contract"
-      ],
+      "experience_years": "",
+      "skills": [],
       "salary": "",
-      "description_excerpt": "Location: Remote — Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria’s Secret, MGM Resorts, Albertsons, and&hellip;",
-      "date_posted": "2026-09-17",
-      "age_days": 2,
-      "date_found": "2026-09-19",
-      "score": 80,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-153452",
-      "name": "Edge Functions Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
-      "source": "Jobicy",
-      "location": "Anywhere",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Edge Functions are server-side TypeScript functions, distributed globally at the edge - close to your users. They&hellip;",
-      "date_posted": "2026-09-16",
-      "age_days": 3,
-      "date_found": "2026-09-19",
+      "description_excerpt": "",
+      "date_posted": "2026-09-19",
+      "age_days": 1,
+      "date_found": "2026-09-20",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jobicy-153449",
-      "name": "Software Engineer - Auth",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
-      "source": "Jobicy",
-      "location": "Anywhere",
+      "id": "himalayas-fleetio-6460265",
+      "name": "Web Developer",
+      "company": "Fleetio",
+      "url": "https://himalayas.app/companies/fleetio/jobs/web-developer",
+      "source": "Himalayas",
+      "location": "United States",
       "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "Web-Development",
+        "Frontend-Development",
+        "Martech",
+        "Web-Marketing",
+        "SaaS-Development",
+        "Web-Developer",
+        "JavaScript-Web-Developer",
+        "Web-Application-Developer",
+        "IT-Web-Developer",
+        "Web-Development-Engineer",
+        "HTML-Developer",
+        "Desenvolvedor-Web",
+        "Developer"
       ],
       "salary": "",
-      "description_excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth, written in Go (server) and with client libraries for TypeScript, SSR and for&hellip;",
-      "date_posted": "2026-09-16",
-      "age_days": 3,
-      "date_found": "2026-09-19",
-      "score": 75,
+      "description_excerpt": "A little about us…Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations.",
+      "date_posted": "2026-09-20",
+      "age_days": 0,
+      "date_found": "2026-09-20",
+      "score": 65,
       "score_breakdown": {
-        "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4469552659",
+      "name": "Frontend Engineer",
+      "company": "crewlia",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-engineer-at-crewlia-4469552659",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-19",
+      "age_days": 1,
+      "date_found": "2026-09-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4466217789",
@@ -309,12 +319,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 3,
-      "date_found": "2026-09-19",
-      "score": 70,
+      "age_days": 4,
+      "date_found": "2026-09-20",
+      "score": 65,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -333,8 +343,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 1,
-      "date_found": "2026-09-19",
+      "age_days": 2,
+      "date_found": "2026-09-20",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -356,12 +366,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 1,
-      "date_found": "2026-09-19",
+      "age_days": 2,
+      "date_found": "2026-09-20",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4464358810",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-07",
+      "age_days": 13,
+      "date_found": "2026-09-20",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -379,8 +413,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-13",
-      "age_days": 6,
-      "date_found": "2026-09-19",
+      "age_days": 7,
+      "date_found": "2026-09-20",
       "score": 60,
       "score_breakdown": {
         "location_mena": 20,
@@ -389,10 +423,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2469636749",
-      "name": "Senior Frontend Engineer (all genders)Company hiddenHamburg, Germany+1remotefull-timesenior€70.0-85.0K/yr14 hours agoPRO only",
-      "company": "Flag of Germany",
-      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-senior-frontend-engineer-all-genders-6",
+      "id": "vuejobs-543161584",
+      "name": "Stage- Développement Java/ Javascript- Fin d'étude - Pré-embaucheACT-ONNeuilly-sur-Seine, Franceremoteon-sitefull-time€1.5K/mo10 days ago",
+      "company": "Logo of ACT-ON",
+      "url": "https://vuejobs.com/jobs/act-on-stage-developpement-java-javascript-fin-d-etude-pre-embauche",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -402,40 +436,18 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-09-19",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "vuejobs-306912744",
-      "name": "Lead Frontend Engineer (all genders)ABOUT YOU SE & Co. KGHamburg, Germany+1remotefull-timelead€85.0K/yr1 month ago",
-      "company": "Logo of ABOUT YOU SE & Co. KG",
-      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-lead-frontend-engineer-all-genders-5",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-09-19",
+      "date_found": "2026-09-20",
       "score": 50,
       "score_breakdown": {
         "location": 20
       },
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "vuejobs-263081839",
-      "name": "Desarrollo Front EndGbitcorpremotefull-timemid-level17 days ago",
-      "company": "Logo of Gbitcorp",
-      "url": "https://vuejobs.com/jobs/gbitcorp-desarrollo-front-end",
+      "id": "vuejobs-2468819210",
+      "name": "Jr. Front End Web Developer - AFITApplied Research SolutionsDayton, United Statesremotefull-timejunior10 days ago",
+      "company": "Logo of Applied Research Solutions",
+      "url": "https://vuejobs.com/jobs/applied-research-solutions-jr-front-end-web-developer-afit",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -445,49 +457,12 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-09-19",
+      "date_found": "2026-09-20",
       "score": 50,
       "score_breakdown": {
         "location": 20
       },
-      "is_new": true
-    },
-    {
-      "id": "himalayas-grupo-sysmap-1325005",
-      "name": "Desenvolvedor Full Stack + Mobile (iOS/Android) SR",
-      "company": "Grupo SysMap",
-      "url": "https://himalayas.app/companies/grupo-sysmap/jobs/desenvolvedor-full-stack-mobile-ios-android-sr",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Senior-Fullstack-Developer",
-        "Senior-Mobile-Developer",
-        "React-Native-Developer",
-        "Flutter-Developer",
-        "Desenvolvedor-Senior-Full-Stack",
-        "Senior-Full-Stack-Developer-(React-Native)",
-        "Desenvolvedor-Full-Stack",
-        "Engenheiro-De-Software-Full-Stack",
-        "Senior-Full-Stack-Developer-(React-Node.Js)",
-        "Full-Stack-Engineer",
-        "Senior-Full-Stack-Developer-(Java-+-React)"
-      ],
-      "salary": "",
-      "description_excerpt": "Você é apaixonado(a) por tecnologia e inovação?  💡 No Grupo SysMap – que reúne SysMap Solutions, TriggoLabs e – acreditamos que grandes resultados nascem de pessoas incríveis.",
-      "date_posted": "2026-09-19",
-      "age_days": 0,
-      "date_found": "2026-09-19",
-      "score": 50,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15,
-        "mobile_only": -40
-      },
-      "is_new": true
+      "is_new": false
     }
   ]
 }
