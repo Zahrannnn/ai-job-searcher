@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T05:56:35.822674+00:00",
-  "total_unique": 366,
+  "last_updated": "2026-09-21T06:02:37.198618+00:00",
+  "total_unique": 372,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10498,6 +10498,197 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091141",
+      "name": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "source": "Remotive",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "api",
+        "django",
+        "docker",
+        "frontend",
+        "git",
+        "python",
+        "react",
+        "security",
+        "video",
+        "AI/ML",
+        "documentation",
+        "Typescript ",
+        "web applications",
+        "backbone",
+        "diversity",
+        "REST",
+        "insurance"
+      ],
+      "salary": "$90k - $105k",
+      "description_excerpt": "<p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>\n<p><a href=\"http://www.kobotoolbox.org/\" rel=\"nofollow\">KoboToolbox</a> has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challen",
+      "date_posted": "2026-09-18",
+      "age_days": 3,
+      "date_found": "2026-09-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153741",
+      "name": "Senior Software Enginner (Full-stack Node + React)",
+      "company": "Airtm",
+      "url": "https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are&hellip;",
+      "date_posted": "2026-09-20",
+      "age_days": 1,
+      "date_found": "2026-09-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153716",
+      "name": "Senior Frontend Engineer (React)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/153716-senior-frontend-engineer-react",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-09-20",
+      "age_days": 1,
+      "date_found": "2026-09-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153697",
+      "name": "Staff Software Engineer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
+      "source": "Jobicy",
+      "location": "EMEA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This role is part of our Prerender team, one of our growing brands at saas.group. For nearly a decade, Prerender has empowered marketers to create dynamic, complex sites at scale, making their JavaScript websites easily indexable by search engines. We eliminate indexing and crawling limitations, allowing our customers to gain the upper-hand on HTML sites&hellip;",
+      "date_posted": "2026-09-20",
+      "age_days": 1,
+      "date_found": "2026-09-21",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2000468818",
+      "name": "CraftCMS - CraftCommerce - Front-End DeveloperCompany hiddenremotepart-timecontract3 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/ebeacon-craftcms-craftcommerce-front-end-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-21",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-markup-camp-3939754",
+      "name": "Senior Frontend Engineer ReactJS",
+      "company": "Markup camp",
+      "url": "https://himalayas.app/companies/markup-camp/jobs/senior-frontend-engineer-reactjs-4224900047",
+      "source": "Himalayas",
+      "location": "Bulgaria",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Frontend-Development",
+        "Frontend-Engineer",
+        "Software-Engineer",
+        "React-Developer",
+        "Web-Development",
+        "Senior-Frontend-React-Developer",
+        "Senior-React-Engineer",
+        "Senior-Frontend-Engineering",
+        "Senior-ReactJS-Developer",
+        "Senior-React-Developer",
+        "Front-End-Software-Engineer",
+        "React-Frontend-Engineer",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Full-Stack-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-player.",
+      "date_posted": "2026-09-21",
+      "age_days": 0,
+      "date_found": "2026-09-21",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
