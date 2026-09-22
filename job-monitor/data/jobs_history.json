@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T06:02:37.198618+00:00",
-  "total_unique": 372,
+  "last_updated": "2026-09-22T05:58:31.648731+00:00",
+  "total_unique": 375,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10686,6 +10686,79 @@
       "score": 95,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3909069400",
+      "name": "N(1549) Senior Fullstack (Python & React)NortalVue-plusFull-stackremotefull-timesenior26 days ago",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/nortal-1549-senior-fullstack-python-react",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-22",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4468147317",
+      "name": "Senior Frontend Software Engineer (Full-time)",
+      "company": "Zettasoft-egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-21",
+      "age_days": 1,
+      "date_found": "2026-09-22",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4468505823",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4468505823",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-22",
+      "age_days": 0,
+      "date_found": "2026-09-22",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
