@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T05:58:31.648731+00:00",
-  "total_unique": 375,
+  "last_updated": "2026-09-23T05:43:54.519279+00:00",
+  "total_unique": 379,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10762,6 +10762,131 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-153865",
+      "name": "Software Engineer, Frontend / Full Stack (Identity Platform)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
+      "source": "Jobicy",
+      "location": "Anywhere",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "date_posted": "2026-09-22",
+      "age_days": 1,
+      "date_found": "2026-09-23",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-571925063",
+      "name": "Software Development Engineer II (Frontend) - TasksHighLevelIndiaVue-firstFrontendremotefull-timemid-level7 days ago",
+      "company": "Logo of HighLevel",
+      "url": "https://vuejobs.com/jobs/highlevel-software-development-engineer-ii-frontend-tasks",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-23",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-impicode-10118747",
+      "name": "Junior Full Stack Developer",
+      "company": "ImpiCode",
+      "url": "https://himalayas.app/companies/impicode/jobs/junior-full-stack-developer",
+      "source": "Himalayas",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Entry-level",
+      "skills": [
+        "Fullstack-Development",
+        "Junior-Software-Developer",
+        "Software-Engineer",
+        "Web-Development",
+        "IT-Services",
+        "Junior-Full-Stack-Developer",
+        "Junior-Full-Stack-Web-Developer",
+        "Junior-Full-Stack-Engineer",
+        "Junior-Full-Stack-Software-Engineer",
+        "Junior-Full-Stack-Developer-Jobs",
+        "Junior-Full-Stack-Engineering",
+        "Junior-Full-Stack-Developer-(React-Node.Js)",
+        "Junior-Full-Stack-Developer-(Angular-Node)",
+        "Junior-Full-Stack-Java-Developer",
+        "Junior-Full-Stack-Developer-(.NET)"
+      ],
+      "salary": "",
+      "description_excerpt": "• realizacja prac programistycznych • możliwość poznania różnych technologii • testowanie oprogramowania • tworzenie dokumentacji projektowej i dokumentów analitycznych (również w j angielskim) • optymalizacja działania aplikacji i systemów • dobra znajomość przynajmniej jednego języka programowania • chęci do nauki nowych technologii • umiejętności analitycznego myślenia • znajomość j.",
+      "date_posted": "2026-09-23",
+      "age_days": 0,
+      "date_found": "2026-09-23",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mytigate-2598363",
+      "name": "Senior Frontend Developer (Vue.js)",
+      "company": "Mytigate",
+      "url": "https://himalayas.app/companies/mytigate/jobs/senior-frontend-developer-vue-js-9968027533",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Frontend-Development",
+        "Software-Engineer",
+        "Web-Development",
+        "Frontend-Engineer",
+        "Vue.Js-Development",
+        "Senior-Front-End-Developer-(Vue.Js)",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Engineering",
+        "Vue.Js-Frontend-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "• As a Front-End Developer, you will be responsible for developing cutting-edge software to be provided for pharma and pharma-related customers.",
+      "date_posted": "2026-09-23",
+      "age_days": 0,
+      "date_found": "2026-09-23",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "vue_only": -20
       },
       "is_new": true
     }

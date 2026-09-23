@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-22T05:58:31.645018+00:00",
-  "total_items": 17,
-  "new_count": 3,
+  "last_run": "2026-09-23T05:43:54.515559+00:00",
+  "total_items": 18,
+  "new_count": 4,
   "items": [
     {
       "id": "remotive-2091141",
@@ -34,8 +34,8 @@
       "salary": "$90k - $105k",
       "description_excerpt": "<p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>\n<p><a href=\"http://www.kobotoolbox.org/\" rel=\"nofollow\">KoboToolbox</a> has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challen",
       "date_posted": "2026-09-18",
-      "age_days": 4,
-      "date_found": "2026-09-22",
+      "age_days": 5,
+      "date_found": "2026-09-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -64,8 +64,8 @@
       "salary": "",
       "description_excerpt": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are&hellip;",
       "date_posted": "2026-09-20",
-      "age_days": 2,
-      "date_found": "2026-09-22",
+      "age_days": 3,
+      "date_found": "2026-09-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -93,8 +93,8 @@
       "salary": "",
       "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "date_posted": "2026-09-20",
-      "age_days": 2,
-      "date_found": "2026-09-22",
+      "age_days": 3,
+      "date_found": "2026-09-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -119,34 +119,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 6,
-      "date_found": "2026-09-22",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4441210380",
-      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4441210380",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-17",
-      "age_days": 5,
-      "date_found": "2026-09-22",
+      "age_days": 7,
+      "date_found": "2026-09-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -171,8 +145,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-22",
-      "age_days": 0,
-      "date_found": "2026-09-22",
+      "age_days": 1,
+      "date_found": "2026-09-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -181,7 +155,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-2069746",
@@ -221,8 +195,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-09-14",
-      "age_days": 8,
-      "date_found": "2026-09-22",
+      "age_days": 9,
+      "date_found": "2026-09-23",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -250,8 +224,8 @@
       "salary": "",
       "description_excerpt": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed&hellip;",
       "date_posted": "2026-09-21",
-      "age_days": 1,
-      "date_found": "2026-09-22",
+      "age_days": 2,
+      "date_found": "2026-09-23",
       "score": 90,
       "score_breakdown": {
         "typescript": 10,
@@ -261,6 +235,46 @@
         "senior_ic": 5
       },
       "is_new": false
+    },
+    {
+      "id": "himalayas-impicode-10118747",
+      "name": "Junior Full Stack Developer",
+      "company": "ImpiCode",
+      "url": "https://himalayas.app/companies/impicode/jobs/junior-full-stack-developer",
+      "source": "Himalayas",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Entry-level",
+      "skills": [
+        "Fullstack-Development",
+        "Junior-Software-Developer",
+        "Software-Engineer",
+        "Web-Development",
+        "IT-Services",
+        "Junior-Full-Stack-Developer",
+        "Junior-Full-Stack-Web-Developer",
+        "Junior-Full-Stack-Engineer",
+        "Junior-Full-Stack-Software-Engineer",
+        "Junior-Full-Stack-Developer-Jobs",
+        "Junior-Full-Stack-Engineering",
+        "Junior-Full-Stack-Developer-(React-Node.Js)",
+        "Junior-Full-Stack-Developer-(Angular-Node)",
+        "Junior-Full-Stack-Java-Developer",
+        "Junior-Full-Stack-Developer-(.NET)"
+      ],
+      "salary": "",
+      "description_excerpt": "• realizacja prac programistycznych • możliwość poznania różnych technologii • testowanie oprogramowania • tworzenie dokumentacji projektowej i dokumentów analitycznych (również w j angielskim) • optymalizacja działania aplikacji i systemów • dobra znajomość przynajmniej jednego języka programowania • chęci do nauki nowych technologii • umiejętności analitycznego myślenia • znajomość j.",
+      "date_posted": "2026-09-23",
+      "age_days": 0,
+      "date_found": "2026-09-23",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4467710941",
@@ -276,36 +290,40 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-15",
-      "age_days": 7,
-      "date_found": "2026-09-22",
-      "score": 85,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-3909069400",
-      "name": "N(1549) Senior Fullstack (Python & React)NortalVue-plusFull-stackremotefull-timesenior26 days ago",
-      "company": "",
-      "url": "https://vuejobs.com/jobs/nortal-1549-senior-fullstack-python-react",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-09-22",
+      "age_days": 8,
+      "date_found": "2026-09-23",
       "score": 80,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "senior_ic": 5
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-153865",
+      "name": "Software Engineer, Frontend / Full Stack (Identity Platform)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform",
+      "source": "Jobicy",
+      "location": "Anywhere",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
+      "date_posted": "2026-09-22",
+      "age_days": 1,
+      "date_found": "2026-09-23",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     },
@@ -326,35 +344,8 @@
       "salary": "",
       "description_excerpt": "This role is part of our Prerender team, one of our growing brands at saas.group. For nearly a decade, Prerender has empowered marketers to create dynamic, complex sites at scale, making their JavaScript websites easily indexable by search engines. We eliminate indexing and crawling limitations, allowing our customers to gain the upper-hand on HTML sites&hellip;",
       "date_posted": "2026-09-20",
-      "age_days": 2,
-      "date_found": "2026-09-22",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151249",
-      "name": "Engineering Manager (Frontend)",
-      "company": "ClickUp",
-      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "date_posted": "2026-09-20",
-      "age_days": 2,
-      "date_found": "2026-09-22",
+      "age_days": 3,
+      "date_found": "2026-09-23",
       "score": 75,
       "score_breakdown": {
         "location": 20,
@@ -377,15 +368,15 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-21",
-      "age_days": 1,
-      "date_found": "2026-09-22",
+      "age_days": 2,
+      "date_found": "2026-09-23",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4466217789",
@@ -401,8 +392,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 6,
-      "date_found": "2026-09-22",
+      "age_days": 7,
+      "date_found": "2026-09-23",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -425,8 +416,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 4,
-      "date_found": "2026-09-22",
+      "age_days": 5,
+      "date_found": "2026-09-23",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -448,8 +439,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 4,
-      "date_found": "2026-09-22",
+      "age_days": 5,
+      "date_found": "2026-09-23",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -471,14 +462,72 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-13",
-      "age_days": 9,
-      "date_found": "2026-09-22",
+      "age_days": 10,
+      "date_found": "2026-09-23",
       "score": 55,
       "score_breakdown": {
         "location_mena": 20,
         "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "himalayas-mytigate-2598363",
+      "name": "Senior Frontend Developer (Vue.js)",
+      "company": "Mytigate",
+      "url": "https://himalayas.app/companies/mytigate/jobs/senior-frontend-developer-vue-js-9968027533",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Frontend-Development",
+        "Software-Engineer",
+        "Web-Development",
+        "Frontend-Engineer",
+        "Vue.Js-Development",
+        "Senior-Front-End-Developer-(Vue.Js)",
+        "Senior-Front-End-Developer",
+        "Senior-Frontend-Development",
+        "Senior-Frontend-Engineering",
+        "Vue.Js-Frontend-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "• As a Front-End Developer, you will be responsible for developing cutting-edge software to be provided for pharma and pharma-related customers.",
+      "date_posted": "2026-09-23",
+      "age_days": 0,
+      "date_found": "2026-09-23",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-571925063",
+      "name": "Software Development Engineer II (Frontend) - TasksHighLevelIndiaVue-firstFrontendremotefull-timemid-level7 days ago",
+      "company": "Logo of HighLevel",
+      "url": "https://vuejobs.com/jobs/highlevel-software-development-engineer-ii-frontend-tasks",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-23",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
     }
   ]
 }
