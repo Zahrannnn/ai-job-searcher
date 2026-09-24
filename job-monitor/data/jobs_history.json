@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T05:43:54.519279+00:00",
-  "total_unique": 379,
+  "last_updated": "2026-09-24T05:58:48.472776+00:00",
+  "total_unique": 387,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -10887,6 +10887,191 @@
         "fresh": 15,
         "senior_ic": 5,
         "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2424238626",
+      "name": "Senior Full-Stack JavaScript Engineer - Application TeamCompany hiddenLjubuški, Bosnia and HerzegovinaVue-firstNuxt.jsFull-stackremotefull-timesenior5 days agoPRO only",
+      "company": "Flag of Bosnia and Herzegovina",
+      "url": "https://vuejobs.com/jobs/memtime-senior-full-stack-javascript-engineer-application-team",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2271721598",
+      "name": "Staff Frontend Engineer (all genders)ABOUT YOU SE & Co. KGHamburg, Germany+1Vue-firstNuxt.jsFrontendremotefull-timesenior€85.0K/yr9 days ago",
+      "company": "Logo of ABOUT YOU SE & Co. KG",
+      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-staff-frontend-engineer-all-genders-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2257367851",
+      "name": "Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, Canada TimeCoverGoLahore, PakistanVue-plusFull-stackremotecontractsenior8 days ago",
+      "company": "Logo of CoverGo",
+      "url": "https://vuejobs.com/jobs/covergo-senior-full-stack-engineer-net-vue-react-fully-remote-canada-time",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-872308955",
+      "name": "Fronted DeveloperCDITVue-firstFrontendremotefull-timesenior9 days ago",
+      "company": "Logo of CDIT",
+      "url": "https://vuejobs.com/jobs/cdit-fronted-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2862919562",
+      "name": "Staff Frontend Engineer (m/f/d)Company hiddenHamburg, Germany+1Vue-firstNuxt.jsFrontendremotefull-timesenior€85.0K/yr3 days agoPRO only",
+      "company": "Flag of Germany",
+      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-staff-frontend-engineer-m-f-d-3",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3082933268",
+      "name": "Software Development Engineer II (Frontend) - OpportunitiesHighLevelIndiaVue-firstFull-stackremotefull-timemid-level7 days ago",
+      "company": "Logo of HighLevel",
+      "url": "https://vuejobs.com/jobs/highlevel-software-development-engineer-ii-frontend-opportunities",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-24",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4469456486",
+      "name": "Senior Front-End Software developer",
+      "company": "Digital Egypt For Investment Co.",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-software-developer-at-digital-egypt-for-investment-co-4469456486",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-23",
+      "age_days": 1,
+      "date_found": "2026-09-24",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4470962809",
+      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4470962809",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-23",
+      "age_days": 1,
+      "date_found": "2026-09-24",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
