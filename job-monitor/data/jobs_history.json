@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T05:58:48.472776+00:00",
-  "total_unique": 387,
+  "last_updated": "2026-09-25T06:00:14.065145+00:00",
+  "total_unique": 393,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11069,6 +11069,158 @@
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154034",
+      "name": "Contract Staff Front End Engineer (Web Conference/Screen Sharing)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/154034-contract-staff-front-end-engineer-web-conference-screen-sharing",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "About the team and role Mozilla's Web Conferencing team owns the media capture and sharing features that make Firefox work for video calls: screen, window, and tab capture, and the interface users interact with when they share content in Google Meet, Zoom, or Jitsi. We're bringing a set of screensharing improvements to Firefox. The backend&hellip;",
+      "date_posted": "2026-09-24",
+      "age_days": 1,
+      "date_found": "2026-09-25",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154020",
+      "name": "Full-Stack Engineer (Front-End Leaning)",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
+      "source": "Jobicy",
+      "location": "Bulgaria,  Ireland,  Netherlands,  Poland,  Portugal,  Sweden,  UK,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
+      "date_posted": "2026-09-24",
+      "age_days": 1,
+      "date_found": "2026-09-25",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-engineer-all-genders-berlin-421093",
+      "name": "Senior Frontend Engineer (all genders)",
+      "company": "Distribusion Technologies",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-frontend-engineer-all-genders-berlin-421093",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Technology",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong>Distribusion</strong> is the world’s leading ground transportation marketplace and gives travelers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online retailers, including Google Maps and Booking.com.<br></p><p>We are shaping the future of travel and building the largest global network of transport providers and retaile",
+      "date_posted": "2026-09-25",
+      "age_days": 0,
+      "date_found": "2026-09-25",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1434888777",
+      "name": "Fullstack Developer – Distributed Systems (Typescript, Node.js, Vue.js)Top DoctorsVue-firstNuxt.jsFull-stackremotefull-time€29.0-33.0K/yr1 month ago",
+      "company": "Logo of Top Doctors",
+      "url": "https://vuejobs.com/jobs/top-doctors-fullstack-developer-distributed-systems-typescript-node-js-vue-js",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-25",
+      "score": 40,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2835963439",
+      "name": "Développeur Front-End Senior Vue.js H/FCompany hiddenMassy, FranceVue-firstFrontendremotefull-timesenior3 days agoPRO only",
+      "company": "Flag of France",
+      "url": "https://vuejobs.com/jobs/sqli-developpeur-front-end-senior-vue-js-h-f-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-25",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4471671499",
+      "name": "Senior Frontend Developer",
+      "company": "iHorizons",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-ihorizons-4471671499",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-24",
+      "age_days": 1,
+      "date_found": "2026-09-25",
+      "score": 70,
+      "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
