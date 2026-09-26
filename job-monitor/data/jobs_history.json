@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T06:00:14.065145+00:00",
-  "total_unique": 393,
+  "last_updated": "2026-09-26T05:59:38.144658+00:00",
+  "total_unique": 395,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11221,6 +11221,53 @@
       "date_found": "2026-09-25",
       "score": 70,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2212153237",
+      "name": "Staff Engineer - Platform FrontendCompany hiddenIndiaVue-firstFrontendremotefull-timesenior2 days agoPRO only",
+      "company": "Flag of India",
+      "url": "https://vuejobs.com/jobs/highlevel-staff-engineer-platform-frontend",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-26",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4470070949",
+      "name": "Senior Frontend Engineer – React &amp; React Native | AI-Powered Development",
+      "company": "First.tech Group",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-–-react-react-native-ai-powered-development-at-first-tech-group-4470070949",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-25",
+      "age_days": 1,
+      "date_found": "2026-09-26",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
