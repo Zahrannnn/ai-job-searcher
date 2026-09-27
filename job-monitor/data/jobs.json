@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-26T05:59:38.140871+00:00",
-  "total_items": 16,
-  "new_count": 2,
+  "last_run": "2026-09-27T06:26:54.321872+00:00",
+  "total_items": 15,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2091141",
@@ -34,8 +34,8 @@
       "salary": "$90k - $105k",
       "description_excerpt": "<p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>\n<p><a href=\"http://www.kobotoolbox.org/\" rel=\"nofollow\">KoboToolbox</a> has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challen",
       "date_posted": "2026-09-18",
-      "age_days": 8,
-      "date_found": "2026-09-26",
+      "age_days": 9,
+      "date_found": "2026-09-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -48,32 +48,45 @@
       "is_new": false
     },
     {
-      "id": "jobicy-151496",
-      "name": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "source": "Jobicy",
-      "location": "Argentina,  Brazil,  Mexico",
+      "id": "himalayas-fxcintel-6265934",
+      "name": "Senior Software Engineer (Golang/TypeScript/React) - Independent Contractor",
+      "company": "FXC Intelligence",
+      "url": "https://himalayas.app/companies/fxcintel/jobs/senior-software-engineer-golang-typescript-react-independent-contractor",
+      "source": "Himalayas",
+      "location": "Mexico",
       "workplace": "Remote",
-      "job_type": "",
+      "job_type": "Contractor",
       "experience_years": "Senior",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Full-Stack-Engineer",
+        "Senior-Golang-Software-Engineer",
+        "Senior-Golang-Developer",
+        "Senior-Go-Developer",
+        "Senior-Full-Stack-Engineer-(Go-Angular)",
+        "Freelance-Golang-Developer",
+        "Golang-Software-Engineer",
+        "Remote-Senior-Frontend-Developer-(TypeScript-NextJS)",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)"
       ],
       "salary": "",
-      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
-      "date_posted": "2026-09-24",
-      "age_days": 2,
-      "date_found": "2026-09-26",
+      "description_excerpt": "Senior Software Engineer (Golang/TypeScript/React) Mexico City, Mexico – Remote.",
+      "date_posted": "2026-09-27",
+      "age_days": 0,
+      "date_found": "2026-09-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
+        "nextjs": 15,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4470962809",
@@ -89,14 +102,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 3,
-      "date_found": "2026-09-26",
+      "age_days": 4,
+      "date_found": "2026-09-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -115,8 +128,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-22",
-      "age_days": 4,
-      "date_found": "2026-09-26",
+      "age_days": 5,
+      "date_found": "2026-09-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -165,8 +178,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-09-14",
-      "age_days": 12,
-      "date_found": "2026-09-26",
+      "age_days": 13,
+      "date_found": "2026-09-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -191,8 +204,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-25",
-      "age_days": 1,
-      "date_found": "2026-09-26",
+      "age_days": 2,
+      "date_found": "2026-09-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -200,7 +213,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-154020",
@@ -219,8 +232,8 @@
       "salary": "",
       "description_excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of&hellip;",
       "date_posted": "2026-09-24",
-      "age_days": 2,
-      "date_found": "2026-09-26",
+      "age_days": 3,
+      "date_found": "2026-09-27",
       "score": 85,
       "score_breakdown": {
         "location": 20,
@@ -247,64 +260,13 @@
       "salary": "",
       "description_excerpt": "About the team and role Mozilla's Web Conferencing team owns the media capture and sharing features that make Firefox work for video calls: screen, window, and tab capture, and the interface users interact with when they share content in Google Meet, Zoom, or Jitsi. We're bringing a set of screensharing improvements to Firefox. The backend&hellip;",
       "date_posted": "2026-09-24",
-      "age_days": 2,
-      "date_found": "2026-09-26",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151502",
-      "name": "Front End Engineering Manager, Firefox Desktop",
-      "company": "Mozilla",
-      "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
-      "source": "Jobicy",
-      "location": "Canada",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
-      "date_posted": "2026-09-24",
-      "age_days": 2,
-      "date_found": "2026-09-26",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4469456486",
-      "name": "Senior Front-End Software developer",
-      "company": "Digital Egypt For Investment Co.",
-      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-software-developer-at-digital-egypt-for-investment-co-4469456486",
-      "source": "LinkedIn",
-      "location": "Giza, Al Jizah, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-23",
       "age_days": 3,
-      "date_found": "2026-09-26",
-      "score": 70,
+      "date_found": "2026-09-27",
+      "score": 75,
       "score_breakdown": {
+        "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 15
       },
       "is_new": false
     },
@@ -322,39 +284,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-24",
-      "age_days": 2,
-      "date_found": "2026-09-26",
+      "age_days": 3,
+      "date_found": "2026-09-27",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151420",
-      "name": "Staff Frontend Engineer - Design Systems",
-      "company": "Pleo",
-      "url": "https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems",
-      "source": "Jobicy",
-      "location": "Denmark,  Portugal,  UK",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses ‘go beyond’.&hellip;",
-      "date_posted": "2026-09-23",
-      "age_days": 3,
-      "date_found": "2026-09-26",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
       },
       "is_new": false
     },
@@ -372,8 +308,32 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-21",
-      "age_days": 5,
-      "date_found": "2026-09-26",
+      "age_days": 6,
+      "date_found": "2026-09-27",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4469456486",
+      "name": "Senior Front-End Software developer",
+      "company": "Digital Egypt For Investment Co.",
+      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-software-developer-at-digital-egypt-for-investment-co-4469456486",
+      "source": "LinkedIn",
+      "location": "Giza, Al Jizah, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-23",
+      "age_days": 4,
+      "date_found": "2026-09-27",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -396,8 +356,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 10,
-      "date_found": "2026-09-26",
+      "age_days": 11,
+      "date_found": "2026-09-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -420,8 +380,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 8,
-      "date_found": "2026-09-26",
+      "age_days": 9,
+      "date_found": "2026-09-27",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -430,10 +390,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2212153237",
-      "name": "Staff Engineer - Platform FrontendCompany hiddenIndiaVue-firstFrontendremotefull-timesenior2 days agoPRO only",
-      "company": "Flag of India",
-      "url": "https://vuejobs.com/jobs/highlevel-staff-engineer-platform-frontend",
+      "id": "vuejobs-2007217074",
+      "name": "Fullstack Developer (Python, TypeScript, Kubernetes)Company hiddenVue-plusFull-stackremotefull-time2 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/youriteams-fullstack-developer-python-typescript-kubernetes",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -443,10 +403,34 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-09-26",
-      "score": 30,
+      "date_found": "2026-09-27",
+      "score": 40,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3528244776",
+      "name": "Senior Front-end Developer (A)Blue CodingVue-firstFrontendremotefull-timesenior10 days ago",
+      "company": "Logo of Blue Coding",
+      "url": "https://vuejobs.com/jobs/blue-coding-senior-front-end-developer-a",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-27",
+      "score": 35,
       "score_breakdown": {
         "location": 20,
+        "senior_ic": 5,
         "vue_only": -20
       },
       "is_new": true

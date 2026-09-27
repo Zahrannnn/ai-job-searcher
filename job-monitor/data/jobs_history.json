@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T05:59:38.144658+00:00",
-  "total_unique": 395,
+  "last_updated": "2026-09-27T06:26:54.325657+00:00",
+  "total_unique": 398,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11270,6 +11270,93 @@
         "react": 25,
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2007217074",
+      "name": "Fullstack Developer (Python, TypeScript, Kubernetes)Company hiddenVue-plusFull-stackremotefull-time2 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/youriteams-fullstack-developer-python-typescript-kubernetes",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-27",
+      "score": 40,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3528244776",
+      "name": "Senior Front-end Developer (A)Blue CodingVue-firstFrontendremotefull-timesenior10 days ago",
+      "company": "Logo of Blue Coding",
+      "url": "https://vuejobs.com/jobs/blue-coding-senior-front-end-developer-a",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-27",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-fxcintel-6265934",
+      "name": "Senior Software Engineer (Golang/TypeScript/React) - Independent Contractor",
+      "company": "FXC Intelligence",
+      "url": "https://himalayas.app/companies/fxcintel/jobs/senior-software-engineer-golang-typescript-react-independent-contractor",
+      "source": "Himalayas",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Frontend-Engineer",
+        "Full-Stack-Engineer",
+        "Senior-Golang-Software-Engineer",
+        "Senior-Golang-Developer",
+        "Senior-Go-Developer",
+        "Senior-Full-Stack-Engineer-(Go-Angular)",
+        "Freelance-Golang-Developer",
+        "Golang-Software-Engineer",
+        "Remote-Senior-Frontend-Developer-(TypeScript-NextJS)",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)"
+      ],
+      "salary": "",
+      "description_excerpt": "Senior Software Engineer (Golang/TypeScript/React) Mexico City, Mexico – Remote.",
+      "date_posted": "2026-09-27",
+      "age_days": 0,
+      "date_found": "2026-09-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
         "senior_ic": 5
       },
       "is_new": true
