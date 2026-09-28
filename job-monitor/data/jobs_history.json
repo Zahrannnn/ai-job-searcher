@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T06:26:54.325657+00:00",
-  "total_unique": 398,
+  "last_updated": "2026-09-28T06:34:08.793242+00:00",
+  "total_unique": 399,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11353,6 +11353,44 @@
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mirantis-14422947",
+      "name": "Senior Full-Stack TypeScript Engineer",
+      "company": "Mirantis",
+      "url": "https://himalayas.app/companies/mirantis/jobs/senior-full-stack-typescript-engineer-9550424066",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Frontend-Engineer",
+        "TypeScript-Engineer",
+        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
+        "Senior-TypeScript-Developer",
+        "Senior-Full-Stack-Engineer-(Angular-Node.Js)",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)"
+      ],
+      "salary": "",
+      "description_excerpt": "Seeking a senior full-stack TypeScript engineer to construct the web platform through which enterprise users manage our multi-tenant control plane powering AI infrastructure.",
+      "date_posted": "2026-09-28",
+      "age_days": 0,
+      "date_found": "2026-09-28",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
         "typescript": 10,
         "location": 20,
         "fresh": 15,
