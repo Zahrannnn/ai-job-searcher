@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T06:34:08.793242+00:00",
-  "total_unique": 399,
+  "last_updated": "2026-09-29T06:42:55.954042+00:00",
+  "total_unique": 402,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11392,6 +11392,86 @@
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3351266188",
+      "name": "FullStack Javascript, NodeJS DeveloperCompany hiddenBangalore, IndiaVue-plusFull-stackremotefull-timesenior4 days agoPRO only",
+      "company": "Flag of India",
+      "url": "https://vuejobs.com/jobs/motorolasolutions-fullstack-javascript-nodejs-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-29",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2742850742",
+      "name": "Mid Vue.js DeveloperCodest Ltd. Company No. 12590542, VAT number: GB363431020Warszawa, PolandVue-firstFrontendremotefull-timemid-levelPLN 13.0-17.0K/mo19 days ago",
+      "company": "Logo of Codest Ltd. Company No. 12590542, VAT number: GB363431020",
+      "url": "https://vuejobs.com/jobs/codest-ltd-company-no-12590542-vat-number-gb363431020-mid-vue-js-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-29",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-spear-ai-273576",
+      "name": "Horizon: Full-Stack Engineer (Senior)",
+      "company": "Spear AI",
+      "url": "https://himalayas.app/companies/spear-ai/jobs/horizon-full-stack-engineer-senior",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Frontend-Full-Stack-Engineer",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)"
+      ],
+      "salary": "",
+      "description_excerpt": "We’re seeking a skilled Full-Stack Engineer to build the next-generation data management and artificial intelligence platform for maritime domain awareness.",
+      "date_posted": "2026-09-29",
+      "age_days": 0,
+      "date_found": "2026-09-29",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15,
         "ai": 10,

@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-28T06:34:08.789521+00:00",
-  "total_items": 11,
-  "new_count": 1,
+  "last_run": "2026-09-29T06:42:55.950034+00:00",
+  "total_items": 12,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2091141",
@@ -34,8 +34,8 @@
       "salary": "$90k - $105k",
       "description_excerpt": "<p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>\n<p><a href=\"http://www.kobotoolbox.org/\" rel=\"nofollow\">KoboToolbox</a> has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challen",
       "date_posted": "2026-09-18",
-      "age_days": 10,
-      "date_found": "2026-09-28",
+      "age_days": 11,
+      "date_found": "2026-09-29",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -48,10 +48,10 @@
       "is_new": false
     },
     {
-      "id": "himalayas-mirantis-14422947",
-      "name": "Senior Full-Stack TypeScript Engineer",
-      "company": "Mirantis",
-      "url": "https://himalayas.app/companies/mirantis/jobs/senior-full-stack-typescript-engineer-9550424066",
+      "id": "himalayas-spear-ai-273576",
+      "name": "Horizon: Full-Stack Engineer (Senior)",
+      "company": "Spear AI",
+      "url": "https://himalayas.app/companies/spear-ai/jobs/horizon-full-stack-engineer-senior",
       "source": "Himalayas",
       "location": "United States",
       "workplace": "Remote",
@@ -59,25 +59,22 @@
       "experience_years": "Senior",
       "skills": [
         "Full-Stack-Engineer",
-        "Full-Stack-Developer",
-        "Software-Engineer",
-        "Frontend-Engineer",
-        "TypeScript-Engineer",
-        "Senior-Full-Stack-Engineer-(TypeScript-Angular-Node)",
-        "Senior-TypeScript-Developer",
-        "Senior-Full-Stack-Engineer-(Angular-Node.Js)",
         "Senior-Full-Stack-Engineering",
-        "Senior-Full-Stack-Engineer-(React-Node.Js)"
+        "Senior-Frontend-Full-Stack-Engineer",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)"
       ],
       "salary": "",
-      "description_excerpt": "Seeking a senior full-stack TypeScript engineer to construct the web platform through which enterprise users manage our multi-tenant control plane powering AI infrastructure.",
-      "date_posted": "2026-09-28",
+      "description_excerpt": "We’re seeking a skilled Full-Stack Engineer to build the next-generation data management and artificial intelligence platform for maritime domain awareness.",
+      "date_posted": "2026-09-29",
       "age_days": 0,
-      "date_found": "2026-09-28",
+      "date_found": "2026-09-29",
       "score": 100,
       "score_breakdown": {
         "react": 25,
-        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "ai": 10,
@@ -99,8 +96,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 5,
-      "date_found": "2026-09-28",
+      "age_days": 6,
+      "date_found": "2026-09-29",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -125,8 +122,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-22",
-      "age_days": 6,
-      "date_found": "2026-09-28",
+      "age_days": 7,
+      "date_found": "2026-09-29",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -134,56 +131,6 @@
         "location": 20,
         "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "remotive-2069746",
-      "name": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
-      "location": "USA, Canada, USA timezones",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails",
-        "AI/ML",
-        "CAD",
-        "advertising",
-        "Redis",
-        "ES6",
-        "web applications",
-        "MySQL",
-        "NLP",
-        "fintech",
-        "Micro services",
-        "github",
-        "system architecture"
-      ],
-      "salary": "$170k - $200k",
-      "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
-      "date_posted": "2026-09-14",
-      "age_days": 14,
-      "date_found": "2026-09-28",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5,
-        "ai": 10,
-        "salary": 5
       },
       "is_new": false
     },
@@ -204,37 +151,13 @@
       "salary": "",
       "description_excerpt": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
       "date_posted": "2026-09-27",
-      "age_days": 1,
-      "date_found": "2026-09-28",
+      "age_days": 2,
+      "date_found": "2026-09-29",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4468147317",
-      "name": "Senior Frontend Software Engineer (Full-time)",
-      "company": "Zettasoft-egypt",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-21",
-      "age_days": 7,
-      "date_found": "2026-09-28",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -253,8 +176,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 5,
-      "date_found": "2026-09-28",
+      "age_days": 6,
+      "date_found": "2026-09-29",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -277,12 +200,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-24",
-      "age_days": 4,
-      "date_found": "2026-09-28",
+      "age_days": 5,
+      "date_found": "2026-09-29",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4468147317",
+      "name": "Senior Frontend Software Engineer (Full-time)",
+      "company": "Zettasoft-egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-21",
+      "age_days": 8,
+      "date_found": "2026-09-29",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -301,8 +248,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-16",
-      "age_days": 12,
-      "date_found": "2026-09-28",
+      "age_days": 13,
+      "date_found": "2026-09-29",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -325,14 +272,59 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 10,
-      "date_found": "2026-09-28",
+      "age_days": 11,
+      "date_found": "2026-09-29",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
       },
       "is_new": false
+    },
+    {
+      "id": "vuejobs-3351266188",
+      "name": "FullStack Javascript, NodeJS DeveloperCompany hiddenBangalore, IndiaVue-plusFull-stackremotefull-timesenior4 days agoPRO only",
+      "company": "Flag of India",
+      "url": "https://vuejobs.com/jobs/motorolasolutions-fullstack-javascript-nodejs-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-29",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2742850742",
+      "name": "Mid Vue.js DeveloperCodest Ltd. Company No. 12590542, VAT number: GB363431020Warszawa, PolandVue-firstFrontendremotefull-timemid-levelPLN 13.0-17.0K/mo19 days ago",
+      "company": "Logo of Codest Ltd. Company No. 12590542, VAT number: GB363431020",
+      "url": "https://vuejobs.com/jobs/codest-ltd-company-no-12590542-vat-number-gb363431020-mid-vue-js-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-09-29",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
     }
   ]
 }
