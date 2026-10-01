@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T06:30:47.978781+00:00",
-  "total_unique": 402,
+  "last_updated": "2026-10-01T07:04:01.826329+00:00",
+  "total_unique": 405,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11476,6 +11476,81 @@
         "fresh": 15,
         "ai": 10,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154291",
+      "name": "Chief Technology Officer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 50,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4472156453",
+      "name": "Senior React Developer",
+      "company": "Advansys",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-at-advansys-4472156453",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4471998744",
+      "name": "Full Stack Developer (Frontend Focus)",
+      "company": "Globant",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-frontend-focus-at-globant-4471998744",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }

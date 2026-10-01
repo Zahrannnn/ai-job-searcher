@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-09-30T06:30:47.975796+00:00",
-  "total_items": 10,
-  "new_count": 0,
+  "last_run": "2026-10-01T07:04:01.822275+00:00",
+  "total_items": 12,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2091141",
@@ -34,8 +34,8 @@
       "salary": "$90k - $105k",
       "description_excerpt": "<p><strong>Location:</strong> Remote<br><strong>Availability:</strong> 35-40 hours per week<br><strong>Working hours:</strong> US East business hours<br><strong>Reporting to:</strong> Lead developer</p>\n<p><a href=\"http://www.kobotoolbox.org/\" rel=\"nofollow\">KoboToolbox</a> has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. As a member of our team, you will share in the challen",
       "date_posted": "2026-09-18",
-      "age_days": 12,
-      "date_found": "2026-09-30",
+      "age_days": 13,
+      "date_found": "2026-10-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -44,6 +44,35 @@
         "fresh": 5,
         "ai": 10,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-152023",
+      "name": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/152023-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About TruelogicAt Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals.Our team of 600+ highly skilled tech professionals, based in Latin&hellip;",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -61,14 +90,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 7,
-      "date_found": "2026-09-30",
+      "age_days": 8,
+      "date_found": "2026-10-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 10,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -87,8 +116,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-22",
-      "age_days": 8,
-      "date_found": "2026-09-30",
+      "age_days": 9,
+      "date_found": "2026-10-01",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -100,30 +129,54 @@
       "is_new": false
     },
     {
-      "id": "jobicy-151824",
-      "name": "Senior Full Stack Product Engineer (TypeScript)",
-      "company": "Maze",
-      "url": "https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript",
+      "id": "linkedin-4472156453",
+      "name": "Senior React Developer",
+      "company": "Advansys",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-at-advansys-4472156453",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-142139",
+      "name": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
       "source": "Jobicy",
-      "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
+      "location": "USA",
       "workplace": "Remote",
       "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "Midweight",
       "skills": [
         "Software Engineering",
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today’s AI-powered world, anyone can build a product&hellip;",
-      "date_posted": "2026-09-27",
-      "age_days": 3,
-      "date_found": "2026-09-30",
-      "score": 80,
+      "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 15
       },
       "is_new": false
     },
@@ -141,12 +194,59 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-29",
-      "age_days": 1,
-      "date_found": "2026-09-30",
+      "age_days": 2,
+      "date_found": "2026-10-01",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4471998744",
+      "name": "Full Stack Developer (Frontend Focus)",
+      "company": "Globant",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-developer-frontend-focus-at-globant-4471998744",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4468147317",
+      "name": "Senior Frontend Software Engineer (Full-time)",
+      "company": "Zettasoft-egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-21",
+      "age_days": 10,
+      "date_found": "2026-10-01",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -165,56 +265,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 7,
-      "date_found": "2026-09-30",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4468147317",
-      "name": "Senior Frontend Software Engineer (Full-time)",
-      "company": "Zettasoft-egypt",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-21",
-      "age_days": 9,
-      "date_found": "2026-09-30",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4466217789",
-      "name": "Senior Front-End Software Engineer (Remote)",
-      "company": "Bask Health",
-      "url": "https://eg.linkedin.com/jobs/view/senior-front-end-software-engineer-remote-at-bask-health-4466217789",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-16",
-      "age_days": 14,
-      "date_found": "2026-09-30",
+      "age_days": 8,
+      "date_found": "2026-10-01",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -237,8 +289,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-18",
-      "age_days": 12,
-      "date_found": "2026-09-30",
+      "age_days": 13,
+      "date_found": "2026-10-01",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -247,26 +299,31 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-3358156888",
-      "name": "Staff Frontend Engineer (m/f/d)ABOUT YOU SE & Co. KGHamburg, Germany+1Vue-firstNuxt.jsFrontendremotefull-timesenior€85.0K/yr9 days ago",
-      "company": "Logo of ABOUT YOU SE & Co. KG",
-      "url": "https://vuejobs.com/jobs/about-you-se-co-kg-staff-frontend-engineer-m-f-d-3",
-      "source": "VueJobs",
-      "location": "remote",
+      "id": "jobicy-154291",
+      "name": "Chief Technology Officer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
+      "source": "Jobicy",
+      "location": "Europe",
       "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-09-30",
-      "score": 30,
+      "description_excerpt": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
+      "date_posted": "2026-09-30",
+      "age_days": 1,
+      "date_found": "2026-10-01",
+      "score": 50,
       "score_breakdown": {
         "location": 20,
-        "vue_only": -20
+        "fresh": 15,
+        "too_senior": -15
       },
-      "is_new": false
+      "is_new": true
     }
   ]
 }
