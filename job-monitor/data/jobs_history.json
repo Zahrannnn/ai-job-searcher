@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T07:04:01.826329+00:00",
-  "total_unique": 405,
+  "last_updated": "2026-10-02T06:51:42.490654+00:00",
+  "total_unique": 410,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11551,6 +11551,125 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3283248994",
+      "name": "Senior Front End EngineerCompany hiddenMexicoVue-firstNuxt.jsFrontendremotefull-timeseniorMX$75.0-95.0K2 days agoPRO only",
+      "company": "Flag of Mexico",
+      "url": "https://vuejobs.com/jobs/peek-senior-front-end-engineer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-02",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2991318939",
+      "name": "Middle Frontend Developer / Pixi.jsCompany hiddenCyprusVue-plusFrontendremotefull-timemid-level3 days agoPRO only",
+      "company": "Flag of Cyprus",
+      "url": "https://vuejobs.com/jobs/optiplay-middle-frontend-developer-pixi-js-3",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-02",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-4227375284",
+      "name": "Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, Canada TimeCoverGoIslamabad, PakistanVue-plusFull-stackremotecontractsenior16 days ago",
+      "company": "Logo of CoverGo",
+      "url": "https://vuejobs.com/jobs/covergo-senior-full-stack-engineer-net-vue-react-fully-remote-canada-time-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-02",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4472561775",
+      "name": "Senior Frontend Developer (React / Next.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4472561775",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-01",
+      "age_days": 1,
+      "date_found": "2026-10-02",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4474521906",
+      "name": "Senior Full Stack Engineer (NestJS / React)",
+      "company": "Expert-i Teleradiology",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-nestjs-react-at-expert-i-teleradiology-4474521906",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-01",
+      "age_days": 1,
+      "date_found": "2026-10-02",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
