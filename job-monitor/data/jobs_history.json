@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T06:51:42.490654+00:00",
-  "total_unique": 410,
+  "last_updated": "2026-10-03T06:16:32.856743+00:00",
+  "total_unique": 414,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11670,6 +11670,108 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-661496981",
+      "name": "Middle Frontend Developer / Pixi.jsCompany hiddenPolandVue-plusFrontendremotefull-timemid-level4 days agoPRO only",
+      "company": "Flag of Poland",
+      "url": "https://vuejobs.com/jobs/optiplay-middle-frontend-developer-pixi-js-4",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-03",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-monpay-2697611",
+      "name": "Fullstack Engineer (f/m/d)",
+      "company": "Monpay",
+      "url": "https://himalayas.app/companies/monpay/jobs/fullstack-engineer-f-m-d",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Full-Stack-Developer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Developer"
+      ],
+      "salary": "100000-100000 EUR",
+      "description_excerpt": "Monpay baut die Zahlungsabwicklung, die wir uns selbst als Anbieter/Händler immer gewünscht haben: Schnell integriert, transparent abgerechnet und ohne die üblichen Reibungsverluste von Stripe, CopeCart & Co.",
+      "date_posted": "2026-10-03",
+      "age_days": 0,
+      "date_found": "2026-10-03",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4470994173",
+      "name": "Senior Full Stack Engineer (Node.js &amp; React)",
+      "company": "Yassir",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-js-react-at-yassir-4470994173",
+      "source": "LinkedIn",
+      "location": "Alexandria, Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-23",
+      "age_days": 10,
+      "date_found": "2026-10-03",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4473136642",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4473136642",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-02",
+      "age_days": 1,
+      "date_found": "2026-10-03",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
