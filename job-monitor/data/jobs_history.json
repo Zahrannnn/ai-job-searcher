@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T06:16:32.856743+00:00",
-  "total_unique": 414,
+  "last_updated": "2026-10-04T06:42:10.303342+00:00",
+  "total_unique": 418,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11767,6 +11767,109 @@
       "date_posted": "2026-10-02",
       "age_days": 1,
       "date_found": "2026-10-03",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154461",
+      "name": "PHP & React Software Engineer",
+      "company": "Enumerate",
+      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable&hellip;",
+      "date_posted": "2026-10-03",
+      "age_days": 1,
+      "date_found": "2026-10-04",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154460",
+      "name": "Senior Frontend Engineer – Marketing (USA Only, 100% Remote)",
+      "company": "Close",
+      "url": "https://jobicy.com/jobs/154460-senior-frontend-engineer-marketing-usa-only-100-remote",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This job description was written by a person About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry,&hellip;",
+      "date_posted": "2026-10-03",
+      "age_days": 1,
+      "date_found": "2026-10-04",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1367966019",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCompany hiddenQuébec City, CanadaVue-plusFull-stackremotefull-timelead6 days agoPRO only",
+      "company": "Flag of Canada",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-16",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-04",
+      "score": 75,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4473142298",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4473142298",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-02",
+      "age_days": 2,
+      "date_found": "2026-10-04",
       "score": 90,
       "score_breakdown": {
         "react": 25,

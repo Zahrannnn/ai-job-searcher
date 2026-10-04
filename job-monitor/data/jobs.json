@@ -1,30 +1,58 @@
 {
-  "last_run": "2026-10-03T06:16:32.852768+00:00",
-  "total_items": 16,
+  "last_run": "2026-10-04T06:42:10.299501+00:00",
+  "total_items": 12,
   "new_count": 4,
   "items": [
     {
-      "id": "linkedin-4472561775",
-      "name": "Senior Frontend Developer (React / Next.js)",
-      "company": "HOUSE OF IRYSS",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4472561775",
+      "id": "jobicy-154461",
+      "name": "PHP & React Software Engineer",
+      "company": "Enumerate",
+      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable&hellip;",
+      "date_posted": "2026-10-03",
+      "age_days": 1,
+      "date_found": "2026-10-04",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4468505823",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4468505823",
       "source": "LinkedIn",
-      "location": "Cairo, Egypt",
+      "location": "Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-10-01",
-      "age_days": 2,
-      "date_found": "2026-10-03",
+      "date_posted": "2026-09-22",
+      "age_days": 12,
+      "date_found": "2026-10-04",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -43,65 +71,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-23",
-      "age_days": 10,
-      "date_found": "2026-10-03",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4468505823",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "Supaapps",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4468505823",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-22",
       "age_days": 11,
-      "date_found": "2026-10-03",
+      "date_found": "2026-10-04",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
         "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4472156453",
-      "name": "Senior React Developer",
-      "company": "Advansys",
-      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-at-advansys-4472156453",
-      "source": "LinkedIn",
-      "location": "Nasr City, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-30",
-      "age_days": 3,
-      "date_found": "2026-10-03",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15,
         "senior_ic": 5
       },
       "is_new": false
@@ -120,13 +97,67 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-01",
-      "age_days": 2,
-      "date_found": "2026-10-03",
+      "age_days": 3,
+      "date_found": "2026-10-04",
       "score": 95,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-154460",
+      "name": "Senior Frontend Engineer – Marketing (USA Only, 100% Remote)",
+      "company": "Close",
+      "url": "https://jobicy.com/jobs/154460-senior-frontend-engineer-marketing-usa-only-100-remote",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This job description was written by a person About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry,&hellip;",
+      "date_posted": "2026-10-03",
+      "age_days": 1,
+      "date_found": "2026-10-04",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4472156453",
+      "name": "Senior React Developer",
+      "company": "Advansys",
+      "url": "https://eg.linkedin.com/jobs/view/senior-react-developer-at-advansys-4472156453",
+      "source": "LinkedIn",
+      "location": "Nasr City, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-30",
+      "age_days": 4,
+      "date_found": "2026-10-04",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -145,8 +176,32 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-02",
-      "age_days": 1,
-      "date_found": "2026-10-03",
+      "age_days": 2,
+      "date_found": "2026-10-04",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4473142298",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4473142298",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-02",
+      "age_days": 2,
+      "date_found": "2026-10-04",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -156,86 +211,26 @@
       "is_new": true
     },
     {
-      "id": "linkedin-4470994173",
-      "name": "Senior Full Stack Engineer (Node.js &amp; React)",
-      "company": "Yassir",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-js-react-at-yassir-4470994173",
-      "source": "LinkedIn",
-      "location": "Alexandria, Alexandria, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
+      "id": "vuejobs-1367966019",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCompany hiddenQuébec City, CanadaVue-plusFull-stackremotefull-timelead6 days agoPRO only",
+      "company": "Flag of Canada",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-16",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-09-23",
-      "age_days": 10,
-      "date_found": "2026-10-03",
-      "score": 85,
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-04",
+      "score": 75,
       "score_breakdown": {
         "react": 25,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "location": 20
       },
       "is_new": true
-    },
-    {
-      "id": "himalayas-monpay-2697611",
-      "name": "Fullstack Engineer (f/m/d)",
-      "company": "Monpay",
-      "url": "https://himalayas.app/companies/monpay/jobs/fullstack-engineer-f-m-d",
-      "source": "Himalayas",
-      "location": "Germany",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "Full-Stack-Engineer",
-        "Full-Stack-Developer",
-        "Software-Engineer",
-        "Backend-Engineer",
-        "Front-End-Developer",
-        "Developer"
-      ],
-      "salary": "100000-100000 EUR",
-      "description_excerpt": "Monpay baut die Zahlungsabwicklung, die wir uns selbst als Anbieter/Händler immer gewünscht haben: Schnell integriert, transparent abgerechnet und ohne die üblichen Reibungsverluste von Stripe, CopeCart & Co.",
-      "date_posted": "2026-10-03",
-      "age_days": 0,
-      "date_found": "2026-10-03",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "salary": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "jobicy-149869",
-      "name": "Frontend Engineering Team Lead - MarTech",
-      "company": "Sporty Group",
-      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
-      "source": "Jobicy",
-      "location": "Europe",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About the roleAs the Team Lead for our Frontend development team, you will play a key role in driving the architecture, development, and delivery of high-quality software solutions. You will lead a group of talented developers, ensuring smooth collaboration, technical innovation, and strong delivery results. Your responsibilities will encompass both hands-on coding and line management,&hellip;",
-      "date_posted": "2026-10-02",
-      "age_days": 1,
-      "date_found": "2026-10-03",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
     },
     {
       "id": "linkedin-4464358810",
@@ -251,12 +246,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-29",
-      "age_days": 4,
-      "date_found": "2026-10-03",
+      "age_days": 5,
+      "date_found": "2026-10-04",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4468147317",
+      "name": "Senior Frontend Software Engineer (Full-time)",
+      "company": "Zettasoft-egypt",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-21",
+      "age_days": 13,
+      "date_found": "2026-10-04",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -275,133 +294,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-30",
-      "age_days": 3,
-      "date_found": "2026-10-03",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4468147317",
-      "name": "Senior Frontend Software Engineer (Full-time)",
-      "company": "Zettasoft-egypt",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-software-engineer-full-time-at-zettasoft-egypt-4468147317",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-21",
-      "age_days": 12,
-      "date_found": "2026-10-03",
+      "age_days": 4,
+      "date_found": "2026-10-04",
       "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
-    },
-    {
-      "id": "jobicy-154291",
-      "name": "Chief Technology Officer",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
-      "source": "Jobicy",
-      "location": "Europe",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Director",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
-      "date_posted": "2026-09-30",
-      "age_days": 3,
-      "date_found": "2026-10-03",
-      "score": 50,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "too_senior": -15
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-2233558905",
-      "name": "Senior Front End EngineerCompany hiddenMexicoVue-firstNuxt.jsFrontendremotefull-timeseniorMX$75.0-95.0K3 days agoPRO only",
-      "company": "Flag of Mexico",
-      "url": "https://vuejobs.com/jobs/peek-senior-front-end-engineer",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-10-03",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5,
-        "vue_only": -20
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-3353011293",
-      "name": "Senior Front-end Developer (A)Blue CodingVue-firstFrontendremotefull-timesenior16 days ago",
-      "company": "Logo of Blue Coding",
-      "url": "https://vuejobs.com/jobs/blue-coding-senior-front-end-developer-a",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-10-03",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5,
-        "vue_only": -20
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-661496981",
-      "name": "Middle Frontend Developer / Pixi.jsCompany hiddenPolandVue-plusFrontendremotefull-timemid-level4 days agoPRO only",
-      "company": "Flag of Poland",
-      "url": "https://vuejobs.com/jobs/optiplay-middle-frontend-developer-pixi-js-4",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-10-03",
-      "score": 30,
-      "score_breakdown": {
-        "location": 20,
-        "vue_only": -20
-      },
-      "is_new": true
     }
   ]
 }
