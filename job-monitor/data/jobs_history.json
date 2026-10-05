@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T06:42:10.303342+00:00",
-  "total_unique": 418,
+  "last_updated": "2026-10-05T06:44:59.419004+00:00",
+  "total_unique": 421,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -11875,6 +11875,90 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-all-genders-372910",
+      "name": "Senior Frontend Developer (all genders)",
+      "company": "Contabo",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
+      "source": "Arbeitnow",
+      "location": "Remote (Germany)",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "it",
+        "infrastructure",
+        "code",
+        "cloud",
+        "hosting",
+        "data center",
+        "information technology",
+        "software",
+        "hybrid",
+        "remote",
+        "germany",
+        "company",
+        "tech",
+        "technology",
+        "frontend",
+        "developer"
+      ],
+      "salary": "",
+      "description_excerpt": "<br><strong>Your creative field</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">We are looking for <strong>two full-time, permanent Senior Frontend Developer </strong>(all genders) <strong>t</strong><strong>o start as soon as </strong><strong>possible</strong>. We live remote-first <span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">within <strong>Germany</strong></span>, but you have the freedom to choose whether you want to work hybrid or comp",
+      "date_posted": "2026-10-04",
+      "age_days": 1,
+      "date_found": "2026-10-05",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1919709535",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCoverGoToronto, CanadaVue-plusFull-stackremotefull-timelead7 days ago",
+      "company": "Logo of CoverGo",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-17",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-05",
+      "score": 75,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-399049521",
+      "name": "Web Developer | Full Time (m/w/d)Company hiddenMunich, Germany+2Vue-firstNuxt.jsFrontendremotefull-timemid-level4 days agoPRO only",
+      "company": "Flag of Germany",
+      "url": "https://vuejobs.com/jobs/conroo-gmbh-web-developer-full-time-m-w-d",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-05",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
       },
       "is_new": true
     }
