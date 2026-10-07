@@ -1,8 +1,84 @@
 {
-  "last_run": "2026-10-06T07:23:51.979564+00:00",
-  "total_items": 16,
-  "new_count": 4,
+  "last_run": "2026-10-07T07:02:36.524186+00:00",
+  "total_items": 17,
+  "new_count": 5,
   "items": [
+    {
+      "id": "remotive-2091149",
+      "name": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "company": "CodeForAI",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "source": "Remotive",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "api",
+        "backend",
+        "C",
+        "C#",
+        "C++",
+        "fullstack",
+        "go",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "security",
+        "sql",
+        "AI/ML",
+        "rust",
+        "NoSQL",
+        "Typescript ",
+        "debugging",
+        "scripting"
+      ],
+      "salary": "$45-$120/Hour",
+      "description_excerpt": "<div class=\"h2\"><strong>Who Should Apply</strong></div>\n<p> </p>\n<p>We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit:</p>\n<ul style=\"\">\n<li style=\"\">\n<p><strong>Software Engineers &amp; Computer Scientists</strong> specializing in algorithms, data structures, or system design.</p>\n</li>\n<li style=\"\">\n<p><strong>Full-Stack &amp; Web Developers</strong> working with modern front-end or b",
+      "date_posted": "2026-10-05",
+      "age_days": 2,
+      "date_found": "2026-10-07",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4470962809",
+      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4470962809",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-23",
+      "age_days": 14,
+      "date_found": "2026-10-07",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
     {
       "id": "jobicy-154461",
       "name": "PHP & React Software Engineer",
@@ -20,66 +96,14 @@
       "salary": "",
       "description_excerpt": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our existing web application stable and reliable&hellip;",
       "date_posted": "2026-10-03",
-      "age_days": 3,
-      "date_found": "2026-10-06",
-      "score": 100,
+      "age_days": 4,
+      "date_found": "2026-10-07",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4468505823",
-      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
-      "company": "Supaapps",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4468505823",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-22",
-      "age_days": 14,
-      "date_found": "2026-10-06",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4470962809",
-      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
-      "company": "Deloitte",
-      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4470962809",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-09-23",
-      "age_days": 13,
-      "date_found": "2026-10-06",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
     },
@@ -97,8 +121,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-05",
-      "age_days": 1,
-      "date_found": "2026-10-06",
+      "age_days": 2,
+      "date_found": "2026-10-07",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -106,7 +130,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4475545146",
@@ -122,42 +146,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-05",
-      "age_days": 1,
-      "date_found": "2026-10-06",
+      "age_days": 2,
+      "date_found": "2026-10-07",
       "score": 95,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "jobicy-154460",
-      "name": "Senior Frontend Engineer – Marketing (USA Only, 100% Remote)",
-      "company": "Close",
-      "url": "https://jobicy.com/jobs/154460-senior-frontend-engineer-marketing-usa-only-100-remote",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "This job description was written by a person About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry,&hellip;",
-      "date_posted": "2026-10-03",
-      "age_days": 3,
-      "date_found": "2026-10-06",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -176,8 +171,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-30",
-      "age_days": 6,
-      "date_found": "2026-10-06",
+      "age_days": 7,
+      "date_found": "2026-10-07",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -201,8 +196,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-01",
-      "age_days": 5,
-      "date_found": "2026-10-06",
+      "age_days": 6,
+      "date_found": "2026-10-07",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -226,8 +221,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-02",
-      "age_days": 4,
-      "date_found": "2026-10-06",
+      "age_days": 5,
+      "date_found": "2026-10-07",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -250,8 +245,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-02",
-      "age_days": 4,
-      "date_found": "2026-10-06",
+      "age_days": 5,
+      "date_found": "2026-10-07",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -277,8 +272,8 @@
       "salary": "",
       "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
       "date_posted": "2026-10-05",
-      "age_days": 1,
-      "date_found": "2026-10-06",
+      "age_days": 2,
+      "date_found": "2026-10-07",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -289,10 +284,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-674095763",
-      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCoverGoCalgary, CanadaVue-plusFull-stackremotefull-timelead8 days ago",
+      "id": "vuejobs-2930694787",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCoverGoToronto, CanadaVue-plusFull-stackremotefull-timelead9 days ago",
       "company": "Logo of CoverGo",
-      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-15",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-17",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -302,13 +297,99 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-06",
+      "date_found": "2026-10-07",
       "score": 75,
       "score_breakdown": {
         "react": 25,
         "location": 20
       },
+      "is_new": false
+    },
+    {
+      "id": "himalayas-xperteez-technology-6346714",
+      "name": "UI Engineer | Remote - Contract",
+      "company": "Xperteez Technology",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ui-engineer-remote-contract",
+      "source": "Himalayas",
+      "location": "Remote",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Mid-level",
+      "skills": [
+        "UI-Engineer",
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "UI-Developer",
+        "UI-UX-Developer",
+        "UI-Frontend-Developer",
+        "UI-UX-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Job Title: UI Engineer Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "date_posted": "2026-10-07",
+      "age_days": 0,
+      "date_found": "2026-10-07",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
       "is_new": true
+    },
+    {
+      "id": "himalayas-american-express-company-11877195",
+      "name": "Sr Software Engineer II - Global Commercial Services Technology",
+      "company": "American Express Company",
+      "url": "https://himalayas.app/companies/american-express-company/jobs/sr-software-engineer-ii-global-commercial-services-technology",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Frontend-Engineer",
+        "Software-Developer",
+        "Full-Stack-Engineer",
+        "Senior-Java-Software-Engineer",
+        "Associate-Principal-Java-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Global Commercial Services (GCS) serves millions of business customers around the world, from mom-and-pop shops to Fortune 500 companies.",
+      "date_posted": "2026-10-07",
+      "age_days": 0,
+      "date_found": "2026-10-07",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4464358810",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-09-29",
+      "age_days": 8,
+      "date_found": "2026-10-07",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": false
     },
     {
       "id": "linkedin-4471998744",
@@ -324,8 +405,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-30",
-      "age_days": 6,
-      "date_found": "2026-10-06",
+      "age_days": 7,
+      "date_found": "2026-10-07",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -334,44 +415,10 @@
       "is_new": false
     },
     {
-      "id": "himalayas-bright-vision-technologies-6959312",
-      "name": "Digital Experience Developer",
-      "company": "Bright Vision Technologies",
-      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/digital-experience-developer",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Digital-Experience-Developer",
-        "Sitecore-Developer",
-        ".NET-Developer",
-        "Front-End-Developer",
-        "Backend-Engineer",
-        "Digital-Experience-Engineer",
-        "Digital-Services-Developer",
-        "Developer"
-      ],
-      "salary": "100000-150000 USD",
-      "description_excerpt": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
-      "date_posted": "2026-10-06",
-      "age_days": 0,
-      "date_found": "2026-10-06",
-      "score": 45,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "salary": 5,
-        "net_only": -25
-      },
-      "is_new": true
-    },
-    {
-      "id": "vuejobs-647557272",
-      "name": "Senior Full-Stack JavaScript Engineer - Application TeammemtimeLjubuški, Bosnia and HerzegovinaVue-firstNuxt.jsFull-stackremotefull-timesenior17 days ago",
-      "company": "Logo of memtime",
-      "url": "https://vuejobs.com/jobs/memtime-senior-full-stack-javascript-engineer-application-team",
+      "id": "vuejobs-1407565635",
+      "name": "Senior UI/UX DesignerBright Vision TechnologiesAustin, United StatesVue-plusFrontendremotefull-timesenior$135.0-155.0K/yr8 days ago",
+      "company": "Logo of Bright Vision Technologies",
+      "url": "https://vuejobs.com/jobs/bright-vision-technologies-senior-ui-ux-designer-3",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -381,20 +428,20 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-06",
+      "date_found": "2026-10-07",
       "score": 35,
       "score_breakdown": {
         "location": 20,
         "senior_ic": 5,
         "vue_only": -20
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "vuejobs-2959385510",
-      "name": "Web Developer | Full Time (m/w/d)Company hiddenMunich, Germany+2Vue-firstNuxt.jsFrontendremotefull-timemid-level5 days agoPRO only",
-      "company": "Flag of Germany",
-      "url": "https://vuejobs.com/jobs/conroo-gmbh-web-developer-full-time-m-w-d",
+      "id": "vuejobs-1885037071",
+      "name": "Junior Front-end Developer (Talent Pool)VisevenNamibiaVue-firstFrontendremotefull-timejunior12 days ago",
+      "company": "Logo of Viseven",
+      "url": "https://vuejobs.com/jobs/viseven-junior-front-end-developer-talent-pool",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -404,13 +451,13 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-06",
+      "date_found": "2026-10-07",
       "score": 30,
       "score_breakdown": {
         "location": 20,
         "vue_only": -20
       },
-      "is_new": false
+      "is_new": true
     }
   ]
 }
