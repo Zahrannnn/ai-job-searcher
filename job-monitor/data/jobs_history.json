@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T07:02:36.528307+00:00",
-  "total_unique": 430,
+  "last_updated": "2026-10-08T07:11:31.519688+00:00",
+  "total_unique": 433,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12222,6 +12222,79 @@
         "location": 20,
         "fresh": 15,
         "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-154780",
+      "name": "Senior Software Engineer, Fullstack",
+      "company": "CoderPad",
+      "url": "https://jobicy.com/jobs/154780-senior-software-engineer-fullstack-4",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "Role Summary We are hiring a Senior Software Engineer to help build the future of technical interviewing and assessment across CoderPad. This is a fullstack role for someone who can move across backend services, frontend product surfaces, and AI-powered system design. You will work on user-facing features, production infrastructure, and internal engineering workflows where coding&hellip;",
+      "date_posted": "2026-10-07",
+      "age_days": 1,
+      "date_found": "2026-10-08",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-4189794191",
+      "name": "Software Developer*in Frontend (w/m/d) - SaaS Startup (Remote, DE)desk.lyOsnabrück, GermanyVue-firstFrontendremotehybridon-site7 days ago",
+      "company": "Logo of desk.ly",
+      "url": "https://vuejobs.com/jobs/desk-ly-software-developer-in-frontend-w-m-d-saas-startup-remote-de",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-08",
+      "score": 40,
+      "score_breakdown": {
+        "location": 20,
+        "founding": 10,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4476700204",
+      "name": "Staff Software Engineer - Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4476700204",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-07",
+      "age_days": 1,
+      "date_found": "2026-10-08",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
