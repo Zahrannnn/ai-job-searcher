@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-10-08T07:11:31.515756+00:00",
-  "total_items": 13,
-  "new_count": 3,
+  "last_run": "2026-10-09T07:15:39.289478+00:00",
+  "total_items": 15,
+  "new_count": 2,
   "items": [
     {
       "id": "remotive-2091149",
@@ -39,19 +39,72 @@
       "salary": "$45-$120/Hour",
       "description_excerpt": "<div class=\"h2\"><strong>Who Should Apply</strong></div>\n<p> </p>\n<p>We are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit:</p>\n<ul style=\"\">\n<li style=\"\">\n<p><strong>Software Engineers &amp; Computer Scientists</strong> specializing in algorithms, data structures, or system design.</p>\n</li>\n<li style=\"\">\n<p><strong>Full-Stack &amp; Web Developers</strong> working with modern front-end or b",
       "date_posted": "2026-10-05",
-      "age_days": 3,
-      "date_found": "2026-10-08",
+      "age_days": 4,
+      "date_found": "2026-10-09",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "ai": 10,
         "founding": 10,
         "salary": 5
       },
       "is_new": false
+    },
+    {
+      "id": "jobicy-152819",
+      "name": "Software Engineer, Data Integration",
+      "company": "Bayesian Health",
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "date_posted": "2026-10-09",
+      "age_days": 0,
+      "date_found": "2026-10-09",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4477471863",
+      "name": "ReactJS Developer",
+      "company": "K&amp;K Talents",
+      "url": "https://eg.linkedin.com/jobs/view/reactjs-developer-at-k-k-talents-4477471863",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-08",
+      "age_days": 1,
+      "date_found": "2026-10-09",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4475812823",
@@ -67,13 +120,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-05",
-      "age_days": 3,
-      "date_found": "2026-10-08",
-      "score": 95,
+      "age_days": 4,
+      "date_found": "2026-10-09",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -92,33 +145,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-05",
-      "age_days": 3,
-      "date_found": "2026-10-08",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4474521906",
-      "name": "Senior Full Stack Engineer (NestJS / React)",
-      "company": "Expert-i Teleradiology",
-      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-nestjs-react-at-expert-i-teleradiology-4474521906",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-01",
-      "age_days": 7,
-      "date_found": "2026-10-08",
+      "age_days": 4,
+      "date_found": "2026-10-09",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -142,8 +170,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-30",
-      "age_days": 8,
-      "date_found": "2026-10-08",
+      "age_days": 9,
+      "date_found": "2026-10-09",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -167,13 +195,38 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-02",
-      "age_days": 6,
-      "date_found": "2026-10-08",
+      "age_days": 7,
+      "date_found": "2026-10-09",
       "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4474521906",
+      "name": "Senior Full Stack Engineer (NestJS / React)",
+      "company": "Expert-i Teleradiology",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-nestjs-react-at-expert-i-teleradiology-4474521906",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-01",
+      "age_days": 8,
+      "date_found": "2026-10-09",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -191,8 +244,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-02",
-      "age_days": 6,
-      "date_found": "2026-10-08",
+      "age_days": 7,
+      "date_found": "2026-10-09",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -218,8 +271,8 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-10-07",
-      "age_days": 1,
-      "date_found": "2026-10-08",
+      "age_days": 2,
+      "date_found": "2026-10-09",
       "score": 80,
       "score_breakdown": {
         "location": 20,
@@ -246,8 +299,8 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-10-07",
-      "age_days": 1,
-      "date_found": "2026-10-08",
+      "age_days": 2,
+      "date_found": "2026-10-09",
       "score": 75,
       "score_breakdown": {
         "location": 20,
@@ -273,21 +326,21 @@
       "salary": "",
       "description_excerpt": "Role Summary We are hiring a Senior Software Engineer to help build the future of technical interviewing and assessment across CoderPad. This is a fullstack role for someone who can move across backend services, frontend product surfaces, and AI-powered system design. You will work on user-facing features, production infrastructure, and internal engineering workflows where coding&hellip;",
       "date_posted": "2026-10-07",
-      "age_days": 1,
-      "date_found": "2026-10-08",
+      "age_days": 2,
+      "date_found": "2026-10-09",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "linkedin-4476700204",
-      "name": "Staff Software Engineer - Frontend",
-      "company": "Procore Technologies",
-      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4476700204",
+      "id": "linkedin-4464358810",
+      "name": "Deloitte Innovation Hub I Senior Frontend Developer, Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-frontend-developer-cairo-egypt-at-deloitte-4464358810",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -296,15 +349,16 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-10-07",
-      "age_days": 1,
-      "date_found": "2026-10-08",
-      "score": 65,
+      "date_posted": "2026-09-29",
+      "age_days": 10,
+      "date_found": "2026-10-09",
+      "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 15
+        "fresh": 5,
+        "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4471998744",
@@ -320,8 +374,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-09-30",
-      "age_days": 8,
-      "date_found": "2026-10-08",
+      "age_days": 9,
+      "date_found": "2026-10-09",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -330,10 +384,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-4189794191",
-      "name": "Software Developer*in Frontend (w/m/d) - SaaS Startup (Remote, DE)desk.lyOsnabrück, GermanyVue-firstFrontendremotehybridon-site7 days ago",
-      "company": "Logo of desk.ly",
-      "url": "https://vuejobs.com/jobs/desk-ly-software-developer-in-frontend-w-m-d-saas-startup-remote-de",
+      "id": "vuejobs-3622470269",
+      "name": "Fullstack Developer – Distributed Systems (Typescript, Node.js, Vue.js)Top DoctorsSpainVue-firstNuxt.jsFull-stackremotefull-time€30.0-40.0K/yr11 days ago",
+      "company": "Logo of Top Doctors",
+      "url": "https://vuejobs.com/jobs/top-doctors-fullstack-developer-distributed-systems-typescript-node-js-vue-js-2",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -343,11 +397,11 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-08",
+      "date_found": "2026-10-09",
       "score": 40,
       "score_breakdown": {
+        "typescript": 10,
         "location": 20,
-        "founding": 10,
         "vue_only": -20
       },
       "is_new": true
