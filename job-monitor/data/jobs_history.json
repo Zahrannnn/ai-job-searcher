@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T06:57:14.557463+00:00",
-  "total_unique": 439,
+  "last_updated": "2026-10-12T07:09:51.801212+00:00",
+  "total_unique": 442,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12435,6 +12435,76 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-23579550",
+      "name": "Senior Full Stack Engineer – Java/Spring Boot & ReactAssureSoft - CareersBoliviaVue-plusFull-stackremotefull-timesenior13 days ago",
+      "company": "Logo of AssureSoft - Careers",
+      "url": "https://vuejobs.com/jobs/assuresoft-careers-senior-full-stack-engineer-java-spring-boot-react",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-12",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-30877198",
+      "name": "Senior Front-end Developer (Vue.Js) - Part-Time (24h/week)Teamcubate ApSVue-firstFrontendremotepart-timesenior14 days ago",
+      "company": "Logo of Teamcubate ApS",
+      "url": "https://vuejobs.com/jobs/teamcubate-aps-senior-front-end-developer-vue-js-part-time-24h-week",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-12",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4478301682",
+      "name": "Senior Software Engineer- Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/senior-software-engineer-frontend-at-procore-technologies-4478301682",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-11",
+      "age_days": 1,
+      "date_found": "2026-10-12",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
