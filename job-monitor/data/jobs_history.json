@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T07:09:51.801212+00:00",
-  "total_unique": 442,
+  "last_updated": "2026-10-13T07:33:50.440133+00:00",
+  "total_unique": 445,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12505,6 +12505,93 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155063",
+      "name": "Senior Software Engineer - Frontend",
+      "company": "Five9",
+      "url": "https://jobicy.com/jobs/155063-senior-software-engineer-frontend-2",
+      "source": "Jobicy",
+      "location": "Portugal",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
+      "date_posted": "2026-10-12",
+      "age_days": 1,
+      "date_found": "2026-10-13",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3625100057",
+      "name": "Senior Frontend DeveloperRespond.ioKuala Lumpur, MalaysiaVue-firstFrontendremotefull-timesenior1 month ago",
+      "company": "Logo of Respond.io",
+      "url": "https://vuejobs.com/jobs/respond-io-senior-frontend-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-13",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-remedy-product-studio-15023843",
+      "name": "Mobile Engineer (React Native / Flutter)",
+      "company": "Remedy Product Studio",
+      "url": "https://himalayas.app/companies/remedy-product-studio/jobs/mobile-engineer-react-native-flutter-3761690468",
+      "source": "Himalayas",
+      "location": "Georgia, Poland, Serbia",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Mobile-Development",
+        "Flutter-Development",
+        "Software-Engineer",
+        "Cross-Platform-Development",
+        "Mobile-Engineering",
+        "iOS-Development",
+        "Mobile-Software-Engineer-(IOS-Android)",
+        "Mobile-Application-Engineer",
+        "Mobile-Software-Engineer",
+        "Senior-Mobile-Engineer",
+        "Mobile-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Who we areProduct Strategy.  Technology Execution.",
+      "date_posted": "2026-10-13",
+      "age_days": 0,
+      "date_found": "2026-10-13",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
