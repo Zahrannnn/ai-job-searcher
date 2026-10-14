@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T07:33:50.440133+00:00",
-  "total_unique": 445,
+  "last_updated": "2026-10-14T05:58:12.748317+00:00",
+  "total_unique": 454,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12592,6 +12592,260 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155233",
+      "name": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-10-13",
+      "age_days": 1,
+      "date_found": "2026-10-14",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155191",
+      "name": "Lead Front-end Engineer (Javascript) - Digital Agency - Buenos Aires, Argentina.",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/155191-lead-front-end-engineer-javascript-digital-agency-buenos-aires-argentina",
+      "source": "Jobicy",
+      "location": "Argentina",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-10-13",
+      "age_days": 1,
+      "date_found": "2026-10-14",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155186",
+      "name": "Senior Software Engineer (Full-Stack, JavaScript)",
+      "company": "Able",
+      "url": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
+      "source": "Jobicy",
+      "location": "LATAM",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown…&hellip;",
+      "date_posted": "2026-10-13",
+      "age_days": 1,
+      "date_found": "2026-10-14",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-web-developer-all-genders-321019",
+      "name": "Web Developer (all genders)",
+      "company": "Contabo",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-321019",
+      "source": "Arbeitnow",
+      "location": "Remote (Germany)",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Hosting",
+        "Hosting Company",
+        "IT",
+        "Tech Company",
+        "Tech",
+        "remote",
+        "hybrid",
+        "Software Development",
+        "Web Development",
+        "Data Center",
+        "Tech Stack",
+        "Developer",
+        "React"
+      ],
+      "salary": "",
+      "description_excerpt": "<br><strong>Your creative field</strong><p><span style=\"font-family:Verdana, Geneva, sans-serif;font-size:12px;\">We are looking for a <strong>full-time</strong>, <strong>permanent</strong> <strong>Web Developer</strong> (all genders) to <strong>start as soon as possible</strong>. We live remote-first within <strong>Germany</strong>, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.<br><br><br>What makes a good ",
+      "date_posted": "2026-10-13",
+      "age_days": 1,
+      "date_found": "2026-10-14",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3347935056",
+      "name": "Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, Canada TimeCoverGoLithuaniaVue-plusFull-stackremotecontractsenior9 days ago",
+      "company": "Logo of CoverGo",
+      "url": "https://vuejobs.com/jobs/covergo-senior-full-stack-engineer-net-vue-react-fully-remote-canada-time-6",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-14",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1527676063",
+      "name": "Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, Canada TimeCoverGoLatviaVue-plusFull-stackremotecontractsenior9 days ago",
+      "company": "Logo of CoverGo",
+      "url": "https://vuejobs.com/jobs/covergo-senior-full-stack-engineer-net-vue-react-fully-remote-canada-time-5",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-14",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-accelone-14923690",
+      "name": "Front-End Developer (React.js)",
+      "company": "AccelOne",
+      "url": "https://himalayas.app/companies/accelone/jobs/front-end-developer-react-js-4980132945",
+      "source": "Himalayas",
+      "location": "Argentina",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Front-End-Developer",
+        "React-Developer",
+        "Web-Developer",
+        "UI-Developer",
+        "Frontend-Engineer",
+        "Frontend-React-Developer",
+        "React-Frontend-Developer",
+        "React-Frontend-Engineer",
+        "Senior-Frontend-React-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "Remote – LATAMAbout UsAccelOne provides custom software development and design services for companies across the US and Latin America.",
+      "date_posted": "2026-10-14",
+      "age_days": 0,
+      "date_found": "2026-10-14",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4476442947",
+      "name": "Senior Frontend Developer (React / Next.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4476442947",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-13",
+      "age_days": 1,
+      "date_found": "2026-10-14",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4476002703",
+      "name": "Senior Frontend Developer",
+      "company": "International Turnkey Systems - ITS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-international-turnkey-systems-its-4476002703",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-12",
+      "age_days": 2,
+      "date_found": "2026-10-14",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
