@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-10-15T05:43:54.809318+00:00",
+  "last_run": "2026-10-16T05:40:34.589519+00:00",
   "total_items": 13,
-  "new_count": 3,
+  "new_count": 2,
   "items": [
     {
       "id": "jobicy-155233",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "date_posted": "2026-10-13",
-      "age_days": 2,
-      "date_found": "2026-10-15",
+      "age_days": 3,
+      "date_found": "2026-10-16",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -47,8 +47,34 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-13",
+      "age_days": 3,
+      "date_found": "2026-10-16",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4470962809",
+      "name": "Deloitte Innovation Hub I Senior Full Stack Engineer (Node.js, ReactJS, NextJS, AWS) – Cairo, Egypt",
+      "company": "Deloitte",
+      "url": "https://eg.linkedin.com/jobs/view/deloitte-innovation-hub-i-senior-full-stack-engineer-node-js-reactjs-nextjs-aws-–-cairo-egypt-at-deloitte-4470962809",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-14",
       "age_days": 2,
-      "date_found": "2026-10-15",
+      "date_found": "2026-10-16",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -73,8 +99,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-14",
-      "age_days": 1,
-      "date_found": "2026-10-15",
+      "age_days": 2,
+      "date_found": "2026-10-16",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -82,7 +108,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-155186",
@@ -101,8 +127,8 @@
       "salary": "",
       "description_excerpt": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown…&hellip;",
       "date_posted": "2026-10-13",
-      "age_days": 2,
-      "date_found": "2026-10-15",
+      "age_days": 3,
+      "date_found": "2026-10-16",
       "score": 90,
       "score_breakdown": {
         "typescript": 10,
@@ -112,30 +138,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "vuejobs-2847586938",
-      "name": "Senior Front-end Developer (React / Vue / TypeScript)Company hiddenBulgariaVue-firstFrontendremotefull-timesenior6 days agoPRO only",
-      "company": "Flag of Bulgaria",
-      "url": "https://vuejobs.com/jobs/acronis-senior-front-end-developer-react-vue-typescript",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-10-15",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4475812823",
@@ -151,8 +153,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-05",
-      "age_days": 10,
-      "date_found": "2026-10-15",
+      "age_days": 11,
+      "date_found": "2026-10-16",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -163,12 +165,12 @@
       "is_new": false
     },
     {
-      "id": "jobicy-155063",
-      "name": "Senior Software Engineer - Frontend",
-      "company": "Five9",
-      "url": "https://jobicy.com/jobs/155063-senior-software-engineer-frontend-2",
+      "id": "jobicy-155383",
+      "name": "Senior Software Engineer - Full Stack/Front-end focused",
+      "company": "Tripadvisor",
+      "url": "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused",
       "source": "Jobicy",
-      "location": "Portugal",
+      "location": "Poland,  Portugal,  UK",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -177,10 +179,10 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an&hellip;",
-      "date_posted": "2026-10-12",
-      "age_days": 3,
-      "date_found": "2026-10-15",
+      "description_excerpt": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
+      "date_posted": "2026-10-15",
+      "age_days": 1,
+      "date_found": "2026-10-16",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -188,13 +190,62 @@
         "fresh": 15,
         "senior_ic": 5
       },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4473136642",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4473136642",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-02",
+      "age_days": 14,
+      "date_found": "2026-10-16",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5
+      },
       "is_new": false
     },
     {
-      "id": "vuejobs-1916239369",
-      "name": "Senior Full Stack Engineer (.NET & Vue/React) - Fully Remote, Canada TimeCoverGoLatviaVue-plusFull-stackremotecontractsenior10 days ago",
+      "id": "linkedin-4480115135",
+      "name": "Senior Fullstack Engineer - Flutter &amp; Typescript",
+      "company": "Hire Africa",
+      "url": "https://eg.linkedin.com/jobs/view/senior-fullstack-engineer-flutter-typescript-at-hire-africa-4480115135",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-15",
+      "age_days": 1,
+      "date_found": "2026-10-16",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3720979884",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCoverGoQuébec City, CanadaVue-plusFull-stackremotefull-timelead18 days ago",
       "company": "Logo of CoverGo",
-      "url": "https://vuejobs.com/jobs/covergo-senior-full-stack-engineer-net-vue-react-fully-remote-canada-time-5",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-16",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -204,12 +255,11 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-15",
-      "score": 80,
+      "date_found": "2026-10-16",
+      "score": 75,
       "score_breakdown": {
         "react": 25,
-        "location": 20,
-        "senior_ic": 5
+        "location": 20
       },
       "is_new": false
     },
@@ -227,65 +277,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-12",
-      "age_days": 3,
-      "date_found": "2026-10-15",
-      "score": 80,
+      "age_days": 4,
+      "date_found": "2026-10-16",
+      "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4473136642",
-      "name": "Frontend Lead – React Native",
-      "company": "QNBeyond Plus",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4473136642",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-02",
-      "age_days": 13,
-      "date_found": "2026-10-15",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-155191",
-      "name": "Lead Front-end Engineer (Javascript) - Digital Agency - Buenos Aires, Argentina.",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/155191-lead-front-end-engineer-javascript-digital-agency-buenos-aires-argentina",
-      "source": "Jobicy",
-      "location": "Argentina",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
-      "date_posted": "2026-10-13",
-      "age_days": 2,
-      "date_found": "2026-10-15",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "founding": 10
       },
       "is_new": false
     },
@@ -303,14 +302,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-14",
-      "age_days": 1,
-      "date_found": "2026-10-15",
+      "age_days": 2,
+      "date_found": "2026-10-16",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4440998963",
@@ -326,8 +325,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-10",
-      "age_days": 5,
-      "date_found": "2026-10-15",
+      "age_days": 6,
+      "date_found": "2026-10-16",
       "score": 60,
       "score_breakdown": {
         "location": 20,

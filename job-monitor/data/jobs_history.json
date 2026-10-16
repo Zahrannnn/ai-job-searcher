@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T05:43:54.813569+00:00",
-  "total_unique": 457,
+  "last_updated": "2026-10-16T05:40:34.592050+00:00",
+  "total_unique": 459,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12915,6 +12915,59 @@
       "score": 95,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155383",
+      "name": "Senior Software Engineer - Full Stack/Front-end focused",
+      "company": "Tripadvisor",
+      "url": "https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused",
+      "source": "Jobicy",
+      "location": "Poland,  Portugal,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Senior Software Engineer About Tripadvisor The Tripadvisor Group connects people to experiences worth sharing, and aims to be the world’s most trusted source for travel and experiences. We leverage our brands, technology, and capabilities to connect our global audience with partners through rich content, travel guidance, and two-sided marketplaces for experiences, accommodations, restaurants, and other&hellip;",
+      "date_posted": "2026-10-15",
+      "age_days": 1,
+      "date_found": "2026-10-16",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4480115135",
+      "name": "Senior Fullstack Engineer - Flutter &amp; Typescript",
+      "company": "Hire Africa",
+      "url": "https://eg.linkedin.com/jobs/view/senior-fullstack-engineer-flutter-typescript-at-hire-africa-4480115135",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-15",
+      "age_days": 1,
+      "date_found": "2026-10-16",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
