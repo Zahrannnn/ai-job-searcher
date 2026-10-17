@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T05:40:34.592050+00:00",
-  "total_unique": 459,
+  "last_updated": "2026-10-17T05:26:07.094099+00:00",
+  "total_unique": 461,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -12971,6 +12971,79 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-cloud-counselage-pvt-ltd-11809752",
+      "name": "Sr. React.Js Developer",
+      "company": "Cloud Counselage Pvt Ltd",
+      "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/sr-react-js-developer",
+      "source": "Himalayas",
+      "location": "India",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "React-Developer",
+        "Front-End-Developer",
+        "JavaScript-Developer",
+        "Web-Developer",
+        "Senior-ReactJS-Developer",
+        "Senior-React-Developer",
+        "Senior-React-Engineer",
+        "Senior-Frontend-React-Developer",
+        "Senior-JavaScript-Developer",
+        "Principal-React-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "TO GET TIMELY UPDATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ (4L+ MEMBERS FROM 35+ COUNTRIES)﻿ Looking for a React Developer with 4-7 years of experience working with frontend developers and strong particular proficiency in the frontend tech stack.",
+      "date_posted": "2026-10-17",
+      "age_days": 0,
+      "date_found": "2026-10-17",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-nairon-1582970",
+      "name": "Full-Stack & Mobile Engineer",
+      "company": "Nairon",
+      "url": "https://himalayas.app/companies/nairon/jobs/full-stack-mobile-engineer",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Mobile-Engineer",
+        "React-Developer",
+        "Front-End-Developer",
+        "Software-Engineer",
+        "Full-Stack-Mobile-Engineer",
+        "Full-Stack-Mobile-Engineering",
+        "Full-Stack-Mobile-Development",
+        "Mobile-Software-Engineer",
+        "Full-Stack-Web-Developer",
+        "Full-Stack-Engineering",
+        "Mobile-Application-Engineer",
+        "Full-Stack-JavaScript-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "IntroFor this position we are only looking for candidates located in Greece, Germany or Austria.",
+      "date_posted": "2026-10-17",
+      "age_days": 0,
+      "date_found": "2026-10-17",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
