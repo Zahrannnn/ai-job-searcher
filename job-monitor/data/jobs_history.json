@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T05:26:07.094099+00:00",
-  "total_unique": 461,
+  "last_updated": "2026-10-18T05:37:43.749838+00:00",
+  "total_unique": 465,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -13044,6 +13044,119 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
+      "name": "Senior Frontend Web Developer (all genders) Full Remote",
+      "company": "Holzland Becker",
+      "url": "https://www.arbeitnow.com/jobs/companies/holzland-becker/senior-frontend-web-developer-all-genders-full-remote-offenbach-am-main-167081",
+      "source": "Arbeitnow",
+      "location": "Homeoffice",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "IT/Tech OFB",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>With our brands Holzprofi24 and Leondo, we operate some of the leading e-commerce platforms for home &amp; garden in Europe. We combine cutting-edge web technologies, data-driven online marketing and powerful logistics to deliver an outstanding shopping experience to millions of customers. Our shops are active across multiple European markets and continue to grow rapidly – with a strong focus on user experience, performance, scalability and modern frontend architectures.</p><ul><li><p>Design ",
+      "date_posted": "2026-10-18",
+      "age_days": 0,
+      "date_found": "2026-10-18",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
+      "name": "Mobile Engineer - React Native (100% Remote) - Worldwide",
+      "company": "Tether Operations Limited",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Data",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong><em>Join Tether and Shape the Future of Digital Finance</em></strong></p><p>At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all",
+      "date_posted": "2026-10-18",
+      "age_days": 0,
+      "date_found": "2026-10-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3711740563",
+      "name": "Staff Frontend Engineer - CommerceCompany hiddenIndiaVue-firstFrontendremotefull-timesenior6 days agoPRO only",
+      "company": "Flag of India",
+      "url": "https://vuejobs.com/jobs/highlevel-staff-frontend-engineer-commerce",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-18",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-uvation-8398020",
+      "name": "Frontend Developer (React Js / Next Js)",
+      "company": "uvation",
+      "url": "https://himalayas.app/companies/uvation/jobs/frontend-developer-react-js-next-js-5105504862",
+      "source": "Himalayas",
+      "location": "Estonia",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Front-End-Developer",
+        "React-Developer",
+        "Web-Developer",
+        "Frontend-React-Developer",
+        "React-Frontend-Developer",
+        "Next.Js-Frontend-Developer",
+        "React-Frontend-Engineer",
+        "Remote-Mid-Level-Frontend-Developer-(TypeScript-NextJS)",
+        "UI-Frontend-Developer"
+      ],
+      "salary": "20-25 EUR",
+      "description_excerpt": "Job Overview React and Next. js | 4 to 6 yearsThis role is responsible for building reliable, responsive user interfaces from approved designs and API contracts.",
+      "date_posted": "2026-10-18",
+      "age_days": 0,
+      "date_found": "2026-10-18",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
       },
       "is_new": true
     }
