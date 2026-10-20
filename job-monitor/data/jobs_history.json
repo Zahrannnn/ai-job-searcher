@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T05:55:16.104293+00:00",
-  "total_unique": 468,
+  "last_updated": "2026-10-20T05:47:46.046721+00:00",
+  "total_unique": 474,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -13228,6 +13228,194 @@
       "date_posted": "2026-10-18",
       "age_days": 1,
       "date_found": "2026-10-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091158",
+      "name": "Software Engineer, AI Coding Tasks",
+      "company": "Askable",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+      "source": "Remotive",
+      "location": "Worldwide",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "C++",
+        "docker",
+        "git",
+        "go",
+        "java",
+        "python",
+        "security",
+        "AI/ML",
+        "rust",
+        "Typescript ",
+        "distributed systems",
+        "SOLID",
+        "Linux/Unix",
+        "testing",
+        "infrastructure"
+      ],
+      "salary": "$1000 per task",
+      "description_excerpt": "<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p>\n<p> </p>\n<p>You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p>\n<p> </p>\n<p>Remote, any location. US$1,000 per task that passes review. Minimum of on",
+      "date_posted": "2026-10-17",
+      "age_days": 3,
+      "date_found": "2026-10-20",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155885",
+      "name": "Mobile Engineer - React Native (Paris or Remote France)",
+      "company": "Alma",
+      "url": "https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france",
+      "source": "Jobicy",
+      "location": "France",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, increase customer loyalty,&hellip;",
+      "date_posted": "2026-10-19",
+      "age_days": 1,
+      "date_found": "2026-10-20",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155840",
+      "name": "Full Stack Developer (Frontend-Focused) - Canada",
+      "company": "Brafton",
+      "url": "https://jobicy.com/jobs/155840-full-stack-developer-frontend-focused-canada",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
+      "date_posted": "2026-10-19",
+      "age_days": 1,
+      "date_found": "2026-10-20",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-enthuziastic-10973085",
+      "name": "Elixir Language / Phoenix Engineer - Remote Job",
+      "company": "EnthuZiastic",
+      "url": "https://himalayas.app/companies/enthuziastic/jobs/elixir-language-phoenix-engineer-remote-job?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Elixir-Developer",
+        "Phoenix-Developer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Functional-Programming-Developer",
+        "Elixir-Software-Engineer",
+        "Elixir-Engineer",
+        "Mid-Level-Full-Stack-Developer-(Elixir-React)"
+      ],
+      "salary": "",
+      "description_excerpt": "Category: Education Location: • Collaborate with other product team members to develop and maintain a growing set of applications and features.",
+      "date_posted": "2026-10-20",
+      "age_days": 0,
+      "date_found": "2026-10-20",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-alcor-14568413",
+      "name": "Senior Software Engineer (Full-Stack)",
+      "company": "Alcor",
+      "url": "https://himalayas.app/companies/alcor/jobs/senior-software-engineer-full-stack?utm_source=api",
+      "source": "Himalayas",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Software-Engineer",
+        "Full-Stack-Engineer",
+        "Backend-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)",
+        "Senior-Fullstack-+-DevOps-Engineer",
+        "Senior-Full-Stack-Engineer-(Java-+-Cloud)"
+      ],
+      "salary": "",
+      "description_excerpt": "OverviewSmartling was founded 16 years ago to make localization and translation seamless.",
+      "date_posted": "2026-10-20",
+      "age_days": 0,
+      "date_found": "2026-10-20",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4480252255",
+      "name": "Front-End Web Development Engineer",
+      "company": "Siemens",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-web-development-engineer-at-siemens-4480252255",
+      "source": "LinkedIn",
+      "location": "Qesm 2nd New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-19",
+      "age_days": 1,
+      "date_found": "2026-10-20",
       "score": 65,
       "score_breakdown": {
         "location": 20,
