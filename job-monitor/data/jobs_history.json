@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T05:47:46.046721+00:00",
-  "total_unique": 474,
+  "last_updated": "2026-10-21T05:50:58.224414+00:00",
+  "total_unique": 483,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -13420,6 +13420,252 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-156055",
+      "name": "Manager, Engineering - Frontend",
+      "company": "Wrapbook",
+      "url": "https://jobicy.com/jobs/156055-manager-engineering-frontend",
+      "source": "Jobicy",
+      "location": "Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen&hellip;",
+      "date_posted": "2026-10-20",
+      "age_days": 1,
+      "date_found": "2026-10-21",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-156024",
+      "name": "Senior Creative Front-End Engineer – Digital Agency | Brazil",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/156024-senior-creative-front-end-engineer-digital-agency-brazil",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-10-20",
+      "age_days": 1,
+      "date_found": "2026-10-21",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-156021",
+      "name": "Senior Creative Front-End Engineer – Digital Agency | Mexico",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/156021-senior-creative-front-end-engineer-digital-agency-mexico",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-10-20",
+      "age_days": 1,
+      "date_found": "2026-10-21",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-155996",
+      "name": "Sr. Staff Engineer (Fullstack/Frontend)",
+      "company": "hims &#038; hers",
+      "url": "https://jobicy.com/jobs/155996-sr-staff-engineer-fullstack-frontend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+      "date_posted": "2026-10-20",
+      "age_days": 1,
+      "date_found": "2026-10-21",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-software-engineer-front-end-design-8654",
+      "name": "Software Engineer, Front End & Design",
+      "company": "Circuithub",
+      "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-front-end-design-8654",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Software Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>About CircuitHub</h2><p style=\"min-height:1.5em\">CircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied to the chaotic world of prototyping and low-volume production: a 10x throughput improvement in one of the world's most foundational industries.</p><p style=\"min-height:1.5em\">We've raised $45M from top-tier investors including",
+      "date_posted": "2026-10-20",
+      "age_days": 1,
+      "date_found": "2026-10-21",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-mixmob-11975226",
+      "name": "Senior Full-Stack React/Node & NFT Gaming Developer",
+      "company": "MixMob",
+      "url": "https://himalayas.app/companies/mixmob/jobs/senior-full-stack-react-node-nft-gaming-developer-9517342846?utm_source=api",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Fullstack-Development",
+        "Game-Development",
+        "Web3-Development",
+        "React-Developer",
+        "NodeJS-Developer",
+        "NFT-Gaming-Developer",
+        "Blockchain-Development",
+        "Software-Engineer",
+        "Senior-Full-Stack-Developer-(NFT-Blockchain)",
+        "Senior-Full-Stack-Developer-(React-Node.Js)",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "Senior-Crypto-Full-Stack-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "We are growing like mad and are looking to hire a talented Senior Full-Stack React/Node & NFT Gaming Developer.",
+      "date_posted": "2026-10-21",
+      "age_days": 0,
+      "date_found": "2026-10-21",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4480910484",
+      "name": "Full Stack Web Developer (.Net + Reactjs)",
+      "company": "The DevHouse",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-web-developer-net-+-reactjs-at-the-devhouse-4480910484",
+      "source": "LinkedIn",
+      "location": "Heliopolis, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-18",
+      "age_days": 3,
+      "date_found": "2026-10-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4477593480",
+      "name": "Full Stack Engineer (Typescript/React/Go)",
+      "company": "RE Partners",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-engineer-typescript-react-go-at-re-partners-4477593480",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-12",
+      "age_days": 9,
+      "date_found": "2026-10-21",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4475903386",
+      "name": "Senior fullstack engineer (react + django)",
+      "company": "Sitech",
+      "url": "https://eg.linkedin.com/jobs/view/senior-fullstack-engineer-react-+-django-at-sitech-4475903386",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-08",
+      "age_days": 13,
+      "date_found": "2026-10-21",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": true
     }
