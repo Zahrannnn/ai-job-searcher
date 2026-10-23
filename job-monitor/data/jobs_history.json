@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T05:54:27.214770+00:00",
-  "total_unique": 486,
+  "last_updated": "2026-10-23T05:52:05.502719+00:00",
+  "total_unique": 489,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -13740,6 +13740,78 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4482708595",
+      "name": "Software Engineer II - Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/software-engineer-ii-frontend -at-procore-technologies-4482708595",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-22",
+      "age_days": 1,
+      "date_found": "2026-10-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4482461280",
+      "name": "Staff Software Engineer - Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4482461280",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-22",
+      "age_days": 1,
+      "date_found": "2026-10-23",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4479498363",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4479498363",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-22",
+      "age_days": 1,
+      "date_found": "2026-10-23",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
