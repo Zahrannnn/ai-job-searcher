@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T05:35:35.606429+00:00",
-  "total_unique": 491,
+  "last_updated": "2026-10-25T05:50:36.970672+00:00",
+  "total_unique": 494,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -13866,6 +13866,77 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-156863",
+      "name": "Frontend Architect",
+      "company": "TripActions",
+      "url": "https://jobicy.com/jobs/156863-frontend-architect",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About The Job Navan is an all-in-one travel, corporate card, and expense management solution that eliminates the hassles of corporate travel &amp; expense management while giving finance leaders real-time spend visibility and control. The Frontend Architect plays a pivotal role in shaping the future of Navan's frontend infrastructure and developer experience across the organization. This&hellip;",
+      "date_posted": "2026-10-24",
+      "age_days": 1,
+      "date_found": "2026-10-25",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1397423764",
+      "name": "Senior Frontend EngineerHyphen ConnectVue-firstFrontendremotefull-timesenior11 days ago",
+      "company": "Logo of Hyphen Connect",
+      "url": "https://vuejobs.com/jobs/hyphen-connect-senior-frontend-engineer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-25",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1929623129",
+      "name": "Front-End Developer - 100% Remote (US & Eligible States Only)Rev Agency LLCVue-firstNuxt.jsFrontendremotefull-timemid-level$85.0-95.0K/yr16 days ago",
+      "company": "Logo of Rev Agency LLC",
+      "url": "https://vuejobs.com/jobs/rev-agency-llc-front-end-developer-100-remote-us-eligible-states-only",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-25",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
       },
       "is_new": true
     }
