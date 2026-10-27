@@ -1,62 +1,8 @@
 {
-  "last_run": "2026-10-26T05:53:54.089507+00:00",
-  "total_items": 19,
-  "new_count": 5,
+  "last_run": "2026-10-27T06:06:26.016511+00:00",
+  "total_items": 15,
+  "new_count": 4,
   "items": [
-    {
-      "id": "jobicy-151496",
-      "name": "Full Stack Web Engineer (Python & React)",
-      "company": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-      "source": "Jobicy",
-      "location": "Argentina,  Brazil,  Mexico",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
-      "date_posted": "2026-10-25",
-      "age_days": 1,
-      "date_found": "2026-10-26",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4476442947",
-      "name": "Senior Frontend Developer (React / Next.js)",
-      "company": "HOUSE OF IRYSS",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4476442947",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-13",
-      "age_days": 13,
-      "date_found": "2026-10-26",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
     {
       "id": "linkedin-4479498363",
       "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
@@ -71,8 +17,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-22",
-      "age_days": 4,
-      "date_found": "2026-10-26",
+      "age_days": 5,
+      "date_found": "2026-10-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -97,8 +43,34 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-14",
-      "age_days": 12,
-      "date_found": "2026-10-26",
+      "age_days": 13,
+      "date_found": "2026-10-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4476442947",
+      "name": "Senior Frontend Developer (React / Next.js)",
+      "company": "HOUSE OF IRYSS",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-next-js-at-house-of-iryss-4476442947",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-13",
+      "age_days": 14,
+      "date_found": "2026-10-27",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -147,8 +119,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-10-14",
-      "age_days": 12,
-      "date_found": "2026-10-26",
+      "age_days": 13,
+      "date_found": "2026-10-27",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -160,61 +132,27 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4477593480",
-      "name": "Full Stack Engineer (Typescript/React/Go)",
-      "company": "RE Partners",
-      "url": "https://eg.linkedin.com/jobs/view/full-stack-engineer-typescript-react-go-at-re-partners-4477593480",
+      "id": "linkedin-4481807909",
+      "name": "Senior Full Stack Engineer (Node.js &amp; React)",
+      "company": "Talent Hire Recruitment (Private) Limited",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-js-react-at-talent-hire-recruitment-private-limited-4481807909",
       "source": "LinkedIn",
-      "location": "Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-10-12",
-      "age_days": 14,
-      "date_found": "2026-10-26",
-      "score": 90,
+      "date_posted": "2026-10-26",
+      "age_days": 1,
+      "date_found": "2026-10-27",
+      "score": 95,
       "score_breakdown": {
         "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-bambooworks-15261403",
-      "name": "Senior AI Automation Engineer (n8n, Make, Python/JavaScript)",
-      "company": "Bamboo Works",
-      "url": "https://himalayas.app/companies/bambooworks/jobs/senior-ai-automation-engineer-n8n-make-python-javascript-2119233402?utm_source=api",
-      "source": "Himalayas",
-      "location": "Belarus",
-      "workplace": "Remote",
-      "job_type": "Contractor",
-      "experience_years": "Senior",
-      "skills": [
-        "AI-Automation-Engineer",
-        "Automation-Engineer",
-        "AI-Engineer",
-        "Software-Engineer",
-        "Integration-Engineer",
-        "Senior-Automation-Developer",
-        "AI-Automations-Engineer"
-      ],
-      "salary": "1800-2400 USD",
-      "description_excerpt": "About the ClientWe're helping a growing AI and process automation consultancy based in Munich, Germany find a Senior AI Automation Engineer to design and deliver sophisticated automation and AI-powered business solutions.",
-      "date_posted": "2026-10-26",
-      "age_days": 0,
-      "date_found": "2026-10-26",
-      "score": 85,
-      "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5,
-        "salary": 5
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -247,8 +185,8 @@
       "salary": "$1000 per task",
       "description_excerpt": "<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p>\n<p> </p>\n<p>You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p>\n<p> </p>\n<p>Remote, any location. US$1,000 per task that passes review. Minimum of on",
       "date_posted": "2026-10-17",
-      "age_days": 9,
-      "date_found": "2026-10-26",
+      "age_days": 10,
+      "date_found": "2026-10-27",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -260,10 +198,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-1596512726",
-      "name": "Senior Full Stack Engineer – Java/Spring Boot & ReactAssureSoft - CareersBoliviaVue-plusFull-stackremotefull-timesenior27 days ago",
-      "company": "Logo of AssureSoft - Careers",
-      "url": "https://vuejobs.com/jobs/assuresoft-careers-senior-full-stack-engineer-java-spring-boot-react",
+      "id": "vuejobs-1898562807",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCompany hiddenVue-plusFull-stackremotefull-timelead6 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-20",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -273,14 +211,13 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-26",
-      "score": 80,
+      "date_found": "2026-10-27",
+      "score": 75,
       "score_breakdown": {
         "react": 25,
-        "location": 20,
-        "senior_ic": 5
+        "location": 20
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "arbeitnow-blockchain-engineer-zug-291866",
@@ -298,92 +235,35 @@
       "salary": "",
       "description_excerpt": "<h2>The role</h2><p>We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.</p><h2>What you'll do</h2><ul><li><p>Design and implement smart contracts</p></li><li><p>Integrate on-chain systems with backend and frontend services</p></li><li><p>Write tests, deploymen",
       "date_posted": "2026-10-23",
-      "age_days": 3,
-      "date_found": "2026-10-26",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4476002703",
-      "name": "Senior Frontend Developer",
-      "company": "International Turnkey Systems - ITS",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-at-international-turnkey-systems-its-4476002703",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-12",
-      "age_days": 14,
-      "date_found": "2026-10-26",
+      "age_days": 4,
+      "date_found": "2026-10-27",
       "score": 70,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
     },
     {
-      "id": "jobicy-156863",
-      "name": "Frontend Architect",
-      "company": "TripActions",
-      "url": "https://jobicy.com/jobs/156863-frontend-architect",
+      "id": "jobicy-157086",
+      "name": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/157086-frontend-engineer-ads",
       "source": "Jobicy",
       "location": "USA",
       "workplace": "Remote",
       "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "Any",
       "skills": [
         "Software Engineering",
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "About The Job Navan is an all-in-one travel, corporate card, and expense management solution that eliminates the hassles of corporate travel &amp; expense management while giving finance leaders real-time spend visibility and control. The Frontend Architect plays a pivotal role in shaping the future of Navan's frontend infrastructure and developer experience across the organization. This&hellip;",
-      "date_posted": "2026-10-24",
-      "age_days": 2,
-      "date_found": "2026-10-26",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-divcon-controls-4430959",
-      "name": "SCADA Engineer - Ignition Exp Required",
-      "company": "Divcon Controls",
-      "url": "https://himalayas.app/companies/divcon-controls/jobs/scada-engineer-ignition-exp-required?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "SCADA-Engineer",
-        "Frontend-Engineer",
-        "Automation-Engineer",
-        "BMS-Engineer",
-        "Industrial-Control-Systems-Engineer",
-        "SCADA-PLC-Engineer",
-        "OT-SCADA-Engineer",
-        "SCADA-Engineering"
-      ],
-      "salary": "",
-      "description_excerpt": "About Us: Headquartered in Dallas, Texas, Divcon delivers fully integrated automation solutions nationwide that optimize performance, energy efficiency, and reliability across HVAC, lighting, power monitoring, and mission-critical systems.",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
       "date_posted": "2026-10-26",
-      "age_days": 0,
-      "date_found": "2026-10-26",
+      "age_days": 1,
+      "date_found": "2026-10-27",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -405,8 +285,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-21",
-      "age_days": 5,
-      "date_found": "2026-10-26",
+      "age_days": 6,
+      "date_found": "2026-10-27",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -416,24 +296,24 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4481400575",
-      "name": "Frontend Engineer",
-      "company": "LOOP - لووب",
-      "url": "https://jo.linkedin.com/jobs/view/frontend-engineer-at-loop-لووب-4481400575",
+      "id": "linkedin-4481450785",
+      "name": "Frontend Developer",
+      "company": "Tidalsystems",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-tidalsystems-4481450785",
       "source": "LinkedIn",
-      "location": "Amman, Jordan",
+      "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-10-25",
+      "date_posted": "2026-10-26",
       "age_days": 1,
-      "date_found": "2026-10-26",
+      "date_found": "2026-10-27",
       "score": 65,
       "score_breakdown": {
-        "location_mena": 20,
+        "location": 20,
         "fresh": 15
       },
       "is_new": true
@@ -455,37 +335,14 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-10-25",
-      "age_days": 1,
-      "date_found": "2026-10-26",
+      "age_days": 2,
+      "date_found": "2026-10-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
         "ai": 10,
         "too_senior": -15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4482049699",
-      "name": "Frontend Developer",
-      "company": "Daam Outsourcing",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-daam-outsourcing-4482049699",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-21",
-      "age_days": 5,
-      "date_found": "2026-10-26",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10
       },
       "is_new": false
     },
@@ -503,8 +360,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-22",
-      "age_days": 4,
-      "date_found": "2026-10-26",
+      "age_days": 5,
+      "date_found": "2026-10-27",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -513,8 +370,31 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-538791531",
-      "name": "Desarrollador/a Frontend – Vue 3 / Node.jssg techVue-firstFrontendremotefull-time7 days ago",
+      "id": "linkedin-4482049699",
+      "name": "Frontend Developer",
+      "company": "Daam Outsourcing",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-daam-outsourcing-4482049699",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-21",
+      "age_days": 6,
+      "date_found": "2026-10-27",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "vuejobs-2956846494",
+      "name": "Desarrollador/a Frontend – Vue 3 / Node.jssg techVue-firstFrontendremotefull-time8 days ago",
       "company": "Logo of sg tech",
       "url": "https://vuejobs.com/jobs/sg-tech-desarrollador-a-frontend-vue-3-node-js",
       "source": "VueJobs",
@@ -526,13 +406,13 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-10-26",
+      "date_found": "2026-10-27",
       "score": 30,
       "score_breakdown": {
         "location": 20,
         "vue_only": -20
       },
-      "is_new": true
+      "is_new": false
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T05:53:54.197832+00:00",
-  "total_unique": 499,
+  "last_updated": "2026-10-27T06:06:26.019561+00:00",
+  "total_unique": 503,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14075,6 +14075,102 @@
       "score": 65,
       "score_breakdown": {
         "location_mena": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157086",
+      "name": "Frontend Engineer, Ads",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/157086-frontend-engineer-ads",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-10-26",
+      "age_days": 1,
+      "date_found": "2026-10-27",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1898562807",
+      "name": "Lead Full Stack Engineer (.Net, Vue/React) - Fully RemoteCompany hiddenVue-plusFull-stackremotefull-timelead6 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/covergo-lead-full-stack-engineer-net-vue-react-fully-remote-20",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-27",
+      "score": 75,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4481807909",
+      "name": "Senior Full Stack Engineer (Node.js &amp; React)",
+      "company": "Talent Hire Recruitment (Private) Limited",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-js-react-at-talent-hire-recruitment-private-limited-4481807909",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-26",
+      "age_days": 1,
+      "date_found": "2026-10-27",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4481450785",
+      "name": "Frontend Developer",
+      "company": "Tidalsystems",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-tidalsystems-4481450785",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-26",
+      "age_days": 1,
+      "date_found": "2026-10-27",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
         "fresh": 15
       },
       "is_new": true
