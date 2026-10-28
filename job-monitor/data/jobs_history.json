@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T06:06:26.019561+00:00",
-  "total_unique": 503,
+  "last_updated": "2026-10-28T06:44:35.177857+00:00",
+  "total_unique": 506,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14172,6 +14172,96 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157408",
+      "name": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
+      "company": "Grafana Labs",
+      "url": "https://jobicy.com/jobs/157408-senior-engineering-manager-grafana-frontend-germany-remote",
+      "source": "Jobicy",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
+      "date_posted": "2026-10-27",
+      "age_days": 1,
+      "date_found": "2026-10-28",
+      "score": 90,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157389",
+      "name": "Senior Contract C++ / JavaScript Software Engineer (Browser Engine)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/157389-senior-contract-c-javascript-software-engineer-browser-engine",
+      "source": "Jobicy",
+      "location": "Belgium,  Denmark,  Finland,  France,  Netherlands,  Poland",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "QA & Testing",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "The role You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness. Responsibilities Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed Fix the problems and pass&hellip;",
+      "date_posted": "2026-10-27",
+      "age_days": 1,
+      "date_found": "2026-10-28",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-ci-t-10469420",
+      "name": "[Job - 32379] Mid-Level Fullstack Developer (.NET / Next.JS), Brazil",
+      "company": "CI&T",
+      "url": "https://himalayas.app/companies/ci-t/jobs/job-32379-mid-level-fullstack-developer-net-next-js-brazil?utm_source=api",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Developer",
+        "Backend-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Mid-Level-Full-Stack-Engineer-(.NET-and-React)",
+        "Mid-Level-Full-Stack-Developer-(.NET-and-Next.Js)"
+      ],
+      "salary": "",
+      "description_excerpt": "At CI&T, we help large enterprises transform the potential of AI into real business impact with AI Deployment, AI-native execution, and tech-integrated business solutions.",
+      "date_posted": "2026-10-28",
+      "age_days": 0,
+      "date_found": "2026-10-28",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
       },
       "is_new": true
     }
