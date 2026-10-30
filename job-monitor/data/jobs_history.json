@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T06:52:04.025227+00:00",
-  "total_unique": 512,
+  "last_updated": "2026-10-30T06:55:30.400607+00:00",
+  "total_unique": 519,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14429,6 +14429,199 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157873",
+      "name": "Full Stack Product Software Engineer",
+      "company": "Dropbox",
+      "url": "https://jobicy.com/jobs/157873-full-stack-product-software-engineer",
+      "source": "Jobicy",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Role Description As a Full Stack Engineer at Dropbox, you will help design and develop the seamless, scalable, and user-friendly experiences Dropbox users depend on. Your work will encompass both front-end and back-end development, supporting products that empower millions worldwide. You will work closely with cross-functional teams to transform ideas into reliable, scalable features that&hellip;",
+      "date_posted": "2026-10-29",
+      "age_days": 1,
+      "date_found": "2026-10-30",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157866",
+      "name": "Sr. Software Engineer, (Fullstack/Frontend)",
+      "company": "hims &#038; hers",
+      "url": "https://jobicy.com/jobs/157866-sr-software-engineer-fullstack-frontend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+      "date_posted": "2026-10-29",
+      "age_days": 1,
+      "date_found": "2026-10-30",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-157726",
+      "name": "Senior Contract Software Engineer (JavaScript) - Firefox",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/157726-senior-contract-software-engineer-javascript-firefox",
+      "source": "Jobicy",
+      "location": "UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "QA & Testing",
+        "Contract"
+      ],
+      "salary": "",
+      "description_excerpt": "The role You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness. Responsibilities Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed Fix the problems and pass&hellip;",
+      "date_posted": "2026-10-29",
+      "age_days": 1,
+      "date_found": "2026-10-30",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
+      "name": "Mobile Engineer - React Native (100% Remote) - Worldwide",
+      "company": "Tether Operations Limited",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p><strong><em>Join Tether and Shape the Future of Digital Finance</em></strong></p><p>At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all",
+      "date_posted": "2026-10-30",
+      "age_days": 0,
+      "date_found": "2026-10-30",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2217343936",
+      "name": "Programador/a Vue.js (Remoto 100%) M/FAKKODISVue-firstNuxt.jsFrontendremotefull-timemid-level10 days ago",
+      "company": "Logo of AKKODIS",
+      "url": "https://vuejobs.com/jobs/akkodis-programador-a-vue-js-remoto-100-m-f",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-10-30",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-lanark-weaver-consulting-12734103",
+      "name": "Principal Software Engineer",
+      "company": "Lanark Weaver Consulting",
+      "url": "https://himalayas.app/companies/lanark-weaver-consulting/jobs/principal-software-engineer?utm_source=api",
+      "source": "Himalayas",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Principal-Software-Engineer",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "AI-ML-Engineer",
+        "Principal-Software-Development-Engineer",
+        "Principal-Software-Engineering",
+        "Principal-Software-Developer",
+        "Principal-Fullstack-Software-Engineer",
+        "Principal-Software-Engineer-Frontend",
+        "Principal-C++-Software-Engineer",
+        "Principal-Research-Software-Engineer",
+        "Principal-Embedded-Software-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Principal Software Engineer• Location: Fully Remote, Within Canada (Eastern Time Zone ± 1 hour) • Role Type: Full-time, Permanent • Reports to: Senior Vice President, Engineering About The RoleOur client is a scaling start-up developing AI-enabled physical security solutions and is seeking a highly capable, hands-on generalist Staff or Principal Software Engineer to join their core technical team.",
+      "date_posted": "2026-10-30",
+      "age_days": 0,
+      "date_found": "2026-10-30",
+      "score": 60,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4484980088",
+      "name": "Senior Frontend Engineer - Web &amp; Mobile (React &amp; React Native)",
+      "company": "Valleysoft | Center of Excellence",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-web-mobile-react-react-native-at-valleysoft-center-of-excellence-4484980088",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-29",
+      "age_days": 1,
+      "date_found": "2026-10-30",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
