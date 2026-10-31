@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T06:55:30.400607+00:00",
-  "total_unique": 519,
+  "last_updated": "2026-10-31T06:50:01.329854+00:00",
+  "total_unique": 521,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14622,6 +14622,59 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158070",
+      "name": "Senior React Native Engineer (Expo & TypeScript)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/158070-senior-react-native-engineer-expo-typescript",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-10-30",
+      "age_days": 1,
+      "date_found": "2026-10-31",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4485365531",
+      "name": "Lead React Frontend Developer",
+      "company": "SAQAYA",
+      "url": "https://eg.linkedin.com/jobs/view/lead-react-frontend-developer-at-saqaya-4485365531",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-10-30",
+      "age_days": 1,
+      "date_found": "2026-10-31",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }

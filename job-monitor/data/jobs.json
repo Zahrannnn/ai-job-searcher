@@ -1,32 +1,34 @@
 {
-  "last_run": "2026-10-30T06:55:30.397941+00:00",
-  "total_items": 17,
-  "new_count": 7,
+  "last_run": "2026-10-31T06:50:01.325358+00:00",
+  "total_items": 11,
+  "new_count": 2,
   "items": [
     {
-      "id": "arbeitnow-mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
-      "name": "Mobile Engineer - React Native (100% Remote) - Worldwide",
-      "company": "Tether Operations Limited",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-118208",
-      "source": "Arbeitnow",
-      "location": "Remote job",
+      "id": "jobicy-158070",
+      "name": "Senior React Native Engineer (Expo & TypeScript)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/158070-senior-react-native-engineer-expo-typescript",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
       "workplace": "Remote",
-      "experience_years": "",
+      "job_type": "",
+      "experience_years": "Senior",
       "skills": [
-        "Engineering",
-        "Remote"
+        "Software Engineering",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "<p><strong><em>Join Tether and Shape the Future of Digital Finance</em></strong></p><p>At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "date_posted": "2026-10-30",
-      "age_days": 0,
-      "date_found": "2026-10-30",
+      "age_days": 1,
+      "date_found": "2026-10-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -44,8 +46,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-22",
-      "age_days": 8,
-      "date_found": "2026-10-30",
+      "age_days": 9,
+      "date_found": "2026-10-31",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -57,145 +59,28 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4484980088",
-      "name": "Senior Frontend Engineer - Web &amp; Mobile (React &amp; React Native)",
-      "company": "Valleysoft | Center of Excellence",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-engineer-web-mobile-react-react-native-at-valleysoft-center-of-excellence-4484980088",
+      "id": "linkedin-4485365531",
+      "name": "Lead React Frontend Developer",
+      "company": "SAQAYA",
+      "url": "https://eg.linkedin.com/jobs/view/lead-react-frontend-developer-at-saqaya-4485365531",
       "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
+      "location": "Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-10-29",
+      "date_posted": "2026-10-30",
       "age_days": 1,
-      "date_found": "2026-10-30",
-      "score": 95,
+      "date_found": "2026-10-31",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 15
       },
       "is_new": true
-    },
-    {
-      "id": "jobicy-157684",
-      "name": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
-      "company": "Grafana Labs",
-      "url": "https://jobicy.com/jobs/157684-senior-engineering-manager-grafana-frontend-united-kingdom-remote",
-      "source": "Jobicy",
-      "location": "UK",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-      "date_posted": "2026-10-28",
-      "age_days": 2,
-      "date_found": "2026-10-30",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-157681",
-      "name": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
-      "company": "Grafana Labs",
-      "url": "https://jobicy.com/jobs/157681-senior-engineering-manager-grafana-frontend-sweden-remote",
-      "source": "Jobicy",
-      "location": "Sweden",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-      "date_posted": "2026-10-28",
-      "age_days": 2,
-      "date_found": "2026-10-30",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-157676",
-      "name": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
-      "company": "Grafana Labs",
-      "url": "https://jobicy.com/jobs/157676-senior-engineering-manager-grafana-frontend-spain-remote",
-      "source": "Jobicy",
-      "location": "Spain",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-      "date_posted": "2026-10-28",
-      "age_days": 2,
-      "date_found": "2026-10-30",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-157670",
-      "name": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
-      "company": "Grafana Labs",
-      "url": "https://jobicy.com/jobs/157670-senior-engineering-manager-grafana-frontend-ireland-remote",
-      "source": "Jobicy",
-      "location": "Europe",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving&hellip;",
-      "date_posted": "2026-10-28",
-      "age_days": 2,
-      "date_found": "2026-10-30",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
     },
     {
       "id": "remotive-2091158",
@@ -226,8 +111,8 @@
       "salary": "$1000 per task",
       "description_excerpt": "<p>We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.</p>\n<p> </p>\n<p>You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models.</p>\n<p> </p>\n<p>Remote, any location. US$1,000 per task that passes review. Minimum of on",
       "date_posted": "2026-10-17",
-      "age_days": 13,
-      "date_found": "2026-10-30",
+      "age_days": 14,
+      "date_found": "2026-10-31",
       "score": 80,
       "score_breakdown": {
         "typescript": 10,
@@ -239,32 +124,31 @@
       "is_new": false
     },
     {
-      "id": "jobicy-157726",
-      "name": "Senior Contract Software Engineer (JavaScript) - Firefox",
-      "company": "Mozilla",
-      "url": "https://jobicy.com/jobs/157726-senior-contract-software-engineer-javascript-firefox",
+      "id": "jobicy-142139",
+      "name": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
       "source": "Jobicy",
-      "location": "UK",
+      "location": "USA",
       "workplace": "Remote",
       "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "Midweight",
       "skills": [
-        "QA & Testing",
-        "Contract"
+        "Software Engineering",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "The role You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness. Responsibilities Write Web-Platform tests to improve the coverage, and Gecko mochitests as needed Fix the problems and pass&hellip;",
-      "date_posted": "2026-10-29",
-      "age_days": 1,
-      "date_found": "2026-10-30",
-      "score": 80,
+      "description_excerpt": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading projects such as Aave, Polygon, Yearn, and Chiliz.Investors =&hellip;",
+      "date_posted": "2026-10-31",
+      "age_days": 0,
+      "date_found": "2026-10-31",
+      "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-157873",
@@ -283,15 +167,15 @@
       "salary": "",
       "description_excerpt": "Role Description As a Full Stack Engineer at Dropbox, you will help design and develop the seamless, scalable, and user-friendly experiences Dropbox users depend on. Your work will encompass both front-end and back-end development, supporting products that empower millions worldwide. You will work closely with cross-functional teams to transform ideas into reliable, scalable features that&hellip;",
       "date_posted": "2026-10-29",
-      "age_days": 1,
-      "date_found": "2026-10-30",
+      "age_days": 2,
+      "date_found": "2026-10-31",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-157866",
@@ -310,75 +194,14 @@
       "salary": "",
       "description_excerpt": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
       "date_posted": "2026-10-29",
-      "age_days": 1,
-      "date_found": "2026-10-30",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4483839980",
-      "name": "Lead Frontend Engineer",
-      "company": "First.tech Group",
-      "url": "https://eg.linkedin.com/jobs/view/lead-frontend-engineer-at-first-tech-group-4483839980",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-28",
       "age_days": 2,
-      "date_found": "2026-10-30",
+      "date_found": "2026-10-31",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-lanark-weaver-consulting-12734103",
-      "name": "Principal Software Engineer",
-      "company": "Lanark Weaver Consulting",
-      "url": "https://himalayas.app/companies/lanark-weaver-consulting/jobs/principal-software-engineer?utm_source=api",
-      "source": "Himalayas",
-      "location": "Canada",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "Principal-Software-Engineer",
-        "Software-Engineer",
-        "Backend-Engineer",
-        "AI-ML-Engineer",
-        "Principal-Software-Development-Engineer",
-        "Principal-Software-Engineering",
-        "Principal-Software-Developer",
-        "Principal-Fullstack-Software-Engineer",
-        "Principal-Software-Engineer-Frontend",
-        "Principal-C++-Software-Engineer",
-        "Principal-Research-Software-Engineer",
-        "Principal-Embedded-Software-Engineer"
-      ],
-      "salary": "",
-      "description_excerpt": "Principal Software Engineer• Location: Fully Remote, Within Canada (Eastern Time Zone ± 1 hour) • Role Type: Full-time, Permanent • Reports to: Senior Vice President, Engineering About The RoleOur client is a scaling start-up developing AI-enabled physical security solutions and is seeking a highly capable, hands-on generalist Staff or Principal Software Engineer to join their core technical team.",
-      "date_posted": "2026-10-30",
-      "age_days": 0,
-      "date_found": "2026-10-30",
-      "score": 60,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "too_senior": -15
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4464358810",
@@ -394,8 +217,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-21",
-      "age_days": 9,
-      "date_found": "2026-10-30",
+      "age_days": 10,
+      "date_found": "2026-10-31",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -418,8 +241,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-21",
-      "age_days": 9,
-      "date_found": "2026-10-30",
+      "age_days": 10,
+      "date_found": "2026-10-31",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -441,8 +264,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-22",
-      "age_days": 8,
-      "date_found": "2026-10-30",
+      "age_days": 9,
+      "date_found": "2026-10-31",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -451,26 +274,31 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2217343936",
-      "name": "Programador/a Vue.js (Remoto 100%) M/FAKKODISVue-firstNuxt.jsFrontendremotefull-timemid-level10 days ago",
-      "company": "Logo of AKKODIS",
-      "url": "https://vuejobs.com/jobs/akkodis-programador-a-vue-js-remoto-100-m-f",
-      "source": "VueJobs",
-      "location": "remote",
+      "id": "jobicy-154291",
+      "name": "Chief Technology Officer",
+      "company": "saas.group",
+      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
+      "source": "Jobicy",
+      "location": "Europe",
       "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-10-30",
-      "score": 30,
+      "description_excerpt": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user experience. Thousands of companies worldwide trust our platform, which serves over&hellip;",
+      "date_posted": "2026-10-31",
+      "age_days": 0,
+      "date_found": "2026-10-31",
+      "score": 50,
       "score_breakdown": {
         "location": 20,
-        "vue_only": -20
+        "fresh": 15,
+        "too_senior": -15
       },
-      "is_new": true
+      "is_new": false
     }
   ]
 }
