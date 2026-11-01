@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T06:50:01.329854+00:00",
-  "total_unique": 521,
+  "last_updated": "2026-11-01T07:15:52.606820+00:00",
+  "total_unique": 527,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14675,6 +14675,199 @@
         "react": 25,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091165",
+      "name": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "Remotive",
+      "location": "Worldwide",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "admin",
+        "api",
+        "AWS",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "UI/UX",
+        "AI/ML",
+        "automation",
+        "documentation",
+        "healthcare",
+        "Typescript ",
+        "web applications",
+        "SOLID",
+        "JSON",
+        "serverless",
+        "next.js",
+        "github",
+        "REST",
+        "mental health",
+        "BaaS",
+        "datadog"
+      ],
+      "salary": "$3.5k–$5k/month",
+      "description_excerpt": "<p dir=\"ltr\" style=\"line-height: 1.3800000000000001; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental healt",
+      "date_posted": "2026-10-29",
+      "age_days": 3,
+      "date_found": "2026-11-01",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158196",
+      "name": "Frontend Engineer - Design Systems",
+      "company": "Mercury",
+      "url": "https://jobicy.com/jobs/158196-frontend-engineer-design-systems",
+      "source": "Jobicy",
+      "location": "Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Mercury's Design Systems team helps product teams build interfaces that feel consistent, accessible, and carefully considered. We're hiring a Frontend Engineer to help evolve the shared components and patterns behind those experiences, making it easier for teams across Mercury to turn good ideas into well-crafted software. You'll work closely with designers and engineers to understand&hellip;",
+      "date_posted": "2026-10-31",
+      "age_days": 1,
+      "date_found": "2026-11-01",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158175",
+      "name": "Staff Software Engineer, Frontend",
+      "company": "hims &#038; hers",
+      "url": "https://jobicy.com/jobs/158175-staff-software-engineer-frontend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are&hellip;",
+      "date_posted": "2026-10-31",
+      "age_days": 1,
+      "date_found": "2026-11-01",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158154",
+      "name": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2",
+      "source": "Jobicy",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
+      "date_posted": "2026-10-31",
+      "age_days": 1,
+      "date_found": "2026-11-01",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-react-native-engineer-based-in-germany-berlin-388773",
+      "name": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
+      "company": "Cara Care",
+      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773",
+      "source": "Arbeitnow",
+      "location": "Berlin, Germany",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering",
+        "Product & Engineering",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a <strong>versatile, pragmatic, and forward-thinking (Senior) React Native Engineer (m/f/x)</strong> to help shape the future of digital therapeutics.</p><h3>Your Role</h3><p>You’ll join a cross-functional product team with high ownership, lean processes, and a clear focus: deliver real",
+      "date_posted": "2026-10-31",
+      "age_days": 1,
+      "date_found": "2026-11-01",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-react-native-engineer-based-in-germany-164217",
+      "name": "(Senior) React Native Engineer (m/f/x) - Based in Germany",
+      "company": "Cara Care",
+      "url": "https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217",
+      "source": "Arbeitnow",
+      "location": "Germany",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering",
+        "Product & Engineering",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p>Cara Care, a digital health company backed by Bayer AG, is on a mission to improve people’s digestive health through technology. As we expand our product portfolio and modernize our platform, we’re looking for a <strong>versatile, pragmatic, and forward-thinking (Senior) React Native Engineer (m/f/x)</strong> to help shape the future of digital therapeutics.</p><h3>Your Role</h3><p>You’ll join a cross-functional product team with high ownership, lean processes, and a clear focus: deliver real",
+      "date_posted": "2026-10-31",
+      "age_days": 1,
+      "date_found": "2026-11-01",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
       },
       "is_new": true
     }
