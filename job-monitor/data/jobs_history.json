@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T07:30:24.730258+00:00",
-  "total_unique": 528,
+  "last_updated": "2026-11-03T07:44:58.605472+00:00",
+  "total_unique": 538,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -14890,6 +14890,251 @@
       "score_breakdown": {
         "react": 25,
         "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158567",
+      "name": "Front End Software Engineer, Media Player",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/158567-front-end-software-engineer-media-player",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-11-02",
+      "age_days": 1,
+      "date_found": "2026-11-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158562",
+      "name": "Front End Software Engineer, Consumer Engineering",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/158562-front-end-software-engineer-consumer-engineering",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Entry-Level, Junior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-11-02",
+      "age_days": 1,
+      "date_found": "2026-11-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158557",
+      "name": "Frontend Engineer, Ads Campaign Manager",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/158557-frontend-engineer-ads-campaign-manager",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Midweight",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit&hellip;",
+      "date_posted": "2026-11-02",
+      "age_days": 1,
+      "date_found": "2026-11-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-zurich-193922",
+      "name": "Senior Frontend Developer",
+      "company": "Exeon Analytics",
+      "url": "https://www.arbeitnow.ch/jobs/companies/exeon-analytics/remote-senior-frontend-developer-zurich-193922",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Development",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<h4 style=\"text-align:start;\"><strong><span style=\"color:#C0504D\">80-100% | as soon as possible | Germany or Switzerland</span><br></strong></h4><h4 style=\"text-align:start;\"><strong><br>About Exeon</strong></h4><p class=\"MsoNormal\" style=\"text-align:start;\">Exeon is a Swiss cyber security company based in Zurich. Since 2016, we have been protecting critical infrastructures, financial institutions and enterprises whose operations fully rely on IT through AI-powered analysis of network communicat",
+      "date_posted": "2026-11-03",
+      "age_days": 0,
+      "date_found": "2026-11-03",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-4055842286",
+      "name": "Web Engineer IIIonXAustin, United States+8Vue-plusFrontendremotefull-timesenior$130-153K/yr13 days ago",
+      "company": "Logo of onX",
+      "url": "https://vuejobs.com/jobs/onx-web-engineer-iii",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-03",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3311158625",
+      "name": "Senior Frontend Developer (Vue.js + Next.js)OPTIVEUM sp. z o.o.Warsaw, Poland+19Vue-firstFrontendremotefull-timecontractPLN 125-130/hr8 days ago",
+      "company": "Logo of OPTIVEUM sp. z o.o.",
+      "url": "https://vuejobs.com/jobs/optiveum-sp-z-o-o-senior-frontend-developer-vue-js-next-js",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-03",
+      "score": 50,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2178683005",
+      "name": "Senior SDE (Full Stack - Frontend Heavy ) (Special Projects)HighLevelVue-firstFull-stackremotefull-timesenior7 days ago",
+      "company": "Logo of HighLevel",
+      "url": "https://vuejobs.com/jobs/highlevel-senior-sde-full-stack-frontend-heavy-special-projects",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-03",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4476462844",
+      "name": "Junior Frontend Developer (Vue.js)",
+      "company": "DigetPay",
+      "url": "https://eg.linkedin.com/jobs/view/junior-frontend-developer-vue-js-at-digetpay-4476462844",
+      "source": "LinkedIn",
+      "location": "Alexandria, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-02",
+      "age_days": 1,
+      "date_found": "2026-11-03",
+      "score": 45,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4483990875",
+      "name": "Full Stack Web Developer (.Net + Reactjs)",
+      "company": "The DevHouse",
+      "url": "https://eg.linkedin.com/jobs/view/full-stack-web-developer-net-+-reactjs-at-the-devhouse-4483990875",
+      "source": "LinkedIn",
+      "location": "Heliopolis, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-01",
+      "age_days": 2,
+      "date_found": "2026-11-03",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4485960027",
+      "name": "Front-end Lead",
+      "company": "The HR Game",
+      "url": "https://eg.linkedin.com/jobs/view/front-end-lead-at-the-hr-game-4485960027",
+      "source": "LinkedIn",
+      "location": "New Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-01",
+      "age_days": 2,
+      "date_found": "2026-11-03",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
