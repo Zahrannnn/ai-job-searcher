@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T07:44:58.605472+00:00",
-  "total_unique": 538,
+  "last_updated": "2026-11-04T07:23:16.165326+00:00",
+  "total_unique": 543,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15133,6 +15133,138 @@
       "date_found": "2026-11-03",
       "score": 65,
       "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-venon-solutions-16635369",
+      "name": "#1021 - AI-Native Full-Stack Engineer (React, Next.js, PHP)",
+      "company": "Venon Solutions",
+      "url": "https://himalayas.app/companies/venon-solutions/jobs/1021-ai-native-full-stack-engineer-react-next-js-php?utm_source=api",
+      "source": "Himalayas",
+      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer",
+        "Frontend-Engineer",
+        "Backend-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Job Opportunity only available for professionals located in Latin America.",
+      "date_posted": "2026-11-04",
+      "age_days": 0,
+      "date_found": "2026-11-04",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-5blue-software-13384652",
+      "name": "Full-Stack Developer (Django + Vue.js, AI) part-time",
+      "company": "5Blue Software",
+      "url": "https://himalayas.app/companies/5blue-software/jobs/full-stack-developer-django-vue-js-ai-part-time?utm_source=api",
+      "source": "Himalayas",
+      "location": "Ukraine",
+      "workplace": "Remote",
+      "job_type": "Part Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Full-Stack-Developer-(JavaScript-Python)",
+        "Mid-Level-Full-Stack-Developer-(JavaScript-Python)",
+        "Full-Stack-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "Hi there! We’re looking for a Full-Stack Developer with strong Django and Vue.",
+      "date_posted": "2026-11-04",
+      "age_days": 0,
+      "date_found": "2026-11-04",
+      "score": 45,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4484679748",
+      "name": "Frontend Lead – React Native",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-lead-–-react-native-at-qnbeyond-plus-4484679748",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-03",
+      "age_days": 1,
+      "date_found": "2026-11-04",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4484693142",
+      "name": "Senior Full Stack Engineer (Node/React) - Remote",
+      "company": "Kake",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-node-react-remote-at-kake-4484693142",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-03",
+      "age_days": 1,
+      "date_found": "2026-11-04",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4484685641",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4484685641",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-03",
+      "age_days": 1,
+      "date_found": "2026-11-04",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15
       },
