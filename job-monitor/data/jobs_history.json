@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T07:23:16.165326+00:00",
-  "total_unique": 543,
+  "last_updated": "2026-11-05T07:49:17.863124+00:00",
+  "total_unique": 549,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15265,6 +15265,164 @@
       "score": 90,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-159075",
+      "name": "Frontend Engineer - User Interface",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/159075-frontend-engineer-user-interface",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
+      "date_posted": "2026-11-05",
+      "age_days": 0,
+      "date_found": "2026-11-05",
+      "score": 85,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-158912",
+      "name": "Frontend Architect",
+      "company": "Caylent",
+      "url": "https://jobicy.com/jobs/158912-frontend-architect-2",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to help customers modernize their technology, build intelligent products, and&hellip;",
+      "date_posted": "2026-11-04",
+      "age_days": 1,
+      "date_found": "2026-11-05",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-1komma5-7418123",
+      "name": "Senior Backend VPP Software Engineer - TypeScript (m/f/d)",
+      "company": "1KOMMA5˚",
+      "url": "https://himalayas.app/companies/1komma5/jobs/senior-backend-vpp-software-engineer-typescript-m-f-d?utm_source=api",
+      "source": "Himalayas",
+      "location": "Germany",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Backend-Development",
+        "Software-Engineer",
+        "Virtual-Power-Plant-Engineering",
+        "TypeScript-Development",
+        "Energy-Software"
+      ],
+      "salary": "",
+      "description_excerpt": "1komma5° At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free.",
+      "date_posted": "2026-11-05",
+      "age_days": 0,
+      "date_found": "2026-11-05",
+      "score": 80,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4485504186",
+      "name": "Mid-Senior Frontend Engineer",
+      "company": "Arab Bank",
+      "url": "https://eg.linkedin.com/jobs/view/mid-senior-frontend-engineer-at-arab-bank-4485504186",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 1,
+      "date_found": "2026-11-05",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4487562288",
+      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
+      "company": "Arcsen",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 1,
+      "date_found": "2026-11-05",
+      "score": 85,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4487502954",
+      "name": "Staff Software Engineer, Frontend &amp; Full-stack",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-full-stack-at-procore-technologies-4487502954",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 1,
+      "date_found": "2026-11-05",
+      "score": 65,
+      "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
