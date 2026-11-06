@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T07:49:17.863124+00:00",
-  "total_unique": 549,
+  "last_updated": "2026-11-06T07:49:13.323906+00:00",
+  "total_unique": 553,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15421,6 +15421,112 @@
       "date_posted": "2026-11-04",
       "age_days": 1,
       "date_found": "2026-11-05",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-159205",
+      "name": "Senior Front-End Engineer (Next.js/React) - Real Estate - Mexico",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/159205-senior-front-end-engineer-next-js-react-real-estate-mexico",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-11-05",
+      "age_days": 1,
+      "date_found": "2026-11-06",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-blockchain-engineer-zug-400842",
+      "name": "Blockchain Engineer",
+      "company": "Blockvora",
+      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
+      "source": "Arbeitnow",
+      "location": "Zug",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>The role</h2><p>We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.</p><h2>What you'll do</h2><ul><li>Design and implement smart contracts</li><li>Integrate on-chain systems with backend and frontend services</li><li>Write tests, deployment scripts, and up",
+      "date_posted": "2026-11-05",
+      "age_days": 1,
+      "date_found": "2026-11-06",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2981595789",
+      "name": "Frontend Engineer IIOpenlyVue-firstNuxt.jsFrontendremotefull-timejunior$128-144K/yr11 days ago",
+      "company": "Logo of Openly",
+      "url": "https://vuejobs.com/jobs/openly-frontend-engineer-ii",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-06",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-crimson-education-4265499",
+      "name": "Web Development Support Specialist - Capstone",
+      "company": "Crimson Education",
+      "url": "https://himalayas.app/companies/crimson-education/jobs/web-development-support-specialist-capstone?utm_source=api",
+      "source": "Himalayas",
+      "location": "India, Singapore",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Website-Support-Specialist",
+        "Web-Developer",
+        "Front-End-Developer",
+        "Technical-Support-Specialist"
+      ],
+      "salary": "",
+      "description_excerpt": "Crimson Education is the world’s leading college admissions consulting firm, with over 1,490 Ivy League offers and 2,410 to the US Top 15.",
+      "date_posted": "2026-11-06",
+      "age_days": 0,
+      "date_found": "2026-11-06",
       "score": 65,
       "score_breakdown": {
         "location": 20,
