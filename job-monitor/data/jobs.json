@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-06T07:49:13.318943+00:00",
-  "total_items": 16,
-  "new_count": 4,
+  "last_run": "2026-11-07T06:57:04.609160+00:00",
+  "total_items": 11,
+  "new_count": 0,
   "items": [
     {
       "id": "remotive-2091165",
@@ -44,8 +44,8 @@
       "salary": "$3.5k–$5k/month",
       "description_excerpt": "<p dir=\"ltr\" style=\"line-height: 1.3800000000000001; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental healt",
       "date_posted": "2026-10-29",
-      "age_days": 8,
-      "date_found": "2026-11-06",
+      "age_days": 9,
+      "date_found": "2026-11-07",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -57,36 +57,6 @@
         "salary": 5
       },
       "is_new": false
-    },
-    {
-      "id": "jobicy-159205",
-      "name": "Senior Front-End Engineer (Next.js/React) - Real Estate - Mexico",
-      "company": "Truelogic",
-      "url": "https://jobicy.com/jobs/159205-senior-front-end-engineer-next-js-react-real-estate-mexico",
-      "source": "Jobicy",
-      "location": "Mexico",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
-      "date_posted": "2026-11-05",
-      "age_days": 1,
-      "date_found": "2026-11-06",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 15,
-        "founding": 10,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4470962809",
@@ -102,8 +72,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 1,
-      "date_found": "2026-11-06",
+      "age_days": 2,
+      "date_found": "2026-11-07",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -128,11 +98,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 3,
-      "date_found": "2026-11-06",
-      "score": 95,
+      "age_days": 4,
+      "date_found": "2026-11-07",
+      "score": 90,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 10,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4487562288",
+      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
+      "company": "Arcsen",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 3,
+      "date_found": "2026-11-07",
+      "score": 85,
+      "score_breakdown": {
+        "nextjs": 15,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
@@ -153,13 +148,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 3,
-      "date_found": "2026-11-06",
-      "score": 90,
+      "age_days": 4,
+      "date_found": "2026-11-07",
+      "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15
+        "fresh": 10
       },
       "is_new": false
     },
@@ -177,66 +172,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 3,
-      "date_found": "2026-11-06",
-      "score": 90,
+      "age_days": 4,
+      "date_found": "2026-11-07",
+      "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-159075",
-      "name": "Frontend Engineer - User Interface",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/159075-frontend-engineer-user-interface",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From&hellip;",
-      "date_posted": "2026-11-05",
-      "age_days": 1,
-      "date_found": "2026-11-06",
-      "score": 85,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4487562288",
-      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
-      "company": "Arcsen",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 2,
-      "date_found": "2026-11-06",
-      "score": 85,
-      "score_breakdown": {
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 10
       },
       "is_new": false
     },
@@ -254,41 +196,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-30",
-      "age_days": 7,
-      "date_found": "2026-11-06",
-      "score": 85,
+      "age_days": 8,
+      "date_found": "2026-11-07",
+      "score": 80,
       "score_breakdown": {
         "react": 25,
         "location": 20,
-        "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-152539",
-      "name": "Senior Software Engineer, Frontend",
-      "company": "Phantom",
-      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
-      "source": "Jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural&hellip;",
-      "date_posted": "2026-11-06",
-      "age_days": 0,
-      "date_found": "2026-11-06",
-      "score": 80,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
+        "fresh": 5
       },
       "is_new": false
     },
@@ -308,15 +222,15 @@
       "salary": "",
       "description_excerpt": "<h2>The role</h2><p>We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.</p><h2>What you'll do</h2><ul><li>Design and implement smart contracts</li><li>Integrate on-chain systems with backend and frontend services</li><li>Write tests, deployment scripts, and up",
       "date_posted": "2026-11-05",
-      "age_days": 1,
-      "date_found": "2026-11-06",
+      "age_days": 2,
+      "date_found": "2026-11-07",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4485504186",
@@ -332,8 +246,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 2,
-      "date_found": "2026-11-06",
+      "age_days": 3,
+      "date_found": "2026-11-07",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -341,34 +255,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-crimson-education-4265499",
-      "name": "Web Development Support Specialist - Capstone",
-      "company": "Crimson Education",
-      "url": "https://himalayas.app/companies/crimson-education/jobs/web-development-support-specialist-capstone?utm_source=api",
-      "source": "Himalayas",
-      "location": "India, Singapore",
-      "workplace": "Remote",
-      "job_type": "Contractor",
-      "experience_years": "Mid-level",
-      "skills": [
-        "Website-Support-Specialist",
-        "Web-Developer",
-        "Front-End-Developer",
-        "Technical-Support-Specialist"
-      ],
-      "salary": "",
-      "description_excerpt": "Crimson Education is the world’s leading college admissions consulting firm, with over 1,490 Ivy League offers and 2,410 to the US Top 15.",
-      "date_posted": "2026-11-06",
-      "age_days": 0,
-      "date_found": "2026-11-06",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4487502954",
@@ -384,8 +270,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 2,
-      "date_found": "2026-11-06",
+      "age_days": 3,
+      "date_found": "2026-11-07",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -407,36 +293,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-31",
-      "age_days": 6,
-      "date_found": "2026-11-06",
+      "age_days": 7,
+      "date_found": "2026-11-07",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 10
       },
       "is_new": false
-    },
-    {
-      "id": "vuejobs-2981595789",
-      "name": "Frontend Engineer IIOpenlyVue-firstNuxt.jsFrontendremotefull-timejunior$128-144K/yr11 days ago",
-      "company": "Logo of Openly",
-      "url": "https://vuejobs.com/jobs/openly-frontend-engineer-ii",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-06",
-      "score": 30,
-      "score_breakdown": {
-        "location": 20,
-        "vue_only": -20
-      },
-      "is_new": true
     }
   ]
 }
