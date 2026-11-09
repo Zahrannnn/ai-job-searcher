@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-08T07:03:53.921150+00:00",
-  "total_items": 20,
-  "new_count": 6,
+  "last_run": "2026-11-09T07:48:05.877755+00:00",
+  "total_items": 16,
+  "new_count": 2,
   "items": [
     {
       "id": "remotive-2091165",
@@ -44,8 +44,8 @@
       "salary": "$3.5k–$5k/month",
       "description_excerpt": "<p dir=\"ltr\" style=\"line-height: 1.3800000000000001; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental healt",
       "date_posted": "2026-10-29",
-      "age_days": 10,
-      "date_found": "2026-11-08",
+      "age_days": 11,
+      "date_found": "2026-11-09",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -72,17 +72,43 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 3,
-      "date_found": "2026-11-08",
+      "age_days": 4,
+      "date_found": "2026-11-09",
       "score": 100,
       "score_breakdown": {
         "react": 25,
         "nextjs": 15,
         "location": 20,
-        "fresh": 15,
+        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "name": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+      "company": "Pennylane SAS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Tech"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"min-height:1.5em\">Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)?</p><p style=\"min-height:1.5em\">Are you looking for a work environment that values trust, proactivity, and autonomy?</p><p style=\"min-height:1.5em\">Are our <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d\">Engineering principles</a> aligned with your ",
+      "date_posted": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4484693142",
@@ -98,8 +124,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 5,
-      "date_found": "2026-11-08",
+      "age_days": 6,
+      "date_found": "2026-11-09",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -108,6 +134,34 @@
         "senior_ic": 5
       },
       "is_new": false
+    },
+    {
+      "id": "jobicy-159706",
+      "name": "Staff Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/159706-staff-software-engineer-product-ai",
+      "source": "Jobicy",
+      "location": "LATAM,  Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Hi, I'm Paul, VP of Engineering at Customer.io. We're looking for a staff product engineer — not a generalist who happens to touch frontend and backend, but someone who thinks like a product owner and ships like an engineer. About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform&hellip;",
+      "date_posted": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4484679748",
@@ -123,8 +177,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 5,
-      "date_found": "2026-11-08",
+      "age_days": 6,
+      "date_found": "2026-11-09",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -147,8 +201,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 5,
-      "date_found": "2026-11-08",
+      "age_days": 6,
+      "date_found": "2026-11-09",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -174,8 +228,8 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-11-08",
-      "age_days": 0,
-      "date_found": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
       "score": 80,
       "score_breakdown": {
         "location": 20,
@@ -184,29 +238,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "vuejobs-4270021772",
-      "name": "DESENVOLVEDOR FRONT-END REACTCompany hiddenVue-firstFrontendremotecontractsenior1 day agoPRO only",
-      "company": "",
-      "url": "https://vuejobs.com/jobs/fcamara-desenvolvedor-front-end-react",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-08",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4487562288",
@@ -222,8 +253,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 4,
-      "date_found": "2026-11-08",
+      "age_days": 5,
+      "date_found": "2026-11-09",
       "score": 80,
       "score_breakdown": {
         "nextjs": 15,
@@ -247,8 +278,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-30",
-      "age_days": 9,
-      "date_found": "2026-11-08",
+      "age_days": 10,
+      "date_found": "2026-11-09",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -274,8 +305,8 @@
       "salary": "",
       "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
       "date_posted": "2026-11-08",
-      "age_days": 0,
-      "date_found": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
       "score": 75,
       "score_breakdown": {
         "location": 20,
@@ -283,54 +314,6 @@
         "ai": 10
       },
       "is_new": false
-    },
-    {
-      "id": "arbeitnow-blockchain-engineer-zug-400842",
-      "name": "Blockchain Engineer",
-      "company": "Blockvora",
-      "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
-      "source": "Arbeitnow",
-      "location": "Zug",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": "",
-      "description_excerpt": "<h2>The role</h2><p>We are hiring a Blockchain Engineer to design and implement smart contracts and chain integrations. You will work closely with backend and product teams to ship secure, production-ready on-chain systems. This is a hands-on role focused on correctness, gas efficiency, and operational safety.</p><h2>What you'll do</h2><ul><li>Design and implement smart contracts</li><li>Integrate on-chain systems with backend and frontend services</li><li>Write tests, deployment scripts, and up",
-      "date_posted": "2026-11-05",
-      "age_days": 3,
-      "date_found": "2026-11-08",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-204831694",
-      "name": "Fullstack .NET Engineer (SQL avanzado+ React/Vue/Angular) - LATAMDaCodesGuatemala, GuatemalaVue-plusFull-stackremotefull-timemid-level13 days ago",
-      "company": "Logo of DaCodes",
-      "url": "https://vuejobs.com/jobs/dacodes-fullstack-net-engineer-sql-avanzado-react-vue-angular-latam",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-08",
-      "score": 75,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4485504186",
@@ -346,8 +329,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 4,
-      "date_found": "2026-11-08",
+      "age_days": 5,
+      "date_found": "2026-11-09",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -370,37 +353,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-07",
-      "age_days": 1,
-      "date_found": "2026-11-08",
+      "age_days": 2,
+      "date_found": "2026-11-09",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4486655147",
-      "name": "Frontend Developer",
-      "company": "HiJob.work",
-      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-hijob-work-4486655147",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-07",
-      "age_days": 1,
-      "date_found": "2026-11-08",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "linkedin-4487502954",
@@ -416,8 +376,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 4,
-      "date_found": "2026-11-08",
+      "age_days": 5,
+      "date_found": "2026-11-09",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -439,8 +399,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-31",
-      "age_days": 8,
-      "date_found": "2026-11-08",
+      "age_days": 9,
+      "date_found": "2026-11-09",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -449,8 +409,8 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2698830937",
-      "name": "Senior SDE (Full Stack - Frontend Heavy ) (Special Projects)HighLevelVue-firstFull-stackremotefull-timesenior12 days ago",
+      "id": "vuejobs-2497357174",
+      "name": "Senior SDE (Full Stack - Frontend Heavy ) (Special Projects)HighLevelVue-firstFull-stackremotefull-timesenior13 days ago",
       "company": "Logo of HighLevel",
       "url": "https://vuejobs.com/jobs/highlevel-senior-sde-full-stack-frontend-heavy-special-projects",
       "source": "VueJobs",
@@ -462,7 +422,7 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-08",
+      "date_found": "2026-11-09",
       "score": 35,
       "score_breakdown": {
         "location": 20,
@@ -470,51 +430,6 @@
         "vue_only": -20
       },
       "is_new": false
-    },
-    {
-      "id": "vuejobs-405733279",
-      "name": "Senior Frontend Developer (TS/Vue.js)OPTIVEUM sp. z o.o.Warsaw, PolandVue-firstFrontendremotefull-timecontractPLN 130/hr12 days ago",
-      "company": "Logo of OPTIVEUM sp. z o.o.",
-      "url": "https://vuejobs.com/jobs/optiveum-sp-z-o-o-senior-frontend-developer-ts-vue-js",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-08",
-      "score": 35,
-      "score_breakdown": {
-        "location": 20,
-        "senior_ic": 5,
-        "vue_only": -20
-      },
-      "is_new": true
-    },
-    {
-      "id": "vuejobs-3268329072",
-      "name": "Front-End Developer (Remote)Insider OneIstanbul, TürkiyeVue-firstFrontendremotefull-timemid-level25 days ago",
-      "company": "Logo of Insider One",
-      "url": "https://vuejobs.com/jobs/insider-one-front-end-developer-remote",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-08",
-      "score": 30,
-      "score_breakdown": {
-        "location": 20,
-        "vue_only": -20
-      },
-      "is_new": true
     }
   ]
 }

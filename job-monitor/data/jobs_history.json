@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T07:03:53.926076+00:00",
-  "total_unique": 559,
+  "last_updated": "2026-11-09T07:48:05.881681+00:00",
+  "total_unique": 561,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15667,6 +15667,60 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-159706",
+      "name": "Staff Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/159706-staff-software-engineer-product-ai",
+      "source": "Jobicy",
+      "location": "LATAM,  Canada,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Hi, I'm Paul, VP of Engineering at Customer.io. We're looking for a staff product engineer — not a generalist who happens to touch frontend and backend, but someone who thinks like a product owner and ships like an engineer. About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform&hellip;",
+      "date_posted": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "name": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+      "company": "Pennylane SAS",
+      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Tech"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"min-height:1.5em\">Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)?</p><p style=\"min-height:1.5em\">Are you looking for a work environment that values trust, proactivity, and autonomy?</p><p style=\"min-height:1.5em\">Are our <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d\">Engineering principles</a> aligned with your ",
+      "date_posted": "2026-11-08",
+      "age_days": 1,
+      "date_found": "2026-11-09",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
