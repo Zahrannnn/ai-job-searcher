@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T07:48:05.881681+00:00",
-  "total_unique": 561,
+  "last_updated": "2026-11-10T08:08:42.795354+00:00",
+  "total_unique": 569,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15715,6 +15715,208 @@
       "date_posted": "2026-11-08",
       "age_days": 1,
       "date_found": "2026-11-09",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-160794",
+      "name": "Software Engineer - Console",
+      "company": "XBOW",
+      "url": "https://jobicy.com/jobs/160794-software-engineer-console",
+      "source": "Jobicy",
+      "location": "Argentina,  Europe,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About XBOW Build the future of offensive security with XBOW. Attackers are already using AI to move faster than defenders can react—we’re creating the platform that puts security ahead in the arms race. Our AI-powered system autonomously discovers, validates, and even exploits vulnerabilities, giving organizations proof-backed results in hours instead of weeks. Founded by Oege&hellip;",
+      "date_posted": "2026-11-10",
+      "age_days": 0,
+      "date_found": "2026-11-10",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-160680",
+      "name": "Frontend Manager Software Engineer (Hands-On) | Partners Acquisition",
+      "company": "Wellhub",
+      "url": "https://jobicy.com/jobs/160680-frontend-manager-software-engineer-hands-on-partners-acquisition",
+      "source": "Jobicy",
+      "location": "Portugal",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Part-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re&hellip;",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-founding-full-stack-engineer-berlin-62731",
+      "name": "Founding Full-Stack Engineer",
+      "company": "planqor.ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-62731",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Web Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>Founding Full-Stack Engineer</h2><p>Build the software systems around planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct access to high-impact industry problems. Work directly with our CTO and shape a greenfield product spanning Python backend, data, visualization, frontend, infrastructure, and integration with our optimization core. Backed by investo",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2271523825",
+      "name": "AWeb DeveloperA49Meridian, United StatesVue-plusFrontendremotefull-timemid-level$85-110K/yr29 days ago",
+      "company": "Flag of United States",
+      "url": "https://vuejobs.com/jobs/a49-web-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-10",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4487158261",
+      "name": "ETIC, Senior Associate Frontend Engineer- React",
+      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
+      "url": "https://eg.linkedin.com/jobs/view/etic-senior-associate-frontend-engineer-react-at-pwc-egypt-technology-and-innovation-centre-etic-4487158261",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4489172349",
+      "name": "Staff Software Engineer - Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4489172349",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-10",
+      "age_days": 0,
+      "date_found": "2026-11-10",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4487148744",
+      "name": "ETIC, Frontend Developer, Senior Associate",
+      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
+      "url": "https://eg.linkedin.com/jobs/view/etic-frontend-developer-senior-associate-at-pwc-egypt-technology-and-innovation-centre-etic-4487148744",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4489130789",
+      "name": "React Native Developer (Senior).",
+      "company": "Fixed Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-senior-at-fixed-solutions-4489130789",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
       "score": 95,
       "score_breakdown": {
         "react": 25,

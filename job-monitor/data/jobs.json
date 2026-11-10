@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-09T07:48:05.877755+00:00",
-  "total_items": 16,
-  "new_count": 2,
+  "last_run": "2026-11-10T08:08:42.792698+00:00",
+  "total_items": 20,
+  "new_count": 8,
   "items": [
     {
       "id": "remotive-2091165",
@@ -44,8 +44,8 @@
       "salary": "$3.5k–$5k/month",
       "description_excerpt": "<p dir=\"ltr\" style=\"line-height: 1.3800000000000001; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental healt",
       "date_posted": "2026-10-29",
-      "age_days": 11,
-      "date_found": "2026-11-09",
+      "age_days": 12,
+      "date_found": "2026-11-10",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -55,6 +55,63 @@
         "fresh": 5,
         "ai": 10,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-160794",
+      "name": "Software Engineer - Console",
+      "company": "XBOW",
+      "url": "https://jobicy.com/jobs/160794-software-engineer-console",
+      "source": "Jobicy",
+      "location": "Argentina,  Europe,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About XBOW Build the future of offensive security with XBOW. Attackers are already using AI to move faster than defenders can react—we’re creating the platform that puts security ahead in the arms race. Our AI-powered system autonomously discovers, validates, and even exploits vulnerabilities, giving organizations proof-backed results in hours instead of weeks. Founded by Oege&hellip;",
+      "date_posted": "2026-11-10",
+      "age_days": 0,
+      "date_found": "2026-11-10",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-152819",
+      "name": "Software Engineer, Data Integration",
+      "company": "Bayesian Health",
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "date_posted": "2026-11-10",
+      "age_days": 0,
+      "date_found": "2026-11-10",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10
       },
       "is_new": false
     },
@@ -72,8 +129,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 4,
-      "date_found": "2026-11-09",
+      "age_days": 5,
+      "date_found": "2026-11-10",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -85,22 +142,46 @@
       "is_new": false
     },
     {
-      "id": "arbeitnow-remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-      "name": "Senior Fullstack Software Engineer (Ruby/React & TS)",
-      "company": "Pennylane SAS",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "workplace": "Remote",
+      "id": "linkedin-4487158261",
+      "name": "ETIC, Senior Associate Frontend Engineer- React",
+      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
+      "url": "https://eg.linkedin.com/jobs/view/etic-senior-associate-frontend-engineer-react-at-pwc-egypt-technology-and-innovation-centre-etic-4487158261",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
       "experience_years": "",
-      "skills": [
-        "Tech"
-      ],
+      "skills": [],
       "salary": "",
-      "description_excerpt": "<p style=\"min-height:1.5em\">Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)?</p><p style=\"min-height:1.5em\">Are you looking for a work environment that values trust, proactivity, and autonomy?</p><p style=\"min-height:1.5em\">Are our <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"postings-link\" href=\"https://medium.com/pennylane-engineering/our-engineering-principles-ab0613a0574d\">Engineering principles</a> aligned with your ",
-      "date_posted": "2026-11-08",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
       "age_days": 1,
-      "date_found": "2026-11-09",
+      "date_found": "2026-11-10",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4489130789",
+      "name": "React Native Developer (Senior).",
+      "company": "Fixed Solutions",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-senior-at-fixed-solutions-4489130789",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -124,8 +205,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 6,
-      "date_found": "2026-11-09",
+      "age_days": 7,
+      "date_found": "2026-11-10",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -152,8 +233,35 @@
       "salary": "",
       "description_excerpt": "Hi, I'm Paul, VP of Engineering at Customer.io. We're looking for a staff product engineer — not a generalist who happens to touch frontend and backend, but someone who thinks like a product owner and ships like an engineer. About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform&hellip;",
       "date_posted": "2026-11-08",
+      "age_days": 2,
+      "date_found": "2026-11-10",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": false
+    },
+    {
+      "id": "arbeitnow-founding-full-stack-engineer-berlin-62731",
+      "name": "Founding Full-Stack Engineer",
+      "company": "planqor.ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-62731",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Web Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>Founding Full-Stack Engineer</h2><p>Build the software systems around planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct access to high-impact industry problems. Work directly with our CTO and shape a greenfield product spanning Python backend, data, visualization, frontend, infrastructure, and integration with our optimization core. Backed by investo",
+      "date_posted": "2026-11-09",
       "age_days": 1,
-      "date_found": "2026-11-09",
+      "date_found": "2026-11-10",
       "score": 85,
       "score_breakdown": {
         "location": 20,
@@ -177,8 +285,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 6,
-      "date_found": "2026-11-09",
+      "age_days": 7,
+      "date_found": "2026-11-10",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -201,41 +309,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 6,
-      "date_found": "2026-11-09",
+      "age_days": 7,
+      "date_found": "2026-11-10",
       "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-152642",
-      "name": "Senior Frontend Engineer",
-      "company": "ClickUp",
-      "url": "https://jobicy.com/jobs/152642-senior-frontend-engineer-2",
-      "source": "Jobicy",
-      "location": "Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "date_posted": "2026-11-08",
-      "age_days": 1,
-      "date_found": "2026-11-09",
-      "score": 80,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "ai": 10,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -253,8 +333,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 5,
-      "date_found": "2026-11-09",
+      "age_days": 6,
+      "date_found": "2026-11-10",
       "score": 80,
       "score_breakdown": {
         "nextjs": 15,
@@ -278,8 +358,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-30",
-      "age_days": 10,
-      "date_found": "2026-11-09",
+      "age_days": 11,
+      "date_found": "2026-11-10",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -289,31 +369,55 @@
       "is_new": false
     },
     {
-      "id": "jobicy-152644",
-      "name": "Staff Frontend Engineer",
-      "company": "ClickUp",
-      "url": "https://jobicy.com/jobs/152644-staff-frontend-engineer",
+      "id": "jobicy-160680",
+      "name": "Frontend Manager Software Engineer (Hands-On) | Partners Acquisition",
+      "company": "Wellhub",
+      "url": "https://jobicy.com/jobs/160680-frontend-manager-software-engineer-hands-on-partners-acquisition",
       "source": "Jobicy",
-      "location": "Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine",
+      "location": "Portugal",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
       "skills": [
         "Software Engineering",
-        "Full-Time"
+        "Part-Time"
       ],
       "salary": "",
-      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "date_posted": "2026-11-08",
+      "description_excerpt": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re&hellip;",
+      "date_posted": "2026-11-09",
       "age_days": 1,
-      "date_found": "2026-11-09",
+      "date_found": "2026-11-10",
       "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4487148744",
+      "name": "ETIC, Frontend Developer, Senior Associate",
+      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
+      "url": "https://eg.linkedin.com/jobs/view/etic-frontend-developer-senior-associate-at-pwc-egypt-technology-and-innovation-centre-etic-4487148744",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-09",
+      "age_days": 1,
+      "date_found": "2026-11-10",
+      "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "ai": 10
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4485504186",
@@ -329,8 +433,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 5,
-      "date_found": "2026-11-09",
+      "age_days": 6,
+      "date_found": "2026-11-10",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -340,10 +444,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4488715422",
+      "id": "linkedin-4489172349",
       "name": "Staff Software Engineer - Frontend",
       "company": "Procore Technologies",
-      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4488715422",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4489172349",
       "source": "LinkedIn",
       "location": "Cairo, Cairo, Egypt",
       "workplace": "On-site",
@@ -352,15 +456,15 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-11-07",
-      "age_days": 2,
-      "date_found": "2026-11-09",
+      "date_posted": "2026-11-10",
+      "age_days": 0,
+      "date_found": "2026-11-10",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4487502954",
@@ -376,8 +480,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 5,
-      "date_found": "2026-11-09",
+      "age_days": 6,
+      "date_found": "2026-11-10",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -399,8 +503,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-31",
-      "age_days": 9,
-      "date_found": "2026-11-09",
+      "age_days": 10,
+      "date_found": "2026-11-10",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -409,10 +513,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2497357174",
-      "name": "Senior SDE (Full Stack - Frontend Heavy ) (Special Projects)HighLevelVue-firstFull-stackremotefull-timesenior13 days ago",
-      "company": "Logo of HighLevel",
-      "url": "https://vuejobs.com/jobs/highlevel-senior-sde-full-stack-frontend-heavy-special-projects",
+      "id": "vuejobs-2271523825",
+      "name": "AWeb DeveloperA49Meridian, United StatesVue-plusFrontendremotefull-timemid-level$85-110K/yr29 days ago",
+      "company": "Flag of United States",
+      "url": "https://vuejobs.com/jobs/a49-web-developer",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -422,14 +526,13 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-09",
-      "score": 35,
+      "date_found": "2026-11-10",
+      "score": 30,
       "score_breakdown": {
         "location": 20,
-        "senior_ic": 5,
         "vue_only": -20
       },
-      "is_new": false
+      "is_new": true
     }
   ]
 }
