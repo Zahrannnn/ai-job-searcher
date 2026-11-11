@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T08:08:42.795354+00:00",
-  "total_unique": 569,
+  "last_updated": "2026-11-11T07:38:19.633041+00:00",
+  "total_unique": 576,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -15923,6 +15923,200 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-c-software-engineer-united-kingdom-398275",
+      "name": "C++ Software Engineer",
+      "company": "Reactive Markets",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "<h1><strong>C++ Software Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the ",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-technical-delivery-analyst-united-kingdom-128572",
+      "name": "Technical Delivery Analyst",
+      "company": "Reactive Markets",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-128572",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "<h1><strong>Technical Delivery Analyst</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based)</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the world's",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-frontend-engineer-united-kingdom-408750",
+      "name": "Senior Frontend Engineer",
+      "company": "Reactive Markets",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-408750",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "<h1><strong>Senior Frontend Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of t",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-c-software-engineer-united-kingdom-25672",
+      "name": "Senior C++ Software Engineer",
+      "company": "Reactive Markets",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-25672",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering"
+      ],
+      "salary": "",
+      "description_excerpt": "<h1><strong>Senior C++ Software Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ ",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2487825886",
+      "name": "Fullstack .NET Engineer (SQL avanzado+ React/Vue/Angular) - LATAMDaCodesVue-plusFull-stackremotefull-timemid-level16 days ago",
+      "company": "Logo of DaCodes",
+      "url": "https://vuejobs.com/jobs/dacodes-fullstack-net-engineer-sql-avanzado-react-vue-angular-latam-4",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-11",
+      "score": 75,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-go-intellects-inc-16026283",
+      "name": "16yrs Senior REACT JS Developer -Remote - In Person interview",
+      "company": "Go Intellects Inc.",
+      "url": "https://himalayas.app/companies/go-intellects-inc/jobs/16yrs-senior-react-js-developer-remote-in-person-interview?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Senior",
+      "skills": [
+        "React-Developer",
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "Software-Developer"
+      ],
+      "salary": "84-88 USD",
+      "description_excerpt": "Role: Senior REACT JS DeveloperClient: DC GovernmentLocation : Washington, DC (Remote- In Person interview)Job Description:The role will require you to design, develop and test using React JS technologies which will facilitate application development and implementation from development to QA to production.",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-micro1-4295617",
+      "name": "Sr. Full-Stack Software Engineer",
+      "company": "micro1",
+      "url": "https://himalayas.app/companies/micro1/jobs/sr-full-stack-software-engineer-579932160?utm_source=api",
+      "source": "Himalayas",
+      "location": "Suriname",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Engineer",
+        "Senior-Full-Stack-Engineering",
+        "Senior-Fullstack-Developer",
+        "Senior-Full-Stack-Engineer-(React-Node.Js)",
+        "¿Senior-Fullstack-Engineering",
+        "Senior-Full-Stack-Development",
+        "Senior-Full-Stack-Engineer-(JavaScript-Python)"
+      ],
+      "salary": "50-100 USD",
+      "description_excerpt": "Full-Stack Software EngineerLocation: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired as long as there is activity.",
+      "date_posted": "2026-11-11",
+      "age_days": 0,
+      "date_found": "2026-11-11",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
       },
       "is_new": true
     }
