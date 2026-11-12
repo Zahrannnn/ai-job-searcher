@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-11T07:38:19.629025+00:00",
-  "total_items": 22,
-  "new_count": 7,
+  "last_run": "2026-11-12T08:06:35.710909+00:00",
+  "total_items": 17,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2091165",
@@ -44,8 +44,8 @@
       "salary": "$3.5k–$5k/month",
       "description_excerpt": "<p dir=\"ltr\" style=\"line-height: 1.3800000000000001; margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">We’re looking for a pragmatic, security-minded Full-Stack Developer to help build and scale Fluence’s B2B products used by clinicians, researchers, and organizations in psychedelic-assisted therapy and mental healt",
       "date_posted": "2026-10-29",
-      "age_days": 13,
-      "date_found": "2026-11-11",
+      "age_days": 14,
+      "date_found": "2026-11-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -59,200 +59,32 @@
       "is_new": false
     },
     {
-      "id": "jobicy-160794",
-      "name": "Software Engineer - Console",
-      "company": "XBOW",
-      "url": "https://jobicy.com/jobs/160794-software-engineer-console",
-      "source": "Jobicy",
-      "location": "Argentina,  Europe,  USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About XBOW Build the future of offensive security with XBOW. Attackers are already using AI to move faster than defenders can react—we’re creating the platform that puts security ahead in the arms race. Our AI-powered system autonomously discovers, validates, and even exploits vulnerabilities, giving organizations proof-backed results in hours instead of weeks. Founded by Oege&hellip;",
-      "date_posted": "2026-11-10",
-      "age_days": 1,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-152819",
-      "name": "Software Engineer, Data Integration",
-      "company": "Bayesian Health",
-      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "id": "jobicy-145744",
+      "name": "Frontend Engineer React and AWS",
+      "company": "Numentica",
+      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
       "source": "Jobicy",
       "location": "USA",
       "workplace": "Remote",
       "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "Midweight",
       "skills": [
         "Software Engineering",
-        "Full-Time"
+        "Contract"
       ],
       "salary": "",
-      "description_excerpt": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
-      "date_posted": "2026-11-10",
-      "age_days": 1,
-      "date_found": "2026-11-11",
+      "description_excerpt": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong React and TypeScript experience HTML5, CSS3, JavaScript AWS&hellip;",
+      "date_posted": "2026-11-12",
+      "age_days": 0,
+      "date_found": "2026-11-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
+        "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "founding": 10
+        "fresh": 15
       },
       "is_new": false
-    },
-    {
-      "id": "arbeitnow-c-software-engineer-united-kingdom-398275",
-      "name": "C++ Software Engineer",
-      "company": "Reactive Markets",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-398275",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Engineering"
-      ],
-      "salary": "",
-      "description_excerpt": "<h1><strong>C++ Software Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the ",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "arbeitnow-technical-delivery-analyst-united-kingdom-128572",
-      "name": "Technical Delivery Analyst",
-      "company": "Reactive Markets",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-128572",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Engineering"
-      ],
-      "salary": "",
-      "description_excerpt": "<h1><strong>Technical Delivery Analyst</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based)</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of the world's",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "arbeitnow-senior-frontend-engineer-united-kingdom-408750",
-      "name": "Senior Frontend Engineer",
-      "company": "Reactive Markets",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-408750",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Engineering"
-      ],
-      "salary": "",
-      "description_excerpt": "<h1><strong>Senior Frontend Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ of t",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "arbeitnow-senior-c-software-engineer-united-kingdom-25672",
-      "name": "Senior C++ Software Engineer",
-      "company": "Reactive Markets",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-c-software-engineer-united-kingdom-25672",
-      "source": "Arbeitnow",
-      "location": "Remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Engineering"
-      ],
-      "salary": "",
-      "description_excerpt": "<h1><strong>Senior C++ Software Engineer</strong></h1><p style=\"min-height:1.5em\"><strong>Remote (UK-based) | Full-Time</strong></p><h2></h2><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 60+ ",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "himalayas-go-intellects-inc-16026283",
-      "name": "16yrs Senior REACT JS Developer -Remote - In Person interview",
-      "company": "Go Intellects Inc.",
-      "url": "https://himalayas.app/companies/go-intellects-inc/jobs/16yrs-senior-react-js-developer-remote-in-person-interview?utm_source=api",
-      "source": "Himalayas",
-      "location": "United States",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Senior",
-      "skills": [
-        "React-Developer",
-        "Front-End-Developer",
-        "Frontend-Engineer",
-        "Web-Developer",
-        "Software-Developer"
-      ],
-      "salary": "84-88 USD",
-      "description_excerpt": "Role: Senior REACT JS DeveloperClient: DC GovernmentLocation : Washington, DC (Remote- In Person interview)Job Description:The role will require you to design, develop and test using React JS technologies which will facilitate application development and implementation from development to QA to production.",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5,
-        "salary": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4470962809",
@@ -268,8 +100,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 6,
-      "date_found": "2026-11-11",
+      "age_days": 7,
+      "date_found": "2026-11-12",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -279,39 +111,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-micro1-4295617",
-      "name": "Sr. Full-Stack Software Engineer",
-      "company": "micro1",
-      "url": "https://himalayas.app/companies/micro1/jobs/sr-full-stack-software-engineer-579932160?utm_source=api",
-      "source": "Himalayas",
-      "location": "Suriname",
-      "workplace": "Remote",
-      "job_type": "Contractor",
-      "experience_years": "Senior",
-      "skills": [
-        "Full-Stack-Engineer",
-        "Senior-Full-Stack-Engineering",
-        "Senior-Fullstack-Developer",
-        "Senior-Full-Stack-Engineer-(React-Node.Js)",
-        "¿Senior-Fullstack-Engineering",
-        "Senior-Full-Stack-Development",
-        "Senior-Full-Stack-Engineer-(JavaScript-Python)"
-      ],
-      "salary": "50-100 USD",
-      "description_excerpt": "Full-Stack Software EngineerLocation: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired as long as there is activity.",
-      "date_posted": "2026-11-11",
-      "age_days": 0,
-      "date_found": "2026-11-11",
-      "score": 95,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15,
-        "salary": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4487158261",
@@ -327,8 +126,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 2,
-      "date_found": "2026-11-11",
+      "age_days": 3,
+      "date_found": "2026-11-12",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -352,8 +151,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 8,
-      "date_found": "2026-11-11",
+      "age_days": 9,
+      "date_found": "2026-11-12",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -364,29 +163,32 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4487562288",
-      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
-      "company": "Arcsen",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
+      "id": "jobicy-161371",
+      "name": "Senior Frontend Engineer - Remote Europe",
+      "company": "Reedsy",
+      "url": "https://jobicy.com/jobs/161371-senior-frontend-engineer-remote-europe",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
       "job_type": "",
-      "experience_years": "",
-      "skills": [],
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 7,
-      "date_found": "2026-11-11",
+      "description_excerpt": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
+      "date_posted": "2026-11-11",
+      "age_days": 1,
+      "date_found": "2026-11-12",
       "score": 80,
       "score_breakdown": {
-        "nextjs": 15,
+        "typescript": 10,
         "location": 20,
-        "fresh": 10,
+        "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4485365531",
@@ -402,8 +204,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-30",
-      "age_days": 12,
-      "date_found": "2026-11-11",
+      "age_days": 13,
+      "date_found": "2026-11-12",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -426,8 +228,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 8,
-      "date_found": "2026-11-11",
+      "age_days": 9,
+      "date_found": "2026-11-12",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -437,51 +239,80 @@
       "is_new": false
     },
     {
-      "id": "jobicy-160680",
-      "name": "Frontend Manager Software Engineer (Hands-On) | Partners Acquisition",
-      "company": "Wellhub",
-      "url": "https://jobicy.com/jobs/160680-frontend-manager-software-engineer-hands-on-partners-acquisition",
-      "source": "Jobicy",
-      "location": "Portugal",
-      "workplace": "Remote",
+      "id": "linkedin-4484685641",
+      "name": "React Native Developer",
+      "company": "QNBeyond Plus",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-qnbeyond-plus-4484685641",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
       "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Part-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team members in Europe, North America and South America, we’re&hellip;",
-      "date_posted": "2026-11-09",
-      "age_days": 2,
-      "date_found": "2026-11-11",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-2487825886",
-      "name": "Fullstack .NET Engineer (SQL avanzado+ React/Vue/Angular) - LATAMDaCodesVue-plusFull-stackremotefull-timemid-level16 days ago",
-      "company": "Logo of DaCodes",
-      "url": "https://vuejobs.com/jobs/dacodes-fullstack-net-engineer-sql-avanzado-react-vue-angular-latam-4",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
       "experience_years": "",
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-11",
-      "score": 75,
+      "date_posted": "2026-11-03",
+      "age_days": 9,
+      "date_found": "2026-11-12",
+      "score": 80,
       "score_breakdown": {
         "react": 25,
-        "location": 20
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4487562288",
+      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
+      "company": "Arcsen",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
+      "source": "LinkedIn",
+      "location": "Qesm El Maadi, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 8,
+      "date_found": "2026-11-12",
+      "score": 75,
+      "score_breakdown": {
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 5,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "himalayas-broadway-ventures-3320966",
+      "name": "Application Developer (Java, JavaScript) (Full-Stack)",
+      "company": "Broadway Ventures",
+      "url": "https://himalayas.app/companies/broadway-ventures/jobs/application-developer-java-javascript-full-stack?utm_source=api",
+      "source": "Himalayas",
+      "location": "United States",
+      "workplace": "Remote",
+      "job_type": "Part Time",
+      "experience_years": "Senior",
+      "skills": [
+        "Application-Developer",
+        "Full-Stack-Developer",
+        "Java-Developer",
+        "Backend-Engineer"
+      ],
+      "salary": "55-70 USD",
+      "description_excerpt": "At Broadway Ventures, we transform challenges into opportunities with expert program management, cutting-edge technology, and innovative consulting solutions.",
+      "date_posted": "2026-11-12",
+      "age_days": 0,
+      "date_found": "2026-11-12",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "salary": 5
       },
       "is_new": true
     },
@@ -499,36 +330,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 2,
-      "date_found": "2026-11-11",
+      "age_days": 3,
+      "date_found": "2026-11-12",
       "score": 70,
       "score_breakdown": {
         "location": 20,
         "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "linkedin-4485504186",
-      "name": "Mid-Senior Frontend Engineer",
-      "company": "Arab Bank",
-      "url": "https://eg.linkedin.com/jobs/view/mid-senior-frontend-engineer-at-arab-bank-4485504186",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 7,
-      "date_found": "2026-11-11",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 10,
         "senior_ic": 5
       },
       "is_new": false
@@ -547,8 +354,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-10",
-      "age_days": 1,
-      "date_found": "2026-11-11",
+      "age_days": 2,
+      "date_found": "2026-11-12",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -557,12 +364,41 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4487502954",
-      "name": "Staff Software Engineer, Frontend &amp; Full-stack",
-      "company": "Procore Technologies",
-      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-full-stack-at-procore-technologies-4487502954",
+      "id": "jobicy-161358",
+      "name": "Senior Software Engineer (Node/Vue/TypeScript) - Remote Europe",
+      "company": "Reedsy",
+      "url": "https://jobicy.com/jobs/161358-senior-software-engineer-node-vue-typescript-remote-europe",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "We welcome applicants based anywhere in Europe. About Reedsy We’re here to give authors the tools and resources they need to create beautiful books. Our marketplace gathers the industry's best publishing professionals — the likes of Neil Gaiman's editor, Nora Roberts' book marketer, and GRRM’s cover designer. We’ve grown to a community of 5,000,000 authors,&hellip;",
+      "date_posted": "2026-11-11",
+      "age_days": 1,
+      "date_found": "2026-11-12",
+      "score": 60,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4485504186",
+      "name": "Mid-Senior Frontend Engineer",
+      "company": "Arab Bank",
+      "url": "https://eg.linkedin.com/jobs/view/mid-senior-frontend-engineer-at-arab-bank-4485504186",
       "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
+      "location": "Cairo, Egypt",
       "workplace": "On-site",
       "job_type": "",
       "experience_years": "",
@@ -570,12 +406,13 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 7,
-      "date_found": "2026-11-11",
+      "age_days": 8,
+      "date_found": "2026-11-12",
       "score": 60,
       "score_breakdown": {
         "location": 20,
-        "fresh": 10
+        "fresh": 5,
+        "senior_ic": 5
       },
       "is_new": false
     },
@@ -593,8 +430,31 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-31",
-      "age_days": 11,
-      "date_found": "2026-11-11",
+      "age_days": 12,
+      "date_found": "2026-11-12",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4487502954",
+      "name": "Staff Software Engineer, Frontend &amp; Full-stack",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-full-stack-at-procore-technologies-4487502954",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-04",
+      "age_days": 8,
+      "date_found": "2026-11-12",
       "score": 55,
       "score_breakdown": {
         "location": 20,
