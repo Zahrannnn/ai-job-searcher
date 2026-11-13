@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T08:06:35.716034+00:00",
-  "total_unique": 579,
+  "last_updated": "2026-11-13T07:42:43.512777+00:00",
+  "total_unique": 585,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16203,6 +16203,167 @@
         "location": 20,
         "fresh": 15,
         "salary": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-161682",
+      "name": "Tech Lead - React & Python",
+      "company": "Nearform",
+      "url": "https://jobicy.com/jobs/161682-tech-lead-react-python",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Tech Lead (Perm, USA, Remote + Travel) This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company.&hellip;",
+      "date_posted": "2026-11-12",
+      "age_days": 1,
+      "date_found": "2026-11-13",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-161667",
+      "name": "Senior Software Engineer - React & Python",
+      "company": "Nearform",
+      "url": "https://jobicy.com/jobs/161667-senior-software-engineer-react-python",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company. About Nearform Nearform is an independent team&hellip;",
+      "date_posted": "2026-11-12",
+      "age_days": 1,
+      "date_found": "2026-11-13",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2180376978",
+      "name": "(1624) Senior Fullstack Engineer (Python and Vue.js, React)Company hiddenVue-firstFull-stackremotefull-timesenior1 day agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/nortal-1624-senior-fullstack-engineer-python-and-vue-js-react",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-13",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2190553852",
+      "name": "Senior UI/UX DesignerBright Vision TechnologiesFrisco, United StatesVue-plusFrontendremotefull-timesenior$135-155K/yr11 days ago",
+      "company": "Logo of Bright Vision Technologies",
+      "url": "https://vuejobs.com/jobs/bright-vision-technologies-senior-ui-ux-designer-7",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-13",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-fcamara-6254450",
+      "name": "Desenvolvedor Fullstack Senior",
+      "company": "FCamara",
+      "url": "https://himalayas.app/companies/fcamara/jobs/desenvolvedor-fullstack-senior-1690352147?utm_source=api",
+      "source": "Himalayas",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Full-Stack-Developer",
+        "Senior-Software-Developer",
+        "Backend-Engineer",
+        "Front-End-Developer",
+        "Software-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "A FCamara está em busca de um(a) Desenvolvedor(a) FullStack Senior para atuar em parceria com uma empresa do segmento educacional.",
+      "date_posted": "2026-11-13",
+      "age_days": 0,
+      "date_found": "2026-11-13",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-akamai-technologies-8150509",
+      "name": "Frontend Software Engineer - Remote Poland",
+      "company": "Akamai Technologies",
+      "url": "https://himalayas.app/companies/akamai-technologies/jobs/frontend-software-engineer-remote-poland?utm_source=api",
+      "source": "Himalayas",
+      "location": "Poland",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Front-End-Software-Engineer",
+        "Front-End-Developer",
+        "Frontend-Engineer",
+        "Web-Developer",
+        "Software-Engineer"
+      ],
+      "salary": "",
+      "description_excerpt": "Are you a software developer who loves solving problems?",
+      "date_posted": "2026-11-13",
+      "age_days": 0,
+      "date_found": "2026-11-13",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
       },
       "is_new": true
     }
