@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-13T07:42:43.508736+00:00",
-  "total_items": 23,
-  "new_count": 6,
+  "last_run": "2026-11-14T07:29:21.683781+00:00",
+  "total_items": 18,
+  "new_count": 5,
   "items": [
     {
       "id": "jobicy-155233",
@@ -20,8 +20,8 @@
       "salary": "",
       "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
       "date_posted": "2026-11-13",
-      "age_days": 0,
-      "date_found": "2026-11-13",
+      "age_days": 1,
+      "date_found": "2026-11-14",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -30,34 +30,6 @@
         "fresh": 15,
         "ai": 10,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-145744",
-      "name": "Frontend Engineer React and AWS",
-      "company": "Numentica",
-      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Midweight",
-      "skills": [
-        "Software Engineering",
-        "Contract"
-      ],
-      "salary": "",
-      "description_excerpt": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong React and TypeScript experience HTML5, CSS3, JavaScript AWS&hellip;",
-      "date_posted": "2026-11-12",
-      "age_days": 1,
-      "date_found": "2026-11-13",
-      "score": 100,
-      "score_breakdown": {
-        "react": 25,
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
       },
       "is_new": false
     },
@@ -75,8 +47,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 8,
-      "date_found": "2026-11-13",
+      "age_days": 9,
+      "date_found": "2026-11-14",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -88,86 +60,33 @@
       "is_new": false
     },
     {
-      "id": "jobicy-161667",
-      "name": "Senior Software Engineer - React & Python",
-      "company": "Nearform",
-      "url": "https://jobicy.com/jobs/161667-senior-software-engineer-react-python",
-      "source": "Jobicy",
-      "location": "USA",
+      "id": "himalayas-sparq-6013436",
+      "name": "Senior React Native Mobile Engineer (Fixed-Term)",
+      "company": "Sparq",
+      "url": "https://himalayas.app/companies/sparq/jobs/senior-react-native-mobile-engineer-fixed-term?utm_source=api",
+      "source": "Himalayas",
+      "location": "Uruguay",
       "workplace": "Remote",
-      "job_type": "",
+      "job_type": "Contractor",
       "experience_years": "Senior",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "Senior-React-Native-Mobile-Developer",
+        "Mobile-Engineer",
+        "React-Native-Developer",
+        "Mobile-Software-Engineer",
+        "Cross-Platform-Mobile-Developer"
       ],
       "salary": "",
-      "description_excerpt": "This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company. About Nearform Nearform is an independent team&hellip;",
-      "date_posted": "2026-11-12",
-      "age_days": 1,
-      "date_found": "2026-11-13",
+      "description_excerpt": "At Sparq, we help companies solve the right problems—not just build more technology.",
+      "date_posted": "2026-11-14",
+      "age_days": 0,
+      "date_found": "2026-11-14",
       "score": 95,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "jobicy-155186",
-      "name": "Senior Software Engineer (Full-Stack, JavaScript)",
-      "company": "Able",
-      "url": "https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript",
-      "source": "Jobicy",
-      "location": "LATAM",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things, so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we’ve grown…&hellip;",
-      "date_posted": "2026-11-13",
-      "age_days": 0,
-      "date_found": "2026-11-13",
-      "score": 90,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15,
-        "founding": 10,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-161682",
-      "name": "Tech Lead - React & Python",
-      "company": "Nearform",
-      "url": "https://jobicy.com/jobs/161682-tech-lead-react-python",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "Tech Lead (Perm, USA, Remote + Travel) This is a full-time, permanent opportunity for candidates based in the United States and authorized to work without sponsorship. Please note that visa sponsorship is not available for this role. This position also requires traveling to client sites within the U.S., with travel expenses covered by the company.&hellip;",
-      "date_posted": "2026-11-12",
-      "age_days": 1,
-      "date_found": "2026-11-13",
-      "score": 90,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 15
       },
       "is_new": true
     },
@@ -185,8 +104,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 4,
-      "date_found": "2026-11-13",
+      "age_days": 5,
+      "date_found": "2026-11-14",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -210,61 +129,14 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 10,
-      "date_found": "2026-11-13",
+      "age_days": 11,
+      "date_found": "2026-11-14",
       "score": 85,
       "score_breakdown": {
         "react": 25,
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-2180376978",
-      "name": "(1624) Senior Fullstack Engineer (Python and Vue.js, React)Company hiddenVue-firstFull-stackremotefull-timesenior1 day agoPRO only",
-      "company": "",
-      "url": "https://vuejobs.com/jobs/nortal-1624-senior-fullstack-engineer-python-and-vue-js-react",
-      "source": "VueJobs",
-      "location": "remote",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "",
-      "age_days": null,
-      "date_found": "2026-11-13",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "senior_ic": 5
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4485365531",
-      "name": "Lead React Frontend Developer",
-      "company": "SAQAYA",
-      "url": "https://eg.linkedin.com/jobs/view/lead-react-frontend-developer-at-saqaya-4485365531",
-      "source": "LinkedIn",
-      "location": "Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-10-30",
-      "age_days": 14,
-      "date_found": "2026-11-13",
-      "score": 80,
-      "score_breakdown": {
-        "react": 25,
-        "location": 20,
-        "fresh": 5
       },
       "is_new": false
     },
@@ -282,8 +154,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 10,
-      "date_found": "2026-11-13",
+      "age_days": 11,
+      "date_found": "2026-11-14",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -306,8 +178,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-03",
-      "age_days": 10,
-      "date_found": "2026-11-13",
+      "age_days": 11,
+      "date_found": "2026-11-14",
       "score": 80,
       "score_breakdown": {
         "react": 25,
@@ -317,32 +189,29 @@
       "is_new": false
     },
     {
-      "id": "himalayas-akamai-technologies-8150509",
-      "name": "Frontend Software Engineer - Remote Poland",
-      "company": "Akamai Technologies",
-      "url": "https://himalayas.app/companies/akamai-technologies/jobs/frontend-software-engineer-remote-poland?utm_source=api",
-      "source": "Himalayas",
-      "location": "Poland",
+      "id": "jobicy-161780",
+      "name": "Front End Engineer",
+      "company": "Oddball",
+      "url": "https://jobicy.com/jobs/161780-front-end-engineer",
+      "source": "Jobicy",
+      "location": "USA",
       "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
+      "job_type": "",
+      "experience_years": "Any",
       "skills": [
-        "Front-End-Software-Engineer",
-        "Front-End-Developer",
-        "Frontend-Engineer",
-        "Web-Developer",
-        "Software-Engineer"
+        "Software Engineering",
+        "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Are you a software developer who loves solving problems?",
+      "description_excerpt": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
       "date_posted": "2026-11-13",
-      "age_days": 0,
-      "date_found": "2026-11-13",
+      "age_days": 1,
+      "date_found": "2026-11-14",
       "score": 75,
       "score_breakdown": {
+        "typescript": 10,
         "location": 20,
-        "fresh": 15,
-        "ai": 10
+        "fresh": 15
       },
       "is_new": true
     },
@@ -360,8 +229,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 9,
-      "date_found": "2026-11-13",
+      "age_days": 10,
+      "date_found": "2026-11-14",
       "score": 75,
       "score_breakdown": {
         "nextjs": 15,
@@ -370,36 +239,6 @@
         "senior_ic": 5
       },
       "is_new": false
-    },
-    {
-      "id": "himalayas-fcamara-6254450",
-      "name": "Desenvolvedor Fullstack Senior",
-      "company": "FCamara",
-      "url": "https://himalayas.app/companies/fcamara/jobs/desenvolvedor-fullstack-senior-1690352147?utm_source=api",
-      "source": "Himalayas",
-      "location": "Brazil",
-      "workplace": "Remote",
-      "job_type": "Contractor",
-      "experience_years": "Senior",
-      "skills": [
-        "Full-Stack-Developer",
-        "Senior-Software-Developer",
-        "Backend-Engineer",
-        "Front-End-Developer",
-        "Software-Engineer"
-      ],
-      "salary": "",
-      "description_excerpt": "A FCamara está em busca de um(a) Desenvolvedor(a) FullStack Senior para atuar em parceria com uma empresa do segmento educacional.",
-      "date_posted": "2026-11-13",
-      "age_days": 0,
-      "date_found": "2026-11-13",
-      "score": 70,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": true
     },
     {
       "id": "linkedin-4464358810",
@@ -415,8 +254,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-12",
-      "age_days": 1,
-      "date_found": "2026-11-13",
+      "age_days": 2,
+      "date_found": "2026-11-14",
       "score": 70,
       "score_breakdown": {
         "location": 20,
@@ -426,27 +265,30 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4489172349",
-      "name": "Staff Software Engineer - Frontend",
-      "company": "Procore Technologies",
-      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4489172349",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
+      "id": "jobicy-161933",
+      "name": "Frontend Software Engineer",
+      "company": "Wayflyer",
+      "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
       "job_type": "",
-      "experience_years": "",
-      "skills": [],
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
       "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-10",
-      "age_days": 3,
-      "date_found": "2026-11-13",
+      "description_excerpt": "About Wayflyer Today's small businesses need a capital provider that keeps pace with their growth ambitions. Traditional financing options are slow, cumbersome and often out of reach. That's why we built Wayflyer. Our technology allows us to assess businesses in minutes, generate financing offers that reflect their growth potential and send funds in as little&hellip;",
+      "date_posted": "2026-11-13",
+      "age_days": 1,
+      "date_found": "2026-11-14",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "linkedin-4487148744",
@@ -462,8 +304,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 4,
-      "date_found": "2026-11-13",
+      "age_days": 5,
+      "date_found": "2026-11-14",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -486,13 +328,36 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 9,
-      "date_found": "2026-11-13",
+      "age_days": 10,
+      "date_found": "2026-11-14",
       "score": 60,
       "score_breakdown": {
         "location": 20,
         "fresh": 5,
         "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "linkedin-4489172349",
+      "name": "Staff Software Engineer - Frontend",
+      "company": "Procore Technologies",
+      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-at-procore-technologies-4489172349",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-10",
+      "age_days": 4,
+      "date_found": "2026-11-14",
+      "score": 60,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 10
       },
       "is_new": false
     },
@@ -510,8 +375,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-10-31",
-      "age_days": 13,
-      "date_found": "2026-11-13",
+      "age_days": 14,
+      "date_found": "2026-11-14",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -533,8 +398,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-04",
-      "age_days": 9,
-      "date_found": "2026-11-13",
+      "age_days": 10,
+      "date_found": "2026-11-14",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -543,10 +408,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-2190553852",
-      "name": "Senior UI/UX DesignerBright Vision TechnologiesFrisco, United StatesVue-plusFrontendremotefull-timesenior$135-155K/yr11 days ago",
-      "company": "Logo of Bright Vision Technologies",
-      "url": "https://vuejobs.com/jobs/bright-vision-technologies-senior-ui-ux-designer-7",
+      "id": "vuejobs-311564674",
+      "name": "PSenior Frontend Engineer | Kazakhstan SpeakingPixelChainAlmaty, KazakhstanVue-firstFrontendremotefull-timesenior9 days ago",
+      "company": "Flag of Kazakhstan",
+      "url": "https://vuejobs.com/jobs/pixelchain-senior-frontend-engineer-kazakhstan-speaking",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -556,7 +421,7 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-13",
+      "date_found": "2026-11-14",
       "score": 35,
       "score_breakdown": {
         "location": 20,
@@ -566,10 +431,10 @@
       "is_new": true
     },
     {
-      "id": "vuejobs-2291965305",
-      "name": "Programador/a Vue.js (Remoto 100%) M/FAKKODISVue-firstNuxt.jsFrontendremotefull-timemid-level24 days ago",
-      "company": "Logo of AKKODIS",
-      "url": "https://vuejobs.com/jobs/akkodis-programador-a-vue-js-remoto-100-m-f",
+      "id": "vuejobs-1405651900",
+      "name": "Webflow DeveloperCompany hiddenVue-plusFrontendremotefull-timejunior$10-13/hr2 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -579,13 +444,13 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-13",
+      "date_found": "2026-11-14",
       "score": 30,
       "score_breakdown": {
         "location": 20,
         "vue_only": -20
       },
-      "is_new": false
+      "is_new": true
     }
   ]
 }

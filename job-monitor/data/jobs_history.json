@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T07:42:43.512777+00:00",
-  "total_unique": 585,
+  "last_updated": "2026-11-14T07:29:21.688870+00:00",
+  "total_unique": 590,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16364,6 +16364,135 @@
         "location": 20,
         "fresh": 15,
         "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-161933",
+      "name": "Frontend Software Engineer",
+      "company": "Wayflyer",
+      "url": "https://jobicy.com/jobs/161933-frontend-software-engineer",
+      "source": "Jobicy",
+      "location": "Europe",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Wayflyer Today's small businesses need a capital provider that keeps pace with their growth ambitions. Traditional financing options are slow, cumbersome and often out of reach. That's why we built Wayflyer. Our technology allows us to assess businesses in minutes, generate financing offers that reflect their growth potential and send funds in as little&hellip;",
+      "date_posted": "2026-11-13",
+      "age_days": 1,
+      "date_found": "2026-11-14",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-161780",
+      "name": "Front End Engineer",
+      "company": "Oddball",
+      "url": "https://jobicy.com/jobs/161780-front-end-engineer",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by&hellip;",
+      "date_posted": "2026-11-13",
+      "age_days": 1,
+      "date_found": "2026-11-14",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1405651900",
+      "name": "Webflow DeveloperCompany hiddenVue-plusFrontendremotefull-timejunior$10-13/hr2 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-14",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-311564674",
+      "name": "PSenior Frontend Engineer | Kazakhstan SpeakingPixelChainAlmaty, KazakhstanVue-firstFrontendremotefull-timesenior9 days ago",
+      "company": "Flag of Kazakhstan",
+      "url": "https://vuejobs.com/jobs/pixelchain-senior-frontend-engineer-kazakhstan-speaking",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-14",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-sparq-6013436",
+      "name": "Senior React Native Mobile Engineer (Fixed-Term)",
+      "company": "Sparq",
+      "url": "https://himalayas.app/companies/sparq/jobs/senior-react-native-mobile-engineer-fixed-term?utm_source=api",
+      "source": "Himalayas",
+      "location": "Uruguay",
+      "workplace": "Remote",
+      "job_type": "Contractor",
+      "experience_years": "Senior",
+      "skills": [
+        "Senior-React-Native-Mobile-Developer",
+        "Mobile-Engineer",
+        "React-Native-Developer",
+        "Mobile-Software-Engineer",
+        "Cross-Platform-Mobile-Developer"
+      ],
+      "salary": "",
+      "description_excerpt": "At Sparq, we help companies solve the right problems—not just build more technology.",
+      "date_posted": "2026-11-14",
+      "age_days": 0,
+      "date_found": "2026-11-14",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
