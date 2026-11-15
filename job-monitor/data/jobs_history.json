@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T07:29:21.688870+00:00",
-  "total_unique": 590,
+  "last_updated": "2026-11-15T07:42:22.457983+00:00",
+  "total_unique": 592,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16493,6 +16493,57 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-162134",
+      "name": "Senior Software Engineer, Frontend | Product Engineering",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/162134-senior-software-engineer-frontend-product-engineering",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. We&hellip;",
+      "date_posted": "2026-11-14",
+      "age_days": 1,
+      "date_found": "2026-11-15",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3246288676",
+      "name": "Senior Software EngineerBooksyVue-firstFrontendremotefull-timesenior10 days ago",
+      "company": "Logo of Booksy",
+      "url": "https://vuejobs.com/jobs/booksy-senior-software-engineer",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-15",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
       },
       "is_new": true
     }
