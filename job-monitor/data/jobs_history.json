@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T07:42:22.457983+00:00",
-  "total_unique": 592,
+  "last_updated": "2026-11-16T07:48:00.046009+00:00",
+  "total_unique": 594,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16543,6 +16543,58 @@
       "score_breakdown": {
         "location": 20,
         "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-162431",
+      "name": "Senior Software Engineer (Full Stack | Node.js & React | AI Focus)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/162431-senior-software-engineer-full-stack-node-js-react-ai-focus-2",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-11-15",
+      "age_days": 1,
+      "date_found": "2026-11-16",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-4205483904",
+      "name": "JavaScript Developer (Mid-Level)Sipwise GmbHWien, AustriaVue-firstFrontendremotecontractfull-time€4-5K/mo17 days ago",
+      "company": "Logo of Sipwise GmbH",
+      "url": "https://vuejobs.com/jobs/sipwise-gmbh-javascript-developer-mid-level-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-16",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
         "vue_only": -20
       },
       "is_new": true
