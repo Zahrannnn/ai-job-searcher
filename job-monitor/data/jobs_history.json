@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T07:48:00.046009+00:00",
-  "total_unique": 594,
+  "last_updated": "2026-11-17T08:56:42.701808+00:00",
+  "total_unique": 596,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16596,6 +16596,53 @@
       "score_breakdown": {
         "location": 20,
         "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2902572610",
+      "name": "HSenior Front-end Engineer with ReactholisticonWrocław, PolandVue-plusFrontendremoteon-sitefull-timePLN 170 - PLN 25K/mo14 days ago",
+      "company": "Flag of Poland",
+      "url": "https://vuejobs.com/jobs/holisticon-senior-front-end-engineer-with-react",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-17",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4490946326",
+      "name": "ETIC, Frontend Developer, Senior Associate",
+      "company": "PwC Brasil",
+      "url": "https://eg.linkedin.com/jobs/view/etic-frontend-developer-senior-associate-at-pwc-brasil-4490946326",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-16",
+      "age_days": 1,
+      "date_found": "2026-11-17",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
