@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T08:56:42.701808+00:00",
-  "total_unique": 596,
+  "last_updated": "2026-11-18T08:22:05.140994+00:00",
+  "total_unique": 601,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16641,6 +16641,127 @@
       "score": 70,
       "score_breakdown": {
         "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-162945",
+      "name": "Software Engineer II (Frontend)",
+      "company": "Teamworks",
+      "url": "https://jobicy.com/jobs/162945-software-engineer-ii-frontend",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "AMS (Athlete Management System) is a core product in the Teamworks Performance suite, used by elite sports organizations and high-performance military programs as their single source of truth for physical performance data, medical records, and athlete readiness. We're investing seriously in modernizing the platform, and we're growing the team with a frontend engineer who can&hellip;",
+      "date_posted": "2026-11-17",
+      "age_days": 1,
+      "date_found": "2026-11-18",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2281346829",
+      "name": "Senior JavaScript Developer-Vue | NodeCompany hiddenVue-firstFull-stackremotefull-timesenior2 days agoPRO only",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/sharesource-australia-senior-javascript-developer-vue-node",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-18",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491145659",
+      "name": "React Native Developer",
+      "company": "First.tech Group",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-first-tech-group-4491145659",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-17",
+      "age_days": 1,
+      "date_found": "2026-11-18",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491809415",
+      "name": "Frontend Developer",
+      "company": "HiredBuddy",
+      "url": "https://eg.linkedin.com/jobs/view/frontend-developer-at-hiredbuddy-4491809415",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-18",
+      "age_days": 0,
+      "date_found": "2026-11-18",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491806194",
+      "name": "Senior Front-End Engineer",
+      "company": "Wiley",
+      "url": "https://jo.linkedin.com/jobs/view/senior-front-end-engineer-at-wiley-4491806194",
+      "source": "LinkedIn",
+      "location": "Amman, Amman, Jordan",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-18",
+      "age_days": 0,
+      "date_found": "2026-11-18",
+      "score": 70,
+      "score_breakdown": {
+        "location_mena": 20,
         "fresh": 15,
         "senior_ic": 5
       },
