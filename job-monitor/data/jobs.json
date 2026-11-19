@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-18T08:22:05.136039+00:00",
-  "total_items": 15,
-  "new_count": 5,
+  "last_run": "2026-11-19T08:33:42.257545+00:00",
+  "total_items": 12,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2069746",
@@ -41,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-11-14",
-      "age_days": 4,
-      "date_found": "2026-11-18",
+      "age_days": 5,
+      "date_found": "2026-11-19",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -50,6 +50,35 @@
         "fresh": 10,
         "ai": 10,
         "salary": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-155885",
+      "name": "Mobile Engineer - React Native (Paris or Remote France)",
+      "company": "Alma",
+      "url": "https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france",
+      "source": "Jobicy",
+      "location": "France",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Director",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Alma At Alma, we believe sustainable commerce depends on fair, well‑balanced trade. Because finance plays a pivotal role in business, our mission is to put it back in its rightful place - serving merchants and consumers. Our installment and deferred payment solutions help merchants boost sales by 20% or more, increase customer loyalty,&hellip;",
+      "date_posted": "2026-11-19",
+      "age_days": 0,
+      "date_found": "2026-11-19",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
       },
       "is_new": false
     },
@@ -67,8 +96,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-05",
-      "age_days": 13,
-      "date_found": "2026-11-18",
+      "age_days": 14,
+      "date_found": "2026-11-19",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -80,10 +109,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4491145659",
-      "name": "React Native Developer",
-      "company": "First.tech Group",
-      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-at-first-tech-group-4491145659",
+      "id": "linkedin-4491794684",
+      "name": "React Native developer (3 years)",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-3-years-at-systems-limited-egypt-4491794684",
       "source": "LinkedIn",
       "location": "Cairo, Egypt",
       "workplace": "On-site",
@@ -92,9 +121,9 @@
       "skills": [],
       "salary": "",
       "description_excerpt": "",
-      "date_posted": "2026-11-17",
+      "date_posted": "2026-11-18",
       "age_days": 1,
-      "date_found": "2026-11-18",
+      "date_found": "2026-11-19",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -104,39 +133,12 @@
       "is_new": true
     },
     {
-      "id": "jobicy-153449",
-      "name": "Software Engineer - Auth",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+      "id": "jobicy-163099",
+      "name": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/163099-staff-performance-engineer-javascript-engine-spidermonkey",
       "source": "Jobicy",
-      "location": "Anywhere",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Any",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth, written in Go (server) and with client libraries for TypeScript, SSR and for&hellip;",
-      "date_posted": "2026-11-18",
-      "age_days": 0,
-      "date_found": "2026-11-18",
-      "score": 75,
-      "score_breakdown": {
-        "typescript": 10,
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-162945",
-      "name": "Software Engineer II (Frontend)",
-      "company": "Teamworks",
-      "url": "https://jobicy.com/jobs/162945-software-engineer-ii-frontend",
-      "source": "Jobicy",
-      "location": "USA",
+      "location": "France",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -145,10 +147,10 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "AMS (Athlete Management System) is a core product in the Teamworks Performance suite, used by elite sports organizations and high-performance military programs as their single source of truth for physical performance data, medical records, and athlete readiness. We're investing seriously in modernizing the platform, and we're growing the team with a frontend engineer who can&hellip;",
-      "date_posted": "2026-11-17",
+      "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
+      "date_posted": "2026-11-18",
       "age_days": 1,
-      "date_found": "2026-11-18",
+      "date_found": "2026-11-19",
       "score": 75,
       "score_breakdown": {
         "typescript": 10,
@@ -156,31 +158,6 @@
         "fresh": 15
       },
       "is_new": true
-    },
-    {
-      "id": "linkedin-4487562288",
-      "name": "Senior Frontend Developer (Sitecore Headless / Next.js)",
-      "company": "Arcsen",
-      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-sitecore-headless-next-js-at-arcsen-4487562288",
-      "source": "LinkedIn",
-      "location": "Qesm El Maadi, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 14,
-      "date_found": "2026-11-18",
-      "score": 75,
-      "score_breakdown": {
-        "nextjs": 15,
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
-      },
-      "is_new": false
     },
     {
       "id": "linkedin-4491806194",
@@ -196,15 +173,41 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 0,
-      "date_found": "2026-11-18",
+      "age_days": 1,
+      "date_found": "2026-11-19",
       "score": 70,
       "score_breakdown": {
         "location_mena": 20,
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "jobicy-155840",
+      "name": "Full Stack Developer (Frontend-Focused) - Canada",
+      "company": "Brafton",
+      "url": "https://jobicy.com/jobs/155840-full-stack-developer-frontend-focused-canada",
+      "source": "Jobicy",
+      "location": "Canada",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
+      "date_posted": "2026-11-19",
+      "age_days": 0,
+      "date_found": "2026-11-19",
+      "score": 65,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": false
     },
     {
       "id": "jobicy-155665",
@@ -223,34 +226,8 @@
       "salary": "",
       "description_excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
       "date_posted": "2026-11-18",
-      "age_days": 0,
-      "date_found": "2026-11-18",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-155661",
-      "name": "Full Stack Developer (Frontend-Focused) - Brazil",
-      "company": "Brafton",
-      "url": "https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil",
-      "source": "Jobicy",
-      "location": "Brazil",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Contract"
-      ],
-      "salary": "",
-      "description_excerpt": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media&hellip;",
-      "date_posted": "2026-11-18",
-      "age_days": 0,
-      "date_found": "2026-11-18",
+      "age_days": 1,
+      "date_found": "2026-11-19",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -272,36 +249,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 0,
-      "date_found": "2026-11-18",
+      "age_days": 1,
+      "date_found": "2026-11-19",
       "score": 65,
       "score_breakdown": {
         "location": 20,
         "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4485504186",
-      "name": "Mid-Senior Frontend Engineer",
-      "company": "Arab Bank",
-      "url": "https://eg.linkedin.com/jobs/view/mid-senior-frontend-engineer-at-arab-bank-4485504186",
-      "source": "LinkedIn",
-      "location": "Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 14,
-      "date_found": "2026-11-18",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
-        "senior_ic": 5
       },
       "is_new": false
     },
@@ -319,8 +272,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 9,
-      "date_found": "2026-11-18",
+      "age_days": 10,
+      "date_found": "2026-11-19",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -343,8 +296,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-10",
-      "age_days": 8,
-      "date_found": "2026-11-18",
+      "age_days": 9,
+      "date_found": "2026-11-19",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -353,33 +306,10 @@
       "is_new": false
     },
     {
-      "id": "linkedin-4487502954",
-      "name": "Staff Software Engineer, Frontend &amp; Full-stack",
-      "company": "Procore Technologies",
-      "url": "https://eg.linkedin.com/jobs/view/staff-software-engineer-frontend-full-stack-at-procore-technologies-4487502954",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-04",
-      "age_days": 14,
-      "date_found": "2026-11-18",
-      "score": 55,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "vuejobs-2281346829",
-      "name": "Senior JavaScript Developer-Vue | NodeCompany hiddenVue-firstFull-stackremotefull-timesenior2 days agoPRO only",
-      "company": "",
-      "url": "https://vuejobs.com/jobs/sharesource-australia-senior-javascript-developer-vue-node",
+      "id": "vuejobs-2644044880",
+      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr7 days ago",
+      "company": "Logo of Berry Virtual",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-2",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -389,11 +319,10 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-18",
-      "score": 35,
+      "date_found": "2026-11-19",
+      "score": 30,
       "score_breakdown": {
         "location": 20,
-        "senior_ic": 5,
         "vue_only": -20
       },
       "is_new": true

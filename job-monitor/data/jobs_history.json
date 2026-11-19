@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T08:22:05.140994+00:00",
-  "total_unique": 601,
+  "last_updated": "2026-11-19T08:33:42.260335+00:00",
+  "total_unique": 604,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16764,6 +16764,79 @@
         "location_mena": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-163099",
+      "name": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
+      "company": "Mozilla",
+      "url": "https://jobicy.com/jobs/163099-staff-performance-engineer-javascript-engine-spidermonkey",
+      "source": "Jobicy",
+      "location": "France",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Why Mozilla? Mozilla Corporation is the non-profit-backed technology company that has shaped the internet for the better over the last 25 years. We make pioneering brands like Firefox, the privacy-minded web browser. Now, with more than 225 million people around the world using our products each month, we’re shaping the next 25 years of technology&hellip;",
+      "date_posted": "2026-11-18",
+      "age_days": 1,
+      "date_found": "2026-11-19",
+      "score": 75,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2644044880",
+      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr7 days ago",
+      "company": "Logo of Berry Virtual",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-19",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491794684",
+      "name": "React Native developer (3 years)",
+      "company": "Systems Limited - Egypt",
+      "url": "https://eg.linkedin.com/jobs/view/react-native-developer-3-years-at-systems-limited-egypt-4491794684",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-18",
+      "age_days": 1,
+      "date_found": "2026-11-19",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
       },
       "is_new": true
     }
