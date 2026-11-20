@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T08:33:42.260335+00:00",
-  "total_unique": 604,
+  "last_updated": "2026-11-20T08:16:14.247939+00:00",
+  "total_unique": 606,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16835,6 +16835,56 @@
       "score": 90,
       "score_breakdown": {
         "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-434855159",
+      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr8 days ago",
+      "company": "Logo of Berry Virtual",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-4",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-20",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "himalayas-pavago-4525924",
+      "name": "Web Build & QA Specialist",
+      "company": "Pavago",
+      "url": "https://himalayas.app/companies/pavago/jobs/web-build-qa-specialist?utm_source=api",
+      "source": "Himalayas",
+      "location": "Philippines",
+      "workplace": "Remote",
+      "job_type": "Full Time",
+      "experience_years": "Mid-level",
+      "skills": [
+        "Web-QA-Specialist",
+        "Web-Developer",
+        "Front-End-Developer",
+        "SEO-Specialist"
+      ],
+      "salary": "",
+      "description_excerpt": "Web Build & QA Specialist Location: Remote Employment Type: Full-Time About the Role We are looking for a detail-oriented Web Team member to join a US digital marketing agency.",
+      "date_posted": "2026-11-20",
+      "age_days": 0,
+      "date_found": "2026-11-20",
+      "score": 65,
+      "score_breakdown": {
         "location": 20,
         "fresh": 15
       },
