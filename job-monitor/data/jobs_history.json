@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T08:16:14.247939+00:00",
-  "total_unique": 606,
+  "last_updated": "2026-11-21T08:08:05.905038+00:00",
+  "total_unique": 609,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -16887,6 +16887,89 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-163468",
+      "name": "Senior Frontend Engineer, Foundations",
+      "company": "NetBox Labs",
+      "url": "https://jobicy.com/jobs/163468-senior-frontend-engineer-foundations",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "NetBox Labs is seeking a Frontend/UI Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. About NetBox Labs NetBox Labs builds the next generation of network automation tools for modern infrastructure teams. Our UI Platform is the foundation for a consistent, maintainable, and delightful&hellip;",
+      "date_posted": "2026-11-20",
+      "age_days": 1,
+      "date_found": "2026-11-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-163397",
+      "name": "Senior Front-End Engineer (Next.js/React) - Real Estate",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/163397-senior-front-end-engineer-next-js-react-real-estate",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-11-20",
+      "age_days": 1,
+      "date_found": "2026-11-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491998416",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4491998416",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-21",
+      "age_days": 0,
+      "date_found": "2026-11-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }

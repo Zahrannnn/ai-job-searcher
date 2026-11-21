@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-11-20T08:16:14.242902+00:00",
-  "total_items": 9,
-  "new_count": 2,
+  "last_run": "2026-11-21T08:08:05.899439+00:00",
+  "total_items": 10,
+  "new_count": 3,
   "items": [
     {
       "id": "remotive-2069746",
@@ -41,8 +41,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-11-14",
-      "age_days": 6,
-      "date_found": "2026-11-20",
+      "age_days": 7,
+      "date_found": "2026-11-21",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -54,12 +54,12 @@
       "is_new": false
     },
     {
-      "id": "jobicy-153596",
-      "name": "Software Engineer, Application Integration",
-      "company": "Bayesian Health",
-      "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
+      "id": "jobicy-163397",
+      "name": "Senior Front-End Engineer (Next.js/React) - Real Estate",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/163397-senior-front-end-engineer-next-js-react-real-estate",
       "source": "Jobicy",
-      "location": "USA",
+      "location": "Mexico",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -68,18 +68,46 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "Software Engineer, Application Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engineering effort to build the bridge between massive, complex Electronic Health&hellip;",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
       "date_posted": "2026-11-20",
-      "age_days": 0,
-      "date_found": "2026-11-20",
+      "age_days": 1,
+      "date_found": "2026-11-21",
       "score": 100,
       "score_breakdown": {
         "react": 25,
+        "nextjs": 15,
         "location": 20,
         "fresh": 15,
-        "founding": 10
+        "founding": 10,
+        "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4491998416",
+      "name": "Senior Full-Stack Engineer - React Native, Next.js, Backend, Product Engineering",
+      "company": "Supaapps",
+      "url": "https://eg.linkedin.com/jobs/view/senior-full-stack-engineer-react-native-next-js-backend-product-engineering-at-supaapps-4491998416",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-21",
+      "age_days": 0,
+      "date_found": "2026-11-21",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4491794684",
@@ -95,8 +123,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 2,
-      "date_found": "2026-11-20",
+      "age_days": 3,
+      "date_found": "2026-11-21",
       "score": 90,
       "score_breakdown": {
         "react": 25,
@@ -122,8 +150,8 @@
       "salary": "",
       "description_excerpt": "About Us: Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen&hellip;",
       "date_posted": "2026-11-20",
-      "age_days": 0,
-      "date_found": "2026-11-20",
+      "age_days": 1,
+      "date_found": "2026-11-21",
       "score": 85,
       "score_breakdown": {
         "typescript": 10,
@@ -132,6 +160,56 @@
         "ai": 10
       },
       "is_new": false
+    },
+    {
+      "id": "vuejobs-1661782759",
+      "name": "N(1624) Senior Fullstack Engineer (Python and Vue.js, React)NortalVue-firstFull-stackremotefull-timesenior10 days ago",
+      "company": "",
+      "url": "https://vuejobs.com/jobs/nortal-1624-senior-fullstack-engineer-python-and-vue-js-react",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-21",
+      "score": 80,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "senior_ic": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "jobicy-163468",
+      "name": "Senior Frontend Engineer, Foundations",
+      "company": "NetBox Labs",
+      "url": "https://jobicy.com/jobs/163468-senior-frontend-engineer-foundations",
+      "source": "Jobicy",
+      "location": "USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "NetBox Labs is seeking a Frontend/UI Engineer to join our rapidly expanding engineering team. We have multiple positions at different seniority levels open across several teams. About NetBox Labs NetBox Labs builds the next generation of network automation tools for modern infrastructure teams. Our UI Platform is the foundation for a consistent, maintainable, and delightful&hellip;",
+      "date_posted": "2026-11-20",
+      "age_days": 1,
+      "date_found": "2026-11-21",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
     },
     {
       "id": "linkedin-4491806194",
@@ -147,64 +225,12 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 2,
-      "date_found": "2026-11-20",
+      "age_days": 3,
+      "date_found": "2026-11-21",
       "score": 70,
       "score_breakdown": {
         "location_mena": 20,
         "fresh": 15,
-        "senior_ic": 5
-      },
-      "is_new": false
-    },
-    {
-      "id": "himalayas-pavago-4525924",
-      "name": "Web Build & QA Specialist",
-      "company": "Pavago",
-      "url": "https://himalayas.app/companies/pavago/jobs/web-build-qa-specialist?utm_source=api",
-      "source": "Himalayas",
-      "location": "Philippines",
-      "workplace": "Remote",
-      "job_type": "Full Time",
-      "experience_years": "Mid-level",
-      "skills": [
-        "Web-QA-Specialist",
-        "Web-Developer",
-        "Front-End-Developer",
-        "SEO-Specialist"
-      ],
-      "salary": "",
-      "description_excerpt": "Web Build & QA Specialist Location: Remote Employment Type: Full-Time About the Role We are looking for a detail-oriented Web Team member to join a US digital marketing agency.",
-      "date_posted": "2026-11-20",
-      "age_days": 0,
-      "date_found": "2026-11-20",
-      "score": 65,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15
-      },
-      "is_new": true
-    },
-    {
-      "id": "linkedin-4487148744",
-      "name": "ETIC, Frontend Developer, Senior Associate",
-      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
-      "url": "https://eg.linkedin.com/jobs/view/etic-frontend-developer-senior-associate-at-pwc-egypt-technology-and-innovation-centre-etic-4487148744",
-      "source": "LinkedIn",
-      "location": "Cairo, Cairo, Egypt",
-      "workplace": "On-site",
-      "job_type": "",
-      "experience_years": "",
-      "skills": [],
-      "salary": "",
-      "description_excerpt": "",
-      "date_posted": "2026-11-09",
-      "age_days": 11,
-      "date_found": "2026-11-20",
-      "score": 60,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 5,
         "senior_ic": 5
       },
       "is_new": false
@@ -223,8 +249,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-10",
-      "age_days": 10,
-      "date_found": "2026-11-20",
+      "age_days": 11,
+      "date_found": "2026-11-21",
       "score": 55,
       "score_breakdown": {
         "location": 20,
@@ -233,10 +259,10 @@
       "is_new": false
     },
     {
-      "id": "vuejobs-434855159",
-      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr8 days ago",
-      "company": "Logo of Berry Virtual",
-      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-4",
+      "id": "vuejobs-1350382501",
+      "name": "Senior UI/UX DesignerBright Vision TechnologiesFrisco, United StatesVue-plusFrontendremotefull-timesenior$135-155K/yr19 days ago",
+      "company": "Logo of Bright Vision Technologies",
+      "url": "https://vuejobs.com/jobs/bright-vision-technologies-senior-ui-ux-designer-7",
       "source": "VueJobs",
       "location": "remote",
       "workplace": "Remote",
@@ -246,13 +272,14 @@
       "description_excerpt": "",
       "date_posted": "",
       "age_days": null,
-      "date_found": "2026-11-20",
-      "score": 30,
+      "date_found": "2026-11-21",
+      "score": 35,
       "score_breakdown": {
         "location": 20,
+        "senior_ic": 5,
         "vue_only": -20
       },
-      "is_new": true
+      "is_new": false
     }
   ]
 }
