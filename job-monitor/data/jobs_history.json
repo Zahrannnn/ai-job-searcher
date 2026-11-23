@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T07:53:40.981419+00:00",
-  "total_unique": 611,
+  "last_updated": "2026-11-23T08:47:28.204744+00:00",
+  "total_unique": 614,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17024,6 +17024,91 @@
         "typescript": 10,
         "location": 20,
         "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-163889",
+      "name": "Senior Software Engineer, Frontend",
+      "company": "VTEX",
+      "url": "https://jobicy.com/jobs/163889-senior-software-engineer-frontend-4",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "ABOUT THE ROLE We're looking for a Senior Front-End Engineer to build commerce experiences used by thousands of stores across 43 countries, multi-tenant SaaS where a single front-end decision plays out at massive scale. You'll be a technical reference for your team: setting front-end direction, leading real evolutions of our products, and working shoulder-to-shoulder with&hellip;",
+      "date_posted": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-163886",
+      "name": "Senior Full-Stack Engineer (React/Next.js) - Media Production",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/163886-senior-full-stack-engineer-react-next-js-media-production",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "nextjs": 15,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+      "name": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
+      "company": "Boardwise GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>Your mission</h2>\n<h2>Your Role</h2>\n<ul>\n<li>Collaborate closely with our development team on products built with <strong>F# (ASP.NET Core)</strong> and <strong>React.js</strong></li>\n<li>Take full ownership of features, working closely with product in a <strong>cross-functional team</strong></li>\n<li>Apply a <strong>functional programming</strong> approach and contribute to architectural discussions</li>\n<li>Keep our <strong>tech stack</strong> up to date and scalable</li>\n<li>Implement, o",
+      "date_posted": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }

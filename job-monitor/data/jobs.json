@@ -1,15 +1,15 @@
 {
-  "last_run": "2026-11-22T07:53:40.977595+00:00",
+  "last_run": "2026-11-23T08:47:28.199515+00:00",
   "total_items": 12,
-  "new_count": 2,
+  "new_count": 3,
   "items": [
     {
-      "id": "jobicy-153741",
-      "name": "Senior Software Enginner (Full-stack Node + React)",
-      "company": "Airtm",
-      "url": "https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react",
+      "id": "jobicy-163886",
+      "name": "Senior Full-Stack Engineer (React/Next.js) - Media Production",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/163886-senior-full-stack-engineer-react-next-js-media-production",
       "source": "Jobicy",
-      "location": "LATAM",
+      "location": "Brazil",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -18,39 +18,39 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "About us: Airtm is a financial-infrastructure company building the future of the online-work economy. We are on a mission to empower the world's growing number of Digital Entrepreneurs in the Global South, giving them the financial freedom to thrive. The problem is clear: in emerging markets, accessing the dollar economy is difficult. Cross-border payments are&hellip;",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
       "date_posted": "2026-11-22",
-      "age_days": 0,
-      "date_found": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
-        "typescript": 10,
+        "nextjs": 15,
         "location": 20,
         "fresh": 15,
+        "founding": 10,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jobicy-153716",
-      "name": "Senior Frontend Engineer (React)",
-      "company": "Oowlish Technology",
-      "url": "https://jobicy.com/jobs/153716-senior-frontend-engineer-react",
-      "source": "Jobicy",
-      "location": "Argentina,  Brazil,  Mexico",
+      "id": "arbeitnow-senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+      "name": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
+      "company": "Boardwise GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+      "source": "Arbeitnow",
+      "location": "Berlin",
       "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
+      "experience_years": "",
       "skills": [
-        "Software Engineering",
-        "Full-Time"
+        "Remote",
+        "Software Development"
       ],
       "salary": "",
-      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "description_excerpt": "<h2>Your mission</h2>\n<h2>Your Role</h2>\n<ul>\n<li>Collaborate closely with our development team on products built with <strong>F# (ASP.NET Core)</strong> and <strong>React.js</strong></li>\n<li>Take full ownership of features, working closely with product in a <strong>cross-functional team</strong></li>\n<li>Apply a <strong>functional programming</strong> approach and contribute to architectural discussions</li>\n<li>Keep our <strong>tech stack</strong> up to date and scalable</li>\n<li>Implement, o",
       "date_posted": "2026-11-22",
-      "age_days": 0,
-      "date_found": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
       "score": 100,
       "score_breakdown": {
         "react": 25,
@@ -59,7 +59,7 @@
         "fresh": 15,
         "senior_ic": 5
       },
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2069746",
@@ -99,8 +99,8 @@
       "salary": "$170k - $200k",
       "description_excerpt": "<p class=\"h1\" dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;\"><span style=\"color: #000000; font-weight: bold; white-space-collapse: preserve;\">About Mitre Media</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 18pt 0pt;\"><span style=\"color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: norma",
       "date_posted": "2026-11-14",
-      "age_days": 8,
-      "date_found": "2026-11-22",
+      "age_days": 9,
+      "date_found": "2026-11-23",
       "score": 95,
       "score_breakdown": {
         "react": 25,
@@ -125,8 +125,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 4,
-      "date_found": "2026-11-22",
+      "age_days": 5,
+      "date_found": "2026-11-23",
       "score": 85,
       "score_breakdown": {
         "react": 25,
@@ -152,8 +152,8 @@
       "salary": "",
       "description_excerpt": "Who we are: At Endless Commerce, we’re transforming multi-channel commerce infrastructure with a platform that streamlines order management, fulfillment, and integrations for businesses of all sizes. Our innovative solutions empower brands to optimize operations using modern technology and a robust, scalable architecture. We’re a dynamic team dedicated to building reliable, elegant and efficient software with&hellip;",
       "date_posted": "2026-11-22",
-      "age_days": 0,
-      "date_found": "2026-11-22",
+      "age_days": 1,
+      "date_found": "2026-11-23",
       "score": 80,
       "score_breakdown": {
         "location": 20,
@@ -161,15 +161,15 @@
         "ai": 10,
         "senior_ic": 5
       },
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "jobicy-153697",
-      "name": "Staff Software Engineer",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
+      "id": "jobicy-163889",
+      "name": "Senior Software Engineer, Frontend",
+      "company": "VTEX",
+      "url": "https://jobicy.com/jobs/163889-senior-software-engineer-frontend-4",
       "source": "Jobicy",
-      "location": "EMEA",
+      "location": "Brazil",
       "workplace": "Remote",
       "job_type": "",
       "experience_years": "Senior",
@@ -178,68 +178,15 @@
         "Full-Time"
       ],
       "salary": "",
-      "description_excerpt": "This role is part of our Prerender team, one of our growing brands at saas.group. For nearly a decade, Prerender has empowered marketers to create dynamic, complex sites at scale, making their JavaScript websites easily indexable by search engines. We eliminate indexing and crawling limitations, allowing our customers to gain the upper-hand on HTML sites&hellip;",
+      "description_excerpt": "ABOUT THE ROLE We're looking for a Senior Front-End Engineer to build commerce experiences used by thousands of stores across 43 countries, multi-tenant SaaS where a single front-end decision plays out at massive scale. You'll be a technical reference for your team: setting front-end direction, leading real evolutions of our products, and working shoulder-to-shoulder with&hellip;",
       "date_posted": "2026-11-22",
-      "age_days": 0,
-      "date_found": "2026-11-22",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "jobicy-151249",
-      "name": "Engineering Manager (Frontend)",
-      "company": "ClickUp",
-      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-      "source": "Jobicy",
-      "location": "USA",
-      "workplace": "Remote",
-      "job_type": "",
-      "experience_years": "Senior",
-      "skills": [
-        "Software Engineering",
-        "Full-Time"
-      ],
-      "salary": "",
-      "description_excerpt": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as part of our hiring process. Join us and&hellip;",
-      "date_posted": "2026-11-22",
-      "age_days": 0,
-      "date_found": "2026-11-22",
-      "score": 75,
-      "score_breakdown": {
-        "location": 20,
-        "fresh": 15,
-        "ai": 10
-      },
-      "is_new": false
-    },
-    {
-      "id": "arbeitnow-remote-1226-front-end-developer-germany-84712",
-      "name": "1226 | Front-end Developer",
-      "company": "Intetics 2",
-      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
-      "source": "Arbeitnow",
-      "location": "Germany",
-      "workplace": "Remote",
-      "experience_years": "",
-      "skills": [
-        "Information Technology and Services",
-        "Remote"
-      ],
-      "salary": "",
-      "description_excerpt": "<p>Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a&nbsp;<strong>Front-end Developer </strong>to join our team.</p><p>Long-term cooperation on an as-needed basis, with potential part-time assignments and travel to the client’s office if required</p><p>Our client is an international organization supporting g",
-      "date_posted": "2026-11-21",
       "age_days": 1,
-      "date_found": "2026-11-22",
-      "score": 75,
+      "date_found": "2026-11-23",
+      "score": 70,
       "score_breakdown": {
-        "typescript": 10,
         "location": 20,
-        "fresh": 15
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     },
@@ -257,8 +204,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-21",
-      "age_days": 1,
-      "date_found": "2026-11-22",
+      "age_days": 2,
+      "date_found": "2026-11-23",
       "score": 65,
       "score_breakdown": {
         "location": 20,
@@ -280,8 +227,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-18",
-      "age_days": 4,
-      "date_found": "2026-11-22",
+      "age_days": 5,
+      "date_found": "2026-11-23",
       "score": 65,
       "score_breakdown": {
         "location_mena": 20,
@@ -304,8 +251,8 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-09",
-      "age_days": 13,
-      "date_found": "2026-11-22",
+      "age_days": 14,
+      "date_found": "2026-11-23",
       "score": 60,
       "score_breakdown": {
         "location": 20,
@@ -328,12 +275,57 @@
       "salary": "",
       "description_excerpt": "",
       "date_posted": "2026-11-10",
-      "age_days": 12,
-      "date_found": "2026-11-22",
+      "age_days": 13,
+      "date_found": "2026-11-23",
       "score": 55,
       "score_breakdown": {
         "location": 20,
         "fresh": 5
+      },
+      "is_new": false
+    },
+    {
+      "id": "vuejobs-99157392",
+      "name": "Senior Frontend Developer (TS/Vue.js)OPTIVEUM sp. z o.o.Warsaw, PolandVue-firstFrontendremotefull-timecontractPLN 130/hr27 days ago",
+      "company": "Logo of OPTIVEUM sp. z o.o.",
+      "url": "https://vuejobs.com/jobs/optiveum-sp-z-o-o-senior-frontend-developer-ts-vue-js",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-23",
+      "score": 35,
+      "score_breakdown": {
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": false
+    },
+    {
+      "id": "vuejobs-2069169027",
+      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr11 days ago",
+      "company": "Logo of Berry Virtual",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-23",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
       },
       "is_new": false
     }
