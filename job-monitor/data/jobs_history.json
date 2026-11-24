@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T08:47:28.204744+00:00",
-  "total_unique": 614,
+  "last_updated": "2026-11-24T10:46:06.857147+00:00",
+  "total_unique": 620,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17106,6 +17106,153 @@
       "score_breakdown": {
         "react": 25,
         "typescript": 10,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-founding-full-stack-engineer-berlin-304822",
+      "name": "Founding Full-Stack Engineer",
+      "company": "planqor.ai",
+      "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
+      "source": "Arbeitnow",
+      "location": "Berlin",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>Founding Full-Stack Engineer</h2><p>Build the software systems around planqor.ai: the real-time decision layer that steers discrete manufacturing when production plans get disrupted. Born on the shop floor, co-founded by senior production experts, and with direct access to high-impact industry problems. Work directly with our CTO and shape a greenfield product spanning Python backend, data, visualization, frontend, infrastructure, and integration with our optimization core. Backed by investo",
+      "date_posted": "2026-11-23",
+      "age_days": 1,
+      "date_found": "2026-11-24",
+      "score": 85,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "founding": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2091240836",
+      "name": "Senior Full Stack Engineer (TypeScript / Node.js)Company hiddenCape Town, South AfricaVue-plusFull-stackremotefull-timesenior4 days agoPRO only",
+      "company": "Flag of South Africa",
+      "url": "https://vuejobs.com/jobs/storyteq-senior-full-stack-engineer-typescript-node-js-2",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-24",
+      "score": 45,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-3243115125",
+      "name": "Webflow DeveloperBerry VirtualVue-plusFrontendremotefull-timejunior$10-13/hr12 days ago",
+      "company": "Logo of Berry Virtual",
+      "url": "https://vuejobs.com/jobs/berry-virtual-webflow-developer-5",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-24",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-2471883898",
+      "name": "Senior Typescript Developer (f/m/d)Company hiddenBerlin, GermanyVue-firstNuxt.jsFull-stackremotefull-timesenior4 days agoPRO only",
+      "company": "Flag of Germany",
+      "url": "https://vuejobs.com/jobs/sidestream-senior-typescript-developer-f-m-d-11",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-24",
+      "score": 45,
+      "score_breakdown": {
+        "typescript": 10,
+        "location": 20,
+        "senior_ic": 5,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4494316511",
+      "name": "Senior Frontend Developer – React.js",
+      "company": "First.tech Group",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-–-react-js-at-first-tech-group-4494316511",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-24",
+      "age_days": 0,
+      "date_found": "2026-11-24",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4492694644",
+      "name": "ETIC, Full Stack Developer (Python+React) - Senior Associate",
+      "company": "PwC Egypt Technology and Innovation Centre (ETIC)",
+      "url": "https://eg.linkedin.com/jobs/view/etic-full-stack-developer-python+react-senior-associate-at-pwc-egypt-technology-and-innovation-centre-etic-4492694644",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-24",
+      "age_days": 0,
+      "date_found": "2026-11-24",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
