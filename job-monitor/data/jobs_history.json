@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-24T10:46:06.857147+00:00",
-  "total_unique": 620,
+  "last_updated": "2026-11-25T09:42:09.541851+00:00",
+  "total_unique": 624,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17250,6 +17250,107 @@
       "date_posted": "2026-11-24",
       "age_days": 0,
       "date_found": "2026-11-24",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-regulatory-lead-united-kingdom-185155",
+      "name": "Regulatory Lead",
+      "company": "Reactive Markets",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/regulatory-lead-united-kingdom-185155",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Finance & Operations"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2><strong>Regulatory Lead</strong></h2><p style=\"min-height:1.5em\">Remote, with occasional travel as required | Full-Time</p><p style=\"min-height:1.5em\"></p><h2><strong>About Us</strong></h2><p style=\"min-height:1.5em\">Reactive Markets is the <strong>2026 OTC Trading Platform of the Year</strong> (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Risk.net\"><u>Risk.net</u></a>). Our network handles over $75 billion in daily trading volumes across FX, Equities, and Cryptocurrenc",
+      "date_posted": "2026-11-25",
+      "age_days": 0,
+      "date_found": "2026-11-25",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-frontend-software-engineer-120939",
+      "name": "Frontend Software Engineer",
+      "company": "Newsweek",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+      "source": "Arbeitnow",
+      "location": "Remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "IT"
+      ],
+      "salary": "",
+      "description_excerpt": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Newsweek is the global media organization that has earned audience time and trust for more than 90 years. Newsweek reaches 100 million people each month with thought-provoking news, opinion, images, graphics, and video delivered across a dozen print and digital platforms. Headquartered in New York City, Newsweek also publishe",
+      "date_posted": "2026-11-24",
+      "age_days": 1,
+      "date_found": "2026-11-25",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4494789579",
+      "name": "Senior Frontend Developer (React)",
+      "company": "Nexus Analytica",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-at-nexus-analytica-4494789579",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-25",
+      "age_days": 0,
+      "date_found": "2026-11-25",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4493345647",
+      "name": "Senior Frontend Developer (React Native) - Paid in USD",
+      "company": "Octopus.Travel",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-native-paid-in-usd-at-octopus-travel-4493345647",
+      "source": "LinkedIn",
+      "location": "Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-25",
+      "age_days": 0,
+      "date_found": "2026-11-25",
       "score": 95,
       "score_breakdown": {
         "react": 25,
