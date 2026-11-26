@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T09:42:09.541851+00:00",
-  "total_unique": 624,
+  "last_updated": "2026-11-26T09:17:40.288875+00:00",
+  "total_unique": 628,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17357,6 +17357,112 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164276",
+      "name": "Principal Engineer, Balance of Plant Auxiliary Systems",
+      "company": "Kairos Power",
+      "url": "https://jobicy.com/jobs/164276-principal-engineer-balance-of-plant-auxiliary-systems",
+      "source": "Jobicy",
+      "location": "Mexico,  USA",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Company Overview Kairos Power is a new nuclear energy technology and engineering company whose mission is to enable the world’s transition to clean energy, with the ultimate goal to dramatically improve people’s quality of life while protecting the environment. This goal will be accomplished through the commercialization of the fluoride-salt-cooled, high-temperature reactor (FHR) that can&hellip;",
+      "date_posted": "2026-11-25",
+      "age_days": 1,
+      "date_found": "2026-11-26",
+      "score": 85,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "too_senior": -15
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164237",
+      "name": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/164237-full-stack-developer-java-react-f-m-d-3",
+      "source": "Jobicy",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Any",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong&hellip;",
+      "date_posted": "2026-11-25",
+      "age_days": 1,
+      "date_found": "2026-11-26",
+      "score": 90,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-frontend-developer-switzerland-292678",
+      "name": "Senior Frontend Developer",
+      "company": "Divio",
+      "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+      "source": "Arbeitnow",
+      "location": "Switzerland",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Engineering",
+        "Computer Software",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<h2>About Divio</h2><p>Divio is a remote-first company spread across Europe. Our core product is a multi-cloud Platform-as-a-Service (PaaS) for deploying and managing web applications, used by agencies, developers, and enterprises who want to move fast without DevOps overhead. Alongside our platform, we provide application development and support services to a select group of key enterprise accounts. They rely on us not just for their infrastructure, but also to build, evolve, and support the ap",
+      "date_posted": "2026-11-25",
+      "age_days": 1,
+      "date_found": "2026-11-26",
+      "score": 70,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4492041495",
+      "name": "Lead Frontend Architect",
+      "company": "SAQAYA",
+      "url": "https://eg.linkedin.com/jobs/view/lead-frontend-architect-at-saqaya-4492041495",
+      "source": "LinkedIn",
+      "location": "Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-18",
+      "age_days": 8,
+      "date_found": "2026-11-26",
+      "score": 55,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 5
       },
       "is_new": true
     }
