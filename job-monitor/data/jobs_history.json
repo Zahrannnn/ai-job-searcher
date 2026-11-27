@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T09:17:40.288875+00:00",
-  "total_unique": 628,
+  "last_updated": "2026-11-27T09:32:56.135419+00:00",
+  "total_unique": 633,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17463,6 +17463,144 @@
       "score_breakdown": {
         "location": 20,
         "fresh": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164386",
+      "name": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Brazil/Remote",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/164386-senior-full-stack-engineer-react-node-backend-focused-real-estate-brazil-remote",
+      "source": "Jobicy",
+      "location": "Brazil",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-11-26",
+      "age_days": 1,
+      "date_found": "2026-11-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164382",
+      "name": "Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Mexico/Remote",
+      "company": "Truelogic",
+      "url": "https://jobicy.com/jobs/164382-senior-full-stack-engineer-react-node-backend-focused-real-estate-mexico-remote",
+      "source": "Jobicy",
+      "location": "Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About Truelogic At Truelogic we are a leading provider of nearshore staff augmentation services headquartered in New York. For over two decades, we’ve been delivering top-tier technology solutions to companies of all sizes, from innovative startups to industry leaders, helping them achieve their digital transformation goals. Our team of 600+ highly skilled tech professionals, based&hellip;",
+      "date_posted": "2026-11-26",
+      "age_days": 1,
+      "date_found": "2026-11-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "founding": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164320",
+      "name": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "url": "https://jobicy.com/jobs/164320-full-stack-web-engineer-python-react-2",
+      "source": "Jobicy",
+      "location": "Argentina,  Brazil,  Mexico",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work&hellip;",
+      "date_posted": "2026-11-26",
+      "age_days": 1,
+      "date_found": "2026-11-27",
+      "score": 100,
+      "score_breakdown": {
+        "react": 25,
+        "typescript": 10,
+        "location": 20,
+        "fresh": 15
+      },
+      "is_new": true
+    },
+    {
+      "id": "arbeitnow-remote-senior-react-native-engineer-zurich-397105",
+      "name": "Senior React Native Engineer",
+      "company": "S-PRO",
+      "url": "https://www.arbeitnow.ch/jobs/companies/s-pro/remote-senior-react-native-engineer-zurich-397105",
+      "source": "Arbeitnow",
+      "location": "Remote job",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "Mobile Development",
+        "Remote"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"text-align:start;\"><strong><span style=\"color:#121317\">S-PRO, </span></strong><span style=\"color:#121317\">a&nbsp;top-tier Digital Innovation and Software Engineering company. We&nbsp;specialize in&nbsp;providing cutting-edge services for fast-growing businesses and enterprises, with a&nbsp;strong focus on&nbsp;Finance, Renewable Energy and Healthcare domains and expertise in&nbsp;AI, Blockchain and Data Science. </span></p><p><strong><span style=\"color:#0D0D0D\">Project description:</sp",
+      "date_posted": "2026-11-26",
+      "age_days": 1,
+      "date_found": "2026-11-27",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "linkedin-4495025732",
+      "name": "Senior Frontend Developer (React)",
+      "company": "Burjline Builders",
+      "url": "https://eg.linkedin.com/jobs/view/senior-frontend-developer-react-at-burjline-builders-4495025732",
+      "source": "LinkedIn",
+      "location": "Cairo, Cairo, Egypt",
+      "workplace": "On-site",
+      "job_type": "",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "2026-11-26",
+      "age_days": 1,
+      "date_found": "2026-11-27",
+      "score": 95,
+      "score_breakdown": {
+        "react": 25,
+        "location": 20,
+        "fresh": 15,
+        "senior_ic": 5
       },
       "is_new": true
     }
