@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T09:32:56.135419+00:00",
-  "total_unique": 633,
+  "last_updated": "2026-11-28T08:46:15.875468+00:00",
+  "total_unique": 637,
   "items": [
     {
       "id": "wuzzuf-141178",
@@ -17601,6 +17601,109 @@
         "location": 20,
         "fresh": 15,
         "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "remotive-2091212",
+      "name": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "source": "Remotive",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [
+        "api",
+        "CSS",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "responsive"
+      ],
+      "salary": "",
+      "description_excerpt": "<p style=\"padding: 0px; font-style: normal; font-variant: normal; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; line-height: 1.714; color: #292a2e; white-space: pre-wrap;\"><strong>You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell.</strong></p>\n<p style=\"margin: 0.75rem 0px 0px; padding: 0px; font-style: normal; font-v",
+      "date_posted": "2026-11-25",
+      "age_days": 3,
+      "date_found": "2026-11-28",
+      "score": 75,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10
+      },
+      "is_new": true
+    },
+    {
+      "id": "jobicy-164578",
+      "name": "Senior Frontend Engineer",
+      "company": "LastPass",
+      "url": "https://jobicy.com/jobs/164578-senior-frontend-engineer-3",
+      "source": "Jobicy",
+      "location": "Hungary",
+      "workplace": "Remote",
+      "job_type": "",
+      "experience_years": "Senior",
+      "skills": [
+        "Software Engineering",
+        "Full-Time"
+      ],
+      "salary": "",
+      "description_excerpt": "About LastPassLastPass delivers Secure Access Essentials, helping individuals and organizations manage and protect access to AI, applications, and credentials straight from the browser. Trusted by more than 100,000 businesses and millions of users worldwide, LastPass blends strong security with everyday simplicity. From discovering unapproved AI and applications to reducing login friction and securing credentials across&hellip;",
+      "date_posted": "2026-11-27",
+      "age_days": 1,
+      "date_found": "2026-11-28",
+      "score": 80,
+      "score_breakdown": {
+        "location": 20,
+        "fresh": 15,
+        "ai": 10,
+        "senior_ic": 5
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1142294166",
+      "name": "【Engineer】フロントエンドエンジニア（テックリード/EM）株式会社LITALICOTokyo, JapanVue-firstNuxt.jsFrontendremoteon-sitefull-time¥6-8M/yr10 days ago",
+      "company": "Logo of 株式会社LITALICO",
+      "url": "https://vuejobs.com/jobs/litalico-engineer-em",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-28",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
+      },
+      "is_new": true
+    },
+    {
+      "id": "vuejobs-1745577508",
+      "name": "Front End Engineer (Core Group)MidniteVue-firstNuxt.jsFrontendremotefull-timemid-level£65-75K/yr12 days ago",
+      "company": "Logo of Midnite",
+      "url": "https://vuejobs.com/jobs/midnite-front-end-engineer-core-group",
+      "source": "VueJobs",
+      "location": "remote",
+      "workplace": "Remote",
+      "experience_years": "",
+      "skills": [],
+      "salary": "",
+      "description_excerpt": "",
+      "date_posted": "",
+      "age_days": null,
+      "date_found": "2026-11-28",
+      "score": 30,
+      "score_breakdown": {
+        "location": 20,
+        "vue_only": -20
       },
       "is_new": true
     }
